@@ -27,6 +27,27 @@ Primero, los datos que conviene memorizar antes de inscribirse:
 - **Step 2 CK (Clinical Knowledge).** Unas 9 horas, 8 bloques, hasta unas 318 preguntas. Sigue calificándose con la escala de tres dígitos; la nota mínima de aprobado vigente es 218 (el estándar se revisa periódicamente; conviene consultar el anuncio vigente en usmle.org antes de inscribirse). Abarca medicina interna, cirugía, pediatría, obstetricia y ginecología, psiquiatría y medicina preventiva, con énfasis en la decisión clínica: qué hacer a continuación.
 - **Step 3: examen de dos días.** Día 1, Foundations of Independent Practice: unas 7 horas y unas 232 preguntas. Día 2, Advanced Clinical Medicine: unas 9 horas, unas 180 preguntas y 13 simulaciones de casos por computadora (CCS). El CCS es un ejercicio práctico: se prescriben pruebas y tratamientos a un paciente simulado y el caso evoluciona, y cada caso toma de 10 a 25 minutos, así que merece práctica aparte. El Step 3 sigue calificándose con la escala de tres dígitos; la nota mínima vigente es 200. Nota importante: el Step 3 solo se ofrece en centros Prometric dentro de Estados Unidos; no hay sedes internacionales para este paso.
 
+### 한국어 (초역)
+먼저 표 하나를 기억해 두면, 어느 단계를 신청하든 감이 잡힌다.
+
+- **Step 1: 기초 의학.** 시험 시간은 약 8시간, 7개 block으로 나뉘며, 객관식 문제는 최대 280문항이다. 내용은 의대생이 처음 2년간 배우는 것들이다. 해부, 생리, 병리, 약리, 미생물, 생화학이며, 문제 지문은 흔히 "이 환자에게 가장 가능성 높은 기전은 무엇인가"식의 임상 추론으로, 정의를 외우는 시험이 아니다. 2022년 1월 26일부터 성적은 Pass/Fail만 보고하고 세 자리 점수는 더 이상 주지 않는다. 재학생의 시험 준비 전략에 큰 영향을 미치며, 다섯째 절에서 자세히 말한다.
+- **Step 2 CK(Clinical Knowledge): 임상 지식.** 약 9시간, 8개 block, 최대 약 318문항이다. 현재도 세 자리 점수제이며, 현행 최저 합격 점수는 218점이다(합격선은 수시로 조정되므로 신청 전에 usmle.org에서 해당 연도 공지를 확인하라). 내용은 내과, 외과, 산부인과, 소아과, 정신과, 예방 의학을 포괄하며, 핵심은 "다음에 무엇을 해야 하는가"라는 임상적 의사결정이다.
+- **Step 3: 이틀에 걸친 종합 시험.** Day 1은 Foundations of Independent Practice라 불리며, 약 7시간, 약 232문항으로, 독립 진료 전에 갖춰야 할 기초 지식을 시험한다. Day 2는 Advanced Clinical Medicine으로, 약 9시간, 약 180문항에 더해 컴퓨터 사례 시뮬레이션(CCS, Computer-based Case Simulations) 13개가 있다. CCS는 실제 컴퓨터 조작 시험이다. 시뮬레이션 시스템에서 환자에게 의사지시를 내리고, 상태 변화에 따라 검사 결과를 보며, 사례 하나를 마치는 데 10분에서 25분이 걸린다. 문제 풀이와는 전혀 다르므로 따로 연습할 가치가 있다. Step 3의 현행 최저 합격 점수는 200점이며, 여전히 세 자리 점수제이다. 특히 주의하라. Step 3는 미국 내 Prometric 시험장에서만 응시할 수 있고, 해외 시험장이 없다.
+
+### Tiếng Việt (bản dịch)
+Trước hết hãy nhớ một bảng, đăng ký bước nào trong lòng cũng có số:
+
+- **Step 1: Y học cơ sở.** Ngày thi khoảng 8 giờ, chia 7 block, tối đa 280 câu trắc nghiệm. Nội dung là những gì sinh viên y học trong hai năm đầu: giải phẫu, sinh lý, bệnh lý, dược lý, vi sinh, hóa sinh; đề bài thường là suy luận lâm sàng kiểu "bệnh nhân này nhiều khả năng nhất là cơ chế gì", không phải học thuộc định nghĩa. Từ 26 tháng 1 năm 2022, thành tích chỉ báo Pass/Fail, không còn cho điểm ba chữ số — ảnh hưởng rất lớn đến chiến lược ôn thi của sinh viên đang học, tiết năm sẽ nói kỹ.
+- **Step 2 CK (Clinical Knowledge): Kiến thức lâm sàng.** Khoảng 9 giờ, 8 block, tối đa khoảng 318 câu. Hiện vẫn là chế độ điểm ba chữ số, điểm đỗ tối thiểu hiện hành là 218 (mức đỗ sẽ điều chỉnh không định kỳ, trước khi đăng ký hãy vào usmle.org tra thông báo của kỳ đó). Nội dung bao phủ nội, ngoại, sản phụ, nhi, tâm thần và y học dự phòng, cốt lõi là quyết định lâm sàng "bước tiếp theo nên làm gì".
+- **Step 3: Kỳ thi tổng hợp hai ngày.** Day 1 gọi là Foundations of Independent Practice, khoảng 7 giờ, khoảng 232 câu, thi kiến thức cơ sở trước khi hành nghề độc lập; Day 2 gọi là Advanced Clinical Medicine, khoảng 9 giờ, khoảng 180 câu, cộng thêm 13 ca mô phỏng trên máy tính (CCS, Computer-based Case Simulations). CCS là thi thao tác thật trên máy: trong hệ thống mô phỏng ra y lệnh cho bệnh nhân, xem kết quả xét nghiệm thay đổi theo tình trạng bệnh, làm xong một ca mất 10 đến 25 phút, khác hẳn với làm bài trắc nghiệm, đáng luyện riêng. Điểm đỗ tối thiểu hiện hành của Step 3 là 200, vẫn là chế độ điểm ba chữ số. Đặc biệt lưu ý: Step 3 chỉ có thể dự thi tại các điểm thi Prometric trong nước Mỹ, không có điểm thi ở nước ngoài.
+
+### हिन्दी (अनुवाद)
+पहले एक तालिका याद रखें, किसी भी चरण के लिए आवेदन करते समय मन में संख्या रहेगी:
+
+- **Step 1: आधारभूत चिकित्सा।** परीक्षा दिवस लगभग 8 घंटे, 7 blocks में बँटा, अधिकतम 280 बहुविकल्पीय प्रश्न। सामग्री वह है जो मेडिकल छात्र पहले दो वर्षों में पढ़ते हैं: शरीर रचना, शरीर क्रिया, विकृति विज्ञान, औषध विज्ञान, सूक्ष्म जीव विज्ञान, जैव रसायन; प्रश्न अक्सर "इस रोगी में सबसे संभावित तंत्र क्या है" शैली का नैदानिक तर्क होता है, परिभाषाएँ रटना नहीं। 26 जनवरी 2022 से परिणाम केवल Pass/Fail बताया जाता है, तीन अंकों का स्कोर अब नहीं दिया जाता — छात्रों की तैयारी रणनीति पर इसका बड़ा प्रभाव है, खंड पाँच में विस्तार से।
+- **Step 2 CK (Clinical Knowledge): नैदानिक ज्ञान।** लगभग 9 घंटे, 8 blocks, अधिकतम लगभग 318 प्रश्न। वर्तमान में भी तीन अंकों की अंक प्रणाली है, वर्तमान न्यूनतम उत्तीर्ण अंक 218 है (उत्तीर्ण रेखा समय-समय पर समायोजित होती है, आवेदन से पहले usmle.org पर उस अवधि की घोषणा देखें)। सामग्री में आंतरिक चिकित्सा, शल्य, प्रसूति-स्त्री रोग, बाल रोग, मनोरोग और निवारक चिकित्सा शामिल हैं, केंद्र "आगे क्या करना चाहिए" का नैदानिक निर्णय है।
+- **Step 3: दो दिवसीय व्यापक परीक्षा।** Day 1 को Foundations of Independent Practice कहा जाता है, लगभग 7 घंटे, लगभग 232 प्रश्न, स्वतंत्र अभ्यास से पहले की आधारभूत जानकारी की परीक्षा; Day 2 को Advanced Clinical Medicine कहा जाता है, लगभग 9 घंटे, लगभग 180 प्रश्न, साथ में 13 कंप्यूटर केस सिमुलेशन (CCS, Computer-based Case Simulations)। CCS वास्तविक मशीन संचालन परीक्षा है: सिमुलेशन प्रणाली में रोगी को आदेश देना, स्थिति बदलने के साथ जाँच परिणाम देखना, एक केस पूरा करने में 10 से 25 मिनट लगते हैं, प्रश्न हल करने से बिल्कुल अलग है, अलग से अभ्यास योग्य है। Step 3 का वर्तमान न्यूनतम उत्तीर्ण अंक 200 है, अभी भी तीन अंकों की प्रणाली है। विशेष ध्यान दें: Step 3 केवल अमेरिका के भीतर Prometric परीक्षा केंद्रों पर ही दिया जा सकता है, विदेश में कोई केंद्र नहीं है।
+
 ---
 
 ## 二、去哪报名、费用大概是多少
@@ -76,6 +97,51 @@ Para el presupuesto (verifique siempre el Bulletin of Information vigente y las 
 
 Cada año, usmle.org publica una nueva edición del Bulletin of Information. Dedicar veinte minutos a leer la edición vigente antes de inscribirse —calendario, tarifas, reglas— es la forma más barata de controlar riesgos.
 
+### 한국어 (초역)
+신청 경로와 "시험 주최 기관"은 같은 것이 아니니 혼동하지 마라.
+
+- **미국과 캐나다 의과대학의 학생과 졸업자**는 NBME를 통해 Step 1과 Step 2 CK를 신청한다.
+- **국제 의과대학 졸업자(IMG)**는 ECFMG의 관련 경로를 통해 Step 1과 Step 2 CK를 신청한다. 2026년부터 IMG의 신청 절차에 조정이 있으니, 실제로 진행하기 전에 반드시 ECFMG와 FSMB가 해당 연도에 발표한 지침을 기준으로 하고, 낡은 경험대로 하지 마라.
+- **Step 3**는 국내외 졸업자를 가리지 않고 FSMB를 통해 일괄 신청한다.
+
+비용은 규모만이라도 장부에 적어 두라(해당 연도 Bulletin of Information과 각 신청 기관이 발표한 숫자를 기준으로 하며, 아래는 감을 잡기 위한 참고값일 뿐이다).
+
+- Step 1과 Step 2 CK는 NBME 경로(미국·캐나다 의과대학)로 미국 내에서 응시하면 단계당 약 695달러이다. ECFMG 경로의 국제 졸업자는 비용이 눈에 띄게 더 높아 보통 1,000달러 이상 규모이다.
+- Step 3는 약 955달러 규모이다(최근 FSMB 발표 가격은 900달러대 구간에 있다).
+- 해외 시험장에서 Step 1/Step 2 CK를 응시하면 국제 배송 추가 요금(international test delivery surcharge)이 별도로 붙으며, 시험장과 해당 연도 기준에 따라 받는다.
+
+usmle.org는 매년 새 버전의 Bulletin of Information을 발표하며, 시험 일정, 비용, 규칙은 모두 해당 버전을 기준으로 한다. 신청 전에 20분을 들여 한 번 통독하는 것이 가장 저렴한 위험 관리이다.
+
+### Tiếng Việt (bản dịch)
+Kênh đăng ký và "đơn vị tổ chức thi" không phải là một, đừng nhầm lẫn:
+
+- **Sinh viên và sinh viên tốt nghiệp trường y Mỹ và Canada**, đăng ký Step 1 và Step 2 CK qua NBME.
+- **Sinh viên tốt nghiệp trường y quốc tế (IMG)**, đăng ký Step 1 và Step 2 CK qua kênh liên quan của ECFMG. Lưu ý từ năm 2026 quy trình đăng ký của IMG có điều chỉnh, trước khi thao tác nhất thiết lấy hướng dẫn do ECFMG và FSMB công bố trong năm đó làm chuẩn, đừng làm theo kinh nghiệm cũ.
+- **Step 3** thống nhất đăng ký qua FSMB, không phân biệt sinh viên tốt nghiệp trong hay ngoài nước.
+
+Về chi phí, hãy ghi sổ theo quy mô (lấy Bulletin of Information của năm đó và con số do từng cơ quan đăng ký công bố làm chuẩn, dưới đây chỉ là giá trị tham khảo để trong lòng có số):
+
+- Step 1 và Step 2 CK, đi kênh NBME (trường y Mỹ/Canada) thi trong nước Mỹ, mỗi bước khoảng 695 đô la; sinh viên quốc tế đi kênh ECFMG chi phí cao hơn rõ rệt, thường ở quy mô trên 1.000 đô la;
+- Step 3 ở quy mô khoảng 955 đô la (giá FSMB công bố những năm gần đây nằm trong khoảng 900 đô la mấy);
+- Thi Step 1/Step 2 CK tại điểm thi nước ngoài, còn có phụ phí giao đề quốc tế (international test delivery surcharge), thu theo điểm thi và tiêu chuẩn năm đó.
+
+Mỗi năm usmle.org đều phát hành phiên bản mới của Bulletin of Information, lịch thi, chi phí, quy tắc đều lấy phiên bản đó làm chuẩn; trước khi đăng ký bỏ hai mươi phút đọc thông một lượt là cách kiểm soát rủi ro rẻ nhất.
+
+### हिन्दी (अनुवाद)
+आवेदन मार्ग और "परीक्षा आयोजक" एक ही बात नहीं हैं, भ्रम न करें:
+
+- **अमेरिका और कनाडा के मेडिकल स्कूलों के छात्र और स्नातक**, NBME के माध्यम से Step 1 और Step 2 CK के लिए आवेदन करते हैं।
+- **अंतरराष्ट्रीय मेडिकल स्नातक (IMG)**, ECFMG के संबंधित मार्ग से Step 1 और Step 2 CK के लिए आवेदन करते हैं। ध्यान दें कि 2026 से IMG की आवेदन प्रक्रिया में समायोजन है, संचालन से पहले अवश्य ECFMG और FSMB द्वारा उस वर्ष जारी दिशानिर्देशों को ही आधार मानें, पुराने अनुभव से काम न करें।
+- **Step 3** के लिए सभी, देशी या विदेशी स्नातक, FSMB के माध्यम से एकसमान आवेदन करते हैं।
+
+लागत को मात्रा के रूप में हिसाब में रखें (उस वर्ष के Bulletin of Information और प्रत्येक आवेदन संस्था द्वारा घोषित संख्याएँ ही मानक हैं, नीचे केवल मन में अंदाज़ा रखने के लिए संदर्भ मूल्य हैं):
+
+- Step 1 और Step 2 CK, NBME मार्ग (अमेरिका/कनाडा मेडिकल स्कूल) से अमेरिका के भीतर देने पर, प्रत्येक चरण लगभग 695 डॉलर; ECFMG मार्ग से अंतरराष्ट्रीय स्नातकों की लागत स्पष्ट रूप से अधिक है, आमतौर पर 1,000 डॉलर से ऊपर की मात्रा में;
+- Step 3 लगभग 955 डॉलर की मात्रा में (हाल के वर्षों में FSMB की घोषित कीमत 900 डॉलर के दशक में रही है);
+- विदेशी परीक्षा केंद्र पर Step 1/Step 2 CK देने पर, अंतरराष्ट्रीय वितरण अधिभार (international test delivery surcharge) अलग से लगता है, केंद्र और उस वर्ष के मानक के अनुसार लिया जाता है।
+
+हर वर्ष usmle.org Bulletin of Information का नया संस्करण जारी करता है, परीक्षा कार्यक्रम, लागत, नियम सभी उसी संस्करण के अनुसार होते हैं, आवेदन से पहले बीस मिनट लगाकर उसे एक बार पूरा पढ़ना सबसे सस्ता जोखिम नियंत्रण है।
+
 ---
 
 ## 三、顺序规则和尝试次数限制
@@ -106,6 +172,33 @@ Hay tres reglas que son líneas rojas. Conocerlas de antemano evita los errores 
 3. **Límites de intentos:** según las reglas vigentes del programa USMLE, cada paso puede presentarse como máximo 4 veces; dentro de cualquier período de 12 meses, el mismo paso no puede intentarse más de 3 veces (la redacción sigue el Bulletin vigente). Pero un suspenso no es menor: cada intento queda registrado, el suspenso aparece en el expediente de notas que ven los programas de residencia y cada intento fallido consume la cuota; la estrategia más barata y rápida es inscribirse solo cuando se está realmente listo.
 
 Otra regla que se pasa por alto: la mayoría de los estados limita el tiempo total entre aprobar el primer paso y aprobar el último (se oye hablar de reglas de seven-year o ten-year; la versión exacta varía por estado). La sección cuatro cubre la versión de California. El principio vale igual: una vez elegido el estado de destino, lo primero es consultar esta regla de plazo en el sitio de su Board.
+
+### 한국어 (초역)
+이 세 가지 규칙은 "레드라인"이니, 미리 단단히 기억해 두면 가장 비싼 함정을 피할 수 있다.
+
+1. **순서:** Step 1과 Step 2 CK의 순서는 비교적 자유로우며, 어느 한쪽을 먼저 봐도 된다(대부분의 재학생은 Step 1을 먼저 보고 Step 2 CK를 보지만, 규칙이 강제하지는 않는다). Step 3는 앞의 두 단계를 모두 합격하고 학위 요건을 충족한 뒤에야 볼 수 있다.
+2. **IMG가 Step 3를 보기 위한 전제 조건:** 국제 졸업자는 Step 3를 보기 전에 먼저 ECFMG 인증을 취득해야 한다. 즉, 먼저 인증의 학위 검증과 능력 요건을 마친 뒤에 Step 3를 논한다.
+3. **응시 횟수:** USMLE 프로그램의 현행 상한은 같은 시험 단계를 최대 4회까지 응시할 수 있다는 것이며, 12개월 안에는 같은 시험 단계를 3회를 초과해 응시할 수 없다(구체적인 표현은 해당 연도 Bulletin을 기준으로 한다). 그러나 불합격을 진지하게 여겨야 한다. 모든 응시 시도는 성적 기록에 남고, 불합격 기록은 성적표에 나타나 전공의 프로그램이 볼 수 있다. 그러므로 "자신이 붙을 때까지" 준비한 뒤 신청하는 것이 가장 돈을 아끼고 시간도 아끼는 전략이다.
+
+놓치기 쉬운 규칙이 하나 더 있다. 많은 주는 "첫 단계를 합격한 시점부터 마지막 단계를 합격할 때까지"의 전체 기간에 연한을 요구한다(흔히 듣는 말에 seven-year나 ten-year 규칙이 있는데, 구체적인 기준은 주마다 다르다). 캘리포니아의 기준은 넷째 절에서 말하며, 원칙은 이렇다. 목표 주를 정한 뒤 가장 먼저 할 일은 그 주 Board의 공식 웹사이트에서 이 연한 규정을 확인하는 것이다.
+
+### Tiếng Việt (bản dịch)
+Ba quy tắc này là "lằn ranh đỏ", nhớ kỹ trước sẽ tránh được những cái bẫy đắt nhất:
+
+1. **Thứ tự:** thứ tự của Step 1 và Step 2 CK tương đối linh hoạt, có thể thi bất kỳ bước nào trước (đa số sinh viên đang học thi Step 1 trước rồi Step 2 CK, nhưng quy tắc không bắt buộc). Step 3 phải sau khi đã đỗ cả hai bước trước, và đáp ứng yêu cầu học vị, mới được thi.
+2. **Điều kiện tiên quyết để IMG thi Step 3:** sinh viên quốc tế trước khi thi Step 3, phải trước hết lấy chứng nhận ECFMG. Tức là, trước hết qua xác minh học vị và yêu cầu năng lực của chứng nhận, rồi mới bàn Step 3.
+3. **Số lần dự thi:** giới hạn hiện hành của chương trình USMLE là cùng một bước thi tối đa thi 4 lần; và trong vòng 12 tháng, cùng một bước thi không được đăng ký quá 3 lần (cách diễn đạt cụ thể lấy Bulletin năm đó làm chuẩn). Nhưng phải coi trọng việc trượt: mỗi lần dự thi đều ghi vào hồ sơ thành tích, hồ sơ trượt sẽ thể hiện trên bảng điểm, chương trình nội trú nhìn thấy được, nên ôn đến "có chắc chắn" rồi mới đăng ký, là chiến lược tiết kiệm tiền nhất cũng tiết kiệm thời gian nhất.
+
+Còn một điều dễ bị bỏ qua: đa số tiểu bang có yêu cầu số năm đối với tổng khoảng thời gian "từ khi đỗ bước đầu tiên đến khi đỗ bước cuối cùng" (cách nói thường nghe liên quan đến quy tắc seven-year hoặc ten-year, cụ thể mỗi tiểu bang có quy định khác nhau). Quy định của California nói ở tiết bốn, nguyên tắc là — sau khi nghĩ rõ tiểu bang mục tiêu, việc đầu tiên là lên trang chính thức của Board tiểu bang đó tra rõ quy định số năm này.
+
+### हिन्दी (अनुवाद)
+ये तीन नियम "लाल रेखाएँ" हैं, पहले से पक्के याद रखने से सबसे महँगे जालों से बचा जा सकता है:
+
+1. **क्रम:** Step 1 और Step 2 CK का क्रम अपेक्षाकृत लचीला है, किसी भी एक को पहले दिया जा सकता है (अधिकांश छात्र पहले Step 1 फिर Step 2 CK देते हैं, परंतु नियम बाध्य नहीं करता)। Step 3 केवल तभी दिया जा सकता है जब पहले दो चरण उत्तीर्ण हो चुके हों और डिग्री की आवश्यकताएँ पूरी हों।
+2. **IMG के Step 3 की पूर्व शर्त:** अंतरराष्ट्रीय स्नातकों को Step 3 देने से पहले ECFMG प्रमाणन प्राप्त करना होगा। अर्थात, पहले प्रमाणन की डिग्री सत्यापन और क्षमता आवश्यकताएँ पूरी करें, फिर Step 3 की बात करें।
+3. **प्रयास संख्या:** USMLE कार्यक्रम की वर्तमान सीमा है कि एक ही परीक्षा चरण अधिकतम 4 बार दिया जा सकता है; और 12 महीनों के भीतर, एक ही परीक्षा चरण के लिए 3 बार से अधिक आवेदन नहीं किया जा सकता (विशिष्ट शब्दावली उस वर्ष के Bulletin के अनुसार)। परंतु असफलता को गंभीरता से लें: प्रत्येक परीक्षा प्रयास परिणाम अभिलेख में दर्ज होता है, असफलता का अभिलेख अंक पत्र पर दिखता है, रेजिडेंसी कार्यक्रम उसे देख सकते हैं, इसलिए "आत्मविश्वास होने तक" तैयारी करके ही आवेदन करना सबसे अधिक पैसा और समय बचाने वाली रणनीति है।
+
+एक और आसानी से नज़रअंदाज़ होने वाला नियम: अधिकांश राज्यों में "पहला चरण उत्तीर्ण करने से अंतिम चरण उत्तीर्ण करने तक" की कुल अवधि पर वर्षों की सीमा होती है (आम तौर पर सुनी जाने वाली बातों में seven-year या ten-year नियम आते हैं, प्रत्येक राज्य का मापदंड अलग है)। कैलिफ़ोर्निया का मापदंड खंड चार में है, सिद्धांत यह है — लक्ष्य राज्य तय करने के बाद, सबसे पहला काम उस राज्य के Board की आधिकारिक वेबसाइट पर इस वर्ष-सीमा नियम को स्पष्ट करना है।
 
 ---
 
@@ -141,6 +234,36 @@ Como se dijo en el artículo general, aprobar los exámenes no equivale a tener 
 
 Los IMG añaden un eslabón más a la cadena californiana: primero la certificación de la ECFMG, luego la residencia, después la PTL, luego el Step 3 y finalmente la licencia completa. Es una cadena larga y cada documento de elegibilidad conviene prepararlo con antelación.
 
+### 한국어 (초역)
+개관 글에서 말했듯이, 시험 합격이 면허 취득과 같지 않다. 캘리포니아 쪽의 연결은 두 부분으로 나누어 적는다.
+
+- **면허 발급 기관:** Medical Board of California(캘리포니아 의학 위원회). 이 기관은 두 가지만 본다. 당신이 자격 문턱(학위, 시험, 수련, 신원)에 도달했는지, 그리고 어떤 종류의 면허를 신청하는지이다.
+- **전공의 기간의 면허:** 캘리포니아에서 전공의 수련을 받는 기간에는 먼저 Postgraduate Training License(PTL, 대학원 수련 면허)를 받는다. 이 면허는 수련 기간 중 수련 기관 안에서의 진료만을 보장하며, 기관 밖 진료는 해당하지 않는다.
+- **완전 면허(full license):** ACGME가 인정한 대학원 수련을 마칠 것(수련 기간 요건은 Board의 현행 규정을 기준으로 하며, 졸업 배경에 따라 요구가 다르므로 신청 전에 원문을 확인하라)과 USMLE 세 단계를 모두 합격할 것을 요구하며, 그 뒤 Board에 신청한다. 신원 조사와 지문 같은 절차도 마쳐야 한다.
+- **기간에 대한 힌트:** 많은 주가 "USMLE 전 단계를 마치는 것"에 연한을 요구하며, 캘리포니아의 구체적인 기준은 Medical Board of California가 발표한 현행 규정을 기준으로 한다. 캘리포니아에서 진료하려는 사람은 시험 준비 첫날부터 Board 공식 웹사이트에서 이 조항을 확인하는 것이, 시험이 끝난 뒤 확인하는 것보다 훨씬 확실하다.
+
+IMG의 캘리포니아 경로는 한 단계가 더 있다. 먼저 ECFMG 인증을 받고, 전공의 수련에 들어가고, PTL을 받고, Step 3를 합격한 뒤, 완전 면허를 신청한다. 사슬이 길며, 각 고리의 자격 서류는 미리 준비해야 한다.
+
+### Tiếng Việt (bản dịch)
+Như bài tổng quan đã nói, thi đỗ không bằng lấy được giấy phép. Phần nối tiếp ở phía California ghi thành hai đoạn:
+
+- **Cơ quan cấp phép:** Medical Board of California (Hội đồng Y khoa California). Nó chỉ nhìn hai thứ: bạn có đạt ngưỡng tư cách của nó (học vị, thi cử, đào tạo, lý lịch) không, và bạn xin loại giấy phép nào.
+- **Giấy phép trong thời gian nội trú:** trong thời gian đào tạo nội trú tại California, trước hết lấy Postgraduate Training License (PTL, giấy phép đào tạo sau đại học). Giấy phép này chỉ bao phủ việc hành nghề trong cơ sở đào tạo trong thời gian đào tạo, hành nghề ngoài viện không tính.
+- **Giấy phép đầy đủ (full license):** yêu cầu hoàn thành đào tạo sau đại học được ACGME công nhận (yêu cầu thời lượng đào tạo lấy quy định hiện hành của Board làm chuẩn, nền tảng tốt nghiệp khác nhau yêu cầu khác nhau, trước khi đăng ký hãy tra văn bản gốc), và thi đỗ toàn bộ ba bước USMLE, rồi nộp đơn lên Board. Các quy trình như điều tra lý lịch, lấy vân tay cũng phải hoàn tất.
+- **Gợi ý về khoảng thời gian:** đa số tiểu bang có yêu cầu số năm đối với việc "hoàn thành toàn bộ các bước USMLE", quy định cụ thể của California lấy quy định hiện hành do Medical Board of California công bố làm chuẩn. Người muốn hành nghề ở California, ngay từ ngày đầu ôn thi hãy lên trang chính thức của Board tra rõ điều này, vững vàng hơn nhiều so với thi xong mới tra.
+
+Con đường California của IMG thêm một đoạn: trước hết lấy chứng nhận ECFMG, vào đào tạo nội trú, lấy PTL, đỗ Step 3, rồi xin giấy phép đầy đủ. Chuỗi dài, tài liệu tư cách của mỗi mắt xích đều phải chuẩn bị trước.
+
+### हिन्दी (अनुवाद)
+अवलोकन लेख में कहा गया था कि परीक्षा उत्तीर्ण करना लाइसेंस पाने के बराबर नहीं है। कैलिफ़ोर्निया पक्ष का संबंध दो भागों में लिखते हैं:
+
+- **लाइसेंस जारी करने वाली संस्था:** Medical Board of California (कैलिफ़ोर्निया चिकित्सा बोर्ड)। यह केवल दो बातें देखता है: क्या आप उसकी पात्रता दहलीज़ (डिग्री, परीक्षा, प्रशिक्षण, पृष्ठभूमि) तक पहुँचे हैं, और आप किस प्रकार के लाइसेंस के लिए आवेदन कर रहे हैं।
+- **रेजिडेंसी अवधि का लाइसेंस:** कैलिफ़ोर्निया में रेजिडेंसी प्रशिक्षण के दौरान, पहले Postgraduate Training License (PTL, स्नातकोत्तर प्रशिक्षण लाइसेंस) मिलता है। यह लाइसेंस केवल प्रशिक्षण अवधि में प्रशिक्षण संस्था के भीतर अभ्यास को कवर करता है, संस्था के बाहर अभ्यास इसमें नहीं आता।
+- **पूर्ण लाइसेंस (full license):** ACGME-मान्यता प्राप्त स्नातकोत्तर प्रशिक्षण पूरा करना आवश्यक है (प्रशिक्षण अवधि की आवश्यकता Board के वर्तमान नियमों के अनुसार है, स्नातक पृष्ठभूमि के अनुसार आवश्यकताएँ अलग हैं, आवेदन से पहले मूल पाठ जाँचें), और USMLE के तीनों चरण उत्तीर्ण करने होते हैं, फिर Board को आवेदन करें। पृष्ठभूमि जाँच, उँगलियों के निशान जैसी प्रक्रियाएँ भी पूरी करनी होती हैं।
+- **समय अवधि का संकेत:** अधिकांश राज्यों में "सभी USMLE चरण पूरे करने" पर वर्षों की सीमा होती है, कैलिफ़ोर्निया का विशिष्ट मापदंड Medical Board of California द्वारा घोषित वर्तमान नियमों के अनुसार है। जो लोग कैलिफ़ोर्निया में अभ्यास करना चाहते हैं, वे तैयारी के पहले दिन से ही Board की आधिकारिक वेबसाइट पर इस प्रावधान को स्पष्ट कर लें, परीक्षा के बाद जाँचने से कहीं अधिक निश्चित रहेगा।
+
+IMG के कैलिफ़ोर्निया मार्ग में एक चरण और है: पहले ECFMG प्रमाणन लें, रेजिडेंसी प्रशिक्षण में प्रवेश करें, PTL लें, Step 3 उत्तीर्ण करें, फिर पूर्ण लाइसेंस के लिए आवेदन करें। शृंखला लंबी है, प्रत्येक कड़ी के पात्रता दस्तावेज़ पहले से तैयार रखने होते हैं।
+
 ---
 
 ## 五、备考要点：Step 1 变 Pass/Fail 之后
@@ -171,6 +294,33 @@ Desde que el Step 1 pasó a Pass/Fail, cambió toda la lógica de la preparació
 - **Empiece por los materiales oficiales.** usmle.org ofrece preguntas de muestra gratuitas y el temario (content outline) de cada paso, además de prácticas y autoevaluaciones oficiales. Los bancos de preguntas de terceros (UWorld y similares) son la opción habitual, pero use primero el temario oficial como índice: el temario dice qué se evalúa, el banco de preguntas muestra cómo.
 - **Practique el CCS por separado.** Las simulaciones de casos por computadora del Step 3 son un examen práctico y los principiantes pierden tiempo fácilmente con la interfaz. Conviene ejecutar de principio a fin el software oficial de práctica de CCS y sus casos de muestra al menos unas cuantas veces antes del examen, para interiorizar el ritmo de pedir pruebas y observar la evolución de los resultados.
 - **Planifique hacia atrás desde el Match.** Decida en qué año quiere entrar al Match y cuente hacia atrás desde la fecha de entrega de resultados del Step 2 CK y la apertura de ERAS para ubicar las ventanas del Step 1 y del Step 2 CK. Los IMG deben reservar además tiempo para la certificación de la ECFMG, ya que la verificación de credenciales desde el país de origen suele tardar meses.
+
+### 한국어 (초역)
+Step 1이 Pass/Fail로 바뀐 뒤, 시험 준비와 전공의 신청의 논리 전체가 달라졌다. 몇 가지 요점을 적어 둔다.
+
+- **Step 2 CK 점수의 비중이 올라갔다.** 예전에는 프로그램 디렉터(program director)들이 Step 1의 세 자리 점수로 사람을 걸렀는데, 지금은 Step 1이 합격 여부만 알려 주므로, Step 2 CK가 프로그램들이 신청자를 비교하는 주요 객관적 숫자가 되었다. NRMP(전국 전공의 매칭 프로그램)의 프로그램 디렉터 설문은 해마다 Step 2 CK 점수가 면접 명단을 거르는 데 있어 앞자리에 있음을 보여 준다. 그러므로 지금의 주류 전략은 Step 1은 안정적으로 합격하는 것으로 충분하고, 주된 화력은 Step 2 CK에서 높은 점수를 받는 데 남겨 두는 것이다.
+- **Step 1에 과도하게 소모하지 말되, 첫 응시는 반드시 합격해야 한다.** Pass/Fail은 점수를 주지 않을 뿐, 불합격 기록은 여전히 성적표에 적히며, 전공의 선발에서 치명적인 약점이다. 많은 프로그램이 "불합격 기록이 있는가"를 바로 걸러내는 기준으로 쓴다. 그러므로 목표는 첫 번째에 안정적으로 합격하는 것이며, 합격한 뒤에는 화력을 Step 2 CK로 옮기고, 이미 익힌 과목에서 문제를 반복해서 풀지 마라.
+- **공식 자료를 먼저 써라.** usmle.org에는 무료 예시 문제(sample test questions)와 각 단계의 시험 개요(content outline), 그리고 공식 연습 문제와 자기 평가가 있다. 제3자 문제 은행(UWorld 같은)은 주류 선택이지만, 먼저 공식 개요를 목차로 써라. 개요는 무엇을 시험하는지 알려 주고, 문제 은행은 어떻게 시험하는지 알려 준다.
+- **CCS는 따로 연습하라.** Step 3의 컴퓨터 사례 시뮬레이션은 조작형 시험으로, 처음 접하는 사람은 인터페이스에서 시간을 낭비하기 쉽다. 공식 CCS 연습 소프트웨어와 예시 사례가 있으니, 시험 전에 최소 몇 번은 완전히 해 보고, 의사지시를 내리고 검사 결과 변화를 보는 리듬에 익숙해져라.
+- **시간 계획은 거꾸로 계산하라.** 어느 해에 Match에 들어가고 싶은지를 정하면, Step 2 CK 점수가 나오는 시기, ERAS 신청이 열리는 시기를 거꾸로 계산하고, 그다음 Step 1과 Step 2 CK의 시험 창을 배치한다. IMG는 ECFMG 인증 시간도 남겨 두어야 하며, 인증 서류는 출신국에서 보내 검증받는 데 흔히 몇 달이 걸린다.
+
+### Tiếng Việt (bản dịch)
+Sau khi Step 1 đổi thành Pass/Fail, toàn bộ logic ôn thi và xin nội trú đều thay đổi, ghi lại vài điểm chính:
+
+- **Trọng số điểm của Step 2 CK tăng lên.** Trước đây giám đốc chương trình (program director) nhìn điểm ba chữ số của Step 1 để lọc người, nay Step 1 chỉ cho biết đỗ hay không, Step 2 CK trở thành con số khách quan chính để các chương trình so sánh ứng viên. Khảo sát giám đốc chương trình của NRMP (Chương trình Ghép nối Nội trú Toàn quốc) năm nào cũng cho thấy điểm Step 2 CK đứng ở hàng đầu về tầm quan trọng khi lọc danh sách phỏng vấn. Vì vậy chiến lược chủ lưu hiện nay là: Step 1 đỗ vững là đủ, để dành hỏa lực chính cho Step 2 CK lấy điểm cao.
+- **Đừng tiêu hao quá mức ở Step 1, nhưng lần thi đầu tiên nhất định phải đỗ.** Pass/Fail chỉ là không cho điểm nữa, hồ sơ trượt vẫn ghi trên bảng điểm, là vết cứng khi lọc nội trú — nhiều chương trình trực tiếp dùng "có hồ sơ trượt hay không" để lọc đơn. Vì vậy mục tiêu là lần đầu tiên đỗ vững vàng; sau khi đỗ thì chuyển hỏa lực sang Step 2 CK, đừng luyện đi luyện lại bài ở những môn đã nắm vững.
+- **Dùng tài liệu chính thức trước.** Trên usmle.org có câu hỏi mẫu miễn phí (sample test questions) và đề cương thi của từng bước (content outline), còn có bài luyện và tự đánh giá chính thức. Ngân hàng câu hỏi bên thứ ba (như UWorld) là lựa chọn chủ lưu, nhưng trước hết hãy dùng đề cương chính thức làm mục lục — đề cương cho bạn biết thi cái gì, ngân hàng câu hỏi cho bạn biết thi thế nào.
+- **Luyện CCS riêng.** Mô phỏng ca bệnh trên máy tính của Step 3 là kỳ thi thao tác, người lần đầu tiếp xúc dễ lãng phí thời gian trên giao diện. Có phần mềm luyện CCS và ca mẫu chính thức, trước khi thi ít nhất làm trọn vẹn vài lần, làm quen với nhịp ra y lệnh, xem thay đổi kết quả xét nghiệm.
+- **Lập kế hoạch thời gian đếm ngược.** Muốn vào Match năm nào, hãy đếm ngược từ thời gian ra điểm Step 2 CK, thời gian mở đăng ký ERAS, rồi xếp cửa sổ thi của Step 1 và Step 2 CK. IMG còn phải chừa thời gian cho chứng nhận ECFMG, tài liệu chứng nhận gửi từ nước gốc để xác minh thường mất mấy tháng.
+
+### हिन्दी (अनुवाद)
+Step 1 के Pass/Fail हो जाने के बाद, तैयारी और रेजिडेंसी आवेदन का पूरा तर्क बदल गया है, कुछ मुख्य बिंदु लिखते हैं:
+
+- **Step 2 CK के अंकों का भार बढ़ गया है।** पहले कार्यक्रम निदेशक (program director) Step 1 के तीन अंकों के स्कोर से छाँटते थे, अब Step 1 केवल यह बताता है कि उत्तीर्ण हुए या नहीं, Step 2 CK कार्यक्रमों के बीच आवेदकों की तुलना का मुख्य वस्तुनिष्ठ आँकड़ा बन गया है। NRMP (राष्ट्रीय रेजिडेंसी मैचिंग कार्यक्रम) के कार्यक्रम निदेशक सर्वेक्षण हर वर्ष दिखाते हैं कि Step 2 CK का स्कोर साक्षात्कार सूची छाँटने में अग्रणी महत्व रखता है। इसलिए वर्तमान मुख्यधारा की रणनीति है: Step 1 मज़बूती से उत्तीर्ण करना पर्याप्त है, मुख्य ताकत Step 2 CK में उच्च अंक लाने के लिए बचाएँ।
+- **Step 1 पर अत्यधिक消耗 न करें, परंतु पहला प्रयास अवश्य उत्तीर्ण करें।** Pass/Fail का अर्थ केवल यह है कि अंक नहीं दिए जाते, असफलता का अभिलेख अब भी अंक पत्र पर लिखा जाता है, रेजिडेंसी छँटाई में यह कठोर दोष है — कई कार्यक्रम सीधे "क्या असफलता का अभिलेख है" को छाँटने के मानदंड के रूप में उपयोग करते हैं। इसलिए लक्ष्य पहली बार में स्थिरता से उत्तीर्ण करना है; उत्तीर्ण होने के बाद ताकत Step 2 CK की ओर मोड़ें, पहले से सिद्ध विषयों पर बार-बार प्रश्न न दोहराएँ।
+- **पहले आधिकारिक सामग्री का उपयोग करें।** usmle.org पर मुफ़्त नमूना प्रश्न (sample test questions) और प्रत्येक चरण की परीक्षा रूपरेखा (content outline), साथ ही आधिकारिक अभ्यास प्रश्न और स्व-मूल्यांकन उपलब्ध हैं। तृतीय-पक्ष प्रश्न बैंक (जैसे UWorld) मुख्यधारा का विकल्प है, परंतु पहले आधिकारिक रूपरेखा को सूची की तरह उपयोग करें — रूपरेखा बताती है क्या परीक्षा होगी, प्रश्न बैंक बताता है कैसे होगी।
+- **CCS का अलग से अभ्यास करें।** Step 3 का कंप्यूटर केस सिमुलेशन संचालन-प्रकार की परीक्षा है, पहली बार सामना करने वाले इंटरफ़ेस पर समय गंवाते हैं। आधिकारिक CCS अभ्यास सॉफ़्टवेयर और उदाहरण केस उपलब्ध हैं, परीक्षा से पहले कम से कम कुछ बार पूरी तरह करके देखें, आदेश देने और जाँच परिणामों के बदलाव देखने की लय से परिचित हों।
+- **समय योजना उलटी गिनती से बनाएँ।** किस वर्ष Match में जाना है यह तय करके, Step 2 CK परिणाम आने का समय, ERAS आवेदन खुलने का समय उलटा गिनें, फिर Step 1 और Step 2 CK की परीक्षा खिड़कियाँ व्यवस्थित करें। IMG को ECFMG प्रमाणन का समय भी छोड़ना होगा, प्रमाणन दस्तावेज़ मूल देश से भेजकर सत्यापित कराने में अक्सर कई महीने लगते हैं।
 
 ---
 
@@ -206,8 +356,42 @@ Una lista final para repasar antes de inscribirse:
 5. Presupuesto: las tarifas de los tres pasos más cualquier recargo internacional, bancos de preguntas y materiales de práctica, y el viaje a EE. UU. para el Step 3 (para los IMG). Calcúlelo todo de una vez.
 6. Planifique hacia atrás: desde el año objetivo del Match, cuente hacia atrás a partir de la fecha de entrega de resultados del Step 2 CK y la apertura de ERAS para ubicar cada ventana de examen.
 
+### 한국어 (초역)
+마지막으로 체크리스트 하나를 남긴다. 신청 전에 항목별로 체크하라.
+
+1. usmle.org에서 해당 연도 Bulletin of Information을 내려받아, 시험 구조, 비용, 신청 마감, 규칙에 변화가 없는지 확인하라.
+2. 자신의 신청 경로를 확인하라. 미국/캐나다 의과대학은 NBME, IMG는 ECFMG(2026년부터 절차에 조정이 있으니 해당 연도 지침을 보라).
+3. 목표 주 Board의 자격 요건을 확인하라. 특히 전 단계를 마치는 연한 규정과 수련 기간 요건이다. 캘리포니아는 Medical Board of California 공식 웹사이트를 보라.
+4. IMG는 ECFMG 인증 진행 상황을 확인하라. 학위 서류 송부, 검증 상태, 의사소통 능력 요건, 각 단계마다 몇 달의 여유를 두라.
+5. 비용 예산: 세 단계 시험료와 가능한 국제 추가 요금, 문제 은행과 연습 자료, 미국에 가서 Step 3를 보는 여비(IMG)를 한 번에 계산하라.
+6. 시간 역산: 목표 Match 연도에서 Step 2 CK 점수 발표와 ERAS 개방을 거꾸로 계산해, 각 단계의 시험 창을 배치하라.
+
+### Tiếng Việt (bản dịch)
+Cuối cùng để lại một danh sách kiểm tra, trước khi đăng ký hãy đánh dấu từng mục:
+
+1. Vào usmle.org tải Bulletin of Information của năm đó, xác nhận cấu trúc thi, chi phí, hạn đăng ký và quy tắc không có thay đổi.
+2. Xác nhận kênh đăng ký của mình: trường y Mỹ/Canada đi NBME, IMG đi ECFMG (từ năm 2026 quy trình có điều chỉnh, xem hướng dẫn năm đó).
+3. Xác nhận yêu cầu tư cách của Board tiểu bang mục tiêu, đặc biệt là quy định số năm hoàn thành toàn bộ các bước và yêu cầu thời lượng đào tạo — California xem trang chính thức của Medical Board of California.
+4. IMG xác nhận tiến độ chứng nhận ECFMG: gửi tài liệu học vị, trạng thái xác minh, yêu cầu năng lực giao tiếp, mỗi bước đều chừa vài tháng.
+5. Ngân sách chi phí: phí thi ba bước cộng phụ phí quốc tế có thể có, ngân hàng câu hỏi và tài liệu luyện, chi phí đi lại sang Mỹ thi Step 3 (IMG), tính rõ một lần.
+6. Đếm ngược thời gian: từ năm Match mục tiêu đếm ngược ra điểm Step 2 CK và mở ERAS, xếp cửa sổ thi của từng bước.
+
+### हिन्दी (अनुवाद)
+अंत में एक जाँच सूची छोड़ते हैं, आवेदन से पहले मद-दर-मद टिक करें:
+
+1. usmle.org से उस वर्ष का Bulletin of Information डाउनलोड करें, पुष्टि करें कि परीक्षा संरचना, लागत, आवेदन अंतिम तिथि और नियमों में कोई बदलाव नहीं है।
+2. अपने आवेदन मार्ग की पुष्टि करें: अमेरिका/कनाडा मेडिकल स्कूल NBME से, IMG ECFMG से (2026 से प्रक्रिया में समायोजन है, उस वर्ष के दिशानिर्देश देखें)।
+3. लक्ष्य राज्य Board की पात्रता आवश्यकताओं की पुष्टि करें, विशेषकर सभी चरण पूरे करने की वर्ष-सीमा और प्रशिक्षण अवधि की आवश्यकताएँ — कैलिफ़ोर्निया के लिए Medical Board of California की आधिकारिक वेबसाइट देखें।
+4. IMG ECFMG प्रमाणन की प्रगति की पुष्टि करें: डिग्री दस्तावेज़ भेजना, सत्यापन स्थिति, संचार क्षमता आवश्यकताएँ, प्रत्येक चरण के लिए कई महीने छोड़ें।
+5. लागत बजट: तीन चरणों का परीक्षा शुल्क और संभावित अंतरराष्ट्रीय अधिभार, प्रश्न बैंक और अभ्यास सामग्री, अमेरिका जाकर Step 3 देने की यात्रा (IMG), एक बार में हिसाब लगाएँ।
+6. समय उलटी गिनती: लक्ष्य Match वर्ष से Step 2 CK परिणाम और ERAS खुलने को उलटा गिनकर, प्रत्येक चरण की परीक्षा खिड़कियाँ व्यवस्थित करें।
+
 ---
 
 参考来源：USMLE 官方（usmle.org；Bulletin of Information 当年版）、FSMB（fsmb.org）、NBME（nbme.org）、ECFMG（ecfmg.org）、Medical Board of California（mbc.ca.gov）。考试结构、通过分、费用与报名规则以各机构当年公布为准。
 
 *本文为个人学习笔记，不构成医疗或职业建议；报考资格与最新考试政策请以各考试机构和州委员会官网为准。*
+
+*한국어·베트남어·힌디어 본문은 학습용 초역으로, 원어민 감수를 기다리고 있습니다.*
+*Bản tiếng Hàn, tiếng Việt và tiếng Hindi là bản dịch học tập, đang chờ người bản ngữ hiệu đính.*
+*कोरियाई, वियतनामी और हिंदी पाठ अध्ययन अनुवाद हैं; मूल-भाषी समीक्षा लंबित है।*

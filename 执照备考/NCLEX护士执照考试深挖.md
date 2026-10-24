@@ -38,6 +38,36 @@ Hay dos versiones:
 
 Ambas comparten estructura pero usan estándares de aprobado distintos y no son intercambiables: en California la licencia de RN exige aprobar el NCLEX-RN, y aprobar solo la versión PN conduce a la licencia de LVN. Los graduados formados en el extranjero deben aprobar la misma versión, tras cumplir la evaluación estatal de credenciales y requisitos relacionados, que se trata en la sección cuatro.
 
+### 한국어 (초역)
+NCLEX의 정식 명칭은 National Council Licensure Examination이며, National Council of State Boards of Nursing(NCSBN)이 개발했고, 실제 면허 발급은 각 주 간호 위원회가 맡는다. 시험 자체는 면허를 발급하지 않으며, 하나의 질문에만 답한다. 새로 졸업한 이 간호사가 안전하고 효과적으로 초급 간호 업무에 종사할 최소한의 능력을 갖추었는가.
+
+시험지는 두 종류이다.
+
+- NCLEX-RN: 등록 간호사(Registered Nurse) 후보자를 위한 것으로, ADN, BSN 같은 RN 프로그램을 읽은 사람이다.
+- NCLEX-PN: 실무/직업 간호사(Practical/Vocational Nurse) 후보자를 위한 것으로, 캘리포니아에서는 LVN이라고 한다.
+
+두 시험지는 구조가 같고 난이도 기준이 다르며, 섞어 쓸 수 없다. 캘리포니아에서 RN이 되려면 반드시 NCLEX-RN에 합격해야 하고, PN 시험지만 합격하면 LVN 면허 경로로만 갈 수 있다. 해외 간호 졸업자도 해당 시험지에 합격해야 하며, 여기에 더해 먼저 해당 주의 학위 평가와 영어 등의 요건을 거쳐야 하는데, 세부 사항은 넷째 절에 있다.
+
+### Tiếng Việt (bản dịch)
+Tên đầy đủ của NCLEX là National Council Licensure Examination, do National Council of State Boards of Nursing (NCSBN) phát triển, còn cơ quan thực tế cấp phép là hội đồng điều dưỡng của từng tiểu bang. Bản thân kỳ thi không cấp phép, nó chỉ trả lời một câu hỏi: điều dưỡng mới tốt nghiệp này có năng lực tối thiểu để làm công việc điều dưỡng ở cấp nhập môn một cách an toàn, hiệu quả hay không.
+
+Chia hai loại đề:
+
+- NCLEX-RN: cho ứng viên điều dưỡng đăng ký (Registered Nurse), học các chương trình RN như ADN, BSN.
+- NCLEX-PN: cho ứng viên điều dưỡng thực hành/nghề nghiệp (Practical/Vocational Nurse), California gọi là LVN.
+
+Hai loại đề cấu trúc giống nhau, tiêu chuẩn độ khó khác nhau, không thể dùng lẫn: ở California muốn làm RN phải đỗ NCLEX-RN, chỉ đỗ đề PN thì chỉ đi được con đường giấy phép LVN. Sinh viên tốt nghiệp điều dưỡng nước ngoài cũng phải đỗ đề tương ứng, ngoài ra còn phải trước hết qua đánh giá học vị và yêu cầu tiếng Anh của tiểu bang, chi tiết đặt ở tiết bốn.
+
+### हिन्दी (अनुवाद)
+NCLEX का पूरा नाम National Council Licensure Examination है, जिसे National Council of State Boards of Nursing (NCSBN) ने विकसित किया है, वास्तविक लाइसेंस प्रत्येक राज्य का नर्सिंग बोर्ड जारी करता है। परीक्षा स्वयं लाइसेंस नहीं देती, यह केवल एक प्रश्न का उत्तर देती है: क्या इस नए स्नातक नर्स में प्रवेश-स्तर के नर्सिंग कार्य को सुरक्षित और प्रभावी ढंग से करने की न्यूनतम क्षमता है।
+
+दो प्रकार के प्रश्न पत्र हैं:
+
+- NCLEX-RN: पंजीकृत नर्स (Registered Nurse) उम्मीदवारों के लिए, जो ADN, BSN जैसे RN कार्यक्रम पढ़ते हैं।
+- NCLEX-PN: व्यावहारिक/व्यावसायिक नर्स (Practical/Vocational Nurse) उम्मीदवारों के लिए, कैलिफ़ोर्निया में LVN कहा जाता है।
+
+दोनों प्रश्न पत्रों की संरचना समान है, कठिनाई मानक अलग हैं, मिलाकर उपयोग नहीं किया जा सकता: कैलिफ़ोर्निया में RN बनने के लिए NCLEX-RN उत्तीर्ण करना अनिवार्य है, केवल PN प्रश्न पत्र उत्तीर्ण करने पर केवल LVN लाइसेंस मार्ग ही मिलेगा। विदेशी नर्सिंग स्नातकों को भी संबंधित प्रश्न पत्र उत्तीर्ण करना होता है, साथ ही पहले उस राज्य की डिग्री मूल्यांकन और अंग्रेज़ी आदि आवश्यकताओं से गुज़रना होता है, विवरण खंड चार में है।
+
 ---
 
 ## 二、考法：CAT 自适应与 85 到 150 题
@@ -74,6 +104,39 @@ El NCLEX es un examen adaptativo por computadora (CAT), administrado en centros 
 El estándar de aprobado no es un porcentaje de aciertos. Es un nivel de habilidad fijado por la NCSBN en una escala logit y revisado cada tres años según la práctica real de los enfermeros nuevos. Consulte el estándar del Test Plan vigente de la NCSBN antes de inscribirse.
 
 Si no aprueba, las reglas de la NCSBN exigen al menos 45 días entre intentos, con un máximo de ocho intentos por año, y cada estado puede añadir requisitos. Tras un intento fallido se recibe un informe de rendimiento por categorías de contenido (Candidate Performance Report): conviene estudiar las categorías débiles en lugar de reiniciar todo el libro.
+
+### 한국어 (초역)
+NCLEX는 컴퓨터 적응형 시험(Computerized Adaptive Testing, CAT)으로, Pearson VUE 시험장에서 컴퓨터로 보며, 총 시간은 5시간이다. 일반 시험과 가장 다른 점은 세 가지이다.
+
+- 문제 수가 고정되어 있지 않다: 최소 85문항, 최대 150문항이다. 그중 처음 85문항 안에 점수에 포함되지 않는 예비 문항 15개가 섞여 있어 구분할 수 없다.
+- 문제마다 능력을 추정한다: 한 문제를 풀 때마다 시스템이 당신의 능력 수준을 다시 추정하고, 난이도가 맞는 다음 문제를 고른다. 문제를 건너뛸 수 없고, 뒤로 돌아가 고칠 수도 없다.
+- 종료는 신뢰도를 본다: 시스템이 95% 신뢰도로 당신의 능력이 합격선 위나 아래에 있다고 판단하면 시험이 끝난다. 그러므로 85문항에서 끝났다고 합격이라는 뜻도 아니고, 150문항을 다 풀었다고 불합격이라는 뜻도 아니다. 길이 자체는 결과를 말하지 않으며, 이 하나를 알면 많은 불필요한 불안을 덜 수 있다.
+
+합격 기준은 정답 비율이 아니라, NCSBN이 logit 척도로 정한 능력선이며, 3년마다 신규 간호사의 실제 진료 상황을 반영해 재검토한다. 신청 전에는 NCSBN이 해당 시기에 발표한 Test Plan의 기준을 기준으로 하라.
+
+불합격하면 어떻게 하는가. NCSBN 규칙에 따르면 두 시험 사이에는 최소 45일의 간격이 필요하고, 1년에 최대 8회까지 볼 수 있다. 각 주는 여기에 자체적인 추가 요건을 둘 수 있다. 불합격 후에는 시스템이 내용 범주별 성적 보고서(Candidate Performance Report)를 제공하므로, 어느 범주가 약한지 보충하는 것이 처음부터 책을 다시 읽는 것보다 효과적이다.
+
+### Tiếng Việt (bản dịch)
+NCLEX là kỳ thi thích ứng máy tính (Computerized Adaptive Testing, CAT), thi trên máy tại điểm thi Pearson VUE, tổng thời gian 5 giờ. Ba điểm khác nhất với kỳ thi thông thường:
+
+- Số câu không cố định: ít nhất 85 câu, dài nhất 150 câu. Trong đó 85 câu đầu bao gồm 15 câu thử nghiệm không tính điểm, trộn vào không nhận ra được.
+- Mỗi câu một lần ước lượng: trả lời xong một câu, hệ thống ước lượng lại mức năng lực của bạn, rồi chọn câu tiếp theo có độ khó phù hợp. Câu hỏi không được bỏ qua, không được quay lại sửa.
+- Dừng thi theo độ tin cậy: khi hệ thống với độ tin cậy 95% phán định năng lực của bạn trên hoặc dưới mức đạt, kỳ thi kết thúc. Vì vậy dừng ở 85 câu không bằng đỗ, làm đủ 150 câu cũng không bằng trượt — độ dài tự nó không nói lên kết quả, biết điều này sẽ bớt được nhiều lo lắng vô ích.
+
+Tiêu chuẩn đạt không phải tỷ lệ trả lời đúng, mà là mức năng lực do NCSBN định bằng thang logit, mỗi ba năm kết hợp tình hình hành nghề thực tế của điều dưỡng mới để rà soát lại một lần. Trước khi đăng ký lấy tiêu chuẩn trong Test Plan kỳ đó do NCSBN công bố làm chuẩn.
+
+Trượt thì làm sao: theo quy tắc NCSBN, giữa hai lần thi ít nhất cách nhau 45 ngày, một năm tối đa thi 8 lần; các tiểu bang còn có thể có yêu cầu bổ sung riêng. Sau khi trượt, hệ thống sẽ cho một báo cáo biểu hiện theo loại nội dung (Candidate Performance Report), loại nào yếu bù loại đó, hiệu quả hơn đọc lại sách từ đầu.
+
+### हिन्दी (अनुवाद)
+NCLEX कंप्यूटर अनुकूली परीक्षा (Computerized Adaptive Testing, CAT) है, Pearson VUE केंद्रों पर कंप्यूटर से होती है, कुल समय 5 घंटे है। सामान्य परीक्षाओं से तीन बातों में सबसे अलग है:
+
+- प्रश्नों की संख्या निश्चित नहीं है: कम से कम 85 प्रश्न, अधिकतम 150 प्रश्न। इनमें पहले 85 प्रश्नों में 15 अंक-रहित परीक्षण प्रश्न मिले होते हैं, जिन्हें पहचाना नहीं जा सकता।
+- प्रत्येक प्रश्न पर अनुमान: एक प्रश्न का उत्तर देते ही, प्रणाली आपकी क्षमता का पुनः अनुमान लगाती है, फिर कठिनाई से मेल खाता अगला प्रश्न चुनती है। प्रश्न छोड़ा नहीं जा सकता, पीछे जाकर बदला नहीं जा सकता।
+- समाप्ति विश्वास स्तर से: जब प्रणाली 95% विश्वास के साथ तय कर ले कि आपकी क्षमता उत्तीर्ण रेखा से ऊपर या नीचे है, परीक्षा समाप्त हो जाती है। इसलिए 85 प्रश्नों पर रुकना उत्तीर्ण होने के बराबर नहीं, और 150 प्रश्न पूरे करना अनुत्तीर्ण होने के बराबर नहीं — लंबाई स्वयं परिणाम नहीं बताती, यह एक बात जानने से बहुत-सी अनावश्यक चिंता बचती है।
+
+उत्तीर्ण मानक सही उत्तरों का प्रतिशत नहीं है, बल्कि NCSBN द्वारा logit पैमाने से तय क्षमता रेखा है, जिसे हर तीन वर्ष में नए नर्सों की वास्तविक अभ्यास स्थिति के साथ पुनः समीक्षित किया जाता है। आवेदन से पहले NCSBN द्वारा उस अवधि के Test Plan में घोषित मानक को ही आधार मानें।
+
+अनुत्तीर्ण होने पर क्या करें: NCSBN नियमों के अनुसार, दो परीक्षाओं के बीच कम से कम 45 दिनों का अंतर आवश्यक है, एक वर्ष में अधिकतम 8 बार परीक्षा दी जा सकती है; राज्यों के अपने अतिरिक्त नियम भी हो सकते हैं। अनुत्तीर्ण होने के बाद प्रणाली सामग्री श्रेणियों के अनुसार प्रदर्शन रिपोर्ट (Candidate Performance Report) देती है, जो श्रेणी कमज़ोर हो उसी को मज़बूत करना शुरू से किताब फिर से पढ़ने से अधिक प्रभावी है।
 
 ---
 
@@ -127,6 +190,54 @@ En cuanto a formato, cada candidato recibe tres estudios de caso desplegables de
 
 Para prepararse, la implicación es directa: repasar contenidos sigue siendo necesario, pero no basta. Hay que practicar los casos con método —marcar indicios, ordenar hipótesis y después actuar— hasta que los seis pasos se vuelvan un hábito.
 
+### 한국어 (초역)
+2023년 4월 1일부터 NCLEX는 차세대 버전(Next Generation NCLEX, NGN)으로 전면 교체되었다. NCSBN의 조사가 발견한 이유 때문이다. 신규 간호사가 가장 집중적으로 실수하는 곳은 지식이 부족해서가 아니라 임상 판단이었다. 정보가 산더미처럼 쌓여 있는데, 무엇을 먼저 보고 무엇을 먼저 처리해야 할지 모르는 것이다.
+
+NGN은 NCSBN의 임상 판단 측정 모델(Clinical Judgment Measurement Model, NCJMM)로 문제를 내며, 여섯 단계는 그대로 하나의 완전한 임상 사고 사슬이다.
+
+1. 단서 인식(Recognize Cues): 병력, 징후, 검사 결과에서 진짜 중요한 정보를 골라낸다.
+2. 단서 분석(Analyze Cues): 정보를 연결해 가능한 상태 변화를 가리킨다.
+3. 가설 우선순위 정하기(Prioritize Hypotheses): 긴급도, 가능성, 위험에 따라 순서를 정한다.
+4. 해결책 생성(Generate Solutions): 기대 결과와 후보 중재를 정한다.
+5. 행동 취하기(Take Action): 우선순위가 가장 높은 단계부터 먼저 한다.
+6. 결과 평가(Evaluate Outcomes): 중재가 효과가 있었는지, 조정이 필요한지 본다.
+
+문제 유형으로 보면, 모든 응시자는 전개식 사례(case study) 3개를 만나며, 사례마다 6문항씩 총 18문항으로, 여섯 단계를 한 단계에 한 문제씩 그대로 밟는다. 여기에 전체 문제의 약 10%를 차지하는 독립 임상 판단 문항(stand-alone items)이 있으며, 추세 문제와 나비 넥타이(bowtie) 같은 새로운 형식을 포함한다. 새 문제 유형은 부분 점수(partial credit)를 쓴다. 다지선다에서 일부를 맞히면 일부 점수를 받고, 틀린 선택을 하면 감점되는 문제 유형도 있어, 무턱대고 고르는 것보다 분명히 생각한 뒤 고르는 것이 낫다.
+
+시험 준비의 의미는 분명하다. 지식을 외우는 연습도 여전히 필요하지만, 지식만 외우는 것으로는 부족하다. 연습할 때는 사례 문제의 접근법을 의도적으로 훈련해야 한다. 먼저 단서를 표시하고, 순서를 정한 뒤, 행동에 옮기는 식으로, 여섯 단계를 습관으로 만들어라.
+
+### Tiếng Việt (bản dịch)
+Từ ngày 1 tháng 4 năm 2023, NCLEX đổi toàn bộ sang phiên bản thế hệ mới (Next Generation NCLEX, NGN), nguyên nhân là nghiên cứu của NCSBN phát hiện: nơi điều dưỡng mới tập trung mắc lỗi nhất không phải là thiếu kiến thức, mà là phán đoán lâm sàng — nhìn một đống thông tin, không biết xem cái nào trước, xử lý cái nào trước.
+
+NGN dùng Mô hình Đo lường Phán đoán Lâm sàng (Clinical Judgment Measurement Model, NCJMM) của NCSBN để ra đề, sáu bước vừa đúng là một chuỗi tư duy lâm sàng hoàn chỉnh:
+
+1. Nhận biết manh mối (Recognize Cues): từ bệnh án, dấu hiệu, xét nghiệm chọn ra thông tin thật sự quan trọng.
+2. Phân tích manh mối (Analyze Cues): liên kết thông tin, chỉ hướng thay đổi tình trạng có thể xảy ra.
+3. Xác định ưu tiên giả thuyết (Prioritize Hypotheses): xếp thứ tự theo mức khẩn cấp, khả năng và rủi ro.
+4. Tạo giải pháp (Generate Solutions): định kết quả kỳ vọng và can thiệp ứng viên.
+5. Hành động (Take Action): làm trước bước có ưu tiên cao nhất.
+6. Đánh giá kết quả (Evaluate Outcomes): xem can thiệp có hiệu quả không, có cần điều chỉnh không.
+
+Về dạng câu hỏi, mỗi thí sinh sẽ gặp 3 ca bệnh triển khai (case study), mỗi ca 6 câu, tổng 18 câu, vừa đúng đi hết sáu bước mỗi bước một câu; ngoài ra có khoảng một phần mười số câu là câu phán đoán lâm sàng độc lập (stand-alone items), gồm các hình thức mới như câu xu hướng và câu nơ bướm (bowtie). Dạng câu mới dùng cho điểm một phần (partial credit): câu nhiều lựa chọn chọn đúng một phần được một phần điểm, cũng có dạng chọn sai bị trừ điểm, chọn bừa không bằng nghĩ rõ rồi mới chọn.
+
+Ý nghĩa với ôn thi rất trực tiếp: luyện kiến thức vẫn cần thiết, nhưng chỉ học thuộc kiến thức thì không đủ. Khi luyện phải cố ý luyện cách đi của câu ca bệnh — trước khoanh manh mối, rồi xếp thứ tự, rồi ra tay, biến sáu bước thành thói quen.
+
+### हिन्दी (अनुवाद)
+1 अप्रैल 2023 से, NCLEX पूरी तरह नई पीढ़ी के संस्करण (Next Generation NCLEX, NGN) में बदल गया, कारण NCSBN के शोध में मिला: नए नर्स जहाँ सबसे अधिक गलतियाँ करते हैं वह ज्ञान की कमी नहीं, बल्कि नैदानिक निर्णय है — जानकारी का ढेर देखकर यह नहीं जानते कि पहले क्या देखें, पहले क्या संभालें।
+
+NGN NCSBN के नैदानिक निर्णय मापन मॉडल (Clinical Judgment Measurement Model, NCJMM) से प्रश्न बनाता है, छह चरण ठीक एक पूर्ण नैदानिक विचार शृंखला हैं:
+
+1. संकेत पहचानना (Recognize Cues): केस इतिहास, लक्षणों, जाँचों से वास्तव में महत्वपूर्ण जानकारी चुनना।
+2. संकेतों का विश्लेषण (Analyze Cues): जानकारी को जोड़कर संभावित स्थिति परिवर्तनों की ओर संकेत करना।
+3. परिकल्पनाओं की प्राथमिकता तय करना (Prioritize Hypotheses): तात्कालिकता, संभावना और जोखिम के अनुसार क्रम लगाना।
+4. समाधान बनाना (Generate Solutions): अपेक्षित परिणाम और उम्मीदवार हस्तक्षेप तय करना।
+5. कार्रवाई करना (Take Action): सबसे उच्च प्राथमिकता वाला चरण पहले करना।
+6. परिणामों का मूल्यांकन (Evaluate Outcomes): देखना कि हस्तक्षेप प्रभावी हुआ या नहीं, समायोजन चाहिए या नहीं।
+
+प्रश्न प्रकारों में, प्रत्येक उम्मीदवार को 3 विस्तृत केस (case study) मिलते हैं, प्रत्येक केस में 6 प्रश्न, कुल 18 प्रश्न, ठीक छह चरण एक-एक प्रश्न करके पूरे होते हैं; इसके अलावा लगभग एक-दशांश प्रश्न स्वतंत्र नैदानिक निर्णय प्रश्न (stand-alone items) होते हैं, जिनमें रुझान प्रश्न और बो-टाई (bowtie) जैसे नए रूप शामिल हैं। नए प्रश्न प्रकार आंशिक अंक (partial credit) अपनाते हैं: बहुविकल्पीय में कुछ सही चुनने पर कुछ अंक मिलते हैं, कुछ प्रश्न प्रकारों में गलत चुनने पर अंक कटते भी हैं, बिना सोचे चुनने से बेहतर है स्पष्ट सोचकर चुनना।
+
+तैयारी का अर्थ सीधा है: ज्ञान के बिंदु रटना अब भी आवश्यक है, परंतु केवल ज्ञान रटना पर्याप्त नहीं। अभ्यास करते समय केस प्रश्नों की चाल को जानबूझकर अभ्यास करें — पहले संकेत घेरें, फिर क्रम लगाएँ, फिर कार्रवाई करें, छह चरणों को आदत बनाएँ।
+
 ---
 
 ## 四、内容分布：八个分项的权重
@@ -172,6 +283,48 @@ El contenido del NCLEX-RN se distribuye según el marco de Client Needs de la NC
 - Integridad fisiológica — Adaptación fisiológica: 11–17 %
 
 Las cuatro subcategorías de integridad fisiológica suman, en conjunto, cerca de la mitad del examen, y terapias farmacológicas y parenterales es la subcategoría individual más pesada. En tiempo de estudio, farmacología, priorización de seguridad y juicio de delegación merecen la mayor inversión: las preguntas de priorización y delegación dentro de gestión del cuidado son también los escenarios que más toman prestados las preguntas de juicio clínico del NGN.
+
+### 한국어 (초역)
+NCLEX-RN의 내용은 NCSBN의 고객 요구(Client Needs) 체계에 따라 분포한다. 현행 Test Plan(2023년판, 2026년판의 범주 가중치는 이와 같으며, Safety and Infection Control만 Safety and Infection Prevention and Control로 이름이 바뀌었다)이 RN 시험지에 주는 가중치는 다음과 같다.
+
+- 안전하고 효과적인 진료 환경 — 진료 관리(Management of Care): 15–21%
+- 안전하고 효과적인 진료 환경 — 안전 및 감염 예방 통제(Safety and Infection Prevention and Control): 10–16%
+- 건강 증진과 유지(Health Promotion and Maintenance): 6–12%
+- 심리사회적 온전성(Psychosocial Integrity): 6–12%
+- 생리학적 온전성 — 기본 간호와 안락(Basic Care and Comfort): 6–12%
+- 생리학적 온전성 — 약물 및 비경구 치료(Pharmacological and Parenteral Therapies): 13–19%
+- 생리학적 온전성 — 위험 가능성 감소(Reduction of Risk Potential): 9–15%
+- 생리학적 온전성 — 생리학적 적응(Physiological Adaptation): 11–17%
+
+생리학적 온전성 네 항목을 합하면 약 절반을 차지하며, 약물 및 비경구 치료가 단일 항목 중 가장 무겁다. 시간 배분에서는 약리, 안전 우선순위, 위임 판단(delegation)에 가장 많이 투자할 가치가 있다. 진료 관리 항목에서 시험하는 우선순위 정렬과 업무 위임이, NGN 임상 판단이 가장 즐겨 빌려오는 장면이기도 하다.
+
+### Tiếng Việt (bản dịch)
+Nội dung của NCLEX-RN phân bố theo khung Nhu cầu Khách hàng (Client Needs) của NCSBN. Test Plan hiện hành (bản 2023, trọng số các loại của bản 2026 giống như vậy, chỉ có Safety and Infection Control đổi tên thành Safety and Infection Prevention and Control) cho đề RN các trọng số như sau:
+
+- Môi trường chăm sóc an toàn và hiệu quả — Quản lý chăm sóc (Management of Care): 15–21%
+- Môi trường chăm sóc an toàn và hiệu quả — An toàn và Phòng ngừa Kiểm soát Nhiễm trùng (Safety and Infection Prevention and Control): 10–16%
+- Tăng cường và Duy trì Sức khỏe (Health Promotion and Maintenance): 6–12%
+- Toàn vẹn Tâm lý Xã hội (Psychosocial Integrity): 6–12%
+- Toàn vẹn Sinh lý — Chăm sóc Cơ bản và Tiện nghi (Basic Care and Comfort): 6–12%
+- Toàn vẹn Sinh lý — Điều trị Dược lý và Ngoài Đường Tiêu hóa (Pharmacological and Parenteral Therapies): 13–19%
+- Toàn vẹn Sinh lý — Giảm Tiềm năng Rủi ro (Reduction of Risk Potential): 9–15%
+- Toàn vẹn Sinh lý — Thích ứng Sinh lý (Physiological Adaptation): 11–17%
+
+Bốn phân mục toàn vẹn sinh lý cộng lại chiếm khoảng một nửa, điều trị dược lý và ngoài đường tiêu hóa là khối nặng nhất trong các phân mục đơn lẻ. Về phân bổ thời gian, dược lý, ưu tiên an toàn và phán đoán ủy thác (delegation) là ba nơi đáng đầu tư nhất — việc xếp thứ tự ưu tiên và ủy thác nhiệm vụ được thi trong phân mục quản lý chăm sóc, vừa đúng là bối cảnh mà phán đoán lâm sàng NGN thích mượn nhất.
+
+### हिन्दी (अनुवाद)
+NCLEX-RN की सामग्री NCSBN के Client Needs ढाँचे के अनुसार वितरित होती है। वर्तमान Test Plan (2023 संस्करण, 2026 संस्करण के श्रेणी भार इसी के समान हैं, केवल Safety and Infection Control का नाम बदलकर Safety and Infection Prevention and Control हुआ है) RN प्रश्न पत्र के लिए निम्न भार देता है:
+
+- सुरक्षित और प्रभावी देखभाल वातावरण — देखभाल प्रबंधन (Management of Care): 15–21%
+- सुरक्षित और प्रभावी देखभाल वातावरण — सुरक्षा और संक्रमण रोकथाम नियंत्रण (Safety and Infection Prevention and Control): 10–16%
+- स्वास्थ्य संवर्धन और रखरखाव (Health Promotion and Maintenance): 6–12%
+- मनोसामाजिक अखंडता (Psychosocial Integrity): 6–12%
+- शारीरिक अखंडता — मूल देखभाल और आराम (Basic Care and Comfort): 6–12%
+- शारीरिक अखंडता — औषधीय और पैरेंटेरल उपचार (Pharmacological and Parenteral Therapies): 13–19%
+- शारीरिक अखंडता — जोखिम संभावना में कमी (Reduction of Risk Potential): 9–15%
+- शारीरिक अखंडता — शारीरिक अनुकूलन (Physiological Adaptation): 11–17%
+
+शारीरिक अखंडता के चार उपखंड मिलाकर लगभग आधा भाग बनाते हैं, औषधीय और पैरेंटेरल उपचार एकल उपखंडों में सबसे भारी है। समय वितरण में, औषध विज्ञान, सुरक्षा प्राथमिकता और प्रत्यायोजन निर्णय (delegation) तीन सबसे अधिक निवेश योग्य स्थान हैं — देखभाल प्रबंधन उपखंड में परीक्षित प्राथमिकता क्रम और कार्य प्रत्यायोजन, ठीक वही परिदृश्य हैं जिन्हें NGN नैदानिक निर्णय सबसे अधिक उधार लेना पसंद करता है।
 
 ---
 
@@ -222,6 +375,51 @@ Tres puntos propios de California merecen nota aparte:
 - Endorsement: quien ya tenga una licencia de RN activa en otro estado no repite el NCLEX y solicita el traslado con verificación de licencia, notas y huellas.
 - Graduados en el extranjero: primero debe evaluarse si la formación y las horas clínicas cumplen los requisitos de California, y completar la formación que falte. Este paso es el más lento: conviene empezarlo primero.
 
+### 한국어 (초역)
+시험 외에도, 캘리포니아의 면허 발급 절차는 California Board of Registered Nursing(BRN)이 관할하며, BreEze 온라인 시스템을 통해 진행한다. 시험으로 면허를 받는(licensure by examination) 통상 순서는 다음과 같다.
+
+1. BRN이 인정한 간호 프로그램(ADN이나 BSN 등)을 마치고, 학교가 성적표를 BRN에 보낸다.
+2. BreEze에서 면허 신청을 제출하고 비용을 낸다. 비용 금액은 BRN의 해당 시기 fee schedule을 기준으로 하며, 신청 전에 한 번 확인하라.
+3. 지문 신원 조사를 한다. 캘리포니아 안에서는 보통 Live Scan을 쓰고, 주 밖 신청자는 지문 카드를 쓴다.
+4. Pearson VUE에 NCLEX를 따로 등록하고 비용을 낸다. BRN이 심사를 통과시켜 시험 자격을 확인한 뒤, Pearson VUE가 시험 승인서(Authorization to Test, ATT)를 발급한다.
+5. ATT 유효 기간 안에 시험장을 예약해 응시한다. 합격하면 BRN이 RN 면허를 발급하고, 불합격하면 45일 간격 규칙에 따라 재시험을 준비한다.
+
+캘리포니아의 기준 세 가지를 따로 적는다.
+
+- 임시 허가(Interim Permit): 요건을 갖춘 시험 신청자는 신청할 수 있으며, 시험을 기다리고 결과를 기다리는 기간에 감독 아래 간호 업무에 종사할 수 있다. 시험에 불합격하면 허가는 그에 따라 효력을 잃는다.
+- 타주 면허 전입(endorsement): 이미 다른 주에서 유효한 RN 면허를 가진 사람은 NCLEX를 다시 볼 필요 없이, 면허 검증, 성적표, 지문으로 endorsement 신청을 진행한다.
+- 해외 졸업자: 학위는 먼저 평가와 검증을 거쳐 교육과정과 임상 시간이 캘리포니아 요건에 도달했는지 확인해야 하며, 부족한 과목은 보충해야 한다. 이 단계가 시간이 가장 오래 걸리므로 가장 먼저 시작해야 한다.
+
+### Tiếng Việt (bản dịch)
+Ngoài kỳ thi, quy trình cấp phép của California do California Board of Registered Nursing (BRN) quản, đi qua hệ thống trực tuyến BreEze. Theo thứ tự thông thường của xin cấp phép bằng thi (licensure by examination):
+
+1. Hoàn thành chương trình điều dưỡng được BRN công nhận (ADN hoặc BSN...), trường gửi bảng điểm cho BRN.
+2. Nộp đơn xin cấp phép trên BreEze và đóng phí, số tiền phí lấy theo fee schedule kỳ đó của BRN, trước khi nộp hãy tra một lượt.
+3. Làm điều tra lý lịch vân tay: trong California thường dùng Live Scan, ứng viên ngoài tiểu bang dùng thẻ vân tay.
+4. Đăng ký riêng NCLEX tại Pearson VUE và đóng phí; sau khi BRN xét duyệt thông qua, xác nhận tư cách dự thi, Pearson VUE phát Giấy phép Dự thi (Authorization to Test, ATT).
+5. Trong thời hạn hiệu lực của ATT, đặt lịch điểm thi để thi. Đỗ thì BRN cấp giấy phép RN; trượt thì theo quy tắc cách 45 ngày chuẩn bị thi lại.
+
+Ba quy định riêng của California ghi riêng:
+
+- Giấy phép tạm thời (Interim Permit): ứng viên dự thi đủ điều kiện có thể xin, trong thời gian chờ thi và chờ kết quả, được làm công việc điều dưỡng dưới sự giám sát; một khi thi trượt, giấy phép theo đó mất hiệu lực.
+- Chuyển giấy phép từ tiểu bang khác (endorsement): người đã có giấy phép RN còn hiệu lực ở tiểu bang khác, không cần thi lại NCLEX, dựa vào xác minh giấy phép, bảng điểm và vân tay để làm đơn endorsement.
+- Sinh viên tốt nghiệp nước ngoài: học vị phải trước hết qua đánh giá xác minh chương trình học và số giờ lâm sàng có đạt yêu cầu California không, thiếu môn thì bù; bước này tốn thời gian nhất, phải khởi động sớm nhất.
+
+### हिन्दी (अनुवाद)
+परीक्षा के अलावा, कैलिफ़ोर्निया की लाइसेंस प्रक्रिया California Board of Registered Nursing (BRN) के अधीन है, BreEze ऑनलाइन प्रणाली से चलती है। परीक्षा द्वारा लाइसेंस (licensure by examination) का सामान्य क्रम इस प्रकार है:
+
+1. BRN-मान्यता प्राप्त नर्सिंग कार्यक्रम (ADN या BSN आदि) पूरा करें, स्कूल अंक पत्र BRN को भेजता है।
+2. BreEze पर लाइसेंस आवेदन जमा करें और शुल्क दें, शुल्क राशि BRN के उस समय के fee schedule के अनुसार होगी, आवेदन से पहले एक बार जाँच लें।
+3. उँगलियों के निशान से पृष्ठभूमि जाँच कराएँ: कैलिफ़ोर्निया के भीतर आमतौर पर Live Scan उपयोग होता है, राज्य से बाहर के आवेदक फ़िंगरप्रिंट कार्ड उपयोग करते हैं।
+4. Pearson VUE में अलग से NCLEX पंजीकरण करें और शुल्क दें; BRN समीक्षा पारित करके परीक्षा पात्रता की पुष्टि करने के बाद, Pearson VUE परीक्षा अनुमति (Authorization to Test, ATT) जारी करता है।
+5. ATT की वैधता अवधि के भीतर परीक्षा केंद्र बुक करके परीक्षा दें। उत्तीर्ण होने पर BRN RN लाइसेंस जारी करता है; अनुत्तीर्ण होने पर 45 दिन के अंतर नियम के अनुसार पुनः परीक्षा की तैयारी करें।
+
+कैलिफ़ोर्निया के तीन मानदंड अलग से लिखते हैं:
+
+- अंतरिम अनुमति (Interim Permit): पात्र परीक्षा आवेदक आवेदन कर सकते हैं, परीक्षा और परिणाम की प्रतीक्षा अवधि में पर्यवेक्षण के तहत नर्सिंग कार्य कर सकते हैं; परीक्षा में अनुत्तीर्ण होते ही अनुमति उसी के साथ समाप्त हो जाती है।
+- अन्य राज्य लाइसेंस स्थानांतरण (endorsement): जिनके पास पहले से किसी अन्य राज्य का वैध RN लाइसेंस है, उन्हें NCLEX फिर से देने की ज़रूरत नहीं, लाइसेंस सत्यापन, अंक पत्र और उँगलियों के निशान के साथ endorsement आवेदन किया जाता है।
+- विदेशी स्नातक: डिग्री का पहले मूल्यांकन और सत्यापन करके यह जाँचना होता है कि पाठ्यक्रम और नैदानिक घंटे कैलिफ़ोर्निया की आवश्यकताओं तक पहुँचते हैं या नहीं, कमी वाले विषय पूरे करने होते हैं; यह चरण सबसे अधिक समय लेता है, सबसे पहले शुरू करना चाहिए।
+
 ---
 
 ## 来源与说明
@@ -237,3 +435,7 @@ Tres puntos propios de California merecen nota aparte:
 This article is a personal study note and does not constitute medical advice or professional guidance on examination or licensure applications. Standards and state requirements change; confirm the current NCSBN and state board publications before registering or applying.
 
 Este artículo es una nota personal de estudio y no constituye asesoría médica ni orientación profesional sobre exámenes o solicitudes de licencia. Los estándares y requisitos estatales cambian; confirme las publicaciones vigentes de la NCSBN y de la junta estatal antes de inscribirse o solicitar.
+
+*한국어·베트남어·힌디어 본문은 학습용 초역으로, 원어민 감수를 기다리고 있습니다.*
+*Bản tiếng Hàn, tiếng Việt và tiếng Hindi là bản dịch học tập, đang chờ người bản ngữ hiệu đính.*
+*कोरियाई, वियतनामी और हिंदी पाठ अध्ययन अनुवाद हैं; मूल-भाषी समीक्षा लंबित है।*
