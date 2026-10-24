@@ -24,6 +24,21 @@ Después de una visita suelen llegar dos documentos distintos. Uno es la explica
 
 Confundir el orden es la manera habitual de pagar de más. El método práctico: guarde el EOB cuando llegue, espere la factura y compárelas una junto a otra. Lo que la factura le pide no debería superar la «responsabilidad del paciente» (patient responsibility) indicada en el EOB. Si la factura llega antes que el EOB, no pague todavía: es posible que la reclamación aún no se haya procesado y que el saldo sea el importe completo, sin descuentos. La orientación del Departamento de Salud y Servicios Humanos (HHS) y de los Centros de Servicios de Medicare y Medicaid (CMS) sigue la misma lógica: el EOB sirve para comprobar, la factura para pagar, y si no coinciden, primero se investiga y después se paga.
 
+### 한국어 (초역)
+진료를 받고 나면 보통 두 가지 문서가 따로 도착한다. 하나는 보험회사가 보내는 EOB(Explanation of Benefits, 급여 설명서)이다. 대개 "이것은 청구서가 아닙니다"(This is not a bill)라고 명시되어 있다. 보험회사가 청구 한 건을 어떻게 처리했는지를 보여 주는 보고서로, 의료기관이 무엇을 제출했는지, 보험이 인정한 금액이 얼마인지, 보험이 얼마를 지급했는지, 그리고 얼마가 본인 몫인지를 알려 준다. 또 다른 문서는 진료소, 병원 또는 검사실에서 보낸 청구서(bill / statement)로, 실제로 돈을 내라고 요구하는 문서이다.
+
+순서를 헷갈리는 것이 과다 청구의 전형적인 원인이다. 실무적인 방법은 이렇다. EOB가 도착하면 보관해 두고, 청구서가 올 때까지 기다렸다가, 두 문서를 나란히 놓고 대조한다. 청구서가 요구하는 금액은 EOB에 적힌 "환자 책임"(patient responsibility)을 넘지 않아야 한다. 청구서가 EOB보다 먼저 도착하면 아직 내지 마라. 청구가 아직 처리되지 않았을 수 있고, 표시된 잔액은 할인도 심사도 적용되지 않은 전액인 경우가 많다. 미국 보건복지부(HHS)와 연방 메디케어·메디케이드 서비스 센터(CMS)의 안내도 같은 논리이다. EOB는 확인용, 청구서는 납부용이며, 둘이 맞지 않으면 먼저 조사하고 나중에 낸다.
+
+### Tiếng Việt (bản dịch)
+Sau một lần khám chữa, thường có hai loại giấy tờ khác nhau được gửi đến. Một là Bảng giải thích quyền lợi (EOB, Explanation of Benefits) từ công ty bảo hiểm của bạn. Trên đó thường ghi rõ "Đây không phải là hóa đơn" (This is not a bill). Đó là báo cáo của công ty bảo hiểm về một yêu cầu bồi thường: nhà cung cấp đã gửi những gì, chương trình bảo hiểm công nhận bao nhiêu, đã trả bao nhiêu, và phần nào được tính cho bạn. Giấy tờ còn lại — hóa đơn (bill / statement) từ phòng khám, bệnh viện hoặc phòng xét nghiệm — mới là giấy thực sự yêu cầu bạn trả tiền.
+
+Xử lý sai thứ tự là cách người ta hay trả thừa. Cách làm thực tế: giữ EOB khi nó đến, chờ hóa đơn, rồi đặt hai giấy cạnh nhau để đối chiếu. Số tiền hóa đơn yêu cầu bạn trả không nên vượt quá con số "trách nhiệm của bệnh nhân" (patient responsibility) trên EOB. Nếu hóa đơn đến trước khi có EOB nào, hãy khoan trả — yêu cầu bồi thường có thể chưa được xử lý, và số dư hiển thị thường là số tiền chưa giảm giá, chưa xét duyệt. Hướng dẫn của Bộ Y tế và Dịch vụ Nhân sinh Hoa Kỳ (HHS) và Trung tâm Dịch vụ Medicare & Medicaid (CMS) cũng theo cùng một logic: EOB dùng để kiểm tra, hóa đơn dùng để trả, và khi hai bên không khớp, hãy điều tra trước rồi mới trả.
+
+### हिन्दी (अनुवाद)
+इलाज के बाद, आम तौर पर दो अलग-अलग दस्तावेज़ आते हैं। एक है आपके बीमाकर्ता की ओर से लाभ स्पष्टीकरण (EOB, Explanation of Benefits)। उस पर आम तौर पर स्पष्ट लिखा होता है "यह बिल नहीं है" (This is not a bill)। यह किसी दावे पर बीमाकर्ता की रिपोर्ट है: प्रदाता ने क्या प्रस्तुत किया, योजना ने कितना स्वीकार किया, योजना ने कितना भुगतान किया, और कौन-सा हिस्सा आपको सौंपा गया। दूसरा दस्तावेज़ — क्लिनिक, अस्पताल या प्रयोगशाला का बिल या विवरण (bill / statement) — वह है जो वास्तव में आपसे पैसे माँगता है।
+
+गलत क्रम अपनाना ही अधिक भुगतान की वजह बनता है। कार्यकारी तरीका: EOB आए तो उसे रख लें, बिल की प्रतीक्षा करें, फिर दोनों को साथ-साथ रखकर मिलाएँ। बिल जितना भुगतान माँगता है, वह EOB पर दिए "रोगी दायित्व" (patient responsibility) से अधिक नहीं होना चाहिए। यदि कोई बिल किसी EOB से पहले आ जाए, तो भुगतान रोक दें — हो सकता है दावा अभी संसाधित ही न हुआ हो, और दिखाई गई शेष राशि अक्सर बिना छूट वाली, बिना निपटान वाली राशि होती है। स्वास्थ्य और मानव सेवा विभाग (HHS) तथा Medicare और Medicaid सेवा केंद्र (CMS) का मार्गदर्शन भी इसी तर्क का पालन करता है: EOB जाँच के लिए है, बिल भुगतान के लिए, और जब वे मेल न खाएँ, तो पहले जाँच करें और बाद में भुगतान करें।
+
 ---
 
 ## 二、一张 EOB 上的五个数
@@ -60,6 +75,39 @@ El formato varía según la aseguradora, pero cinco cifras sostienen todo el doc
 5. Responsabilidad del paciente (patient responsibility): franquicia, copagos y coseguro que le corresponden. Es la cifra con la que debe coincidir la factura.
 
 Lea también los códigos de observación (remark codes) y el aviso de apelación del final: si una reclamación se deniega o se paga en parte, ahí está el motivo y la vía para apelar. Empiece cada revisión por tres comprobaciones básicas: la fecha del servicio, si los servicios listados son los que realmente recibió y si el centro fue tratado como dentro de la red. Fechas erróneas, cargos duplicados y errores en la condición de red son los tres fallos más frecuentes.
+
+### 한국어 (초역)
+양식은 보험회사마다 다르지만, 핵심 숫자는 다섯 가지이며 이 다섯 가지를 이해하면 문서 전체가 읽힌다.
+
+1. 청구 금액(Billed amount) — 의료기관이 제출한 정가. 대개 문서에서 가장 큰 숫자이며, 본인이 내야 할 돈이 아니다.
+2. 인정 금액(Allowed amount) — 보험이 계약에 따라 인정하는 가격. 네트워크 내 진료에서는 청구 금액과 인정 금액의 차이가 조정(adjustment)으로 상각되며, 본인에게 전가할 수 없다.
+3. 보험 지급액(Plan paid) — 보험회사가 의료기관에 실제로 지급한 금액.
+4. 공제액 적용분(Deductible applied) — 인정 금액 중 연간 공제액(deductible)에 충당되는 부분. 공제액을 채우기 전까지는 보험 지급액이 적은 것이 정상이며, 반드시 오류는 아니다.
+5. 환자 책임(Patient responsibility) — 공제액, 정액 본인부담금(copay), 공동보험(coinsurance) 중 본인에게 배정된 부분. 의료기관의 청구서는 이 숫자와 일치해야 한다.
+
+문서 끝의 비고 코드(remark / reason codes)와 이의 신청 안내도 읽어 두라. 청구가 거부되거나 일부만 지급된 경우, 그 사유가 거기에 적혀 있으며 이의 신청의 입구가 된다. 확인할 때는 세 가지 기본부터 시작하라. 진료 날짜가 맞는지, 기재된 서비스가 실제로 받은 것인지, 의료기관이 네트워크 내로 취급되었는지이다. 날짜 오류, 중복 청구, 네트워크 지위 오분류가 가장 흔한 세 가지 오류이다.
+
+### Tiếng Việt (bản dịch)
+Bố cục khác nhau tùy công ty bảo hiểm, nhưng năm con số là cốt lõi của toàn bộ tài liệu:
+
+1. Số tiền tính phí (Billed amount) — giá niêm yết mà nhà cung cấp đã gửi; thường là con số lớn nhất trên trang, và không phải là số tiền bạn nợ.
+2. Số tiền được công nhận (Allowed amount) — mức giá chương trình của bạn công nhận theo hợp đồng. Đối với dịch vụ trong mạng lưới, khoảng chênh giữa số tiền tính phí và số tiền được công nhận sẽ được xóa bỏ như một khoản điều chỉnh (adjustment); phần này không được chuyển cho bạn.
+3. Số tiền chương trình đã trả (Plan paid) — số tiền công ty bảo hiểm thực tế đã trả cho nhà cung cấp.
+4. Phần áp vào khấu trừ (Deductible applied) — phần của số tiền được công nhận được tính vào mức khấu trừ (deductible) hằng năm của bạn. Khi chưa đạt đủ mức khấu trừ, việc chương trình trả ít là bình thường, không nhất thiết là lỗi.
+5. Trách nhiệm của bệnh nhân (Patient responsibility) — phần khấu trừ, khoản đồng thanh toán cố định (copay) và đồng bảo hiểm (coinsurance) được tính cho bạn. Đây là con số mà hóa đơn của nhà cung cấp phải khớp.
+
+Cũng hãy đọc các mã ghi chú (remark / reason codes) và thông báo khiếu nại ở phần cuối: khi một yêu cầu bị từ chối hoặc chỉ được trả một phần, lý do nêu ở đó, và đó cũng là cửa ngõ để khiếu nại. Mỗi lần rà soát hãy bắt đầu với ba điều cơ bản — ngày khám có đúng không, các dịch vụ liệt kê có phải là những dịch vụ bạn thực tế đã nhận không, và nhà cung cấp có được xử lý là trong mạng lưới hay không. Sai ngày, tính phí trùng lặp và phân loại sai tình trạng mạng lưới là ba lỗi phổ biến nhất.
+
+### हिन्दी (अनुवाद)
+प्रारूप बीमाकर्ता के अनुसार अलग-अलग होते हैं, लेकिन पाँच आँकड़े पूरे दस्तावेज़ की कुंजी हैं:
+
+1. बिल की गई राशि (Billed amount) — प्रदाता द्वारा प्रस्तुत सूची मूल्य; आम तौर पर पृष्ठ पर सबसे बड़ा आँकड़ा, और यह वह नहीं है जो आपको देना है।
+2. स्वीकृत राशि (Allowed amount) — वह कीमत जो आपकी योजना अपने अनुबंध के तहत स्वीकार करती है। नेटवर्क-भीतर देखभाल के लिए, बिल की गई और स्वीकृत राशि के बीच का अंतर समायोजन (adjustment) के रूप में बट्टे खाते में डाला जाता है; इसे आप पर नहीं डाला जा सकता।
+3. योजना द्वारा भुगतान (Plan paid) — बीमाकर्ता ने प्रदाता को वास्तव में कितना भुगतान किया।
+4. कटौती योग्य राशि में लागू (Deductible applied) — स्वीकृत राशि का वह हिस्सा जो आपकी वार्षिक कटौती योग्य राशि (deductible) में लगाया गया। जब तक कटौती योग्य राशि पूरी न हो, योजना का छोटा भुगतान सामान्य है, आवश्यक नहीं कि त्रुटि हो।
+5. रोगी दायित्व (Patient responsibility) — कटौती योग्य राशि, सह-भुगतान (copay) और सह-बीमा (coinsurance) जो आपको सौंपे गए। प्रदाता के बिल को इसी आँकड़े से मेल खाना चाहिए।
+
+अंत में दिए टिप्पणी या कारण कोड (remark / reason codes) और अपील सूचना भी पढ़ें: जब कोई दावा अस्वीकृत या आंशिक भुगतान होता है, तो वहाँ उसका कारण दिया होता है, और वही अपील का द्वार है। हर समीक्षा तीन बुनियादी बातों से शुरू करें — सेवा की तिथि, क्या सूचीबद्ध सेवाएँ वही हैं जो आपको वास्तव में मिलीं, और क्या प्रदाता को नेटवर्क-भीतर माना गया था। गलत तिथियाँ, दोहरी प्रविष्टियाँ और नेटवर्क स्थिति का गलत वर्गीकरण तीन सबसे सामान्य त्रुटियाँ हैं।
 
 ---
 
@@ -98,6 +146,39 @@ Cuando una factura supera la responsabilidad del paciente del EOB —o nunca lle
 
 Guárdelo todo —EOB, facturas detalladas, cartas y notas de llamadas— en una carpeta por fechas. Mientras un importe esté en disputa, pida que la cuenta se marque como en revisión (on hold / in dispute) para que el saldo no pase a una agencia de cobros durante la apelación.
 
+### 한국어 (초역)
+청구서가 EOB의 환자 책임보다 크거나, EOB가 아예 도착하지 않았다면, 이 순서대로 처리하라.
+
+1. 의료기관의 청구 담당 부서에 진료 날짜와 시술 코드(CPT 코드 등)가 적힌 항목별 청구서(itemized bill)를 요청하라. 합계만 있는 요약 청구서로는 대조할 수 없다.
+2. 항목별 청구서와 EOB를 한 줄씩 대조하여, 중복된 줄, 받지 않은 서비스, 잘못된 수량을 표시하라.
+3. 먼저 의료기관의 청구 담당 부서에 전화하라. 기관 측 오류는 발생 지점에서 고치는 것이 가장 빠르다. 정정된 청구서를 다시 발행해 달라고 요청하고, 통화 날짜와 시간, 통화한 사람의 이름이나 ID를 기록하라.
+4. 오류가 보험 측에 있다면(네트워크 지위를 잘못 판정했거나 사전 승인이 잘못 처리된 경우), EOB에 인쇄된 이의 신청(appeal) 절차를 이용하고, 그 기한을 지키며, 기록이 남는 방식으로 서류를 제출하라.
+5. 어느 쪽도 움직이지 않으면 외부로 나가라. 주 보험 규제 기관의 민원 창구와, 아래에서 설명하는 연방 No Surprises 경로가 있다.
+
+모든 것을 보관하라. EOB, 항목별 청구서, 서신, 통화 기록을 날짜별 폴더 하나에 모아 두라. 금액이 분쟁 중일 때는, 이의 신청이 진행되는 동안 잔액이 추심 기관(collections)으로 넘어가지 않도록, 의료기관에 계정을 보류 중 / 분쟁 중(on hold / in dispute)으로 표시해 달라고 요청하라.
+
+### Tiếng Việt (bản dịch)
+Khi một hóa đơn vượt quá trách nhiệm của bệnh nhân trên EOB — hoặc chưa từng có EOB nào đến — hãy xử lý theo thứ tự này:
+
+1. Yêu cầu văn phòng thanh toán của nhà cung cấp gửi hóa đơn chi tiết từng hạng mục (itemized bill) kèm ngày khám và mã thủ thuật (như mã CPT). Một tổng số tóm tắt không thể đối chiếu được.
+2. Đối chiếu hóa đơn chi tiết với EOB từng dòng một, và đánh dấu các dòng trùng lặp, dịch vụ chưa từng nhận, và số lượng sai.
+3. Gọi văn phòng thanh toán của nhà cung cấp trước: lỗi phía nhà cung cấp được sửa nhanh nhất tại nguồn. Yêu cầu phát hành lại hóa đơn đã sửa, và ghi lại ngày, giờ, cùng tên hoặc mã số của người bạn đã nói chuyện.
+4. Nếu lỗi ở phía công ty bảo hiểm — tình trạng mạng lưới bị quyết định sai, một chấp thuận trước bị xử lý sai — hãy dùng quy trình khiếu nại (appeal) in trên EOB, chú ý thời hạn của nó, và nộp tài liệu theo cách có để lại bằng chứng.
+5. Nếu cả hai phía đều không nhúc nhích, hãy đi ra bên ngoài: kênh khiếu nại của cơ quan quản lý bảo hiểm tiểu bang của bạn, và con đường liên bang No Surprises được mô tả dưới đây.
+
+Hãy giữ lại mọi thứ: EOB, hóa đơn chi tiết, thư từ và ghi chú cuộc gọi trong một thư mục theo ngày tháng. Trong khi một khoản tiền đang tranh chấp, hãy yêu cầu nhà cung cấp đánh dấu tài khoản là đang tạm giữ / đang tranh chấp (on hold / in dispute), để số dư không bị chuyển sang cơ quan thu nợ (collections) trong lúc khiếu nại của bạn đang chờ xử lý.
+
+### हिन्दी (अनुवाद)
+जब कोई बिल EOB पर दिए रोगी दायित्व से अधिक हो — या कोई EOB आया ही न हो — तो इस क्रम में काम करें:
+
+1. प्रदाता के बिलिंग कार्यालय से सेवा की तिथियों और प्रक्रिया कोड (जैसे CPT कोड) सहित मदवार बिल (itemized bill) माँगें। सारांश योग का मिलान नहीं किया जा सकता।
+2. मदवार बिल की EOB से पंक्ति-दर-पंक्ति तुलना करें और दोहरी प्रविष्टियों, कभी न ली गई सेवाओं और गलत मात्राओं को चिह्नित करें।
+3. पहले प्रदाता के बिलिंग कार्यालय को फ़ोन करें: प्रदाता-पक्ष की त्रुटियाँ स्रोत पर सबसे तेज़ ठीक होती हैं। संशोधित बिल पुनः जारी करने को कहें, और तिथि, समय तथा जिससे बात हुई उसका नाम या ID दर्ज करें।
+4. यदि त्रुटि बीमाकर्ता की ओर है — नेटवर्क स्थिति गलत तय हुई, पूर्व प्राधिकरण गलत तरीके से संभाला गया — तो EOB पर छपी अपील (appeal) प्रक्रिया का उपयोग करें, उसकी समय-सीमा का ध्यान रखें, और दस्तावेज़ इस तरह प्रस्तुत करें कि रिकॉर्ड बना रहे।
+5. यदि कोई पक्ष न हिले, तो बाहर जाएँ: आपके राज्य के बीमा नियामक का शिकायत माध्यम, और नीचे वर्णित संघीय No Surprises मार्ग।
+
+सब कुछ रखें: EOB, मदवार बिल, पत्र और कॉल नोट्स एक दिनांकित फ़ोल्डर में। जब कोई राशि विवादित हो, तो प्रदाता से खाते को रोका हुआ / विवाद में (on hold / in dispute) चिह्नित करने को कहें, ताकि आपकी अपील लंबित रहने के दौरान शेष राशि वसूली एजेंसी (collections) को न भेजी जाए।
+
 ---
 
 ## 四、无意外法案：两件能实际用上的工具
@@ -123,6 +204,27 @@ Esa vía hoy está cerrada en los supuestos cubiertos: en servicios de urgencia 
 
 La segunda herramienta es para quienes no tienen seguro o deciden pagar por su cuenta: tiene derecho a una estimación de buena fe (Good Faith Estimate) por escrito antes de la atención programada. Si la factura real de un proveedor supera su estimación en 400 dólares o más, puede iniciar el proceso de resolución de disputas paciente-proveedor de CMS para impugnarla. Guarde la estimación y la factura: son la prueba central del procedimiento.
 
+### 한국어 (초역)
+《2021년 통합세출법》(Consolidated Appropriations Act, 2021)의 일부로 제정되고 핵심 보호 규정이 2022년 1월 1일부터 시행된 《깜짝 청구 금지법》(No Surprises Act, cms.gov/nosurprises의 CMS 소비자 안내 기준)은 미국 의료에서 가장 골치 아픈 청구서를 겨냥한다. 네트워크 내 병원에 갔는데, 팀의 한 임상의(마취, 응급, 영상이 전형적인 사례)가 우연히 네트워크 외라서 네트워크 외 가격으로 청구하고, 그 차액을 본인이 떠안게 되는 경우이다. 그 차액을 차액 청구(balance billing)라고 한다.
+
+해당되는 상황에서는 이제 그 경로가 막혔다. 응급 서비스와, 네트워크 내 시설에서 일하는 네트워크 외 임상의의 서비스에 대해서는, 환자에게 차액 청구를 하는 것이 일반적으로 금지되며, 본인 부담은 네트워크 내 수준으로 계산된다. 보험과 의료기관이 가격을 두고 다투면, 독립 분쟁 해결 절차를 통해 그들끼리 해결한다. 청구서가 환자에게 떨어져서는 안 된다. 이런 양상의 청구서를 받으면, 즉석에서 내지 말고 위의 단계로 대조하고, 연방 No Surprises 헬프 데스크 1-800-985-3059로 전화하거나 CMS 웹사이트에서 도움과 민원을 요청하라.
+
+두 번째 도구는 무보험자나 자비 부담을 선택한 사람을 위한 것이다. 예약된 진료 전에 예상 비용의 서면 선의 견적(Good Faith Estimate)을 받을 권리가 있다. 특정 의료기관이나 의사의 실제 청구서가 그 견적을 400달러 이상 초과하면, CMS의 환자-의료기관 분쟁 해결 절차(Patient-Provider Dispute Resolution)를 개시하여 그 청구서에 이의를 제기할 수 있다. 견적과 청구서 둘 다 보관하라. 그 절차의 핵심 증거이다.
+
+### Tiếng Việt (bản dịch)
+Đạo luật Chống Hóa đơn Bất ngờ (No Surprises Act), được ban hành như một phần của Đạo luật Phân bổ Ngân sách Hợp nhất 2021 (Consolidated Appropriations Act, 2021), với các bảo vệ cốt lõi có hiệu lực từ ngày 1 tháng 1 năm 2022 (theo hướng dẫn cho người tiêu dùng của CMS tại cms.gov/nosurprises), nhắm vào loại hóa đơn khó chịu nhất trong y tế Mỹ: bạn đến một bệnh viện trong mạng lưới, nhưng một bác sĩ trong ê-kíp — gây mê, cấp cứu và chẩn đoán hình ảnh là những trường hợp kinh điển — tình cờ lại ngoài mạng lưới và tính phí theo mức ngoài mạng lưới, để bạn phải gánh phần chênh lệch. Phần chênh lệch đó gọi là tính phí số dư (balance billing).
+
+Con đường đó nay đã bị đóng trong các tình huống được bao phủ: đối với dịch vụ cấp cứu, và đối với các bác sĩ ngoài mạng lưới làm việc tại cơ sở trong mạng lưới, việc tính phí số dư cho bệnh nhân nói chung bị cấm, và phần chia sẻ chi phí của bạn được tính theo mức trong mạng lưới. Nếu chương trình bảo hiểm và nhà cung cấp tranh chấp về giá, họ tự giải quyết với nhau qua một quy trình giải quyết tranh chấp độc lập; hóa đơn không được phép rơi xuống bệnh nhân. Nếu bạn nhận được một hóa đơn có dạng này, đừng trả ngay — hãy đối chiếu bằng các bước ở trên, và liên hệ Đường dây Trợ giúp No Surprises liên bang theo số 1-800-985-3059 hoặc trang web của CMS để được trợ giúp và khiếu nại.
+
+Công cụ thứ hai phục vụ người không có bảo hiểm và những người chọn tự trả: bạn có quyền nhận một Ước tính Thiện chí (Good Faith Estimate) bằng văn bản về chi phí dự kiến trước khi điều trị theo lịch hẹn. Nếu hóa đơn thực tế từ một nhà cung cấp hoặc cơ sở vượt quá ước tính của nhà cung cấp đó từ 400 đô la trở lên, bạn có thể khởi động quy trình giải quyết tranh chấp bệnh nhân – nhà cung cấp của CMS để thách thức hóa đơn đó. Hãy giữ cả bản ước tính lẫn hóa đơn — chúng là bằng chứng trung tâm trong quy trình đó.
+
+### हिन्दी (अनुवाद)
+No Surprises Act, जो Consolidated Appropriations Act, 2021 के भाग के रूप में अधिनियमित हुआ और जिसके मुख्य संरक्षण 1 जनवरी 2022 से प्रभावी हैं (cms.gov/nosurprises पर CMS उपभोक्ता मार्गदर्शन के अनुसार), अमेरिकी स्वास्थ्य सेवा के सबसे बुरे बिल को निशाना बनाता है: आप नेटवर्क-भीतर अस्पताल जाते हैं, लेकिन टीम का एक चिकित्सक — संज्ञाहरण (anesthesia), आपातकाल और रेडियोलॉजी इसके क्लासिक उदाहरण हैं — संयोग से नेटवर्क-बाहर होता है और नेटवर्क-बाहर दरों पर बिल करता है, जिससे अंतर आपके ऊपर रह जाता है। उस अंतर को बैलेंस बिलिंग (balance billing) कहते हैं।
+
+कवर की गई स्थितियों में वह रास्ता अब बंद है: आपातकालीन सेवाओं के लिए, और नेटवर्क-भीतर सुविधाओं में कार्यरत नेटवर्क-बाहर चिकित्सकों के लिए, रोगी से बैलेंस बिलिंग सामान्यतः निषिद्ध है, और आपकी लागत-साझेदारी नेटवर्क-भीतर स्तरों पर गणना की जाती है। यदि योजना और प्रदाता कीमत पर विवाद करें, तो वे उसे एक स्वतंत्र विवाद समाधान प्रक्रिया के माध्यम से आपस में सुलझाते हैं; बिल रोगी पर नहीं पड़ना चाहिए। यदि आपको इस पैटर्न का बिल मिले, तो उसे देखते ही भुगतान न करें — ऊपर के चरणों से उसका मिलान करें, और सहायता व शिकायतों के लिए संघीय No Surprises Help Desk 1-800-985-3059 या CMS वेबसाइट से संपर्क करें।
+
+दूसरा साधन बिना बीमा वालों और स्वयं भुगतान चुनने वालों के लिए है: आपको निर्धारित देखभाल से पहले अपेक्षित शुल्कों का लिखित सद्भावना अनुमान (Good Faith Estimate) पाने का अधिकार है। यदि किसी प्रदाता या सुविधा का वास्तविक बिल उस प्रदाता के अनुमान से $400 या अधिक से बढ़ जाए, तो आप बिल को चुनौती देने के लिए CMS की रोगी-प्रदाता विवाद समाधान (Patient-Provider Dispute Resolution) प्रक्रिया शुरू कर सकते हैं। अनुमान और बिल दोनों रखें — वे उस प्रक्रिया के केंद्रीय साक्ष्य हैं।
+
 ---
 
 参考来源：CMS《No Surprises Act》患者指引与善意估价规则（cms.gov/nosurprises，求助热线 1-800-985-3059）；HHS 与 CMS 关于 EOB 与患者账单核对的公开指引；Healthcare.gov 术语表（Explanation of Benefits、Allowed Amount、Balance Billing 条目）。
@@ -130,3 +232,7 @@ La segunda herramienta es para quienes no tienen seguro o deciden pagar por su c
 *本文为个人学习笔记，不构成医疗、保险或财务建议。具体账单争议请咨询保险公司、机构收费部门或州保险监管机构；出现急症请立即拨打 911。*
 
 *This article is a personal study note and does not constitute medical, insurance, or financial advice. Spanish text is a study translation, pending native review.*
+
+*한국어·베트남어·힌디어 본문은 학습용 초역으로, 원어민 감수를 기다리고 있습니다.*
+*Bản tiếng Hàn, tiếng Việt và tiếng Hindi là bản dịch học tập, đang chờ người bản ngữ hiệu đính.*
+*कोरियाई, वियतनामी और हिंदी पाठ अध्ययन अनुवाद हैं; मूल-भाषी समीक्षा लंबित है।*
