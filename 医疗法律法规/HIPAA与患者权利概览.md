@@ -30,6 +30,27 @@ Lo protegido es la PHI (protected health information): información de diagnóst
 
 Conviene aclarar dos malentendidos. Primero, la HIPAA no obliga a las personas comunes: un amigo, un empleador en su condición de tal o un periodista que pregunta por su enfermedad no infringe la HIPAA, porque no están en la lista de entidades cubiertas. Segundo, la HIPAA **no otorga a los pacientes un derecho de acción privada**: si una institución maneja mal su información, la queja va a la Oficina de Derechos Civiles (OCR) del HHS, que investiga y puede sancionar. Una indemnización judicial suele tener que buscarse por otras vías, como las leyes estatales de privacidad o la responsabilidad civil.
 
+### 한국어 (초역)
+HIPAA의 정식 명칭은 Health Insurance Portability and Accountability Act이며, 1996년에 통과되었다. 프라이버시 영역의 핵심 문서는 HHS(미국 보건복지부)가 제정한 프라이버시 규칙(Privacy Rule)으로, 그 적용 대상은 "적용 대상 기관"(Covered Entities)이라 불린다. 건강 정보를 전자적으로 전송하는 의료 제공자(병원, 진료소, 약사 등), 건강보험 계획, 의료정보 교환센터(Clearinghouse), 그리고 이들의 업무 파트너(Business Associates, 청구 대행 회사, 클라우드 서비스 제공자 등)가 해당한다.
+
+이 법이 보호하는 것은 PHI(Protected Health Information, 보호 대상 건강 정보), 즉 개인과 연결될 수 있는 진단, 치료, 지불 정보이다. 기본 원칙은 이렇다. 기관은 치료, 지불, 의료 운영(Treatment / Payment / Health Care Operations, TPO) 범위 내에서만 PHI를 사용하고 공개할 수 있으며, 이 범위를 벗어나는 경우에는 원칙적으로 환자의 서면 승인(Authorization)이 필요하다. 기관의 사용과 공개는 또한 "최소 필요"(Minimum Necessary) 기준의 적용을 받는다. 해당 업무를 수행하는 데 필요한 최소한의 정보만 사용한다는 뜻이며, 치료 목적의 공개는 예외로 이 제한을 받지 않는다. 이와 함께 전자 의무기록의 시스템 보안을 다루는 보안 규칙(Security Rule)과, 정보 유출 후 영향을 받은 개인과 HHS에 통지해야 한다는 유출 통지 규칙(Breach Notification Rule)이 있다.
+
+흔한 오해 두 가지를 짚어야 한다. 첫째, HIPAA는 일반인을 구속하지 않는다. 친구, 고용주(고용주로서의 지위에서), 기자가 당신의 병세에 대해 묻는 것은 HIPAA 위반이 아니다. 그들은 적용 대상 목록에 들어 있지 않기 때문이다. 둘째, HIPAA 자체는 환자에게 개인 소송권(No private right of action)을 주지 않는다. 기관이 규정을 어겼다고 생각되면 HHS의 시민권 사무국(OCR)에 민원을 제기하고, 정부가 조사와 제재를 맡는다. 법원을 통해 배상을 받으려면 보통 주 개인정보법이나 불법행위법 같은 주법의 다른 경로를 밟아야 한다.
+
+### Tiếng Việt (bản dịch)
+Tên đầy đủ của HIPAA là Health Insurance Portability and Accountability Act, được thông qua năm 1996. Văn bản cốt lõi của nó về quyền riêng tư là Quy tắc Quyền riêng tư (Privacy Rule) do HHS (Bộ Y tế và Dịch vụ Nhân sinh Hoa Kỳ) ban hành, và đối tượng bị ràng buộc được gọi là "thực thể được điều chỉnh" (Covered Entities): các nhà cung cấp dịch vụ y tế truyền thông tin sức khỏe bằng phương tiện điện tử (bệnh viện, phòng khám, dược sĩ...), các chương trình bảo hiểm y tế, trung tâm thanh toán bù trừ thông tin y tế (Clearinghouse), cùng các đối tác kinh doanh của họ (Business Associates, như công ty thanh toán, nhà cung cấp dịch vụ đám mây).
+
+Đối tượng được bảo vệ là PHI (Protected Health Information, thông tin sức khỏe được bảo vệ) — thông tin chẩn đoán, điều trị và thanh toán có thể gắn với một cá nhân. Nguyên tắc cơ bản: các tổ chức chỉ được sử dụng và tiết lộ PHI trong phạm vi điều trị, thanh toán và vận hành y tế (Treatment / Payment / Health Care Operations, gọi tắt là TPO); ngoài phạm vi này, về nguyên tắc phải có văn bản cho phép (Authorization) của bệnh nhân. Việc sử dụng và tiết lộ của tổ chức còn chịu ràng buộc bởi tiêu chuẩn "tối thiểu cần thiết" (Minimum Necessary) — chỉ dùng lượng thông tin ít nhất cần cho công việc đó (tiết lộ phục vụ điều trị là ngoại lệ, không chịu giới hạn này). Đi kèm là Quy tắc An ninh (Security Rule, về an ninh hệ thống của hồ sơ y tế điện tử) và Quy tắc Thông báo Vi phạm (Breach Notification Rule, sau khi rò rỉ thông tin phải thông báo cho cá nhân bị ảnh hưởng và cho HHS).
+
+Cần làm rõ hai hiểu lầm phổ biến. Thứ nhất, HIPAA không ràng buộc người bình thường — bạn bè, người sử dụng lao động (trong tư cách người sử dụng lao động), nhà báo hỏi về bệnh tình của bạn không vi phạm HIPAA, vì họ không nằm trong danh sách bị điều chỉnh. Thứ hai, bản thân HIPAA không trao cho bệnh nhân quyền khởi kiện cá nhân (No private right of action): nếu cho rằng một tổ chức vi phạm, hãy khiếu nại lên Văn phòng Dân quyền (OCR) của HHS, cơ quan chính phủ sẽ điều tra và xử phạt; muốn được tòa án phán bồi thường, thường phải đi qua các con đường khác của luật tiểu bang (như luật quyền riêng tư của tiểu bang, luật bồi thường ngoài hợp đồng).
+
+### हिन्दी (अनुवाद)
+HIPAA का पूरा नाम Health Insurance Portability and Accountability Act है, जो 1996 में पारित हुआ। गोपनीयता के क्षेत्र में इसका मुख्य दस्तावेज़ HHS (अमेरिकी स्वास्थ्य और मानव सेवा विभाग) द्वारा बनाया गया गोपनीयता नियम (Privacy Rule) है, और जिन पर यह लागू होता है उन्हें "आच्छादित संस्थाएँ" (Covered Entities) कहा जाता है: स्वास्थ्य जानकारी को इलेक्ट्रॉनिक रूप से भेजने वाले स्वास्थ्य सेवा प्रदाता (अस्पताल, क्लिनिक, फार्मासिस्ट आदि), स्वास्थ्य बीमा योजनाएँ, स्वास्थ्य सूचना क्लियरिंग केंद्र (Clearinghouse), और उनके व्यावसायिक साझेदार (Business Associates, जैसे बिलिंग कंपनियाँ, क्लाउड सेवा प्रदाता)।
+
+यह जिसकी रक्षा करता है वह है PHI (Protected Health Information, संरक्षित स्वास्थ्य जानकारी) — निदान, उपचार और भुगतान की वह जानकारी जिसे किसी व्यक्ति से जोड़ा जा सके। मूल सिद्धांत: संस्थाएँ PHI का उपयोग और प्रकटीकरण केवल उपचार, भुगतान और स्वास्थ्य परिचालन (Treatment / Payment / Health Care Operations, संक्षेप में TPO) के दायरे में ही कर सकती हैं; इस दायरे से बाहर, सिद्धांततः रोगी की लिखित अनुमति (Authorization) आवश्यक है। संस्थाओं का उपयोग और प्रकटीकरण "न्यूनतम आवश्यक" (Minimum Necessary) मानक से भी बंधा है — केवल उतनी जानकारी जितनी उस कार्य के लिए आवश्यक हो (उपचार हेतु प्रकटीकरण इसका अपवाद है, उस पर यह सीमा लागू नहीं होती)। इसके साथ सुरक्षा नियम (Security Rule, इलेक्ट्रॉनिक चिकित्सा अभिलेखों की प्रणाली सुरक्षा) और उल्लंघन सूचना नियम (Breach Notification Rule, जानकारी लीक होने पर प्रभावित व्यक्तियों और HHS को सूचित करना अनिवार्य) भी हैं।
+
+दो आम गलतफहमियाँ स्पष्ट करनी चाहिए। पहली, HIPAA आम लोगों को नहीं बाँधता — कोई मित्र, नियोक्ता (अपनी नियोक्ता की भूमिका में), या पत्रकार यदि आपकी बीमारी के बारे में पूछे तो यह HIPAA का उल्लंघन नहीं है, क्योंकि वे इस सूची में नहीं हैं। दूसरी, HIPAA स्वयं रोगियों को निजी वाद का अधिकार (No private right of action) नहीं देता: यदि कोई संस्था नियम तोड़ती लगे, तो HHS के नागरिक अधिकार कार्यालय (OCR) में शिकायत करें, सरकार जाँच और दंड देगी; अदालत से मुआवज़ा पाने के लिए आमतौर पर राज्य के अन्य मार्गों (जैसे राज्य गोपनीयता कानून, अपकृत्य कानून) से जाना पड़ता है।
+
 ---
 
 ## 二、患者权利清单：病历首先是你的
@@ -67,6 +88,39 @@ Los derechos más prácticos que la HIPAA otorga a los pacientes, traducidos a a
 
 Cómo ejercerlos: acuda al responsable de privacidad (Privacy Officer) o al departamento de historias clínicas (Medical Records / HIM); la mayoría dispone de formularios estándar. Si se lo deniegan o le dan largas, la queja ante la Oficina de Derechos Civiles del HHS es gratuita y es el paso formal siguiente.
 
+### 한국어 (초역)
+HIPAA가 환자에게 주는 가장 실용적인 권리는 모두 프라이버시 규칙(Privacy Rule) 안에 있으며, 행동으로 옮기면 다음과 같다.
+
+- **의무기록 열람 및 사본 취득(Right of Access)**: 자신의 의무기록을 열람하고 사본을 받을 권리가 있다. 종이든 전자 형식이든 가능하다. 기관은 원칙적으로 30일 이내에 제공해야 하며(법에 따라 1회 연장이 가능하고 서면으로 사유를 설명해야 한다), 비용은 합리적인 복사·인건비 수준만 청구할 수 있고 터무니없이 높게 받을 수 없다. 최근 실무에서는 더 빨라진 경우가 많다. 대부분의 기관 환자 포털(Patient Portal, MyChart 등)에서는 검사 결과와 영상 보고서를 바로 볼 수 있으며, 연방 21세기 치료법(21st Century Cures Act)의 "정보 차단"(Information Blocking) 금지 규정은 기관이 정당한 사유 없이 환자에게 전자 의무기록 공개를 지연하는 것을 막는다.
+- **정정 요구(Amendment)**: 의무기록에 오류(알레르기 이력, 진단, 투약 기록)가 있으면 서면으로 정정을 요구할 수 있다. 기관은 거부할 수 있지만, 반드시 서면으로 사유를 설명해야 하며, 당신의 이의 진술이 의무기록에 첨부된다.
+- **공개 목록(Accounting of Disclosures)**: 지난 6년간 자신의 PHI가 어떤 기관에 공개되었는지 알 권리가 있다(치료, 지불, 운영 목적의 일상적 공개는 이 목록 범위에 포함되지 않으며, 이것이 자주 간과되는 예외이다).
+- **제한 및 비밀 소통**: 기관에 특정 공개를 제한해 달라고 요구할 수 있다. 특히 어떤 서비스 비용을 전액 자비로 지불한 경우, 그 정보를 자신의 보험 계획에 공개하지 않도록 기관에 요구할 권리가 있으며, 기관은 반드시 동의해야 한다. 연락 방식을 바꿔 달라고(예를 들어 집으로 전화하지 말아 달라고) 요구할 수도 있다.
+- **개인 대리인 지정**: 미성년자의 부모, 의료 대리권(Health Care Proxy / Power of Attorney)을 가진 사람은 당신을 대신해 이 권리들을 행사할 수 있다. 미성년자 본인이 통제할 수 있는 의무기록 범위(성 건강, 정신 건강 등)에 대해서는 각 주에 별도 규정이 있다.
+
+행사 경로: 기관의 프라이버시 책임자(Privacy Officer)나 의무기록 부서(Medical Records / HIM)를 찾아가라. 대부분 정해진 양식이 있다. 거절당하거나 지연될 때는 HHS OCR에 온라인으로 민원 제기하는 것이 무료이며 공식적인 다음 단계이다.
+
+### Tiếng Việt (bản dịch)
+Những quyền thực tế nhất mà HIPAA trao cho bệnh nhân đều nằm trong Quy tắc Quyền riêng tư (Privacy Rule), chuyển thành hành động thì như sau:
+
+- **Quyền truy cập và sao chép hồ sơ bệnh án (Right of Access)**: bạn có quyền xem và nhận bản sao hồ sơ bệnh án của mình, dạng giấy hoặc điện tử đều được. Tổ chức nói chung phải cung cấp trong vòng 30 ngày (có thể gia hạn một lần theo luật và phải giải thích bằng văn bản). Chi phí chỉ được tính ở mức hợp lý cho sao chép và nhân công, không được hét giá. Thực tế hai năm gần đây thường nhanh hơn: trên cổng thông tin bệnh nhân (Patient Portal, như MyChart) của đa số tổ chức, kết quả xét nghiệm và báo cáo hình ảnh có thể xem trực tiếp — lệnh cấm "chặn thông tin" (Information Blocking) trong Đạo luật Chữa trị Thế kỷ 21 (21st Century Cures Act) của liên bang yêu cầu các tổ chức không được trì hoãn vô cớ việc mở hồ sơ y tế điện tử cho bệnh nhân.
+- **Yêu cầu đính chính (Amendment)**: nếu phát hiện hồ sơ bệnh án ghi sai (tiền sử dị ứng, chẩn đoán, thuốc đang dùng), bạn có thể yêu cầu đính chính bằng văn bản; tổ chức có thể từ chối, nhưng phải giải thích lý do bằng văn bản, và tuyên bố không đồng ý của bạn sẽ được đính kèm vào hồ sơ.
+- **Danh sách tiết lộ (Accounting of Disclosures)**: bạn có quyền biết trong sáu năm qua PHI của mình đã được tiết lộ cho những tổ chức nào (các tiết lộ thường lệ phục vụ điều trị, thanh toán, vận hành không nằm trong phạm vi danh sách này — đây là ngoại lệ hay bị bỏ qua).
+- **Hạn chế và liên lạc bảo mật**: bạn có thể yêu cầu tổ chức hạn chế một số tiết lộ; đặc biệt, nếu bạn tự trả toàn bộ chi phí một dịch vụ, bạn có quyền yêu cầu tổ chức không tiết lộ thông tin đó cho chương trình bảo hiểm của bạn, và tổ chức buộc phải đồng ý. Bạn cũng có thể yêu cầu đổi cách liên lạc (ví dụ không gọi điện về nhà).
+- **Người đại diện cá nhân**: cha mẹ của trẻ vị thành niên, người có ủy quyền chăm sóc y tế (Health Care Proxy / Power of Attorney) có thể thay bạn thực hiện các quyền này; mỗi tiểu bang có quy định riêng về phạm vi hồ sơ mà trẻ vị thành niên tự kiểm soát (như sức khỏe tình dục, sức khỏe tâm thần).
+
+Cách thực hiện: tìm viên chức phụ trách quyền riêng tư (Privacy Officer) của tổ chức hoặc phòng hồ sơ bệnh án (Medical Records / HIM), đa số đều có mẫu đơn sẵn. Khi bị từ chối hoặc bị kéo dài, khiếu nại trực tuyến lên OCR của HHS là bước tiếp theo chính thức và miễn phí.
+
+### हिन्दी (अनुवाद)
+HIPAA रोगियों को जो सबसे व्यावहारिक अधिकार देता है, वे सभी गोपनीयता नियम (Privacy Rule) में हैं, और कार्य रूप में वे इस प्रकार हैं:
+
+- **अभिलेख देखने और प्रति लेने का अधिकार (Right of Access)**: आपको अपने चिकित्सा अभिलेख देखने और उनकी प्रति प्राप्त करने का अधिकार है, कागज़ी या इलेक्ट्रॉनिक किसी भी रूप में। संस्था को सामान्यतः 30 दिनों के भीतर देना होता है (कानून के अनुसार एक बार विस्तार संभव है, लिखित स्पष्टीकरण सहित)। शुल्क केवल उचित प्रतिलिपि/श्रम लागत तक सीमित है, मनमाना शुल्क नहीं वसूला जा सकता। हाल के वर्षों में व्यवहार में यह अक्सर तेज़ हो गया है: अधिकांश संस्थाओं के रोगी पोर्टल (Patient Portal, जैसे MyChart) पर जाँच परिणाम और इमेजिंग रिपोर्ट सीधे दिखती हैं — संघीय 21st Century Cures Act के "सूचना अवरोध" (Information Blocking) निषेध के तहत संस्थाएँ बिना उचित कारण रोगियों के लिए इलेक्ट्रॉनिक अभिलेख खोलने में देरी नहीं कर सकतीं।
+- **संशोधन का अनुरोध (Amendment)**: यदि अभिलेख में कोई गलती (एलर्जी इतिहास, निदान, दवा अभिलेख) दिखे, तो लिखित रूप से संशोधन माँग सकते हैं; संस्था मना कर सकती है, पर उसे लिखित कारण बताना होगा, और आपका असहमति कथन अभिलेख में जुड़ जाएगा।
+- **प्रकटीकरण सूची (Accounting of Disclosures)**: आपको यह जानने का अधिकार है कि पिछले छह वर्षों में आपका PHI किन संस्थाओं को प्रकट हुआ (उपचार, भुगतान, परिचालन हेतु नियमित प्रकटीकरण इस सूची के दायरे में नहीं आते — यही वह अपवाद है जो अक्सर नज़रअंदाज़ होता है)।
+- **प्रतिबंध और गोपनीय संचार**: आप संस्था से कुछ प्रकटीकरणों को सीमित करने को कह सकते हैं; विशेष रूप से, यदि आप किसी सेवा का पूरा भुगतान स्वयं करें, तो आपको यह माँगने का अधिकार है कि संस्था वह जानकारी आपकी बीमा योजना को न दे, और संस्था को मानना ही होगा। आप संपर्क का तरीका बदलने को भी कह सकते हैं (जैसे घर पर फ़ोन न करें)।
+- **व्यक्तिगत प्रतिनिधि निर्दिष्ट करना**: नाबालिगों के माता-पिता, स्वास्थ्य देखभाल प्रतिनिधि अधिकार (Health Care Proxy / Power of Attorney) रखने वाले व्यक्ति आपकी ओर से ये अधिकार प्रयोग कर सकते हैं; नाबालिग स्वयं किन अभिलेखों को नियंत्रित कर सकते हैं (यौन स्वास्थ्य, मानसिक स्वास्थ्य आदि), इस पर प्रत्येक राज्य के अलग नियम हैं।
+
+उपयोग का मार्ग: संस्था के गोपनीयता अधिकारी (Privacy Officer) या चिकित्सा अभिलेख विभाग (Medical Records / HIM) से संपर्क करें, अधिकांश के पास निश्चित प्रपत्र होते हैं। मना किए जाने या टालमटोल पर, HHS OCR में ऑनलाइन शिकायत मुफ़्त और औपचारिक अगला कदम है।
+
 ---
 
 ## 三、EMTALA：急诊不能因为没钱拒诊
@@ -94,6 +148,30 @@ La escena cinematográfica del paciente sin seguro expulsado de urgencias está 
 2. **Estabilización**: si se confirma una condición de emergencia, el hospital debe dar el tratamiento necesario para estabilizarla, o trasladar al paciente solo bajo condiciones estrictas: consentimiento informado, centro receptor que haya aceptado, documentación de riesgos y beneficios (un «traslado apropiado»). Las mujeres de parto están expresamente protegidas.
 
 También hay que conocer los límites: la EMTALA regula el cribado y la estabilización en el contexto de urgencias. No hace gratuita la atención posterior, no se aplica a las consultas ordinarias, y las facturas tras la estabilización siguen existiendo. La EMTALA y la HIPAA son leyes distintas que a menudo se confunden: una dice «no pueden rechazarte» y la otra «tu información no puede divulgarse libremente».
+
+### 한국어 (초역)
+영화에서 "보험이 없다고 응급실에서 내쫓기는" 장면은 1986년의 연방법 하나로 법적으로 막혀 있다. EMTALA(Emergency Medical Treatment and Labor Act)이다. 이 법은 Medicare에 참여하는 병원(사실상 응급실이 있는 거의 모든 병원)에 적용되며, 핵심 의무는 두 가지이다.
+
+1. **의료 선별 검사(Medical Screening Examination)**: 응급실에 온 사람은 누구나 응급 의료 상태(Emergency Medical Condition)가 있는지를 판단하기 위한 적절한 선별 검사를 받아야 한다. 병원은 지불 능력, 보험 상태, 신분을 이유로 그 검사를 지연하거나 거부할 수 없다.
+2. **안정화(Stabilization)**: 응급 상태가 확인되면, 병원은 상태를 안정시키는 데 필요한 치료를 제공해야 하며, 엄격한 조건을 충족할 때만 전원이 가능하다. 즉 환자의 정보에 입각한 동의, 인수 병원의 동의, 위험과 이득에 대한 문서화("적절한 전원")가 필요하다. 진통 중인 산모는 명시적으로 보호받는다.
+
+한계도 알아 두어야 한다. EMTALA는 응급 상황에서의 선별과 안정화를 다룬다. 후속 치료를 무료로 만들어 주지 않고, 일반 외래 진료에는 적용되지 않으며, 안정화 이후의 청구서는 그대로 존재한다. EMTALA와 HIPAA는 자주 혼동되는 서로 다른 법이다. 하나는 "돌려보낼 수 없다"고 말하고, 다른 하나는 "정보를 함부로 나눠 줄 수 없다"고 말한다.
+
+### Tiếng Việt (bản dịch)
+Cảnh trong phim người bệnh không có bảo hiểm bị đẩy ra khỏi phòng cấp cứu đã bị một đạo luật liên bang năm 1986 chặn đứng về mặt pháp lý: EMTALA (Emergency Medical Treatment and Labor Act). Luật này áp dụng cho các bệnh viện tham gia Medicare — thực tế là gần như mọi bệnh viện có khoa cấp cứu — và đặt ra hai nghĩa vụ cốt lõi:
+
+1. **Khám sàng lọc y tế (Medical Screening Examination)**: bất kỳ ai đến khoa cấp cứu đều phải được khám sàng lọc phù hợp để xác định có tồn tại tình trạng y tế khẩn cấp (Emergency Medical Condition) hay không. Bệnh viện không được trì hoãn hoặc từ chối việc khám đó vì khả năng chi trả, tình trạng bảo hiểm hay danh tính.
+2. **Ổn định hóa (Stabilization)**: nếu xác nhận có tình trạng khẩn cấp, bệnh viện phải cung cấp điều trị để ổn định tình trạng đó, hoặc chỉ chuyển viện khi đáp ứng các điều kiện nghiêm ngặt — đồng ý sau khi được thông tin đầy đủ, cơ sở tiếp nhận đã đồng ý, ghi chép về rủi ro và lợi ích ("chuyển viện thích hợp"). Sản phụ đang chuyển dạ được bảo vệ rõ ràng.
+
+Cũng cần biết giới hạn: EMTALA điều chỉnh việc sàng lọc và ổn định hóa trong bối cảnh cấp cứu. Nó không làm cho điều trị tiếp theo thành miễn phí, không áp dụng cho khám ngoại trú thông thường, và hóa đơn sau khi ổn định vẫn tồn tại. EMTALA và HIPAA là hai đạo luật khác nhau thường bị nhầm lẫn — một luật nói "không được từ chối tiếp nhận", luật kia nói "thông tin không được tùy tiện tiết lộ".
+
+### हिन्दी (अनुवाद)
+फ़िल्मों में "बीमा न होने पर रोगी को आपातकालीन कक्ष से बाहर निकाल दिया गया" वाला दृश्य एक 1986 के संघीय कानून द्वारा कानूनी रूप से रोका गया है: EMTALA (Emergency Medical Treatment and Labor Act)। यह Medicare में भाग लेने वाले अस्पतालों पर लागू होता है — व्यवहार में लगभग हर अस्पताल जिस में आपातकालीन विभाग है — और दो मुख्य दायित्व देता है:
+
+1. **चिकित्सा जाँच परीक्षा (Medical Screening Examination)**: आपातकालीन विभाग में आने वाले प्रत्येक व्यक्ति को उचित जाँच मिलनी चाहिए ताकि यह तय हो सके कि आपातकालीन चिकित्सा स्थिति (Emergency Medical Condition) मौजूद है या नहीं। अस्पताल भुगतान क्षमता, बीमा स्थिति या पहचान के कारण उस जाँच में देरी या इनकार नहीं कर सकता।
+2. **स्थिरीकरण (Stabilization)**: यदि आपातकालीन स्थिति की पुष्टि हो, तो अस्पताल को उसे स्थिर करने का उपचार देना होगा, या केवल सख्त शर्तों के तहत ही स्थानांतरण करना होगा — सूचित सहमति, ग्रहण करने वाली सुविधा की सहमति, जोखिमों और लाभों का प्रलेखन ("उपयुक्त स्थानांतरण")। प्रसव पीड़ा में महिलाएँ स्पष्ट रूप से संरक्षित हैं।
+
+सीमाएँ भी जाननी चाहिए: EMTALA आपातकालीन संदर्भ में जाँच और स्थिरीकरण को नियंत्रित करता है। यह आगे के उपचार को मुफ़्त नहीं बनाता, सामान्य क्लिनिक दौरों पर लागू नहीं होता, और स्थिरीकरण के बाद के बिल बने रहते हैं। EMTALA और HIPAA अलग-अलग कानून हैं जिन्हें अक्सर मिला दिया जाता है — एक कहता है "आपको लौटाया नहीं जा सकता", दूसरा कहता है "आपकी जानकारी इधर-उधर नहीं दी जा सकती"।
 
 ---
 
@@ -132,8 +210,45 @@ El mapa federal-estatal en sanidad es el siguiente:
 
 Ante un problema de derechos, el orden de revisión es: primero la HIPAA (suelo federal); después la ley estatal de privacidad y licencias (a menudo más detallada y estricta); por último, las políticas de la propia institución (que solo pueden proteger al paciente más que la ley, nunca menos).
 
+### 한국어 (초역)
+정보에 입각한 동의(Informed Consent)는 HIPAA의 내용이 아니다. 수술, 침습적 검사, 마취에 서명하는 동의서는 주로 각 주의 법률과 판례가 다룬다. 의사는 진단, 제안된 시술의 성격과 위험, 대안과 그 각각의 위험, 거부할 경우의 결과를 설명해야 하며, 환자(또는 대리인)는 이해한 뒤 자발적으로 동의해야 한다. 응급 상황에는 예외가 있다. 환자가 의식이 없고 대리인에게 연락할 수 없을 때는 먼저 치료한다. 서면인지 구두인지의 형식, 증인, 통역 요건은 주마다 다르다.
+
+의료 영역에서 연방과 주의 지도는 다음과 같다.
+
+- **연방 담당**: HIPAA 프라이버시 최저 기준, EMTALA 응급 의무, Medicare/Medicaid 지불 규칙, FDA의 의약품·의료기기 승인, DEA의 규제 약물 관리.
+- **주 담당**: 모든 의료 직종의 면허 발급과 징계(주 위원회), 병원 면허, 의료 과실(Malpractice) 규칙, 정보에 입각한 동의의 세부 사항, 주 개인정보법.
+- **주는 더 엄격할 수 있다**: HIPAA는 천장이 아니라 바닥이다. 주 개인정보법이 HIPAA보다 환자를 더 보호하는 경우, 더 엄격한 법이 적용된다(선점 규칙: HIPAA는 더 엄격한 주법을 대체하지 않는다). 대표적인 예가 캘리포니아의 CMIA(Confidentiality of Medical Information Act, 의료 정보 비밀 유지법)로, HIPAA보다 적용 범위가 넓고, HIPAA와 달리 환자 본인이 손해배상을 청구할 수 있어, HIPAA가 남긴 바로 그 공백을 메운다.
+
+따라서 권리 문제가 생기면 이 순서로 점검하라. 먼저 HIPAA(연방 최저 기준), 다음으로 거주 주의 개인정보법과 면허법(흔히 더 상세하고 엄격하다), 마지막으로 기관 자체 정책(법보다 환자를 더 보호할 수는 있어도, 덜 보호할 수는 없다).
+
+### Tiếng Việt (bản dịch)
+Đồng ý sau khi được thông tin đầy đủ (Informed Consent) không phải là nội dung của HIPAA. Các mẫu đồng ý bạn ký cho phẫu thuật, thủ thuật xâm lấn và gây mê chủ yếu do luật và án lệ của từng tiểu bang điều chỉnh: bác sĩ phải giải thích chẩn đoán, bản chất và rủi ro của thủ thuật được đề xuất, các phương án thay thế và rủi ro của chúng, cùng hậu quả nếu từ chối; bệnh nhân (hoặc người đại diện) phải đồng ý tự nguyện sau khi đã hiểu. Trường hợp khẩn cấp có ngoại lệ: khi bệnh nhân bất tỉnh và không liên lạc được người đại diện, hãy điều trị trước. Các tiểu bang khác nhau về hình thức (văn bản hay miệng), người làm chứng và yêu cầu phiên dịch.
+
+Bản đồ liên bang – tiểu bang trong y tế như sau:
+
+- **Liên bang quản**: mức sàn quyền riêng tư của HIPAA, nghĩa vụ cấp cứu của EMTALA, quy tắc thanh toán của Medicare/Medicaid, phê duyệt thuốc và thiết bị của FDA, kiểm soát chất bị kiểm soát của DEA.
+- **Tiểu bang quản**: cấp phép và kỷ luật mọi nghề y tế (hội đồng tiểu bang), cấp phép bệnh viện, quy tắc về sơ suất y khoa (Malpractice), chi tiết của đồng ý sau khi được thông tin, và luật quyền riêng tư của tiểu bang.
+- **Tiểu bang có thể nghiêm hơn**: HIPAA là sàn, không phải trần. Khi luật quyền riêng tư của tiểu bang bảo vệ bệnh nhân hơn HIPAA, luật nghiêm hơn sẽ được áp dụng (quy tắc ưu tiên: HIPAA không thay thế luật tiểu bang nghiêm ngặt hơn). Ví dụ điển hình là CMIA của California (Confidentiality of Medical Information Act, Đạo luật Bảo mật Thông tin Y tế), có phạm vi rộng hơn HIPAA và — khác với HIPAA — cho phép bệnh nhân tự khởi kiện đòi bồi thường, lấp đúng khoảng trống mà HIPAA để lại.
+
+Vì vậy khi có vấn đề về quyền, hãy rà soát theo thứ tự này: trước hết HIPAA (sàn liên bang); sau đó luật quyền riêng tư và cấp phép của tiểu bang bạn (thường chi tiết và nghiêm hơn); cuối cùng là chính sách của chính tổ chức (chỉ có thể bảo vệ bệnh nhân hơn luật, không bao giờ kém hơn).
+
+### हिन्दी (अनुवाद)
+सूचित सहमति (Informed Consent) HIPAA का हिस्सा नहीं है। सर्जरी, आक्रामक प्रक्रियाओं और संज्ञाहरण के लिए आप जिन सहमति प्रपत्रों पर हस्ताक्षर करते हैं, वे मुख्यतः राज्यों के कानूनों और न्यायिक निर्णयों से संचालित होते हैं: चिकित्सक को निदान, प्रस्तावित प्रक्रिया की प्रकृति और जोखिम, विकल्प और उनके जोखिम, तथा अस्वीकार करने के परिणाम समझाने होते हैं, और रोगी (या प्रतिनिधि) को समझने के बाद स्वेच्छा से सहमति देनी होती है। आपात स्थितियों में अपवाद है — जब रोगी बेहोश हो और किसी प्रतिनिधि से संपर्क न हो सके, तो पहले उपचार किया जाता है। प्रारूप (लिखित या मौखिक), गवाह और दुभाषिया आवश्यकताओं में राज्य भिन्न हैं।
+
+स्वास्थ्य सेवा में संघीय–राज्य मानचित्र इस प्रकार है:
+
+- **संघीय**: HIPAA गोपनीयता न्यूनतम आधार, EMTALA आपातकालीन दायित्व, Medicare/Medicaid भुगतान नियम, FDA द्वारा दवाओं और उपकरणों का अनुमोदन, DEA द्वारा नियंत्रित पदार्थों का नियंत्रण।
+- **राज्य**: प्रत्येक स्वास्थ्य पेशे का लाइसेंस और अनुशासन (राज्य बोर्ड), अस्पताल लाइसेंस, चिकित्सा कदाचार (Malpractice) नियम, सूचित सहमति के विवरण, और राज्य गोपनीयता कानून।
+- **राज्य अधिक सख्त हो सकते हैं**: HIPAA एक फ़र्श है, छत नहीं। जहाँ राज्य का गोपनीयता कानून HIPAA से अधिक रोगी-संरक्षण देता है, वहाँ सख्त कानून लागू होता है (अधिभाविता नियम: HIPAA अधिक कठोर राज्य कानून को विस्थापित नहीं करता)। एक पाठ्यपुस्तक उदाहरण कैलिफ़ोर्निया का CMIA (Confidentiality of Medical Information Act) है, जिसका दायरा HIPAA से व्यापक है और — HIPAA के विपरीत — रोगियों को स्वयं क्षतिपूर्ति का मुकदमा करने देता है, ठीक उसी खाई को भरता है जो HIPAA छोड़ता है।
+
+इसलिए जब अधिकारों का प्रश्न उठे, तो इस क्रम में जाँचें: पहले HIPAA (संघीय आधार) → फिर आपके राज्य का गोपनीयता और लाइसेंस कानून (अक्सर अधिक विस्तृत और सख्त) → अंत में संस्था की अपनी नीतियाँ (जो कानून से अधिक रोगी-संरक्षण दे सकती हैं, कम कभी नहीं)।
+
 ---
 
 参考来源：HHS Office for Civil Rights 的 HIPAA 官方说明与 Privacy Rule 条文（45 CFR Part 164）、CMS 的 EMTALA 官方资料、加州 CMIA（Civil Code §56 起）、21st Century Cures Act 信息封锁规则（ONC）。
 
 *本文为个人学习笔记，不构成法律建议，也不构成医疗建议。具体权利纠纷请咨询医疗法律师或向 HHS OCR、各州执照委员会咨询投诉。*
+
+*한국어·베트남어·힌디어 본문은 학습용 초역으로, 원어민 감수를 기다리고 있습니다.*
+*Bản tiếng Hàn, tiếng Việt và tiếng Hindi là bản dịch học tập, đang chờ người bản ngữ hiệu đính.*
+*कोरियाई, वियतनामी और हिंदी पाठ अध्ययन अनुवाद हैं; मूल-भाषी समीक्षा लंबित है।*
