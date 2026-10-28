@@ -47,6 +47,7 @@
 - [知情同意与预立医疗指示：从 Cruzan 到加州 AHCD](医疗法律法规/知情同意与预立医疗指示-从Cruzan到加州AHCD.md) —— Schloendorff（211 N.Y. 125）与 Canterbury/Cobbs 的患者中心披露标准、Cruzan（497 U.S. 261）的明确而令人信服证据门槛与《患者自决法》（42 U.S.C. §§ 1395cc(f)/1396a(w)），以及加州 AHCD（Probate Code §§ 4600–4805、表格 § 4701）与 POLST（§§ 4780–4785）的分工。
 - [转诊利益冲突怎么管：联邦反回扣法与 Stark 法](医疗法律法规/转诊利益冲突怎么管-联邦反回扣法与Stark法.md) —— AKS（42 U.S.C. § 1320a-7b(b)）的故意与 one purpose 测试、§ 1001.952 安全港的自愿性，对照 Stark 法（§ 1395nn）的严格责任、DHS 与强制性例外，再接 FCA（31 U.S.C. § 3729）三倍赔偿的联动，以及加州 PORA（BPC § 650.01）与 § 650 的州法加层。（六语对照）
 - [美国医疗保险的法律骨架：Medicare、Medicaid、ACA 与雇主计划](医疗法律法规/美国医疗保险的法律骨架-Medicare-Medicaid-ACA与雇主计划.md) —— 四块拼图一张图：Medicare（SSA Title XVIII，42 U.S.C. § 1395 起，Part A/B/C/D 与 Part B 2026 年自付额 283 美元）、Medicaid（Title XIX 与 FMAP、加州 Medi-Cal）、ACA（2010 年框架法、联邦罚款自 2019 年为 0、Covered California 与加州州级 mandate），以及 ERISA § 514 联邦优先与 self-funded/fully-insured 的监管分界。（六语对照）
+- [远程医疗与跨州执业怎么管：执照所在州、知情同意与支付平价](医疗法律法规/远程医疗与跨州执业怎么管-执照所在州同意与支付平价.md) —— 执照跟着病人走的第一原则与 IMLC 互认捷径、Ryan Haight 法（21 U.S.C. § 829(e)）的面诊门槛与 DEA 弹性政策、加州 BPC § 2290.5 的同意与同等诊疗标准及 § 2242 处方红线，以及 HSC § 1374.13／Ins. Code § 10123.855 的覆盖与支付平价。（六语对照）
 
 ## 关于西语版
 
