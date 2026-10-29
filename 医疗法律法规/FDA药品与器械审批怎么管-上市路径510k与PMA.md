@@ -1,8 +1,8 @@
 # FDA 药品与器械审批怎么管：上市路径、510(k) 与 PMA
 
 这篇讲什么：
-- 一盒药、一台呼吸机凭什么能卖，不是企业说了算，而是 FDCA 先划线、FDA 按风险分道审批。这篇按「法律底盘 → 药品路径 → 器械路径 → 应急与加速 → 上市后与加州衔接」走，条号钉在每一步上。
-- 来源口径：FDCA，21 U.S.C. §§ 301 et seq.；定义 § 321(g)/(h)；IND 21 C.F.R. Part 312；器械报告 21 C.F.R. Part 803；EUA § 564，21 U.S.C. § 360bbb-3；加州 Sherman 法，Cal. Health & Safety Code §§ 109875 et seq.（提纲 §§ 109600 起经核不合，正文按核正条号写）。产品分类与状态以 FDA 当期数据库为准。
+- 一盒药、一台呼吸机凭什么能卖，不是企业说了算，而是 FDCA 先划线、FDA 按风险分道审批。这篇按法律底盘、药品、器械、应急与加速、上市后五部分走。
+- 来源：FDCA，21 U.S.C. §§ 301 et seq.；定义 § 321(g)/(h)；IND 21 C.F.R. Part 312；EUA § 564，21 U.S.C. § 360bbb-3；加州 Sherman 法，Cal. Health & Safety Code §§ 109875 et seq.（提纲 §§ 109600 起经核不合，正文按核正条号写）。
 
 ---
 
@@ -14,7 +14,7 @@
 
 ### English
 
-The foundation is the Federal Food, Drug, and Cosmetic Act of 1938, at 21 U.S.C. sections 301 et seq., enforced by FDA product centers: CDER for most small-molecule drugs, CBER for vaccines, blood products, and most biologics, and CDRH for medical devices. Classification turns on the definitions. A drug under section 321(g) is an article intended to diagnose, cure, mitigate, treat, or prevent disease, or to affect the structure or function of the body. A device under section 321(h) may serve similar purposes but does not achieve its primary purpose through chemical action in or on the body and is not dependent on being metabolized — the watershed that sends many products to CDER rather than CDRH. Beyond premarket review, section 331 lists prohibited acts such as shipping adulterated or misbranded products in interstate commerce, section 351 defines adulteration, and section 352 defines misbranding.
+The foundation is the Federal Food, Drug, and Cosmetic Act of 1938, at 21 U.S.C. sections 301 et seq., enforced by FDA product centers: CDER for most small-molecule drugs, CBER for vaccines and most biologics, and CDRH for devices. Classification turns on the definitions. A drug under section 321(g) is an article intended to diagnose, cure, mitigate, treat, or prevent disease, or to affect the structure or function of the body. A device under section 321(h) may serve similar purposes but does not achieve its primary purpose through chemical action in or on the body and is not dependent on being metabolized — the watershed that sends many products to CDER rather than CDRH. Beyond premarket review, section 331 lists prohibited acts such as shipping adulterated or misbranded products in interstate commerce, section 351 defines adulteration, and section 352 defines misbranding.
 
 ### Español (译稿)
 
@@ -126,11 +126,11 @@ Khẩn cấp mở ra một cửa hẹp: EUA theo § 564, 21 U.S.C. § 360bbb-3. 
 
 ### English
 
-Approval is not the end. Adverse events are reported through MedWatch, and firm duties are stricter: device manufacturers and importers report device-related deaths, serious injuries, and reportable malfunctions under MDR, 21 C.F.R. Part 803 — generally within 30 calendar days for manufacturers, and 5 work days for certain events needing remedial action — while user facilities report deaths and serious injuries to FDA or the manufacturer. A report is a signal, not proof of causation. Most recalls are firm-initiated voluntarily under 21 C.F.R. Part 7. FDA has no general mandatory recall authority over ordinary drugs, where recalls usually depend on firm cooperation backed by seizure and injunction, apart from specific authorities for particular categories. For foods, section 423, added by FSMA, does grant mandatory authority. For devices, section 518(e), 21 U.S.C. section 360h(e), and 21 C.F.R. Part 810 allow FDA, on finding a reasonable probability of serious adverse consequences or death, to order distribution stopped and notice given, allow a hearing, and then order a recall. In California, in-state manufacturing also requires a license from the CDPH Food and Drug Branch under the Sherman Law, Health & Safety Code sections 109875 et seq., plus inspection.
+Approval is not the end. Adverse events are reported through MedWatch, and firm duties are stricter: device manufacturers and importers report device-related deaths, serious injuries, and reportable malfunctions under MDR, 21 C.F.R. Part 803 — generally within 30 calendar days for manufacturers, and 5 work days for certain events needing remedial action — Most recalls are firm-initiated voluntarily under 21 C.F.R. Part 7. FDA has no general mandatory recall authority over ordinary drugs, where recalls usually depend on firm cooperation backed by seizure and injunction, apart from specific authorities for particular categories. For foods, section 423, added by FSMA, does grant mandatory authority. For devices, section 518(e), 21 U.S.C. section 360h(e), and 21 C.F.R. Part 810 allow FDA, on finding a reasonable probability of serious adverse consequences or death, to order distribution stopped and notice given, allow a hearing, and then order a recall. In California, in-state manufacturing also requires a license from the CDPH Food and Drug Branch under the Sherman Law, Health & Safety Code sections 109875 et seq., plus inspection.
 
 ### Español (译稿)
 
-La aprobación no es el final. Los eventos adversos se informan por MedWatch, y los deberes de la empresa son más estrictos: fabricantes e importadores de dispositivos informan muertes, lesiones graves y fallos notificables conforme al MDR, 21 C.F.R. Part 803 — en general en 30 días naturales para el fabricante, y en 5 días laborables para ciertos eventos que exigen acción correctiva — mientras los centros usuarios informan muertes y lesiones graves a la FDA o al fabricante. Un informe es una señal, no prueba de causalidad. La mayoría de los retiros son voluntarios, iniciados por la empresa bajo 21 C.F.R. Part 7. La FDA no tiene una facultad general de retiro obligatorio sobre los medicamentos ordinarios, donde el retiro suele depender de la cooperación de la empresa respaldada por incautación y órdenes judiciales, salvo autoridades específicas. Para los alimentos, el § 423, añadido por la FSMA, sí concede facultad obligatoria. Para los dispositivos, el § 518(e), 21 U.S.C. § 360h(e), y 21 C.F.R. Part 810 permiten a la FDA, hallada una probabilidad razonable de consecuencias graves o muerte, ordenar el cese de la distribución y la notificación, dar audiencia y después ordenar el retiro. En California, fabricar en el estado exige además licencia de la Food and Drug Branch del CDPH conforme a la Ley Sherman, Health & Safety Code §§ 109875 y ss., más inspección. (Traducción de estudio, pendiente de revisión nativa.)
+La aprobación no es el final. Los eventos adversos se informan por MedWatch, y los deberes de la empresa son más estrictos: fabricantes e importadores de dispositivos informan muertes, lesiones graves y fallos notificables conforme al MDR, 21 C.F.R. Part 803 — en general en 30 días naturales para el fabricante, y en 5 días laborables para ciertos eventos que exigen acción correctiva — Un informe es una señal, no prueba de causalidad. La mayoría de los retiros son voluntarios, iniciados por la empresa bajo 21 C.F.R. Part 7. La FDA no tiene una facultad general de retiro obligatorio sobre los medicamentos ordinarios, donde el retiro suele depender de la cooperación de la empresa respaldada por incautación y órdenes judiciales, salvo autoridades específicas. Para los alimentos, el § 423, añadido por la FSMA, sí concede facultad obligatoria. Para los dispositivos, el § 518(e), 21 U.S.C. § 360h(e), y 21 C.F.R. Part 810 permiten a la FDA, hallada una probabilidad razonable de consecuencias graves o muerte, ordenar el cese de la distribución y la notificación, dar audiencia y después ordenar el retiro. En California, fabricar en el estado exige además licencia de la Food and Drug Branch del CDPH conforme a la Ley Sherman, Health & Safety Code §§ 109875 y ss., más inspección. (Traducción de estudio, pendiente de revisión nativa.)
 
 ### 한국어 (초역·교정 대기)
 
@@ -149,11 +149,11 @@ Phê duyệt không phải điểm kết thúc. Biến cố bất lợi được
 ## 参考依据
 
 - FDCA, 21 U.S.C. §§ 301 et seq.；定义 § 321(g)/(h)；禁止行为 § 331；掺假 § 351；错误标识 § 352
-- 药品：§ 505(i) IND（21 U.S.C. § 355(i)；21 C.F.R. Part 312）、§ 505(b) NDA、§ 505(j) ANDA、§ 505(b)(2)；Drug Price Competition and Patent Term Restoration Act of 1984（Hatch-Waxman），含 180 天首仿独占框架（§ 505(j)(5)(B)(iv) 一带）
+- 药品：§ 505(i) IND（21 U.S.C. § 355(i)；21 C.F.R. Part 312）、§ 505(b) NDA、§ 505(j) ANDA、§ 505(b)(2)；Drug Price Competition and Patent Term Restoration Act of 1984（Hatch-Waxman），含 180 天首仿独占框架
 - 器械：§ 513 分级与 § 513(i) 实质等同（21 U.S.C. § 360c）、§ 510(k) 上市前通知（21 U.S.C. § 360(k)）、§ 513(f)(2) De Novo、§ 515 PMA（21 U.S.C. § 360e）
 - 应急：§ 564 EUA（21 U.S.C. § 360bbb-3）；加速项目见 FDA 当期说明
 - 上市后：21 C.F.R. Part 803（MDR）、21 C.F.R. Part 7（自愿召回）；器械强制召回 § 518(e)（21 U.S.C. § 360h(e)；21 C.F.R. Part 810）；食品强制召回 § 423（21 U.S.C. § 350l，FSMA 加入）
-- 加州：Sherman Food, Drug, and Cosmetic Law, Cal. Health & Safety Code §§ 109875 et seq.（Division 104, Part 5，约 §§ 109875–111929.5）。说明：提纲 §§ 109600 et seq. 经核不合现行编纂，正文按核正条号写。
+- 加州：Sherman Food, Drug, and Cosmetic Law, Cal. Health & Safety Code §§ 109875 et seq.。说明：提纲 §§ 109600 et seq. 经核不合现行编纂，正文按核正条号写。
 
 ## 免责声明
 
