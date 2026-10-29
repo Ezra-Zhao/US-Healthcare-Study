@@ -25,6 +25,7 @@
 - [呼吸治疗执照深挖：NBRC 的 TMC 与 CSE 与加州发照衔接](执照备考/呼吸治疗执照考试深挖-NBRC的TMC与CSE与加州衔接.md) —— 执照备考扩展站：NBRC 的 CRT／RRT 两级阶梯——TMC 160 题（140 计分＋20 预试）3 小时、一卷双分数线（低线得 CRT、高线得 CRT 并取得 CSE 资格），CSE 22 个病例题（20 计分）4 小时分信息收集与决策两段，报考须年满 18 岁且毕业于 CoARC 认证项目（副学士起）；加州由 Respiratory Care Board 依 BPC §§ 3700 起发照、考试规则在 § 3735，2015-01-01 起新发照须 RRT 级（2015 年前已取得的 CRT 除外）；并前置注明 NBRC 双考制将于 2026-12-31 退役、2027-01-01 起改单一 Respiratory Therapy Examination。（六语对照）
 - [验光师执照深挖：NBEO 三部分、TMOD 与加州发照衔接](执照备考/验光师执照考试深挖-NBEO与加州衔接.md) —— 执照备考扩展站：先分清三道门——入学考 OAT 不是执照考、NBEO 只管考试不发照、州法律考各州自设；NBEO 三部分递进：Part I ABS 应用基础科学（ACOE 认证项目第三学年 3 月期起报考）、Part II PAM 病例型临床决策与单独成关的 TMOD 眼病治疗管理、Part III PEPS 实操技能（旧称 Clinical Skills Exam），ISE 注射与 LSPE 激光外科为按州执业范围定的选考；题量费用分数线一律以当期 Candidate Guide 为准不写死；加州衔接依验光局官网与 BPC §§ 3056／3057：OD 学位＋NBEO 三部分＋TMOD＋CLRE 加州法规考＋指纹背景审查，申请走 BreEZe 先 Part 1 取得 CLRE 资格。（六语对照）
 - [超声诊断技师深挖：ARDMS、SPI＋专科两关与加州衔接](执照备考/超声诊断技师执照考试深挖-ARDMS与加州衔接.md) —— 执照备考扩展站：先分清认证／州执照／雇主门槛三层——ARDMS 的 RDMS／RDCS／RVT／RMSKS 与 CCI、ARRT 凭据互认，全国只有 NH／NM／ND／OR 四州另设州执照且以认证为前提，加州无超声技师执照、门槛在 CAAHEP 认证项目毕业＋ARDMS 在册；SPI 物理地基与专科两关可先后考但须五年内合流，选项目先查 CAAHEP 名录。（六语对照）
+- [USMLE Step 3 深挖：两日结构、CCS 与执照衔接](执照备考/USMLE-Step3执照考试深挖-两日结构CCS与执照衔接.md) —— 执照备考扩展站：Step 3 两日可分开预约——Day 1 FIP 约 232 题、6 个 60 分钟 block，Day 2 ACM 约 180 题＋13 个 CCS 病例（每例 10 或 20 分钟）；两日合并一个总分、CCS 计入总分，现行最低通过分 200（2024-01-01 起，此前 198）；资格须先过 Step 1 与 Step 2 CK 并取得 MD/DO（IMG 须 ECFMG 认证），经 FSMB 选州 sponsor 报名，每 Step 上限 4 次；加州经 Medical Board 发照、PTL 先行衔接全执照。（六语对照）
 
 ### 病例分析
 虚构的教学病例，按真实临床流程拆解思路，不对应任何真实患者。
