@@ -174,6 +174,7 @@ Common Rule एकमात्र द्वार नहीं है। जब 
 - 西班牙语、韩语、越南语、印地语为初译待校（initial translations, pending review）；法律术语以英文官方文本为准。
 - 本篇为个人学习笔记，不构成医疗或法律建议。涉及具体研究方案、IRB 申报或受试者权益问题，请咨询机构 IRB 办公室与医疗合规律师；出现急症请拨打 911。
 
+- English: These are personal study notes and do not constitute medical or legal advice; for a specific protocol, consult your institution's IRB office and a healthcare compliance attorney; in an emergency, call 911.
 - Español: Estas notas son de estudio personal y no constituyen asesoría médica ni legal; para un protocolo concreto consulte a la oficina del IRB de su institución y a un abogado de cumplimiento sanitario; ante una emergencia llame al 911.
 - 한국어: 본 문서는 개인 학습 노트이며 의료·법률 자문이 아닙니다. 구체적인 연구계획은 소속 기관 IRB 사무실과 의료 컴플라이언스 변호사와 상담하십시오. 응급 시 911에 전화하십시오. (초역, 교정 대기)
 - Tiếng Việt: Tài liệu này là ghi chú học tập cá nhân, không phải tư vấn y tế hay pháp lý; với đề cương nghiên cứu cụ thể hãy tham khảo văn phòng IRB của cơ quan và luật sư tuân thủ y tế; khi khẩn cấp hãy gọi 911. (Bản dịch sơ bộ, chờ hiệu đính)

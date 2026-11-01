@@ -91,3 +91,8 @@ Hai đạo luật này đều không đứng riêng lẻ; những chiếc răng 
 - 机构口径：HHS 监察长办公室（OIG）AKS 与安全港指引；CMS Stark 与 SRDP 官方说明。
 - 韩语、越南语、印地语为初译待校（initial translations, pending review）；西班牙语为学习译稿，待母语校对。法律术语以英文原版与官方文本为准。
 - 本篇为个人学习笔记，不构成法律或医疗建议。具体的转诊、持股与合同安排请咨询医疗合规律师；出现急症请拨打 911。
+- English: This article is a personal study note, not legal or medical advice. For specific referral, ownership, or contract arrangements, consult a healthcare compliance attorney; in an emergency, call 911.
+- Español: Este artículo es una nota de estudio personal y no constituye asesoría legal ni médica. Para arreglos concretos de derivación, participación o contratos, consulte a un abogado de cumplimiento sanitario; ante una emergencia, llame al 911.
+- 한국어 (초역·待校): 본 글은 개인 학습 노트이며 법률·의료 자문이 아닙니다. 구체적인 의뢰·지분·계약 arrangement는 의료 컴플라이언스 변호사와 상담하십시오. 응급 시 911에 전화하십시오.
+- Tiếng Việt (bản dịch sơ bộ·待校): Bài viết này là ghi chú học tập cá nhân, không phải tư vấn pháp lý hay y tế. Với các thỏa thuận cụ thể về giới thiệu bệnh nhân, sở hữu cổ phần hay hợp đồng, hãy tham khảo luật sư tuân thủ y tế; khi khẩn cấp hãy gọi 911.
+- हिन्दी (प्रारंभिक अनुवाद·待校): यह लेख व्यक्तिगत अध्ययन नोट है और कानूनी या चिकित्सा सलाह नहीं है। विशिष्ट रेफ़रल, हिस्सेदारी या अनुबंध व्यवस्थाओं के लिए स्वास्थ्य अनुपालन वकील से परामर्श करें; आपात स्थिति में 911 पर कॉल करें।
