@@ -91,4 +91,4 @@ Tại California, giấy phép do Hội đồng Nha khoa California (Dental Boar
 
 西班牙语为学习译稿，待母语校对。韩语、越南语、印地语为初译待校。El texto en español es una traducción de estudio, pendiente de revisión por un hablante nativo. 한국어·베트남어·힌디어 본문은 초역으로, 원어민 감수를 기다리고 있습니다. Bản tiếng Hàn, tiếng Việt và tiếng Hindi là bản dịch sơ khởi, đang chờ người bản ngữ hiệu đính. कोरियाई, वियतनामी और हिंदी पाठ प्रारंभिक अनुवाद हैं; मूल-भाषी समीक्षा लंबित है।
 
-声明：本篇为个人学习笔记，不构成医疗建议。This article is a personal study note only and does not constitute medical advice. Este artículo es una nota personal de estudio y no constituye asesoría médica.
+声明：本篇为个人学习笔记，不构成医疗建议。This article is a personal study note only and does not constitute medical advice. Este artículo es una nota personal de estudio y no constituye asesoría médica. 본 글은 개인 학습 노트이며 의학적 조언이 아닙니다. Bài viết này là ghi chép học tập cá nhân và không cấu thành tư vấn y tế. यह लेख व्यक्तिगत अध्ययन नोट है और चिकित्सा सलाह नहीं है।
