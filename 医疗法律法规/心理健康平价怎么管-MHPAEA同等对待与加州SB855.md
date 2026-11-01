@@ -16,25 +16,37 @@
 
 **被拒时怎么做**：先要书面拒赔理由与所依据的医疗必要性标准；再走计划内部上诉，并要求计划提供 NQTL 比较分析；州管计划同步考虑 DMHC 投诉/IMR，自保计划可向 DOL 的 EBSA 咨询投诉。出现自伤风险等危机情况，先拨打或短信 988 自杀与危机生命线，不要等保险流程。
 
+*个人学习笔记，不构成医疗建议。*
+
 ## English
 
 Can a plan impose stricter limits on mental-health care than on medical/surgical care under the same policy? The Mental Health Parity and Addiction Equity Act of 2008 (MHPAEA; 26 U.S.C. § 9812, 29 U.S.C. § 1185a, 42 U.S.C. § 300gg-26) generally says no. For quantitative limits—deductibles, copays, visit or day caps—financial requirements and treatment limitations on mental health and substance use disorder (MH/SUD) benefits may be no more restrictive than the predominant level applied to substantially all medical/surgical benefits. For nonquantitative treatment limitations (NQTLs) such as prior authorization and medical-necessity criteria, the processes and evidentiary standards must be comparable and no more stringent; since 2021 plans must produce NQTL comparative analyses on request. MHPAEA does not itself require MH/SUD coverage—the mandate comes from elsewhere, notably the ACA's essential health benefits (42 U.S.C. § 18022(b)(1)(E)) in the individual and small-group markets. The agencies' 2024 final rule (89 Fed. Reg. 77586) added data-evaluation duties, but in 2025 the agencies announced non-enforcement of parts of it pending reconsideration, so check current DOL/EBSA guidance. California goes further: Health & Safety Code § 1374.72 (as revised by SB 855, 2020) requires state-regulated plans to cover medically necessary MH/SUD care judged by generally accepted standards, with DMHC independent medical review available. In a crisis, call or text 988 first. *(Study translation; verify against official texts.)*
+
+*Personal study notes only; not medical advice.*
 
 ## Español
 
 ¿Puede un plan imponer límites más estrictos a la salud mental que a la atención médica o quirúrgica dentro de la misma póliza? La ley federal Mental Health Parity and Addiction Equity Act de 2008 (MHPAEA; 26 U.S.C. § 9812, 29 U.S.C. § 1185a, 42 U.S.C. § 300gg-26) dice que, en general, no. En los límites cuantitativos (deducibles, copagos, topes de visitas o días), los requisitos financieros y las limitaciones de tratamiento para salud mental y trastornos por uso de sustancias (MH/SUD) no pueden ser más restrictivos que el nivel predominante aplicado a sustancialmente todos los beneficios médico-quirúrgicos. En las limitaciones no cuantitativas (NQTL), como la autorización previa o los criterios de necesidad médica, los procesos y estándares probatorios deben ser comparables y no más estrictos; desde 2021 los planes deben entregar análisis comparativos de NQTL cuando se les pide. La MHPAEA no obliga por sí misma a ofrecer cobertura MH/SUD: esa obligación viene, entre otras fuentes, de los beneficios esenciales de salud de la ACA (42 U.S.C. § 18022(b)(1)(E)). La regla final de 2024 (89 Fed. Reg. 77586) quedó parcialmente en pausa de aplicación en 2025, así que conviene verificar la guía vigente del DOL/EBSA. California va más allá: Health & Saf. Code § 1374.72 (reforma SB 855 de 2020) exige cubrir la atención MH/SUD médicamente necesaria según estándares generalmente aceptados, con revisión médica independiente del DMHC. En crisis, llame o escriba al 988. *(Traducción de estudio; contraste con los textos oficiales.)*
 
+*Notas personales de estudio; no constituye asesoría médica. Traducción de estudio, pendiente de revisión por hablante nativo.*
+
 ## 한국어
 
 같은 보험에서 정신건강 진료에만 더 엄격한 제한을 둘 수 있을까요? 연방 정신건강 평등 및 중독 공정법(MHPAEA, 2008; 26 U.S.C. § 9812, 29 U.S.C. § 1185a, 42 U.S.C. § 300gg-26)의 기본 답은 '안 된다'입니다. 정량적 제한(공제액, 본인부담, 방문·입원 일수 상한)은 정신건강·물질사용장애(MH/SUD) 급여에 대해 거의 모든 의료/외과 급여에 적용되는 주된 수준보다 엄격할 수 없습니다. 사전승인, 의료적 필요성 기준 같은 비정량적 제한(NQTL)은 절차와 증거 기준이 동등하고 더 엄격하지 않아야 하며, 2021년부터 플랜은 요청 시 NQTL 비교분석 문서를 제공해야 합니다. MHPAEA 자체가 MH/SUD 보장을 강제하는 것은 아니며, 보장 의무는 ACA 필수건강급여(42 U.S.C. § 18022(b)(1)(E)) 등에서 옵니다. 2024년 최종 규칙(89 Fed. Reg. 77586)은 2025년 일부 집행이 유예되었으니 최신 DOL/EBSA 안내를 확인하십시오. 캘리포니아는 SB 855(2020)로 개정된 Health & Saf. Code § 1374.72에서 의학적으로 필요한 MH/SUD 치료를 공인 기준에 따라 보장하도록 더 나아갔고 DMHC 독립 의료심사를 이용할 수 있습니다. 위기 시에는 먼저 988로 연락하십시오. *(초역, 교정 대기 중 / 初译待校)*
+
+*개인 학습 노트이며 의료 자문이 아닙니다. 초역으로 교정 대기 중입니다.*
 
 ## Tiếng Việt
 
 Một chương trình bảo hiểm có thể đặt giới hạn chặt hơn cho sức khỏe tâm thần so với chăm sóc y tế/phẫu thuật trong cùng hợp đồng không? Đạo luật Bình đẳng Sức khỏe Tâm thần và Công bằng Nghiện (MHPAEA, 2008; 26 U.S.C. § 9812, 29 U.S.C. § 1185a, 42 U.S.C. § 300gg-26) về cơ bản trả lời là không. Với giới hạn định lượng (khoản khấu trừ, đồng thanh toán, trần số lần khám hay số ngày nằm viện), các yêu cầu tài chính và giới hạn điều trị cho phúc lợi sức khỏe tâm thần và rối loạn sử dụng chất (MH/SUD) không được chặt hơn mức chủ đạo áp dụng cho hầu như toàn bộ phúc lợi y tế/phẫu thuật. Với giới hạn không định lượng (NQTL) như phê duyệt trước hay tiêu chí cần thiết y tế, quy trình và tiêu chuẩn bằng chứng phải tương đương và không chặt hơn; từ năm 2021 chương trình phải cung cấp phân tích so sánh NQTL khi được yêu cầu. MHPAEA tự nó không bắt buộc phải có phúc lợi MH/SUD—nghĩa vụ bao phủ đến từ nơi khác, như phúc lợi sức khỏe thiết yếu của ACA (42 U.S.C. § 18022(b)(1)(E)). Quy tắc cuối 2024 (89 Fed. Reg. 77586) đã bị tạm hoãn thực thi một phần vào năm 2025, nên hãy kiểm tra hướng dẫn hiện hành của DOL/EBSA. California đi xa hơn: Health & Saf. Code § 1374.72 (sửa bởi SB 855 năm 2020) yêu cầu bao phủ điều trị MH/SUD cần thiết về y tế theo tiêu chuẩn được công nhận chung, với cơ chế thẩm định y tế độc lập của DMHC. Khi khủng hoảng, hãy gọi hoặc nhắn 988 trước. *(Bản dịch sơ bộ, đang chờ hiệu đính / 初译待校)*
 
+*Ghi chú học tập cá nhân, không phải tư vấn y tế. Bản dịch sơ bộ, chờ hiệu đính.*
+
 ## हिन्दी
 
 क्या कोई बीमा योजना मानसिक स्वास्थ्य देखभाल पर चिकित्सा/शल्य देखभाल से अधिक सख्त सीमाएँ लगा सकती है? संघीय Mental Health Parity and Addiction Equity Act, 2008 (MHPAEA; 26 U.S.C. § 9812, 29 U.S.C. § 1185a, 42 U.S.C. § 300gg-26) का मूल उत्तर है—नहीं। मात्रात्मक सीमाओं (कटौती, सह-भुगतान, विज़िट या दिन की सीमा) में मानसिक स्वास्थ्य और पदार्थ-उपयोग विकार (MH/SUD) लाभों पर वित्तीय आवश्यकताएँ और उपचार सीमाएँ, लगभग सभी चिकित्सा/शल्य लाभों पर लागू प्रमुख स्तर से अधिक सख्त नहीं हो सकतीं। पूर्व-अनुमति और चिकित्सकीय आवश्यकता मानदंड जैसी अमात्रात्मक सीमाओं (NQTL) में प्रक्रियाएँ और साक्ष्य मानक तुलनीय और अधिक सख्त नहीं होने चाहिए; 2021 से योजनाओं को माँग पर NQTL तुलनात्मक विश्लेषण देना होता है। MHPAEA अपने आप में MH/SUD कवरेज अनिवार्य नहीं करता—यह दायित्व ACA के आवश्यक स्वास्थ्य लाभों (42 U.S.C. § 18022(b)(1)(E)) आदि से आता है। 2024 का अंतिम नियम (89 Fed. Reg. 77586) 2025 में आंशिक रूप से प्रवर्तन-विराम में है, अतः वर्तमान DOL/EBSA मार्गदर्शन देखें। California SB 855 (2020) से संशोधित Health & Saf. Code § 1374.72 में इससे आगे बढ़कर चिकित्सकीय रूप से आवश्यक MH/SUD उपचार को सामान्यतः स्वीकृत मानकों से कवर करना अनिवार्य है, और DMHC स्वतंत्र चिकित्सा समीक्षा उपलब्ध है। संकट में पहले 988 पर कॉल या संदेश करें। *(प्रारंभिक अनुवाद, समीक्षा लंबित / 初译待校)*
+
+*व्यक्तिगत अध्ययन नोट्स; चिकित्सा सलाह नहीं। प्रारंभिक अनुवाद, समीक्षा लंबित।*
 
 ---
 *个人学习笔记，不构成医疗建议。*
