@@ -249,6 +249,16 @@ Vì vậy khi có vấn đề về quyền, hãy rà soát theo thứ tự này:
 
 *本文为个人学习笔记，不构成法律建议，也不构成医疗建议。具体权利纠纷请咨询医疗法律师或向 HHS OCR、各州执照委员会咨询投诉。*
 
+*This article is a personal study note and does not constitute legal advice or medical advice. For a specific rights dispute, consult a health-law attorney or contact HHS OCR or your state licensing board.*
+
+*Este artículo es una nota personal de estudio y no constituye asesoría legal ni asesoría médica. Para una disputa concreta de derechos, consulte a un abogado de salud o acuda a la OCR del HHS o a la junta estatal de licencias.*
+
+*이 글은 개인 학습 노트이며 법률 자문도 의료 조언도 아닙니다. 구체적인 권리 분쟁은 의료법 변호사에게 상담하거나 HHS OCR, 주 면허 위원회에 문의·신고하세요.*
+
+*Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý hay tư vấn y tế. Với tranh chấp quyền cụ thể, hãy hỏi luật sư luật y tế hoặc liên hệ HHS OCR, hội đồng cấp phép của bang để được tư vấn, khiếu nại.*
+
+*यह लेख व्यक्तिगत अध्ययन नोट है, कानूनी या चिकित्सा सलाह नहीं। किसी विशिष्ट अधिकार-विवाद के लिए स्वास्थ्य-कानून वकील से परामर्श करें या HHS OCR अथवा राज्य लाइसेंस बोर्ड से संपर्क करें।*
+
 *한국어·베트남어·힌디어 본문은 학습용 초역으로, 원어민 감수를 기다리고 있습니다.*
 *Bản tiếng Hàn, tiếng Việt và tiếng Hindi là bản dịch học tập, đang chờ người bản ngữ hiệu đính.*
 *कोरियाई, वियतनामी और हिंदी पाठ अध्ययन अनुवाद हैं; मूल-भाषी समीक्षा लंबित है।*
