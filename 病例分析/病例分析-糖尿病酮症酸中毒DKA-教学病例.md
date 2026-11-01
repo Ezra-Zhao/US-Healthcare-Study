@@ -102,4 +102,7 @@ Giải quyết được xét bằng sinh hóa, không bằng cảm giác: theo �
 
 *本病例为虚构教学病例。个人学习笔记，不构成医疗建议；出现呕吐、腹痛、呼吸深快或意识改变等疑似 DKA 症状请立即就医或拨打 911。*
 *Fictional teaching case. Personal study notes only; not medical advice.*
-*Caso docente ficticio. Notas personales de estudio; no constituyen consejo médico. 한국어·Tiếng Việt·हिन्दी 版本为初译待校。*
+*Caso docente ficticio. Notas personales de estudio; no constituyen consejo médico.*
+*본 증례는 가상의 교육용 증례입니다. 개인 학습 노트이며 의료 자문이 아닙니다. 의심 증상이 나타나면 즉시 진료를 받거나 911에 전화하십시오. (초역·待校)*
+*Ca bệnh này là ca hư cấu dùng cho giảng dạy. Ghi chú học tập cá nhân, không phải tư vấn y tế. Nếu xuất hiện triệu chứng nghi ngờ, hãy đi khám ngay hoặc gọi 911. (bản dịch sơ bộ·待校)*
+*यह मामला एक काल्पनिक शिक्षण मामला है। व्यक्तिगत अध्ययन नोट; चिकित्सा सलाह नहीं है। संदिग्ध लक्षण दिखें तो तुरंत चिकित्सा सहायता लें या 911 पर कॉल करें। (प्रारंभिक अनुवाद·待校)*
