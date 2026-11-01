@@ -127,3 +127,12 @@ This repository contains personal study notes only and does not constitute medic
 
 ### Español (译稿)
 Este repositorio contiene solo notas personales de estudio y no constituye asesoría médica. Para la elegibilidad, las tasas y el proceso de licenciamiento, apóyese en el paquete de solicitud vigente y los textos oficiales de la junta de su estado; para cualquier condición concreta, consulte a un profesional autorizado.
+
+### 한국어 (초역 대기)
+본 저장소는 개인 학습 노트이며 의료 자문이 아닙니다. 면허 신청 자격, 수수료 및 절차는 해당 주 면허위원회의 현행 신청 패킷과 공식 문서를 따르십시오. 구체적인 질환의 평가와 치료는 자격 있는 전문가와 상담하십시오.
+
+### Tiếng Việt (bản dịch sơ bộ)
+Kho lưu trữ này chỉ là ghi chép học tập cá nhân, không cấu thành tư vấn y tế. Về điều kiện, lệ phí và quy trình cấp phép, hãy căn cứ vào bộ hồ sơ xin cấp phép hiện hành và văn bản chính thức của hội đồng cấp phép tại bang của bạn; về bất kỳ tình trạng cụ thể nào, hãy tham khảo chuyên gia có giấy phép.
+
+### हिन्दी (प्रारंभिक अनुवाद)
+यह भंडार केवल व्यक्तिगत अध्ययन नोट्स है और चिकित्सा सलाह नहीं है। लाइसेंस की पात्रता, शुल्क और प्रक्रिया के लिए अपने राज्य के लाइसेंसिंग बोर्ड के वर्तमान आवेदन पैकेट और आधिकारिक पाठों पर निर्भर रहें; किसी ठोस स्थिति के लिए लाइसेंसधारी पेशेवर से परामर्श करें।
