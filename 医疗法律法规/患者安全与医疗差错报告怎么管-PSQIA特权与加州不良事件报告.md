@@ -177,3 +177,13 @@ California có một quy định thường được dẫn về lời xin lỗi: 
 ---
 
 > 免责声明：本文为个人学习笔记，不构成医疗或法律建议；条文与期限以现行官方文本为准。遇到真实事件请咨询合格的法律或风险管理专业人士；如遇急症，请立即拨打 911。
+>
+> Disclaimer: This article contains personal study notes and does not constitute medical or legal advice; provisions and deadlines follow the current official texts. For a real event, consult a qualified legal or risk-management professional; in an emergency, call 911 immediately.
+>
+> Aviso: este artículo contiene notas personales de estudio y no constituye asesoría médica ni legal; las normas y plazos son los de los textos oficiales vigentes. Ante un evento real, consulte a un profesional cualificado en derecho o gestión de riesgos; en una emergencia, llame de inmediato al 911.
+>
+> 고지: 본 글은 개인 학습 노트이며 의료 또는 법률 자문이 아닙니다. 조문과 기한은 현행 공식 문서를 기준으로 합니다. 실제 사건이 발생하면 자격 있는 법률 또는 위험관리 전문가와 상담하십시오. 응급 상황에서는 즉시 911에 전화하십시오.
+>
+> Tuyên bố: bài viết này là ghi chép học tập cá nhân, không phải tư vấn y tế hay pháp lý; điều khoản và thời hạn theo văn bản chính thức hiện hành. Khi có sự việc thật, hãy hỏi chuyên gia pháp lý hoặc quản lý rủi ro có trình độ; trường hợp khẩn cấp, gọi 911 ngay.
+>
+> अस्वीकरण: यह लेख व्यक्तिगत अध्ययन नोट है और चिकित्सा या कानूनी सलाह नहीं है; प्रावधान और समय-सीमाएँ वर्तमान आधिकारिक पाठ के अनुसार हैं। वास्तविक घटना में किसी योग्य कानूनी या जोखिम-प्रबंधन पेशेवर से परामर्श करें; आपात स्थिति में तुरंत 911 पर कॉल करें।

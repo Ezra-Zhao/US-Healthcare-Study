@@ -158,3 +158,13 @@ Phê duyệt không phải điểm kết thúc. Biến cố bất lợi được
 ## 免责声明
 
 本篇为个人学习笔记，不构成法律或医疗建议。具体产品请以 FDA 当期决定与法规原文为准；涉及自身用药与器械的问题，请咨询持牌医师或药师。
+
+This article contains personal study notes and does not constitute legal or medical advice. For a specific product, rely on the FDA's current decisions and the original regulatory text; for questions about your own medications or devices, consult a licensed physician or pharmacist.
+
+Este artículo contiene notas personales de estudio y no constituye asesoría legal ni médica. Para un producto concreto, siga las decisiones vigentes de la FDA y el texto reglamentario original; para dudas sobre sus propios medicamentos o dispositivos, consulte a un médico o farmacéutico colegiado.
+
+본 글은 개인 학습 노트이며 법률 또는 의료 자문이 아닙니다. 구체적인 제품은 FDA의 현행 결정과 규정 원문을 기준으로 하십시오. 본인의 약물이나 기기에 관한 문제는 자격 있는 의사나 약사와 상담하십시오.
+
+Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý hay y tế. Với sản phẩm cụ thể, hãy căn cứ vào quyết định hiện hành của FDA và văn bản quy định gốc; về thuốc hay thiết bị của chính bạn, hãy hỏi bác sĩ hoặc dược sĩ có giấy phép.
+
+यह लेख व्यक्तिगत अध्ययन नोट है और कानूनी या चिकित्सा सलाह नहीं है। किसी विशिष्ट उत्पाद के लिए FDA के वर्तमान निर्णयों और मूल विनियामक पाठ को आधार बनाएँ; अपनी दवाओं या उपकरणों के बारे में लाइसेंसधारी चिकित्सक या फ़ार्मासिस्ट से परामर्श करें।
