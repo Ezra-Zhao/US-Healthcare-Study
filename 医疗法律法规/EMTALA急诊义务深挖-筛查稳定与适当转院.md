@@ -232,3 +232,9 @@ Rơi xuống người bình thường, thứ tự hành động rất rõ ràng.
 *한국어·베트남어·힌디어 본문은 학습용 초역으로, 원어민 감수를 기다리고 있습니다.*
 *Bản tiếng Hàn, tiếng Việt và tiếng Hindi là bản dịch học tập, đang chờ người bản ngữ hiệu đính.*
 *कोरियाई, वियतनामी और हिंदी पाठ अध्ययन अनुवाद हैं; मूल-भाषी समीक्षा लंबित है।*
+
+*본 문서는 개인 학습 노트이며 의료·법률 자문이 아닙니다.*
+
+*Tài liệu này là ghi chú học tập cá nhân, không phải tư vấn y tế hay pháp lý.*
+
+*यह दस्तावेज़ व्यक्तिगत अध्ययन नोट है और चिकित्सा या कानूनी सलाह नहीं है।*

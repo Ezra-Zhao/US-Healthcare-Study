@@ -1,0 +1,49 @@
+# 疫苗伤害补偿怎么管：VICP 无过错补偿、伤害表与 CICP 的分界
+
+## 中文主文
+
+### 一、先说清：这是补偿制度，不是疫苗安全判决书
+
+打疫苗后出现严重不良反应，美国有一条专门的求偿通道：国家疫苗伤害补偿计划（National Vaccine Injury Compensation Program, VICP），由 1986 年《国家儿童疫苗伤害法》（National Childhood Vaccine Injury Act, 42 U.S.C. §§ 300aa-1 et seq.）设立。它是无过错（no-fault）制度：索赔人不需要证明厂家或接种者有过失，只需证明符合法定条件。它也不是对疫苗安全性的判决书——补偿成立只说明个案满足法律要件，疫苗的常规安全性评估是 CDC 与 FDA 的另一套系统，别把两套账混读。
+
+### 二、管辖与覆盖：哪些疫苗、去哪儿提
+
+VICP 由联邦索赔法院（U.S. Court of Federal Claims）的特别主事官（special masters）审理，行政端由 HRSA 管理，钱出自疫苗伤害补偿信托基金（Vaccine Injury Compensation Trust Fund），资金来源是疫苗消费税：每剂疫苗按所预防的每种疾病 0.75 美元计征（IRC § 4131）。覆盖范围以伤害表（Vaccine Injury Table, 42 C.F.R. Part 100）所列疫苗为准——核心是 CDC 推荐儿童常规接种、以及推荐孕妇接种的应税疫苗，季节性流感疫苗在列。
+
+### 三、伤害表推定与表外举证：两条证明路径
+
+上伤害表的情形：在所列疫苗、所列伤害、所列时间间隔内发病，即推定伤害由疫苗引起（presumption of causation），索赔人不用另证因果。不在表上的「表外」索赔并非不能提，但要由索赔人实际证明因果关系，举证负担明显更重。实践中先查表、再谈表外，是这类案件的第一动作。
+
+### 四、时限与程序：先走 VICP 是硬顺序
+
+时限写死在 § 300aa-16(a)：伤害索赔要在首个症状出现后 3 年内提出；死亡索赔要在死亡后 2 年内、且首个症状后 4 年内提出。过期原则上不再受理，别指望宽宥。顺序上，§ 300aa-11(a) 要求受 VICP 覆盖疫苗的索赔先走 VICP，未先走完这一步不能直接去普通法院告厂家；走完之后若不接受结果，可按 § 300aa-21 选择拒绝裁决再提起民事诉讼，但民事诉讼端另有法定限制。补偿内容看 § 300aa-15(a)：未报销的医疗与康复费用、实际与预期收入损失、痛苦与精神损害（pain and suffering）以 250,000 美元为上限；死亡给付为 250,000 美元。合理的律师费与诉讼成本在符合条件时可由计划承担，这也是本制度与普通侵权诉讼费用结构的重要区别。
+
+### 五、别混淆的三个邻居：VAERS、CICP 与普通侵权
+
+VAERS（疫苗不良事件报告系统）只是监测报告系统，任何人可报告，报告本身不证明因果，也不是索赔申请；需要补偿要另行向 VICP 提出 petition。CICP（Countermeasures Injury Compensation Program）是 PREP Act 宣言覆盖的对策措施通道，现行口径下新冠疫苗走的是 CICP 而非 VICP，两套的时限不同——CICP 的申请期限为伤害后 1 年，比 VICP 紧得多，搞混通道会直接误期。普通侵权诉讼对 VICP 覆盖疫苗原则上要让位：先 VICP，后选择，与厂家直接对簿公堂不是起点。
+
+### 六、加州落点
+
+加州没有州级的疫苗伤害补偿替代计划；加州居民索赔同样走联邦 VICP（或视措施性质走 CICP）。州法层面更相关的是入学免疫与医疗豁免规则（本仓另有专篇），那是「能不能不打」的问题，与本篇「打了出事怎么赔」是两个问题，不要互相套用。
+
+*本文为个人学习笔记，不构成医疗或法律建议。具体索赔时限与要件请以 42 U.S.C. §§ 300aa-1 et seq. 与 HRSA 当期说明为准，并咨询律师。*
+
+## English
+
+The National Vaccine Injury Compensation Program (VICP), created by the National Childhood Vaccine Injury Act of 1986 (42 U.S.C. §§ 300aa-1 et seq.), is a no-fault system: a petitioner need not prove negligence, only the statutory elements. Petitions are decided by special masters of the U.S. Court of Federal Claims, administered by HRSA, and paid from a trust fund financed by a $0.75 excise tax per dose per disease prevented (IRC § 4131). Coverage follows the Vaccine Injury Table (42 C.F.R. Part 100) — chiefly taxed vaccines the CDC recommends for routine administration to children and pregnant women, including seasonal influenza vaccine. A Table injury arising within the listed interval earns a presumption of causation; off-Table claims remain possible but require proving causation in fact. Deadlines under § 300aa-16(a) are strict: three years from the first symptom for injury claims, and for death claims two years from death and within four years of the first symptom. Section 300aa-11(a) makes VICP the required first stop before suing a manufacturer, with an election to reject the judgment and sue civilly under § 300aa-21 afterwards. Compensation under § 300aa-15(a) covers unreimbursed medical and rehabilitation costs and lost earnings, caps pain and suffering at $250,000, and sets the death benefit at $250,000; reasonable attorneys' fees and costs can be paid by the program. VAERS is a reporting system, not a claim and not proof of causation. COVID-19 vaccines currently run through the PREP Act's CICP, not VICP, with a much tighter one-year filing deadline. California has no state substitute program; its school-immunization rules are a separate question. *Personal study notes; not medical or legal advice.*
+
+## Español (traducción de estudio, pendiente de revisión nativa)
+
+El Programa Nacional de Compensación por Daños de Vacunas (VICP), creado por la National Childhood Vaccine Injury Act de 1986 (42 U.S.C. §§ 300aa-1 y ss.), es un sistema sin culpa (no-fault): el solicitante no debe probar negligencia, solo los requisitos legales. Las peticiones las resuelven special masters de la Court of Federal Claims, con administración de HRSA, y se pagan de un fondo financiado por un impuesto especial de 0,75 dólares por dosis y por enfermedad prevenida (IRC § 4131). La cobertura sigue la Tabla de Daños por Vacunas (Vaccine Injury Table, 42 C.F.R. Part 100): en esencia, vacunas gravadas que los CDC recomiendan de forma rutinaria para niños y embarazadas, incluida la vacuna anual contra la gripe. Una lesión de la Tabla dentro del intervalo indicado genera presunción de causalidad; las reclamaciones fuera de la Tabla son posibles, pero exigen probar la causalidad en los hechos. Los plazos del § 300aa-16(a) son estrictos: tres años desde el primer síntoma en lesiones, y en muertes, dos años desde el fallecimiento y dentro de los cuatro años del primer síntoma. El § 300aa-11(a) convierte el VICP en parada obligatoria antes de demandar al fabricante, con la opción de rechazar el resultado y litigar por la vía civil según el § 300aa-21. La compensación del § 300aa-15(a) cubre gastos médicos y de rehabilitación no reembolsados y pérdida de ingresos, con tope de 250.000 dólares para dolor y sufrimiento y una prestación por muerte de 250.000 dólares; el programa puede pagar honorarios y costas razonables. VAERS es un sistema de notificación, no una reclamación ni prueba de causalidad. Las vacunas contra la COVID-19 transitan hoy por el CICP de la PREP Act, no por el VICP, con un plazo mucho más corto de un año. California no tiene programa estatal sustituto. *Notas de estudio personales; no constituyen asesoría médica ni legal.*
+
+## 한국어 (초역, 원어민 감수 대기)
+
+국가 백신 피해 보상 프로그램(VICP)은 1986년 National Childhood Vaccine Injury Act(42 U.S.C. §§ 300aa-1 이하)가 만든 무과실(no-fault) 제도입니다. 청구인은 과실을 증명할 필요가 없고 법정 요건만 갖추면 됩니다. 청구는 연방청구법원(U.S. Court of Federal Claims)의 특별 마스터(special masters)가 심리하고 HRSA가 운영하며, 재원은 질병당 1회분 0.75달러의 백신 소비세(IRC § 4131)로 조성된 신탁기금에서 나옵니다. 적용 범위는 백신 피해표(Vaccine Injury Table, 42 C.F.R. Part 100)를 따릅니다. CDC가 아동과 임산부에게 정기 접종을 권고하는 과세 대상 백신이 핵심이며 계절 인플루엔자 백신도 포함됩니다. 표에 기재된 기간 안에 기재된 피해가 발생하면 인과관계가 추정되고, 표 외 청구는 가능하지만 인과관계를 실제로 증명해야 합니다. § 300aa-16(a)의 기한은 엄격합니다. 피해는 첫 증상 후 3년 이내, 사망은 사망 후 2년 이내이자 첫 증상 후 4년 이내에 청구해야 합니다. § 300aa-11(a)에 따라 제조사를 상대로 소송하기 전에 VICP를 먼저 거쳐야 하고, 결과에 불복하면 § 300aa-21에 따라 판결을 거부하고 민사소송으로 갈 수 있습니다. § 300aa-15(a)의 보상은 상환되지 않은 의료·재활 비용과 소득 손실을 포함하고, 고통에 대한 위자료는 250,000달러가 상한이며, 사망 급여는 250,000달러입니다. 합리적인 변호사 비용과 소송 비용을 프로그램이 부담할 수 있습니다. VAERS는 보고 시스템일 뿐 청구가 아니며 인과관계의 증명도 아닙니다. 코로나19 백신은 현재 VICP가 아니라 PREP Act의 CICP로 처리되며 신청 기한이 1년으로 훨씬 짧습니다. 캘리포니아에는 주 단위 대체 프로그램이 없습니다. *개인 학습 노트이며 의료·법률 자문이 아닙니다.*
+
+## Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Chương trình Bồi thường Thương tích do Vắc-xin Quốc gia (VICP), do Đạo luật National Childhood Vaccine Injury Act năm 1986 (42 U.S.C. §§ 300aa-1 trở đi) lập ra, là chế độ không xét lỗi (no-fault): người nộp đơn không cần chứng minh sơ suất, chỉ cần đáp ứng các yếu tố luật định. Đơn do các special masters của Tòa Khiếu nại Liên bang (U.S. Court of Federal Claims) xét xử, HRSA quản lý, và tiền trả từ quỹ tín thác tài trợ bằng thuế tiêu thụ vắc-xin 0,75 đô la mỗi liều cho mỗi bệnh phòng ngừa (IRC § 4131). Phạm vi bao phủ theo Bảng Thương tích Vắc-xin (Vaccine Injury Table, 42 C.F.R. Part 100) — cốt lõi là các vắc-xin chịu thuế mà CDC khuyến cáo tiêm thường quy cho trẻ em và phụ nữ mang thai, gồm cả vắc-xin cúm mùa. Thương tích thuộc Bảng và xảy ra trong khoảng thời gian ghi sẵn được suy đoán có quan hệ nhân quả; đơn ngoài Bảng vẫn nộp được nhưng phải tự chứng minh nhân quả thực tế. Thời hạn theo § 300aa-16(a) rất chặt: ba năm kể từ triệu chứng đầu tiên với thương tích, và với tử vong là hai năm kể từ ngày chết đồng thời trong vòng bốn năm kể từ triệu chứng đầu tiên. § 300aa-11(a) bắt buộc đi qua VICP trước khi kiện nhà sản xuất, sau đó có thể theo § 300aa-21 từ chối phán quyết để kiện dân sự. Bồi thường theo § 300aa-15(a) gồm chi phí y tế và phục hồi chưa được hoàn, thu nhập bị mất, đau đớn tinh thần tối đa 250.000 đô la, và khoản tử vong 250.000 đô la; phí luật sư và chi phí hợp lý có thể do chương trình trả. VAERS chỉ là hệ thống báo cáo, không phải đơn bồi thường và không chứng minh nhân quả. Vắc-xin COVID-19 hiện đi qua CICP theo PREP Act chứ không phải VICP, với thời hạn nộp chỉ một năm. California không có chương trình bang thay thế. *Ghi chú học tập cá nhân, không phải tư vấn y tế hay pháp lý.*
+
+## हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+National Vaccine Injury Compensation Program (VICP), जिसे National Childhood Vaccine Injury Act, 1986 (42 U.S.C. §§ 300aa-1 आदि) ने बनाया, एक no-fault प्रणाली है: याचिकाकर्ता को लापरवाही सिद्ध नहीं करनी, केवल वैधानिक तत्व पूरे करने हैं। याचिकाओं का निर्णय U.S. Court of Federal Claims के special masters करते हैं, प्रशासन HRSA करता है, और भुगतान उस ट्रस्ट फंड से होता है जो प्रति खुराक प्रति रोकी गई बीमारी $0.75 के वैक्सीन उत्पाद-शुल्क (IRC § 4131) से बनता है। कवरेज Vaccine Injury Table (42 C.F.R. Part 100) से चलता है — मुख्यतः वे करयोग्य वैक्सीन जो CDC बच्चों और गर्भवती महिलाओं के नियमित टीकाकरण के लिए सुझाता है, मौसमी influenza वैक्सीन सहित। तालिका में दर्ज चोट दर्ज अंतराल में हो तो कारणता की धारणा मिलती है; तालिका-बाहर दावे संभव हैं पर वास्तविक कारणता सिद्ध करनी पड़ती है। § 300aa-16(a) की समय-सीमाएँ कठोर हैं: चोट में पहले लक्षण से तीन वर्ष, और मृत्यु में मृत्यु से दो वर्ष तथा पहले लक्षण से चार वर्ष के भीतर। § 300aa-11(a) निर्माता पर मुकदमे से पहले VICP को अनिवार्य पहला पड़ाव बनाता है, जिसके बाद § 300aa-21 के तहत निर्णय अस्वीकार कर दीवानी मुकदमा चुना जा सकता है। § 300aa-15(a) का मुआवज़ा अप्रतिपूर्त चिकित्सा व पुनर्वास लागत और आय-हानि को कवर करता है, पीड़ा व कष्ट की सीमा $250,000 है और मृत्यु-लाभ $250,000 है; उचित वकील-शुल्क व लागत कार्यक्रम दे सकता है। VAERS केवल रिपोर्टिंग प्रणाली है, न दावा है न कारणता का प्रमाण। COVID-19 वैक्सीन वर्तमान में VICP से नहीं, PREP Act के CICP से जाती हैं, जहाँ दाखिल-अवधि केवल एक वर्ष है। California के पास राज्य-स्तरीय विकल्प कार्यक्रम नहीं है। *व्यक्तिगत अध्ययन नोट; चिकित्सा या कानूनी सलाह नहीं।*
