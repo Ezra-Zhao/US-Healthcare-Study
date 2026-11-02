@@ -77,4 +77,12 @@ Về cơ bản không có lối tắt quanh trình tự vào nghề: hầu hết
 
 本仓库为个人学习笔记，不构成医疗建议（This repository contains personal study notes only and does not constitute medical advice）。具体执照申请与执业范围请以 NREMT、加州 EMSA 与目标县 LEMSA 的官方口径为准；出现急症症状请立即拨打 911。
 
+*Notas personales de estudio; no constituye asesoría médica. Para solicitudes de licencia y alcance de práctica, consulte los criterios oficiales del NREMT, la EMSA de California y la LEMSA de su condado; ante síntomas de emergencia llame al 911.*
+
+*개인 학습 노트이며 의료 자문이 아닙니다. 면허 신청과 업무 범위는 NREMT, 캘리포니아 EMSA 및 해당 카운티 LEMSA의 공식 기준을 따르십시오. 응급 증상이 있으면 911에 전화하십시오.*
+
+*Ghi chú học tập cá nhân, không phải tư vấn y tế. Về hồ sơ cấp phép và phạm vi hành nghề, hãy theo tiêu chuẩn chính thức của NREMT, EMSA California và LEMSA của quận sở tại; khi có triệu chứng cấp cứu hãy gọi 911.*
+
+*व्यक्तिगत अध्ययन नोट; चिकित्सा सलाह नहीं। लाइसेंस आवेदन और कार्य-क्षेत्र के लिए NREMT, California EMSA और अपने काउंटी LEMSA के आधिकारिक मानदंड देखें; आपात लक्षणों में 911 पर कॉल करें।*
+
 *六语对照：中文主文，English 次之，Español 为学习译稿，한국어·Tiếng Việt·हिन्दी 为初译待校。*
