@@ -112,3 +112,13 @@ ARDMS साख एक बार लेकर जीवनभर निश्च
 ## 免责声明
 
 本仓库为个人学习笔记，不构成医疗建议。考试资格、费用与各州执照规则以 ARDMS 与各州机构当期官方文本为准；具体报考与执业问题请咨询相应发证与发照机构。
+
+This article contains personal study notes and does not constitute medical or legal advice. For specifics, rely on the current official texts of the relevant agencies and consult a licensed professional.
+
+Este artículo contiene notas personales de estudio y no constituye asesoría médica ni legal. Para cuestiones concretas, siga los textos oficiales vigentes de las agencias competentes y consulte a un profesional colegiado.
+
+본 글은 개인 학습 노트이며 의료 또는 법률 자문이 아닙니다. 구체적인 사항은 관계 기관의 현행 공식 문언을 기준으로 하고 자격 있는 전문가와 상담하십시오.
+
+Bài viết này là ghi chú học tập cá nhân, không phải tư vấn y tế hay pháp lý. Với vấn đề cụ thể, hãy căn cứ vào văn bản chính thức hiện hành của cơ quan có thẩm quyền và tham khảo chuyên gia có giấy phép.
+
+यह लेख व्यक्तिगत अध्ययन नोट है और चिकित्सा या कानूनी सलाह नहीं है। विशिष्ट मामलों के लिए संबंधित एजेंसियों के वर्तमान आधिकारिक पाठों को आधार बनाएँ और लाइसेंसधारी विशेषज्ञ से परामर्श करें।

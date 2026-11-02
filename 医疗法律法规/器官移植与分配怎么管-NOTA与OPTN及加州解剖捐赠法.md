@@ -120,3 +120,7 @@ Quy tắc đồng ý đối với hiến tạng người chết đến từ Đ�
 
 > 声明：个人学习笔记，不构成医疗或法律建议。
 > Disclaimer: Personal study notes only; not medical or legal advice.
+> Aviso: Notas personales de estudio; no constituye asesoría médica ni legal.
+> 안내: 개인 학습 노트이며 의료 또는 법률 자문이 아닙니다. (초역·待校)
+> Lưu ý: Ghi chú học tập cá nhân; không phải tư vấn y tế hay pháp lý. (bản dịch sơ bộ·待校)
+> सूचना: व्यक्तिगत अध्ययन नोट; चिकित्सा या कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद·待校)
