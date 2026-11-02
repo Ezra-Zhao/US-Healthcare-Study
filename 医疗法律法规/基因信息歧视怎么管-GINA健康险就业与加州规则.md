@@ -75,3 +75,8 @@ GINA có ba khoảng trống rõ ràng cần biết trước khi xét nghiệm. 
 
 *声明：本文为个人学习笔记，不构成法律、税务或医疗建议。基因检测与投保请咨询医生、遗传咨询师或律师。*
 *Disclaimer: Personal study notes only; not legal, tax, or medical advice.*
+*Nota personal de estudio; no constituye asesoría legal, fiscal ni médica. Para pruebas genéticas y seguros, consulte a un médico, un consejero genético o un abogado. (traducción de estudio)*
+*개인 학습 노트이며 법률·세무·의료 자문이 아닙니다. 유전자 검사와 보험 가입은 의사, 유전 상담사 또는 변호사에게 상담하십시오. (초역·待校)*
+*Ghi chú học tập cá nhân; không cấu thành tư vấn pháp lý, thuế hay y tế. Về xét nghiệm di truyền và bảo hiểm, hãy tham vấn bác sĩ, chuyên viên tư vấn di truyền hoặc luật sư. (bản dịch sơ bộ·待校)*
+*व्यक्तिगत अध्ययन नोट; कानूनी, कर या चिकित्सा सलाह नहीं। आनुवंशिक परीक्षण और बीमा के लिए चिकित्सक, आनुवंशिक परामर्शदाता या वकील से परामर्श करें। (प्रारंभिक अनुवाद·待校)*
+
