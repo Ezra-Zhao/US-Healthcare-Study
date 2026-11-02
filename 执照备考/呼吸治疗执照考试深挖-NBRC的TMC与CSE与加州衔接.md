@@ -153,4 +153,11 @@ Phần cuối này vạch ranh giới để các chứng chỉ lân cận không
 
 本仓库为个人学习笔记，不构成医疗建议（This repository contains personal study notes only and does not constitute medical advice）。具体报考与执业要求请以 NBRC 与加州 RCB 官方文本为准；出现急症症状请立即拨打 911。
 
+
+Este artículo es una nota personal de estudio y no constituye asesoría médica. Para requisitos concretos de examen y práctica, consulte los textos oficiales de NBRC y de la RCB de California. (traducción de estudio)
+
+이 글은 개인 학습 노트이며 의료 자문이 아닙니다. 구체적인 응시 및 실무 요건은 NBRC와 캘리포니아 RCB의 공식 문언을 기준으로 하십시오. (초역·待校)
+
+Bài viết này là ghi chép học tập cá nhân, không phải tư vấn y tế. Về yêu cầu dự thi và hành nghề cụ thể, hãy căn cứ văn bản chính thức của NBRC và RCB California. (bản dịch sơ bộ·待校)
+
 *六语对照：中文主文，English 次之，Español·한국어·Tiếng Việt·हिन्दी 为初译待校。*
