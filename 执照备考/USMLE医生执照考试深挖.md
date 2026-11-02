@@ -392,6 +392,16 @@ Cuối cùng để lại một danh sách kiểm tra, trước khi đăng ký h�
 
 *本文为个人学习笔记，不构成医疗或职业建议；报考资格与最新考试政策请以各考试机构和州委员会官网为准。*
 
+*Disclaimer: This article is a personal study note and does not constitute medical or career advice; for eligibility and current examination policies, rely on the official sites of the testing organizations and state boards.*
+
+*Aviso: Este artículo es una nota personal de estudio y no constituye asesoría médica ni profesional; para requisitos y políticas vigentes de los exámenes, consulte los sitios oficiales de las organizaciones evaluadoras y de las juntas estatales.*
+
+*고지: 본 글은 개인 학습 노트이며 의료·진로 자문이 아닙니다. 응시 자격과 최신 시험 정책은 각 시험 기관과 주 위원회의 공식 사이트를 기준으로 하시기 바랍니다.*
+
+*Tuyên bố: Bài viết này là ghi chú học tập cá nhân, không phải tư vấn y tế hay nghề nghiệp; về điều kiện dự thi và chính sách thi hiện hành, hãy dựa vào trang chính thức của các tổ chức khảo thí và hội đồng bang.*
+
+*अस्वीकरण: यह लेख व्यक्तिगत अध्ययन नोट है और चिकित्सा या करियर सलाह नहीं है; पात्रता और वर्तमान परीक्षा नीतियों के लिए परीक्षण संगठनों और राज्य बोर्डों की आधिकारिक वेबसाइटों पर भरोसा करें।*
+
 *한국어·베트남어·힌디어 본문은 학습용 초역으로, 원어민 감수를 기다리고 있습니다.*
 *Bản tiếng Hàn, tiếng Việt và tiếng Hindi là bản dịch học tập, đang chờ người bản ngữ hiệu đính.*
 *कोरियाई, वियतनामी और हिंदी पाठ अध्ययन अनुवाद हैं; मूल-भाषी समीक्षा लंबित है।*
