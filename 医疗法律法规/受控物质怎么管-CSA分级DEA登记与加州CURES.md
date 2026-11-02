@@ -207,6 +207,12 @@ Về hình thức, California về nguyên tắc yêu cầu kê đơn điện t�
 
 本篇为个人学习笔记，不构成医疗建议（This repository contains personal study notes only and does not constitute medical advice）。受控物质的处方、配药与登记义务以当期联邦与州官方文本为准；具体病情与用药请咨询持牌医生、药师。出现过量、呼吸抑制等急症请立即拨打 911。
 
+Disclaimer: These are personal study notes, not medical advice. Prescribing, dispensing, and registration duties for controlled substances follow current federal and state official texts; for specific conditions and medication decisions, consult a licensed physician or pharmacist. In an overdose, respiratory depression, or other emergency, call 911 immediately.
+Aviso: Estas notas son material de estudio personal y no constituyen consejo médico. Las obligaciones de prescripción, dispensación y registro de sustancias controladas se rigen por los textos oficiales federales y estatales vigentes; para condiciones y decisiones de medicación concretas, consulte a un médico o farmacéutico autorizado. Ante una sobredosis, depresión respiratoria u otra emergencia, llame al 911 de inmediato. La versión en español es una traducción de estudio, pendiente de revisión por un hablante nativo.
+면책 조항: 이 글은 개인 학습 노트이며 의학적 조언이 아닙니다. 규제 물질의 처방·조제·등록 의무는 현행 연방 및 주 공식 문서를 기준으로 하며, 구체적인 질환과 약물 결정은 면허 있는 의사나 약사와 상의하십시오. 과량 복용, 호흡 억제 등 응급 상황에서는 즉시 911에 전화하십시오. (초역 · 初译待校)
+Tuyên bố miễn trừ: Bài này là ghi chép học tập cá nhân, không phải lời khuyên y khoa. Nghĩa vụ kê đơn, cấp phát và đăng ký đối với chất bị kiểm soát tuân theo văn bản chính thức liên bang và bang hiện hành; về tình trạng bệnh và quyết định dùng thuốc cụ thể, hãy tham vấn bác sĩ hoặc dược sĩ được cấp phép. Trong trường hợp quá liều, ức chế hô hấp hoặc khẩn cấp khác, hãy gọi 911 ngay. (Bản dịch sơ bộ · 初译待校)
+अस्वीकरण: ये नोट्स व्यक्तिगत अध्ययन सामग्री हैं और चिकित्सा सलाह नहीं हैं। नियंत्रित पदार्थों के प्रिस्क्रिप्शन, वितरण और पंजीकरण दायित्व वर्तमान संघीय और राज्य आधिकारिक पाठों के अनुसार हैं; विशिष्ट स्थितियों और दवा संबंधी निर्णयों के लिए लाइसेंस प्राप्त चिकित्सक या फ़ार्मासिस्ट से परामर्श करें। अधिक मात्रा, श्वसन-अवसाद या अन्य आपात स्थिति में तुरंत 911 पर कॉल करें। (प्रारंभिक अनुवाद · 初译待校)
+
 ## License
 
 MIT © 2026 Guangyi Zhao
