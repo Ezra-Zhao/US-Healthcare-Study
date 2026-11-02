@@ -1,0 +1,72 @@
+# 处方药广告怎么管：FDA 直接面向消费者广告、公平平衡与加州规则
+
+> 个人学习笔记，不构成医疗或法律建议。本文梳理处方药广告在联邦层面的监管分工——FDA 管处方药、FTC 管非处方药——以及印刷与广播广告各自的风险披露格式，并注明加州法的衔接；条文以现行法典与官方指引为准。看到广告心动时先与自己的医生核对，不要凭广告自行停药、换药或要求开药；出现急症症状请拨打 911。
+
+## 中文主文
+
+### 一、先分清管辖：处方药归 FDA，非处方药归 FTC
+
+美国是少数允许处方药直接面向消费者做广告（direct-to-consumer, DTC）的国家，但「能打广告」不等于「随便打」。分工是这样划的：
+
+- **处方药广告归 FDA**：具体由 FDA 药品审评与研究中心（CDER）下设的处方药推广办公室（Office of Prescription Drug Promotion, OPDP）监管。法律根子是《联邦食品、药品和化妆品法》（FDCA）§ 502(a)（虚假或误导性标注）与 § 502(n)（处方药广告须包含的内容），细则落在 21 CFR § 202.1。
+- **非处方药（OTC）广告归 FTC**：联邦贸易委员会依《联邦贸易委员会法》（FTC Act）§ 5（禁止不公平或欺骗性行为）与 § 12（食品、药品等虚假广告）管辖。同一支广告创意，用在处方药上和用在柜台药上，找上门的主管机关不一样。
+- **州法再叠一层**：州的消费者保护法与行医广告规则管的是本地执业者与本地销售行为（见第五节加州部分），与联邦对药厂广告的监管并不互相替代。
+
+### 二、FDA 的三条硬线：不误导、公平平衡、风险要讲清
+
+21 CFR § 202.1 的核心要求可以收成三条：
+
+1. **不得虚假或误导**：广告不得夸大疗效、不得用断章取义的研究结论、不得淡化或遗漏重要风险；用「误导性的整体印象」来判断，而不是逐句抠字眼——画面、音乐与排版营造出的印象也在判断之内。
+2. **公平平衡（fair balance）**：疗效信息与风险信息要平衡呈现，风险不能被塞进角落用小字和快语速一带而过，篇幅、位置与可读性都要与疗效部分大体相当。
+3. **风险披露有固定格式，分印刷与广播两套**：
+   - **印刷广告**（杂志、报纸等）须附「简要摘要」（brief summary），把说明书里与副作用、禁忌等有关的风险概念基本讲全；
+   - **广播广告**（电视、电台、电话等）须包含「主要声明」（major statement），把最重要的风险在音频（电视可音频加画面文字）里讲出来；同时须作「充分提供」（adequate provision），让观众能方便地拿到完整说明书——常见做法是给出网址、免费热线、同期印刷广告与「可向药师或医生索取」等多个通道。电视与电台 DTC 广告的主要声明还须以清晰、醒目、中立（clear, conspicuous, and neutral）的方式呈现，这是 21 CFR § 202.1 近年修订后写明的呈现标准。
+   - 近年 FDA 与 HHS 已公开提出要收紧这套安排、检讨 adequate provision 的适用空间并加强执法；动向以 FDA 正式规章与公告为准，本文不把提案中的安排写成现行规则。
+
+### 三、两种容易混淆的「不完全广告」：求助广告与提醒广告
+
+- **疾病教育广告（help-seeking / disease awareness）**：只讲某种疾病、鼓励有症状的人去看医生，**不提任何具体药名**。因为不推销具体药品，它一般不按处方药产品广告那套风险披露规则走，但仍不得虚假误导。
+- **提醒广告（reminder advertising）**：只出现药名（有时带公司名与价格提示），**不提适应证、不暗示用途**。因为没有疗效主张，提醒广告可以不附风险披露；但一旦画面或文案暗示了这药治什么病，它就变成完整的产品主张广告，简要摘要或主要声明的义务随即跟上。黑框警告（boxed warning）药品不得用提醒广告，这是 § 202.1 写明的禁区。
+
+实务里最常见的翻车点，是广告表面上只做「疾病教育」，画面元素却处处指向自家品牌药，被认定为变相的产品广告。
+
+### 四、执法与投诉：Bad Ad Program 是公开入口
+
+FDA 对处方药广告主要靠事后执法：OPDP 审查已投放的广告，发警告信（warning letter）与无标题信（untitled letter）要求停播与纠正；药厂按规定须在广告首次使用时向 FDA 备案提交（Form FDA 2253）。面向医务人员的 **Bad Ad Program** 鼓励医生、药师等把可疑的药品推广（广告、展会材料、医药代表话术）直接报给 OPDP——患者看到明显夸大或只讲好处不讲风险的广告，也可以循 FDA 的投诉通道反映，并把广告出现的时间、台与版本记清，方便定位。
+
+### 五、加州衔接：管的是执业者广告与一般虚假宣传
+
+加州没有另设一套「处方药 DTC 广告法」；加州这一层主要管两件事：
+
+- **执业者自己的广告**：《商业与职业法典》（Business and Professions Code）§ 651 规定，持 Division 2 执照的人（医生等）不得发布含有虚假、欺诈、误导或欺骗性陈述、主张或图像的公共传播，包括利用未披露重要事实而误导、制造不切实际的良好疗效预期等情形；违反者可构成轻罪（misdemeanor），并构成吊销或暂停执照等纪律处分的正当事由。诊所用药厂广告素材做本地宣传、或自己剪辑药品广告片段招揽患者时，就可能踩到这一条。再往下，§ 2271 一带把违反广告规则列为医疗执业中的不专业行为（unprofessional conduct）。
+- **一般虚假宣传**：同法典 § 17500 是加州通用的虚假广告条款，对商品与服务的不实或误导性宣传普遍适用，不限于持照者。
+
+一句话收束分工：药厂面向全国的处方药广告看 FDA（OPDP），柜台药广告看 FTC，本地执业者的宣传与本地不实广告再看加州 § 651 与 § 17500。
+
+### 六、患者视角：把广告当线索，不当处方
+
+看到心动的药品广告，稳妥的顺序是：记下药名与广告里说的适应证 → 约自己的医生，带着正在吃的药清单一起核对——这药治的病是不是自己的病、有没有更适合或更便宜的替代、与现有用药有没有相互影响 → 医生认为不合适时，听理由，不施压、不转而网购来路不明的药。尤其不要因为广告自行停掉正在用的药、也不要自行换药；用药调整的任何一步都先过医生或药师这一关。身体出现急症信号时，广告和科普都放一边，先拨打 911。
+
+*声明：个人学习笔记，不构成医疗或法律建议。急症请拨打 911。来源：FDCA §§ 502(a)、502(n)（21 U.S.C. §§ 352(a)、352(n)）；21 CFR § 202.1（处方药广告，含 brief summary、major statement、adequate provision 与提醒广告规则）；FTC Act §§ 5、12（15 U.S.C. §§ 45、52）；FDA OPDP 与 Bad Ad Program 官方说明；Cal. Bus. & Prof. Code §§ 651、17500、2271。具体个案以现行条文与监管机关当期口径为准。*
+
+---
+
+## English
+
+Prescription drug advertising in the United States is regulated mainly by the FDA, while over-the-counter (OTC) drug advertising falls to the FTC — a division of labor worth keeping straight. The FDA's Office of Prescription Drug Promotion (OPDP) enforces FDCA § 502(a) (false or misleading labeling) and § 502(n) together with the implementing regulation at 21 CFR § 202.1; the FTC polices OTC ads under FTC Act §§ 5 and 12. Section 202.1 imposes three core duties: ads must not be false or misleading in any respect, judged by overall impression; effectiveness and risk information must be presented with fair balance; and risk disclosure follows fixed formats — print ads must carry a brief summary of risk information from the approved labeling, while broadcast ads must present a major statement of the most important risks (for TV and radio, in a clear, conspicuous, and neutral manner) and make adequate provision for audiences to obtain the full labeling, typically through a website, a toll-free number, a concurrent print ad, and a statement that pharmacists or physicians can provide it. Two borderline formats are often confused: help-seeking (disease awareness) ads discuss a condition without naming any drug and are generally not treated as product ads, whereas reminder ads name the drug but make no indication or efficacy claim and may omit risk disclosure — an exemption that disappears the moment an ad hints at what the drug treats, and that is unavailable for drugs with a boxed warning. OPDP enforcement is largely post-dissemination (warning and untitled letters; sponsors file ads on Form FDA 2253 at first use), and the Bad Ad Program invites health professionals to report suspect promotion. California adds a separate layer rather than a parallel DTC code: Business and Professions Code § 651 bars Division 2 licensees such as physicians from disseminating false, fraudulent, misleading, or deceptive public communications, with violations punishable as a misdemeanor and as grounds for license discipline (see also § 2271 on unprofessional conduct), and § 17500 supplies the general false-advertising rule. For patients, an ad is a prompt for a conversation, never a prescription: verify the indication with your own clinician, and never stop or switch a medicine on the strength of an advertisement. *Personal study notes only; not medical or legal advice. In an emergency, call 911.*
+
+## Español (traducción de estudio, pendiente de revisión nativa)
+
+La publicidad de medicamentos con receta en Estados Unidos la regula principalmente la FDA, mientras que la de medicamentos sin receta (OTC) corresponde a la FTC. La Oficina de Promoción de Medicamentos con Receta (OPDP) de la FDA aplica la FDCA § 502(a) (etiquetado falso o engañoso) y § 502(n), junto con el reglamento 21 CFR § 202.1; la FTC vigila los anuncios OTC conforme a las §§ 5 y 12 de la FTC Act. La § 202.1 impone tres deberes centrales: el anuncio no debe ser falso ni engañoso en ningún aspecto, juzgado por su impresión general; la información de eficacia y de riesgos debe presentarse con equilibrio justo (fair balance); y la divulgación de riesgos sigue formatos fijos — los anuncios impresos deben incluir un resumen breve (brief summary) de los riesgos del prospecto aprobado, y los anuncios en radio y televisión deben presentar una declaración principal (major statement) con los riesgos más importantes — en televisión y radio, de manera clara, visible y neutral — y ofrecer provisión adecuada (adequate provision) para que el público obtenga el prospecto completo, normalmente mediante un sitio web, un número gratuito, un anuncio impreso simultáneo y la indicación de que farmacéuticos o médicos pueden facilitarlo. Dos formatos fronterizos se confunden a menudo: los anuncios de búsqueda de ayuda (concienciación sobre una enfermedad) hablan de una dolencia sin nombrar ningún fármaco y, en general, no se tratan como anuncios de producto; los anuncios recordatorio (reminder) nombran el fármaco pero no afirman indicación ni eficacia y pueden omitir los riesgos — una exención que desaparece en cuanto el anuncio insinúa qué trata el fármaco, y que no existe para medicamentos con advertencia en recuadro (boxed warning). La OPDP actúa sobre todo tras la difusión (cartas de advertencia y cartas sin título; los patrocinadores presentan los anuncios con el Formulario FDA 2253 en su primer uso), y el programa Bad Ad invita a los profesionales sanitarios a denunciar promociones sospechosas. California añade una capa distinta, no un código paralelo de publicidad directa al consumidor: el Business and Professions Code § 651 prohíbe a los licenciados de la División 2, como los médicos, difundir comunicaciones públicas falsas, fraudulentas, engañosas o falaces, con infracciones castigables como delito menor y como causa de disciplina sobre la licencia (véase también § 2271), y § 17500 aporta la norma general contra la publicidad falsa. Para el paciente, un anuncio es un motivo de conversación, nunca una receta: confirme la indicación con su propio médico y no suspenda ni cambie un medicamento por un anuncio. *Notas de estudio personales; no es asesoría médica ni legal. En una emergencia, llame al 911.*
+
+## 한국어 (초역, 원어민 감수 대기)
+
+미국에서 전문의약품 광고는 주로 FDA가 규제하고, 일반의약품(OTC) 광고는 FTC가 담당합니다. FDA의 전문의약품 판촉 사무소(OPDP)는 FDCA §502(a)(허위·오인 표시)와 §502(n), 그리고 시행 규정 21 CFR §202.1을 집행하고, FTC는 FTC Act §§5, 12에 따라 OTC 광고를 감독합니다. §202.1의 핵심 의무는 세 가지입니다. 광고는 전체적 인상을 기준으로 어떤 면에서도 허위이거나 오인을 불러일으켜서는 안 되고, 효과 정보와 위험 정보는 공정 균형(fair balance)을 갖춰 제시되어야 하며, 위험 고지는 정해진 형식을 따라야 합니다. 인쇄 광고에는 승인된 설명서의 위험 정보를 담은 간략 요약(brief summary)이 필요하고, 방송 광고에는 가장 중요한 위험을 담은 주요 진술(major statement — TV와 라디오에서는 명확하고 눈에 띄며 중립적인 방식)과, 웹사이트·무료전화·동시 인쇄 광고·약사나 의사에게 받을 수 있다는 안내 등을 통해 전체 설명서를 받을 수 있게 하는 충분한 제공(adequate provision)이 필요합니다. 헷갈리기 쉬운 경계 형식 두 가지가 있습니다. 질병 인식 광고(help-seeking)는 특정 약 이름을 대지 않고 질환만 다루어 일반적으로 제품 광고로 취급되지 않고, 상기 광고(reminder)는 약 이름만 대고 적응증이나 효능을 주장하지 않아 위험 고지를 생략할 수 있지만, 약이 무엇을 치료하는지 암시하는 순간 그 예외는 사라지며, 박스형 경고(boxed warning)가 있는 약에는 애초에 사용할 수 없습니다. OPDP의 집행은 주로 배포 후 이루어지고(경고 서한 등, 광고주는 최초 사용 시 Form FDA 2253으로 제출), Bad Ad Program은 의료 전문가가 의심스러운 판촉을 신고하도록 합니다. 캘리포니아는 별도의 DTC 법전을 두지 않고 다른 층을 더합니다. Business and Professions Code §651은 의사 등 Division 2 면허 소지자가 허위·기만적·오인적 대중 커뮤니케이션을 배포하는 것을 금지하고, 위반 시 경범죄 처벌과 면허 징계 사유가 되며(§2271의 비전문적 행위 규정도 참조), §17500은 일반 허위 광고 규정입니다. 환자에게 광고는 처방이 아니라 대화를 시작할 단서일 뿐입니다. 적응증은 담당 의사와 확인하고, 광고만 보고 복용 중인 약을 중단하거나 바꾸지 마십시오. *개인 학습 노트이며 의료 또는 법률 자문이 아닙니다. 응급 상황에서는 911에 전화하십시오. (초역 · 初译待校)*
+
+## Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Quảng cáo thuốc kê đơn tại Hoa Kỳ chủ yếu do FDA quản lý, còn quảng cáo thuốc không kê đơn (OTC) thuộc FTC. Văn phòng Xúc tiến Thuốc kê đơn (OPDP) của FDA thực thi FDCA § 502(a) (ghi nhãn sai lệch hoặc gây hiểu lầm) và § 502(n) cùng quy định thi hành 21 CFR § 202.1; FTC giám sát quảng cáo OTC theo FTC Act §§ 5 và 12. Điều § 202.1 đặt ra ba nghĩa vụ cốt lõi: quảng cáo không được sai sự thật hoặc gây hiểu lầm ở bất kỳ khía cạnh nào, xét theo ấn tượng tổng thể; thông tin hiệu quả và rủi ro phải được trình bày cân bằng công bằng (fair balance); và việc công bố rủi ro phải theo định dạng cố định — quảng cáo in phải kèm bản tóm tắt ngắn (brief summary) về rủi ro trong nhãn đã duyệt, còn quảng cáo phát thanh, truyền hình phải trình bày tuyên bố chính (major statement) về các rủi ro quan trọng nhất — trên TV và radio phải rõ ràng, nổi bật và trung lập — đồng thời có biện pháp cung cấp đầy đủ (adequate provision) để khán giả lấy được toàn bộ nhãn thuốc, thường qua trang web, số điện thoại miễn phí, quảng cáo in đồng thời và hướng dẫn hỏi dược sĩ hoặc bác sĩ. Hai định dạng giáp ranh hay bị nhầm: quảng cáo nâng cao nhận thức bệnh (help-seeking) chỉ nói về bệnh mà không nêu tên thuốc nên thường không bị coi là quảng cáo sản phẩm; quảng cáo nhắc tên (reminder) nêu tên thuốc nhưng không khẳng định chỉ định hay hiệu quả nên có thể bỏ qua phần rủi ro — ngoại lệ này biến mất ngay khi quảng cáo ám chỉ thuốc trị bệnh gì, và không áp dụng cho thuốc có cảnh báo hộp đen (boxed warning). OPDP chủ yếu xử lý sau khi quảng cáo đã phát (thư cảnh báo; hãng phải nộp mẫu quảng cáo theo Form FDA 2253 khi dùng lần đầu), và chương trình Bad Ad khuyến khích nhân viên y tế báo cáo quảng bá đáng ngờ. California bổ sung một lớp riêng chứ không có bộ luật DTC song song: Business and Professions Code § 651 cấm người có giấy phép Division 2 như bác sĩ phổ biến thông tin công cộng sai sự thật, gian dối hoặc gây hiểu lầm, vi phạm có thể bị xử tội nhẹ và kỷ luật giấy phép (xem thêm § 2271), và § 17500 là quy định chung về quảng cáo sai sự thật. Với bệnh nhân, quảng cáo chỉ là gợi ý để trao đổi, không bao giờ là đơn thuốc: hãy kiểm chứng chỉ định với bác sĩ của mình và đừng tự ý ngừng hay đổi thuốc vì một quảng cáo. *Ghi chú học tập cá nhân, không phải tư vấn y tế hay pháp lý. Trong trường hợp khẩn cấp, hãy gọi 911. (bản dịch sơ bộ · 初译待校)*
+
+## हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+अमेरिका में पर्चे वाली दवाओं (prescription drugs) के विज्ञापन मुख्यतः FDA नियंत्रित करता है, जबकि बिना पर्चे वाली (OTC) दवाओं के विज्ञापन FTC के अधीन हैं। FDA का Office of Prescription Drug Promotion (OPDP) FDCA § 502(a) (झूठा या भ्रामक लेबल) और § 502(n) के साथ कार्यान्वयन नियम 21 CFR § 202.1 लागू करता है; FTC, FTC Act §§ 5 व 12 के तहत OTC विज्ञापनों की निगरानी करता है। § 202.1 तीन मूल कर्तव्य रखता है: विज्ञापन समग्र प्रभाव के आधार पर किसी भी रूप में झूठा या भ्रामक न हो; प्रभावशीलता और जोखिम की जानकारी fair balance के साथ प्रस्तुत हो; और जोखिम-खुलासा निश्चित प्रारूपों में हो — मुद्रित विज्ञापनों में अनुमोदित लेबल के जोखिमों का brief summary आवश्यक है, जबकि प्रसारण विज्ञापनों में सबसे महत्वपूर्ण जोखिमों का major statement — टीवी और रेडियो में स्पष्ट, प्रमुख और तटस्थ तरीके से — और पूरी लेबलिंग पाने हेतु adequate provision चाहिए, जो आमतौर पर वेबसाइट, toll-free नंबर, साथ चल रहे मुद्रित विज्ञापन और फार्मासिस्ट या चिकित्सक से प्राप्त करने के निर्देश से पूरी होती है। दो सीमा-रेखा प्रारूप अक्सर भ्रम पैदा करते हैं: help-seeking (रोग-जागरूकता) विज्ञापन किसी दवा का नाम लिए बिना केवल रोग की चर्चा करते हैं और सामान्यतः उत्पाद-विज्ञापन नहीं माने जाते; reminder विज्ञापन दवा का नाम लेते हैं पर indication या प्रभाव का दावा नहीं करते, इसलिए जोखिम-खुलासा छोड़ा जा सकता है — परंतु दवा क्या ठीक करती है, इसका संकेत मिलते ही यह छूट समाप्त हो जाती है, और boxed warning वाली दवाओं पर यह उपलब्ध ही नहीं है। OPDP की कार्रवाई मुख्यतः प्रसारण के बाद होती है (चेतावनी पत्र; प्रायोजक पहली बार उपयोग पर Form FDA 2253 से विज्ञापन जमा करते हैं), और Bad Ad Program स्वास्थ्य पेशेवरों को संदिग्ध प्रचार की शिकायत के लिए प्रोत्साहित करता है। California DTC का समानांतर कोड नहीं बनाता, बल्कि अलग परत जोड़ता है: Business and Professions Code § 651, Division 2 लाइसेंसधारियों जैसे चिकित्सकों को झूठे, कपटपूर्ण या भ्रामक सार्वजनिक संचार से रोकता है — उल्लंघन misdemeanor दंड और लाइसेंस अनुशासन का आधार हो सकता है (§ 2271 भी देखें) — और § 17500 सामान्य झूठे विज्ञापन का नियम है। रोगी के लिए विज्ञापन कभी पर्चा नहीं, केवल बातचीत की शुरुआत है: indication अपने चिकित्सक से सत्यापित करें और किसी विज्ञापन के आधार पर चल रही दवा न रोकें, न बदलें। *व्यक्तिगत अध्ययन नोट; चिकित्सा या कानूनी सलाह नहीं। आपात स्थिति में 911 पर कॉल करें। (प्रारंभिक अनुवाद · 初译待校)*
