@@ -258,3 +258,15 @@ Vì vậy khi có vấn đề về quyền, hãy rà soát theo thứ tự này:
 *Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý hay tư vấn y tế. Với tranh chấp quyền cụ thể, hãy hỏi luật sư luật y tế hoặc liên hệ HHS OCR, hội đồng cấp phép của bang để được tư vấn, khiếu nại.*
 
 *यह लेख व्यक्तिगत अध्ययन नोट है, कानूनी या चिकित्सा सलाह नहीं। किसी विशिष्ट अधिकार-विवाद के लिए स्वास्थ्य-कानून वकील से परामर्श करें या HHS OCR अथवा राज्य लाइसेंस बोर्ड से संपर्क करें।*
+
+
+---
+
+## 声明（六语集中声明区，本轮补译）
+
+- 中文：个人学习笔记，不构成医疗建议；具体事项请咨询医生或相关医疗专业人士。
+- English: Personal study notes only; not medical advice. Consult a physician or qualified health professional for specific matters.
+- Español (traducción de estudio, pendiente de revisión nativa): Notas de estudio personales; no es asesoría médica. Consulte a un médico o profesional de salud calificado para asuntos específicos.
+- 한국어 (초역, 원어민 감수 대기): 개인 학습 노트이며 의학적 자문이 아닙니다. 구체적인 사안은 의사 또는 자격 있는 의료 전문가와 상담하십시오.
+- Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính): Ghi chú học tập cá nhân, không phải tư vấn y tế. Vui lòng tham khảo bác sĩ hoặc chuyên gia y tế có chuyên môn cho vấn đề cụ thể.
+- हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित): व्यक्तिगत अध्ययन नोट; चिकित्सा सलाह नहीं। विशिष्ट मामलों के लिए चिकित्सक या योग्य स्वास्थ्य विशेषज्ञ से परामर्श करें।
