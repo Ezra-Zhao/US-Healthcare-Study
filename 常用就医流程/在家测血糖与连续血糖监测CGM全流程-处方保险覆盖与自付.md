@@ -40,3 +40,13 @@ Hai cách theo dõi đường huyết tại nhà cho bệnh tiểu đường: đ
 
 ---
 *个人学习笔记，不构成医疗建议。*
+
+*This article is a personal study note and does not constitute medical advice. For your specific situation, consult a licensed physician or pharmacist.*
+
+*Este artículo es una nota de estudio personal y no constituye asesoría médica. Para su situación concreta, consulte a un médico o farmacéutico con licencia. (译稿·待校)*
+
+*이 글은 개인 학습 노트이며 의료 자문이 아닙니다. 구체적인 사안은 면허를 가진 의사나 약사에게 상담하세요. (초역·待校)*
+
+*Bài viết này là ghi chép học tập cá nhân, không phải tư vấn y tế. Với trường hợp cụ thể, hãy hỏi bác sĩ hoặc dược sĩ có giấy phép. (bản dịch sơ bộ·待校)*
+
+*यह लेख व्यक्तिगत अध्ययन नोट है, चिकित्सा सलाह नहीं। विशिष्ट मामले के लिए लाइसेंसधारी चिकित्सक या फार्मासिस्ट से परामर्श करें। (प्रारंभिक अनुवाद·待校)*
