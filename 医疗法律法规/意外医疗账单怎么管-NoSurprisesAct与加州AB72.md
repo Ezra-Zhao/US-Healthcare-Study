@@ -100,3 +100,12 @@ Luật liên bang có một khoảng trống được thừa nhận: xe cứu th
 本仓库为个人学习笔记，不构成医疗或法律建议（This repository contains personal study notes only and does not constitute medical or legal advice）。具体账单是否受保护取决于计划类型与监管者，请以保单文本、EOB 与 CMS、加州 DMHC 或 CDI 的官方口径为准；急症请先就医，不要因账单顾虑延误抢救，立即拨打 911 或前往急诊。
 
 *六语对照：中文主文，English 次之，Español 为学习译稿，한국어·Tiếng Việt·हिन्दी 为初译待校。*
+This repository contains personal study notes only and does not constitute medical or legal advice. Whether a specific bill is protected depends on the plan type and its regulator; follow the policy text, the EOB, and the official guidance of CMS and California's DMHC or CDI. For emergencies, seek care first — call 911 or go to the emergency department rather than delaying care over billing concerns.
+
+Este repositorio contiene solo notas personales de estudio y no constituye asesoría médica ni legal. Que una factura concreta esté protegida depende del tipo de plan y de su regulador; siga el texto de la póliza, el EOB y la orientación oficial de CMS y del DMHC o el CDI de California. En una emergencia, busque atención primero: llame al 911 o acuda a urgencias en lugar de retrasar la atención por preocupaciones de facturación. (Traducción de estudio, pendiente de revisión nativa.)
+
+이 저장소는 개인 학습 노트이며 의료나 법률 자문이 아닙니다. 특정 청구서가 보호받는지는 플랜 유형과 감독 기관에 따라 달라집니다. 보험 약관, EOB, CMS와 캘리포니아 DMHC 또는 CDI의 공식 안내를 따르십시오. 응급 상황에서는 청구 걱정에 치료를 미루지 말고 먼저 진료를 받고 911에 전화하거나 응급실로 가십시오. (초역, 교정 대기)
+
+Kho lưu trữ này chỉ chứa ghi chép học tập cá nhân và không cấu thành tư vấn y tế hay pháp lý. Việc một hóa đơn cụ thể có được bảo vệ hay không phụ thuộc vào loại chương trình bảo hiểm và cơ quan quản lý của nó; hãy theo văn bản hợp đồng, EOB và hướng dẫn chính thức của CMS cùng DMHC hoặc CDI của California. Trong trường hợp khẩn cấp, hãy tìm chăm sóc trước — gọi 911 hoặc đến khoa cấp cứu thay vì trì hoãn điều trị vì lo ngại hóa đơn. (Bản dịch sơ bộ, chờ hiệu đính.)
+
+यह भंडार केवल व्यक्तिगत अध्ययन नोट्स है और चिकित्सा या विधिक परामर्श नहीं है। कोई विशिष्ट बिल संरक्षित है या नहीं, यह योजना के प्रकार और उसके नियामक पर निर्भर करता है; पॉलिसी पाठ, EOB और CMS तथा कैलिफ़ोर्निया के DMHC या CDI के आधिकारिक मार्गदर्शन का पालन करें। आपात स्थिति में पहले देखभाल लें — बिल की चिंता में उपचार में देरी करने के बजाय 911 पर कॉल करें या आपातकालीन विभाग जाएँ। (प्रारंभिक अनुवाद, समीक्षा लंबित।)
