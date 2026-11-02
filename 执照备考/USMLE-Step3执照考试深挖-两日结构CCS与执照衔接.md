@@ -176,3 +176,9 @@ Danh sách kiểm tra đăng ký và dự thi (đánh dấu từng mục rồi m
 ## 免责声明
 
 本仓库为个人学习笔记，不构成医疗建议。考试结构、费用、通过线与各州执照规则以 FSMB、NBME、USMLE 与各州医委会当期官方文本为准；具体报考与执业问题请咨询相应考试机构与发照机构。
+
+- English: Personal study notes only; this does not constitute medical advice.
+- Español: Notas personales de estudio; no constituye consejo médico.
+- 한국어 (初译待校)：개인 학습 노트이며, 의학적 조언이 아닙니다.
+- Tiếng Việt (初译待校)：Ghi chép học tập cá nhân, không phải tư vấn y tế.
+- हिन्दी (初译待校)：व्यक्तिगत अध्ययन नोट्स हैं; यह चिकित्सा सलाह नहीं है।
