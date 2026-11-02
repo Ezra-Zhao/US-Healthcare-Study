@@ -95,3 +95,15 @@
 ---
 
 **声明**：个人学习笔记，不构成法律、税务或医疗建议。具体病情与报考事项请咨询持牌专业人士；急症请拨打 911。
+
+
+---
+
+## 声明（六语集中声明区，本轮补译）
+
+- 中文：个人学习笔记，不构成医疗建议；具体事项请咨询医生或相关医疗专业人士。
+- English: Personal study notes only; not medical advice. Consult a physician or qualified health professional for specific matters.
+- Español (traducción de estudio, pendiente de revisión nativa): Notas de estudio personales; no es asesoría médica. Consulte a un médico o profesional de salud calificado para asuntos específicos.
+- 한국어 (초역, 원어민 감수 대기): 개인 학습 노트이며 의학적 자문이 아닙니다. 구체적인 사안은 의사 또는 자격 있는 의료 전문가와 상담하십시오.
+- Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính): Ghi chú học tập cá nhân, không phải tư vấn y tế. Vui lòng tham khảo bác sĩ hoặc chuyên gia y tế có chuyên môn cho vấn đề cụ thể.
+- हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित): व्यक्तिगत अध्ययन नोट; चिकित्सा सलाह नहीं। विशिष्ट मामलों के लिए चिकित्सक या योग्य स्वास्थ्य विशेषज्ञ से परामर्श करें।
