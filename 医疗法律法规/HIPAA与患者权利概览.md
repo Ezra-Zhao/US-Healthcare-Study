@@ -258,7 +258,3 @@ Vì vậy khi có vấn đề về quyền, hãy rà soát theo thứ tự này:
 *Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý hay tư vấn y tế. Với tranh chấp quyền cụ thể, hãy hỏi luật sư luật y tế hoặc liên hệ HHS OCR, hội đồng cấp phép của bang để được tư vấn, khiếu nại.*
 
 *यह लेख व्यक्तिगत अध्ययन नोट है, कानूनी या चिकित्सा सलाह नहीं। किसी विशिष्ट अधिकार-विवाद के लिए स्वास्थ्य-कानून वकील से परामर्श करें या HHS OCR अथवा राज्य लाइसेंस बोर्ड से संपर्क करें।*
-
-*한국어·베트남어·힌디어 본문은 학습용 초역으로, 원어민 감수를 기다리고 있습니다.*
-*Bản tiếng Hàn, tiếng Việt và tiếng Hindi là bản dịch học tập, đang chờ người bản ngữ hiệu đính.*
-*कोरियाई, वियतनामी और हिंदी पाठ अध्ययन अनुवाद हैं; मूल-भाषी समीक्षा लंबित है।*
