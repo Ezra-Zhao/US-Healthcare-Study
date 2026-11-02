@@ -227,3 +227,14 @@ Khung tập đi và xe lăn được phân biệt bằng đánh giá chức năn
 主要依据：Social Security Act §§ 1834(a)、1861(n)、1861(s)(6)（42 U.S.C. §§ 1395m(a)、1395x(n)、1395x(s)(6)）；42 C.F.R. §§ 414.202、414.229、424.57；CMS 关于 2026 年 Part B 自付额 283 美元的公布；DME MAC 的 CPAP（LCD L33751）与血糖监测（LCD L33822，2023 年 4 月 16 日扩大口径）覆盖标准；IRS Publication 502。具体覆盖以承保计划与当期 LCD 文本为准。
 
 本仓库为个人学习笔记，不构成医疗或保险建议（This repository contains personal study notes only and does not constitute medical advice）。具体病情、处方与覆盖争议请咨询持牌医生、药师与保险计划。西班牙语为学习译稿，待母语校对（pending native review）；韩语、越南语、印地语为初译待校（initial translations, pending review）。
+
+---
+
+## 免责声明（六语）
+
+*声明：本篇为个人学习笔记，不构成医疗建议。具体病情、处方与覆盖问题请咨询持牌医生、药师与保险计划；出现危急症状请立即拨打 911。*
+*Disclaimer: This article is a personal study note and does not constitute medical advice. For specific conditions, prescriptions, or coverage questions, consult a licensed physician, pharmacist, or your health plan; in an emergency call 911.*
+*Notas personales de estudio; no constituyen consejo médico. Para casos concretos, consulte a un médico o farmacéutico con licencia o a su plan de salud; en una emergencia llame al 911. (traducción de estudio)*
+*개인 학습 노트이며 의료 자문이 아닙니다. 구체적인 질환·처방·보장 문제는 자격 있는 의사·약사나 가입 보험사에 확인하십시오. 응급 시 911에 전화하십시오. (초역, 원어민 감수 대기)*
+*Ghi chú học tập cá nhân, không cấu thành tư vấn y tế. Với trường hợp cụ thể, hãy tham vấn bác sĩ, dược sĩ có giấy phép hoặc chương trình bảo hiểm của bạn; trường hợp khẩn cấp hãy gọi 911. (bản dịch sơ bộ, chờ hiệu đính)*
+*यह व्यक्तिगत अध्ययन नोट है और चिकित्सा सलाह नहीं है। किसी विशिष्ट स्थिति, पर्चे या कवरेज प्रश्न के लिए लाइसेंस-प्राप्त चिकित्सक, फ़ार्मासिस्ट या अपनी स्वास्थ्य योजना से परामर्श करें; आपात स्थिति में 911 पर कॉल करें। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)*
