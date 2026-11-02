@@ -95,6 +95,16 @@ Một cơ sở hospice hoạt động tại California, ngoài chứng nhận Me
 
 ## 免责声明
 
-本仓库为个人学习笔记，不构成医疗或法律建议（This repository contains personal study notes only and does not constitute medical or legal advice）。临终关怀的资格、周期与费率以 CMS 当期规则与所选机构的选举文件为准；涉及本人或家人决定时，请与主治医生、hospice 机构与持牌专业人士当面确认。
+中文：本仓库为个人学习笔记，不构成医疗或法律建议。临终关怀的资格、周期与费率以 CMS 当期规则与所选机构的选举文件为准；涉及本人或家人决定时，请与主治医生、hospice 机构与持牌专业人士当面确认。
+
+English: This repository contains personal study notes only and does not constitute medical or legal advice. Hospice eligibility, benefit periods, and rates follow current CMS rules and the election documents of the chosen provider; for decisions involving yourself or family members, confirm in person with the treating physician, the hospice provider, and licensed professionals.
+
+Español: Este repositorio contiene solo notas personales de estudio y no constituye asesoría médica ni legal. La elegibilidad, los periodos y las tarifas de hospice se rigen por las reglas vigentes de CMS y por los documentos de elección de la institución elegida; para decisiones que le afecten a usted o a su familia, confírmelo en persona con el médico tratante, la institución de hospice y profesionales con licencia. (译稿)
+
+한국어: 이 저장소는 개인 학습 노트일 뿐 의료 또는 법률 자문이 아닙니다. 호스피스 자격, 급여 기간, 요율은 CMS의 현행 규칙과 선택한 기관의 선거(선택) 문서를 따릅니다. 본인이나 가족과 관련된 결정은 주치의, 호스피스 기관, 면허를 가진 전문가와 직접 만나 확인하십시오. (초역, 初译待校)
+
+Tiếng Việt: Kho lưu trữ này chỉ chứa ghi chú học tập cá nhân và không cấu thành tư vấn y tế hay pháp lý. Tư cách hưởng hospice, các kỳ hưởng và mức phí theo quy định hiện hành của CMS và hồ sơ lựa chọn của cơ sở được chọn; đối với các quyết định liên quan đến bản thân hoặc người nhà, hãy xác nhận trực tiếp với bác sĩ điều trị, cơ sở hospice và chuyên gia có giấy phép. (bản dịch, 初译待校)
+
+हिन्दी: यह भंडार केवल व्यक्तिगत अध्ययन नोट रखता है और चिकित्सा या कानूनी सलाह नहीं है। Hospice पात्रता, अवधि और दरें CMS के वर्तमान नियमों और चुनी गई संस्था के election दस्तावेज़ों के अनुसार होंगी; स्वयं या परिवार से जुड़े निर्णयों के लिए उपचार करने वाले चिकित्सक, hospice संस्था और लाइसेंस प्राप्त पेशेवरों से व्यक्तिगत रूप से पुष्टि करें। (अनुवाद, 初译待校)
 
 *六语对照：中文主文，English 次之，Español 为学习译稿，한국어·Tiếng Việt·हिन्दी 为初译待校。*

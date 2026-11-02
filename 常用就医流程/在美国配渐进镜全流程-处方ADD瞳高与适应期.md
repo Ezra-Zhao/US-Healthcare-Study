@@ -97,6 +97,16 @@ Kính đa tiêu cự đắt hơn kính đơn tiêu cự, và phần chênh nằm
 
 ## 免责声明
 
-本仓库为个人学习笔记，不构成医疗建议（This repository contains personal study notes only and does not constitute medical advice）。具体病情诊断、用药剂量与治疗决策请咨询持牌医生、药师等专业人员；出现胸痛、呼吸困难等急症症状请立即拨打 911 或前往急诊。文中法规与流程为一般性介绍，各州规定可能不同，请以官方文本和专业意见为准。
+中文：本仓库为个人学习笔记，不构成医疗建议。具体病情诊断、用药剂量与治疗决策请咨询持牌医生、药师等专业人员；出现胸痛、呼吸困难等急症症状请立即拨打 911 或前往急诊。文中法规与流程为一般性介绍，各州规定可能不同，请以官方文本和专业意见为准。
+
+English: This repository contains personal study notes only and does not constitute medical advice. For diagnosis of a specific condition, medication dosing, and treatment decisions, consult licensed professionals such as physicians and pharmacists; if emergency symptoms such as chest pain or difficulty breathing appear, call 911 or go to an emergency department immediately. The regulations and processes described here are general introductions, state rules may differ, and official texts and professional advice control.
+
+Español: Este repositorio contiene solo notas personales de estudio y no constituye asesoría médica. Para el diagnóstico de una afección concreta, la dosificación de medicamentos y las decisiones de tratamiento, consulte a profesionales con licencia como médicos y farmacéuticos; si aparecen síntomas de emergencia como dolor torácico o dificultad para respirar, llame al 911 o acuda a urgencias de inmediato. Las normas y los procesos descritos son una introducción general, las reglas estatales pueden diferir, y prevalecen los textos oficiales y el consejo profesional. (译稿)
+
+한국어: 이 저장소는 개인 학습 노트일 뿐 의료 자문이 아닙니다. 구체적인 질환의 진단, 약물 용량, 치료 결정은 의사, 약사 등 면허를 가진 전문가와 상의하십시오. 흉통, 호흡곤란 같은 응급 증상이 나타나면 즉시 911에 전화하거나 응급실로 가십시오. 본문에 적힌 법규와 절차는 일반적인 소개이며 주마다 규정이 다를 수 있으니 공식 문헌과 전문가 의견을 기준으로 하십시오. (초역, 初译待校)
+
+Tiếng Việt: Kho lưu trữ này chỉ chứa ghi chú học tập cá nhân và không cấu thành tư vấn y tế. Về chẩn đoán bệnh cụ thể, liều lượng thuốc và quyết định điều trị, hãy tham khảo ý kiến chuyên gia có giấy phép như bác sĩ và dược sĩ; nếu xuất hiện triệu chứng khẩn cấp như đau ngực hoặc khó thở, hãy gọi 911 hoặc đến khoa cấp cứu ngay lập tức. Các quy định và quy trình nêu trong bài là giới thiệu chung, quy định của từng bang có thể khác nhau, và cần lấy văn bản chính thức cùng ý kiến chuyên môn làm chuẩn. (bản dịch, 初译待校)
+
+हिन्दी: यह भंडार केवल व्यक्तिगत अध्ययन नोट रखता है और चिकित्सा सलाह नहीं है। किसी विशिष्ट स्थिति के निदान, दवा की खुराक और उपचार निर्णयों के लिए चिकित्सक और फ़ार्मासिस्ट जैसे लाइसेंस प्राप्त पेशेवरों से परामर्श करें; यदि सीने में दर्द या साँस लेने में कठिनाई जैसे आपातकालीन लक्षण दिखाई दें, तो तुरंत 911 पर कॉल करें या आपातकालीन विभाग जाएँ। यहाँ वर्णित नियम और प्रक्रियाएँ सामान्य परिचय हैं, राज्यों के नियम भिन्न हो सकते हैं, और आधिकारिक पाठ व पेशेवर सलाह ही मान्य होगी। (अनुवाद, 初译待校)
 
 *六语对照：中文主文，English 次之，Español 为学习译稿，한국어·Tiếng Việt·हिन्दी 为初译待校。*
