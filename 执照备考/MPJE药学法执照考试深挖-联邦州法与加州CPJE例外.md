@@ -75,6 +75,8 @@ La licencia de farmacéutico tiene dos puertas: el NAPLEX evalúa la competencia
 
 > 개인 학습 노트이며 의료·법률 자문이 아니다. (초역, 교정 대기)
 
+보충(한역 정렬): 실무 디테일 세 가지를 덧붙입니다. ①전체 예약 시간은 약 2시간 50분이며 시험 시간 2.5시간과 별도입니다. ②불합격 후 재응시 대기 기간은 관할 약사위원회의 규정을 따르고, NABP 틀 안에서 관할당 5회 한도가 적용됩니다. ③출제 범위는 NABP의 MPJE 역량 기술서(competency statements)를 따르며, 세 영역의 비중에 맞춰 주법 세부(예: 주별 리필·대체조제·상담 기록 요건)를 파고드는 것이 합격 전략의 핵심입니다. CPJE 역시 단순 암기가 아니라 캘리포니아 실무 표준과 품질보증 관점의 적용 문항이 섞인다는 점을 NAPLEX 준비와 구분해야 합니다.
+
 ## Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
 
 Giấy phép dược sĩ có hai cửa thi: NAPLEX kiểm tra năng lực lâm sàng, còn **MPJE (Kỳ thi Pháp luật Dược đa bang)** kiểm tra luật dược — luật liên bang cộng luật của bang nơi xin cấp phép. MPJE do **NABP** xây dựng với sự phê duyệt của hội đồng dược từng bang cho phần luật bang, và mỗi bang là một đề thi khác nhau: đỗ MPJE của bang này không thay được yêu cầu luật của bang khác. **48 khu vực** dùng MPJE; Arkansas, **California**, Guam, Puerto Rico, Virginia và Quần đảo Virgin thuộc Mỹ không tham gia và dùng kỳ thi luật riêng.

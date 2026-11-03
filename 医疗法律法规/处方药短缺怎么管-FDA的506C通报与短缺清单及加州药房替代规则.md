@@ -1,0 +1,49 @@
+# 处方药短缺怎么管：FDA 第 506C 条通报、短缺清单与加州药房替代规则
+
+> 个人学习笔记，不构成医疗或法律建议。短缺状态逐日变化，某药是否在短缺清单以 FDA Drug Shortages 数据库与 ASHP 清单当日状态为准；替代用药必须经处方医生决定，本文不写任何药物剂量。
+
+## 中文主文
+
+### 一、短缺不是断供谣言：先认官方清单
+
+美国处方药短缺的权威信息源有两处：FDA 的药品短缺数据库（Drug Shortages Database）与美国卫生系统药师协会（ASHP）联合犹他大学维护的短缺清单——两者口径略有差别（FDA 按企业通报确认，ASHP 更贴近药房一线体感），查药时两边都看。短缺的原因构成里，生产质量问题长期占大头，其次是产能、原料药（API）供应与需求激增；多数短缺发生在老牌仿制药与注射剂上，因为这类药利润薄、生产商少、产线集中。先把概念分清：**短缺（shortage）**指总供给满足不了总需求；**停产（discontinuation）**是企业决定永久退出，FDA 清单会分别标注，这个区别决定了应对策略是等恢复还是换药。
+
+### 二、企业通报义务：FD&C 法第 506C 条
+
+《联邦食品、药品和化妆品法》第 506C 条（21 U.S.C. §356c）是短缺治理的法律轴心：相关药品（主要指维持生命、用于急重症或无适当替代的处方药）的生产商，预见到永久停产或可能导致有意义供应中断的生产中断时，须提前向 FDA 通报——原则上至少提前 **6 个月**，来不及的也须在可行的最早时间、并不晚于中断后法定期限内补报；2020 年《CARES 法》进一步把通报范围扩到原料药与关键投入，并要求企业为高风险药品制定**冗余风险管理计划**（redundancy risk management plans）。第 506J 条（21 U.S.C. §356j）管器械侧：公共卫生紧急状态期间，关键器械的生产中断同样触发通报义务。企业迟报漏报的，FDA 可发不合规函并公开，但现行法下 FDA **不能直接命令企业继续生产**——这是理解美国短缺治理边界的关键一条：政府的工具箱是信息、协调与加速审批，不是生产指令。
+
+### 三、FDA 手上的缓解工具
+
+通报进来之后，FDA 的短缺团队（药物评价与研究中心 CDER 的 Drug Shortage Staff）按固定打法处置：①核查其他生产商能否扩产、加速放行待批补充申请与场地变更；②对符合条件的外国同类产品行使**临时进口执法裁量**（历史上多次用于化疗药与生理盐水等关键品类，进口批次须经质量核验）；③适当时延长在库产品效期（须有稳定性数据支持，并公开发布延期清单）；④对列入短缺清单的药品，配制药房规则放行——《FD&C 法》第 503A／503B 条下，短缺清单上的药品在「基本复制品」限制上获得例外空间，503B 外包设施可据此补供。患者与公众能在 FDA 网站按药名查到短缺状态、预计恢复时间与生产商联系方式，这些字段比媒体转述可靠。
+
+### 四、到了药房与病房：替代的规则边界
+
+短缺落到个人层面，动作顺序是固定的：第一，**药师可做的**——在州法授权内做同成分仿制药替代（generic substitution）与剂型、规格间的等效调剂沟通，但换治疗等效性不同的另一药物（therapeutic substitution）原则上必须经处方医生同意，药师不能自行换药；第二，**医生决定的**——换替代药物、调整疗程或改走 503B 配制渠道，都属于处方判断，患者不要自行囤药、减量或停用维持性药物（这条是安全红线，尤其精神科、心血管与抗癫痫药）；第三，**保险侧**——原药短缺时，替代药可能不在处方集（formulary）既定位阶，走 formulary exception 或事先授权加急，把「原药在 FDA 短缺清单」作为支持材料附上，通过率会实质不同；第四，医院与诊所内部有短缺管理委员会按短缺严重程度分级分配存量，门诊患者感受到的「只配两周」多半是这类分配政策而非药房惜售。
+
+### 五、加州的接口规则
+
+加州药房执业的根法是《商业与职业法典》第 4000 条起的《药房法》（Pharmacy Law），由加州药房委员会（Board of Pharmacy）执行：其中第 4073 条确立药师的仿制药替代权限与告知规则——除非处方注明「按开具品牌调剂」（dispense as written），药师可调剂与品牌药评级等效的仿制药并须向患者说明。短缺时期加州另有两条实用接口：其一，委员会在紧急状态或短缺时发布的临时执业指引（例如延长部分处方的紧急续配权限，以当期公告为准）；其二，加州受控物质统一数据库 CURES 的查询义务在替代涉及受控物质时照样适用，不因短缺豁免。企业侧报告义务仍在联邦 506C 一条线上，加州没有平行再设一套短缺通报制度——州层面的主要杠杆是药房执业规则与 Medi-Cal 的处方集例外通道。
+
+*声明：个人学习笔记，不构成医疗或法律建议。来源：FD&C Act §§506C、506J、503A、503B（21 U.S.C. §§356c、356j、353a、353b）；CARES Act（2020）相关修订；FDA Drug Shortages Database 与 ASHP 短缺清单；Cal. Bus. & Prof. Code §§4000 起、§4073。个药短缺状态以查询当日官方数据库为准。*
+
+---
+
+## English
+
+The authoritative U.S. sources on drug shortages are the FDA Drug Shortages Database and the ASHP/University of Utah list; a shortage (total supply cannot meet demand) differs from a discontinuation, and most shortages involve older generics and injectables where quality problems are the leading cause. The legal backbone is FD&C Act §506C (21 U.S.C. §356c): manufacturers of covered, medically necessary drugs must notify the FDA of permanent discontinuances or meaningful interruptions at least six months in advance where possible, and the CARES Act extended reporting to active ingredients and required redundancy risk management plans; §506J does the same for critical devices during public health emergencies. The FDA cannot order a firm to keep manufacturing — its tools are expedited review of supplements and site changes, temporary importation discretion for quality-checked foreign supply, shelf-life extensions supported by stability data, and compounding flexibilities under §§503A/503B for drugs on the shortage list. At the pharmacy, generic substitution is within pharmacist authority, but switching to a therapeutically different drug requires the prescriber; patients should never ration or stop maintenance medication on their own, and a drug's presence on the FDA shortage list is strong support for a formulary exception. In California, the Pharmacy Law (Bus. & Prof. Code §4000 et seq.) and §4073 govern generic substitution and patient notice, while shortage reporting itself remains a federal §506C matter. *Personal study notes only; not medical or legal advice. This article states no drug dosages.*
+
+## Español (traducción de estudio, pendiente de revisión nativa)
+
+Las fuentes oficiales sobre escasez de medicamentos en EE. UU. son la base de datos de escasez de la FDA y la lista de la ASHP/Universidad de Utah; la escasez (la oferta total no cubre la demanda) difiere de la discontinuación, y la mayoría afecta a genéricos antiguos e inyectables, con los problemas de calidad como causa principal. El eje legal es la Sección 506C de la Ley FD&C (21 U.S.C. §356c): los fabricantes de medicamentos cubiertos y médicamente necesarios deben notificar a la FDA las discontinuaciones permanentes o interrupciones significativas con al menos seis meses de antelación cuando sea posible; la Ley CARES extendió la notificación a los principios activos y exigió planes de gestión de riesgos con redundancia; la §506J hace lo propio con dispositivos críticos durante emergencias de salud pública. La FDA no puede ordenar seguir fabricando: sus herramientas son la revisión acelerada de suplementos y cambios de planta, la importación temporal discrecional de productos extranjeros verificados, la extensión de caducidades con datos de estabilidad y las flexibilidades de formulación magistral de las §§503A/503B para fármacos en la lista de escasez. En la farmacia, la sustitución por genéricos es facultad del farmacéutico, pero cambiar a un fármaco terapéuticamente distinto exige al prescriptor; el paciente nunca debe racionar ni suspender por su cuenta la medicación de mantenimiento, y constar en la lista de escasez de la FDA respalda con fuerza una excepción de formulario. En California, la Ley de Farmacia (Bus. & Prof. Code §4000 y ss.) y su §4073 regulan la sustitución genérica y la información al paciente, mientras que la notificación de escasez sigue siendo un asunto federal de la §506C. *Notas personales de estudio; no constituye asesoramiento médico ni legal. Este artículo no indica dosis.*
+
+## 한국어 (초역, 원어민 감수 대기)
+
+미국 의약품 부족의 공신력 있는 정보원은 FDA 의약품 부족 데이터베이스와 ASHP/유타대 목록입니다. 부족(총공급이 총수요를 못 채우는 상태)은 생산 중단(discontinuation)과 다르며, 대부분 품질 문제가 주요 원인인 오래된 제네릭과 주사제에서 발생합니다. 법적 축은 FD&C법 §506C(21 U.S.C. §356c)입니다. 적용 대상 필수 의약품 제조사는 영구 중단이나 의미 있는 공급 차질을 가능하면 최소 6개월 전에 FDA에 통보해야 하고, CARES법은 원료의약품으로 통보를 확장하고 중복성 위험관리 계획을 요구했으며, §506J는 공중보건 비상사태 시 핵심 의료기기에 같은 의무를 부과합니다. FDA는 생산 지속을 명령할 수 없습니다. 도구는 보충 신청과 제조소 변경의 신속 심사, 품질 검증된 외국 제품의 한시적 수입 재량, 안정성 데이터에 근거한 유효기간 연장, 부족 목록 의약품에 대한 §503A/503B 조제 유연화입니다. 약국에서는 제네릭 대체가 약사 권한이지만 치료학적으로 다른 약으로의 변경은 처방의가 결정해야 하며, 환자는 유지 약물을 임의로 줄이거나 중단해서는 안 되고, FDA 부족 목록 등재는 처방집 예외 신청의 강력한 근거가 됩니다. 캘리포니아에서는 약사법(Bus. & Prof. Code §4000 이하)과 §4073이 제네릭 대체와 환자 고지를 규율하고, 부족 통보 자체는 연방 §506C의 영역입니다. *개인 학습 노트이며 의료·법률 자문이 아닙니다. 약물 용량은 기재하지 않습니다.*
+
+## Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Nguồn chính thức về thiếu thuốc tại Hoa Kỳ là Cơ sở dữ liệu Thiếu thuốc của FDA và danh sách của ASHP/Đại học Utah; thiếu hụt (tổng cung không đáp ứng tổng cầu) khác với ngừng sản xuất, và phần lớn trường hợp xảy ra ở thuốc generic lâu đời và thuốc tiêm, với vấn đề chất lượng là nguyên nhân hàng đầu. Trục pháp lý là Mục 506C của Đạo luật FD&C (21 U.S.C. §356c): nhà sản xuất các thuốc thiết yếu thuộc diện áp dụng phải thông báo cho FDA về việc ngừng vĩnh viễn hoặc gián đoạn đáng kể trước ít nhất sáu tháng khi có thể; Đạo luật CARES mở rộng thông báo sang hoạt chất và yêu cầu kế hoạch quản trị rủi ro dự phòng, còn §506J áp dụng tương tự cho thiết bị y tế thiết yếu trong tình trạng khẩn cấp y tế công cộng. FDA không thể ra lệnh tiếp tục sản xuất — công cụ của FDA là xét duyệt nhanh hồ sơ bổ sung và thay đổi cơ sở sản xuất, quyền tùy nghi nhập khẩu tạm thời sản phẩm nước ngoài đã kiểm tra chất lượng, gia hạn hạn dùng dựa trên dữ liệu ổn định, và linh hoạt pha chế theo §§503A/503B cho thuốc trong danh sách thiếu hụt. Tại nhà thuốc, thay thế bằng generic thuộc thẩm quyền của dược sĩ, nhưng đổi sang thuốc khác về mặt điều trị phải do bác sĩ kê đơn quyết định; bệnh nhân tuyệt đối không tự ý chia nhỏ liều hay ngừng thuốc duy trì, và việc thuốc nằm trong danh sách thiếu hụt của FDA là căn cứ mạnh cho yêu cầu ngoại lệ danh mục thuốc. Tại California, Luật Dược (Bus. & Prof. Code §4000 trở đi) và §4073 điều chỉnh việc thay thế generic và thông báo cho bệnh nhân, trong khi nghĩa vụ báo cáo thiếu hụt vẫn là vấn đề liên bang theo §506C. *Ghi chú học tập cá nhân, không phải tư vấn y tế hay pháp lý. Bài viết không nêu liều thuốc.*
+
+## हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+अमेरिका में दवा-कमी की आधिकारिक जानकारी के स्रोत FDA का Drug Shortages Database और ASHP/यूटा विश्वविद्यालय सूची हैं; कमी (कुल आपूर्ति का कुल माँग से कम होना) उत्पादन-बंदी (discontinuation) से भिन्न है, और अधिकांश कमियाँ पुरानी जेनेरिक व इंजेक्शन दवाओं में होती हैं जहाँ गुणवत्ता समस्याएँ प्रमुख कारण हैं। कानूनी धुरी FD&C अधिनियम की धारा 506C (21 U.S.C. §356c) है: आवश्यक दवाओं के निर्माताओं को स्थायी बंदी या सार्थक व्यवधान की सूचना संभव हो तो कम-से-कम छह महीने पहले FDA को देनी होती है; CARES अधिनियम ने सूचना को सक्रिय घटकों तक बढ़ाया और अतिरिक्तता (redundancy) जोखिम प्रबंधन योजनाएँ अनिवार्य कीं, जबकि §506J सार्वजनिक स्वास्थ्य आपातकाल में महत्वपूर्ण उपकरणों पर समान दायित्व डालती है। FDA उत्पादन जारी रखने का आदेश नहीं दे सकता — उसके साधन हैं पूरक आवेदनों व स्थल परिवर्तनों की त्वरित समीक्षा, गुणवत्ता-जाँचे विदेशी उत्पादों का अस्थायी आयात विवेकाधिकार, स्थिरता आँकड़ों पर आधारित शेल्फ-लाइफ़ विस्तार, और कमी सूची की दवाओं के लिए §§503A/503B की मिश्रण-लचीलापन। फार्मेसी में जेनेरिक प्रतिस्थापन फार्मासिस्ट के अधिकार में है, परंतु चिकित्सकीय रूप से भिन्न दवा पर जाना नुस्खा लिखने वाले चिकित्सक का निर्णय है; रोगी रखरखाव दवा स्वयं कम या बंद न करे, और FDA कमी सूची में होना फॉर्मुलरी अपवाद का मज़बूत आधार है। California में फार्मेसी कानून (Bus. & Prof. Code §4000 आदि) और §4073 जेनेरिक प्रतिस्थापन व रोगी सूचना को नियंत्रित करते हैं, जबकि कमी की रिपोर्टिंग स्वयं संघीय §506C का विषय बनी रहती है। *व्यक्तिगत अध्ययन नोट; चिकित्सा या कानूनी सलाह नहीं। इस लेख में कोई दवा-खुराक नहीं दी गई है।*
