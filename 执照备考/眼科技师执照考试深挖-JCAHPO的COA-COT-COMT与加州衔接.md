@@ -1,0 +1,53 @@
+# 眼科技师执照考试深挖：JCAHPO 的 COA、COT、COMT 与加州衔接
+
+> 个人学习笔记，不构成医疗建议。报考资格与考试结构以 JCAHPO 当年 Candidate Handbook 与加州现行法规为准。
+
+## 中文主文
+
+### 一、先定位：眼科技师不是验光师，也不是独立执业者
+
+眼科技师（ophthalmic technician / ophthalmic medical personnel）在美国眼科团队里是辅助岗位：在眼科医师（ophthalmologist，持医师执照）的指导与监督下做病史采集、视力与屈光初查、眼压测量、视野检查、眼部影像（如 OCT）等临床辅助工作。它与验光师（optometrist，独立执照、走 NBEO 考试，本仓另有专篇）是两条完全不同的线：验光师是独立执业的博士级执照，眼科技师没有独立州执照，其行业身份主要靠 JCAHPO（Joint Commission on Allied Health Personnel in Ophthalmology，眼科联合委员会）的三级认证。分清这一点，加州衔接部分就不会写错——加州没有给眼科技师单独发执照的制度。
+
+### 二、三级认证的阶梯：COA、COT、COMT
+
+JCAHPO 的主阶梯有三级，由低到高为：COA（Certified Ophthalmic Assistant，认证眼科助理）、COT（Certified Ophthalmic Technician，认证眼科技师）、COMT（Certified Ophthalmic Medical Technologist，认证眼科医疗技师）。层级越高，允许承担的临床任务复杂度越高（高级影像、眼科超声、手术辅助等通常落在 COT、COMT 一侧，具体以雇主与监督医师安排为准）。报考路径一般分两类：一是完成经认可的眼科技师培训项目（accredited program）后报考对应级别；二是在眼科医师监督下积累规定时长的在职临床工作经验，并完成规定的继续教育或自学课程，再报考。每一级的具体学时与经验门槛、考试题量与合格线，JCAHPO 会在当年手册中调整，本笔记不写死数字，报考前必须以当年 Candidate Handbook 原文复核——这是备考深挖类文章的统一口径。
+
+### 三、考试考什么：围绕临床工作流出题
+
+三级考试均为计算机化考试，内容域大致沿眼科门诊的工作流展开：病史与病历记录、视力测量与屈光基础、眼压与眼部检查技术、眼部解剖生理与常见眼病知识、眼科影像与特殊检查（视野、OCT、眼部超声等，高级别权重更高）、眼科手术辅助与无菌技术、眼科药理常识（只考认知与核对，不涉及处方权）、急症识别与转诊意识、伦理与患者沟通。COT 与 COMT 还包含技能实操层面的考核安排（以当年手册的考试结构说明为准）。备考方法上，眼科技师考试与临床动作绑定极紧，最有效的复习是把每个考点还原成诊室里的一个动作：这项检查怎么做、数值异常提示什么、什么情况必须立刻报告医师。
+
+### 四、维持认证：周期再认证与继续教育
+
+JCAHPO 认证不是一考终身：持证人须按周期（近年口径为每 36 个月一个再认证周期，以当年规则为准）积累规定数量的继续教育学分（JCAHPO 学分）并申请再认证，逾期有宽限与恢复规则，细节以 JCAHPO 现行再认证政策为准。实务上，雇主（眼科诊所、医院眼科）通常把在职持证状态写进岗位要求，学分积累应与雇主内部培训合并规划，避免临期补学分。
+
+### 五、加州衔接：没有州执照，落在医助规则与监督关系上
+
+加州对眼科技师不设独立州执照，也不设州级注册考试；其合法执业位置是「在持照眼科医师监督下工作的医疗辅助人员」。与之相关的加州规则主要是医疗助理（medical assistant）的一般框架：《商业与职业法典》（Business and Professions Code）第 2069 至 2071 条一带规定了医疗助理在医师监督下可执行的技术性辅助服务、培训与监督要求，超出辅助范围的临床判断、诊断与治疗决定仍属医师（或相应持照专业人员）的专属范围。求职与入职时，加州雇主看的是 JCAHPO 证书级别、临床经验与具体检查设备的熟练度，而不是一张州执照。另外两条临近线不要混：验光师走加州验光委员会（State Board of Optometry）与 NBEO；配镜师（optician）另有加州注册制度，均与眼科技师不是一回事。
+
+### 六、报考路线收束
+
+零经验入行：优先走经认可的培训项目，毕业考 COA，入职后再按经验与学分往 COT 冲；在职转岗：先核对在眼科医师监督下的工作时长是否满足当年手册的在职路径，再补规定的课程。无论哪条路，顺序都是先查当年 Candidate Handbook 的资格页，再报名；证书到手后立刻把再认证周期记入日历。国际背景考生另需核对学历与工作经历文件的英文证明要求，以 JCAHPO 当年说明为准。
+
+*声明：个人学习笔记，不构成医疗建议。来源：JCAHPO（Joint Commission on Allied Health Personnel in Ophthalmology）认证体系公开说明与 Candidate Handbook 口径；加州 Business and Professions Code §§ 2069-2071（医疗助理一般框架）。具体资格与数字以报考当年官方文本为准。*
+
+---
+
+## English
+
+Ophthalmic technicians are allied-health personnel who work under the supervision of licensed ophthalmologists; they are not optometrists and hold no independent state license. Their industry credential is the three-level JCAHPO ladder: COA (Certified Ophthalmic Assistant), COT (Certified Ophthalmic Technician), and COMT (Certified Ophthalmic Medical Technologist), with higher levels covering more complex imaging, ocular ultrasound, and surgical assisting. Candidates generally qualify either by graduating from an accredited ophthalmic training program or through supervised on-the-job clinical experience plus required coursework, and the computer-based examinations follow the clinic workflow — history taking, visual acuity and refraction basics, tonometry, ocular anatomy and disease, imaging and special testing, pharmacology recognition, emergency recognition, and ethics; exact eligibility hours, item counts, and passing standards are set in the current JCAHPO Candidate Handbook and must be rechecked for the testing year. Certification is maintained on a recurring recertification cycle (36 months in recent policy) with continuing-education credits. California adds no state license or state exam for ophthalmic technicians: in California they work as medical-assistant-type personnel under physician supervision within the general framework of Business and Professions Code §§ 2069-2071, which is distinct from optometrists (State Board of Optometry, NBEO) and from registered opticians. *Personal study notes only; not medical advice.*
+
+## Español (traducción de estudio, pendiente de revisión nativa)
+
+Los técnicos oftálmicos son personal de apoyo en salud que trabaja bajo la supervisión de oftalmólogos con licencia; no son optometristas y no tienen una licencia estatal independiente. Su credencial sectorial es la escala de tres niveles de JCAHPO: COA (Certified Ophthalmic Assistant), COT (Certified Ophthalmic Technician) y COMT (Certified Ophthalmic Medical Technologist), y los niveles superiores abarcan imágenes más complejas, ecografía ocular y asistencia quirúrgica. Por lo general se accede graduándose de un programa acreditado de formación oftálmica o mediante experiencia clínica supervisada en el puesto más la formación requerida, y los exámenes por computadora siguen el flujo de trabajo de la clínica: historia clínica, agudeza visual y nociones de refracción, tonometría, anatomía y enfermedades oculares, imágenes y pruebas especiales, reconocimiento farmacológico, reconocimiento de urgencias y ética; las horas de elegibilidad exactas, el número de preguntas y los estándares de aprobación figuran en el Candidate Handbook vigente de JCAHPO y deben verificarse para el año del examen. La certificación se mantiene con un ciclo periódico de recertificación (36 meses en la política reciente) y créditos de educación continua. California no añade licencia ni examen estatal para técnicos oftálmicos: trabajan como personal tipo asistente médico bajo supervisión médica, dentro del marco general de los §§ 2069-2071 del Business and Professions Code, distinto de los optometristas (State Board of Optometry, NBEO) y de los ópticos registrados. *Notas personales de estudio; no constituye consejo médico.*
+
+## 한국어 (초역, 원어민 감수 대기)
+
+안과기사는 면허를 가진 안과 의사의 감독 아래 일하는 보건 보조 인력으로, 검안사(optometrist)와 다르며 독립적인 주 면허가 없습니다. 업계 자격은 JCAHPO의 3단계 사다리입니다. COA(Certified Ophthalmic Assistant), COT(Certified Ophthalmic Technician), COMT(Certified Ophthalmic Medical Technologist) 순으로 높아지며, 상위 단계일수록 복잡한 영상검사, 안구 초음파, 수술 보조를 담당합니다. 응시 자격은 일반적으로 공인된 안과 교육 프로그램 졸업, 또는 감독 아래 임상 경력과 필수 과정 이수의 경로로 얻으며, 컴퓨터 기반 시험은 진료 흐름을 따릅니다. 병력 청취, 시력 측정과 굴절 기초, 안압 측정, 안구 해부·질환, 영상 및 특수검사, 약리 인식, 응급 인식, 윤리가 출제 범위이고, 정확한 자격 시간, 문항 수, 합격 기준은 해당 연도 JCAHPO Candidate Handbook에서 반드시 다시 확인해야 합니다. 자격은 최근 정책 기준 36개월 주기의 재인증과 보수교육 학점으로 유지됩니다. 캘리포니아는 안과기사에 대한 주 면허나 주 시험을 추가하지 않으며, 이들은 Business and Professions Code §§ 2069-2071의 일반 틀 안에서 의사 감독 아래 일하는 의료보조 인력으로 위치하고, 이는 검안사(State Board of Optometry, NBEO)나 등록 안경사와 구별됩니다. *개인 학습 노트이며 의학적 조언이 아닙니다.*
+
+## Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Kỹ thuật viên nhãn khoa là nhân viên y tế hỗ trợ làm việc dưới sự giám sát của bác sĩ nhãn khoa có giấy phép; họ không phải bác sĩ đo thị lực (optometrist) và không có giấy phép hành nghề độc lập cấp bang. Chứng chỉ ngành của họ là thang ba cấp của JCAHPO: COA (Certified Ophthalmic Assistant), COT (Certified Ophthalmic Technician) và COMT (Certified Ophthalmic Medical Technologist), với các cấp cao hơn bao quát chụp ảnh chẩn đoán phức tạp hơn, siêu âm mắt và hỗ trợ phẫu thuật. Ứng viên thường đủ điều kiện bằng cách tốt nghiệp một chương trình đào tạo nhãn khoa được công nhận, hoặc qua kinh nghiệm lâm sàng có giám sát tại nơi làm việc cộng với khóa học bắt buộc, và các kỳ thi trên máy tính đi theo quy trình phòng khám: khai thác bệnh sử, thị lực và kiến thức cơ bản về khúc xạ, đo nhãn áp, giải phẫu và bệnh lý mắt, chụp ảnh và xét nghiệm đặc biệt, nhận biết dược lý, nhận biết cấp cứu và đạo đức; số giờ đủ điều kiện chính xác, số câu hỏi và chuẩn đạt được quy định trong Candidate Handbook hiện hành của JCAHPO và phải kiểm tra lại cho năm thi. Chứng chỉ được duy trì theo chu kỳ tái chứng nhận định kỳ (36 tháng theo chính sách gần đây) kèm tín chỉ đào tạo liên tục. California không bổ sung giấy phép hay kỳ thi cấp bang cho kỹ thuật viên nhãn khoa: họ làm việc như nhân viên kiểu trợ lý y tế dưới sự giám sát của bác sĩ trong khuôn khổ chung của Business and Professions Code §§ 2069-2071, khác với optometrist (State Board of Optometry, NBEO) và khác với kỹ thuật viên kính thuốc đã đăng ký. *Ghi chú học tập cá nhân, không phải tư vấn y tế.*
+
+## हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+नेत्र तकनीशियन (ophthalmic technician) लाइसेंसधारी नेत्र रोग विशेषज्ञों के पर्यवेक्षण में काम करने वाले सहायक स्वास्थ्य कर्मी हैं; वे optometrist नहीं हैं और उनके पास कोई स्वतंत्र राज्य लाइसेंस नहीं होता। उनका उद्योग प्रमाणन JCAHPO की त्रि-स्तरीय सीढ़ी है: COA (Certified Ophthalmic Assistant), COT (Certified Ophthalmic Technician) और COMT (Certified Ophthalmic Medical Technologist), जिनमें ऊँचे स्तर अधिक जटिल इमेजिंग, नेत्र अल्ट्रासाउंड और शल्य-सहायता को कवर करते हैं। अभ्यर्थी सामान्यतः किसी मान्यता-प्राप्त नेत्र प्रशिक्षण कार्यक्रम से स्नातक होकर, या पर्यवेक्षित कार्यस्थल नैदानिक अनुभव और आवश्यक पाठ्यक्रम के माध्यम से पात्र होते हैं, और कंप्यूटर-आधारित परीक्षाएँ क्लिनिक कार्यप्रवाह का अनुसरण करती हैं — इतिहास लेना, दृश्य तीक्ष्णता और अपवर्तन की मूल बातें, टोनोमेट्री, नेत्र शरीररचना और रोग, इमेजिंग व विशेष परीक्षण, औषधि-पहचान, आपात-पहचान और नैतिकता; सटीक पात्रता घंटे, प्रश्न संख्या और उत्तीर्ण मानक वर्तमान JCAHPO Candidate Handbook में दिए होते हैं और परीक्षा वर्ष के लिए फिर से जाँचे जाने चाहिए। प्रमाणन आवर्ती पुनःप्रमाणन चक्र (हालिया नीति में 36 माह) और सतत शिक्षा क्रेडिट के साथ बनाए रखा जाता है। California नेत्र तकनीशियनों के लिए कोई राज्य लाइसेंस या राज्य परीक्षा नहीं जोड़ता: वे Business and Professions Code §§ 2069-2071 के सामान्य ढाँचे में चिकित्सक पर्यवेक्षण के तहत medical-assistant प्रकार के कर्मियों के रूप में काम करते हैं, जो optometrists (State Board of Optometry, NBEO) और पंजीकृत opticians से भिन्न है। *व्यक्तिगत अध्ययन नोट; चिकित्सा सलाह नहीं।*
