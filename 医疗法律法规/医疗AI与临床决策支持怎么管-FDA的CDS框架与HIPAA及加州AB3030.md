@@ -107,3 +107,20 @@ HIPAA hẹp hơn nhiều người tưởng: chỉ áp dụng khi thông tin sứ
 पारदर्शिता दूसरी धारा है। ONC का HTI-1 नियम, 45 CFR § 170.315(b)(11) (Decision Support Interventions), प्रमाणित स्वास्थ्य IT से भविष्यवाणी एल्गोरिदम के स्रोत गुणों का खुलासा माँगता है — किसने बनाया, किस डेटा पर, किन सीमाओं के साथ।
 
 HIPAA अक्सर समझे जाने से संकरा है: यह केवल तब लागू होता है जब संरक्षित स्वास्थ्य जानकारी किसी कवर की गई संस्था या व्यावसायिक सहयोगी के पास हो, हर स्वास्थ्य ऐप के लिए सामान्य कानून नहीं है। कैलिफ़ोर्निया में AB 3030 (2024), 1 जनवरी 2025 से प्रभावी, जनरेटिव AI से रोगियों के लिए नैदानिक संचार बनने पर अस्वीकरण और वास्तविक व्यक्ति से संपर्क का रास्ता अनिवार्य करता है।
+
+---
+
+## 六语集中声明区（补译追加，正文未改动）
+
+中文：本文为个人学习笔记，不构成医疗建议，也不构成法律或专业建议；具体事项请以主管部门、发证机构与现行官方文本为准，紧急情况请拨打 911。
+
+English: These are personal study notes, not medical advice and not legal or professional advice. For specific matters, follow the competent authority, the issuing body, and current official texts. In an emergency, call 911.
+
+Español: Estas son notas personales de estudio; no constituyen asesoría médica, legal ni profesional. Para asuntos concretos, siga a la autoridad competente, al organismo emisor y los textos oficiales vigentes. En una emergencia, llame al 911.
+
+한국어 (초역, 원어민 감수 대기): 본 글은 개인 학습 노트이며 의료 자문이나 법률·전문 자문이 아닙니다. 구체적인 사항은 관할 기관, 발급 기관과 현행 공식 문언을 따르십시오. 응급 시 911에 전화하십시오.
+
+Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính): Đây là ghi chú học tập cá nhân, không phải tư vấn y tế, pháp lý hay chuyên môn. Với vấn đề cụ thể, hãy theo cơ quan có thẩm quyền, cơ quan cấp chứng chỉ và văn bản chính thức hiện hành. Trường hợp khẩn cấp, hãy gọi 911.
+
+हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित): यह व्यक्तिगत अध्ययन नोट है और चिकित्सा, कानूनी या पेशेवर सलाह नहीं है। विशिष्ट मामलों के लिए सक्षम प्राधिकरण, जारी करने वाले निकाय और वर्तमान आधिकारिक पाठों का पालन करें। आपात स्थिति में 911 पर कॉल करें।
+
