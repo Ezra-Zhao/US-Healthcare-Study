@@ -84,6 +84,8 @@ HIPAA es más estrecha de lo que suele creerse: solo se aplica cuando una entida
 
 HIPAA는 흔히 생각하는 것보다 좁습니다. 보호 대상 건강 정보를 적용 대상 기관이나 업무 제휴자가 취급할 때만 적용되며, 모든 건강 앱을 포괄하는 법은 아닙니다. 캘리포니아에서는 AB 3030 (2024)이 2025년 1월 1일부터 시행되어, 의료기관이 생성형 AI로 환자에게 임상 정보 관련 내용을 보낼 때 고지와 실제 담당자에게 연락할 경로를 요구합니다.
 
+보충하면, HTI-1의 출처 속성(source attributes)은 추상적 투명성 구호가 아니라 열거된 항목 목록이라는 점을 분명히 해야 합니다. 예측형 의사결정 지원 개입에는 개입의 이름과 개발 주체, 의도된 용도, 학습·개발에 쓰인 데이터의 성격, 알려진 한계와 공정성 관련 고려, 업데이트 방식처럼 사용자가 실제로 대조할 수 있는 속성들이 공개 대상에 포함됩니다. 그래서 조달 심사에서는 벤더의 마케팅 문구가 아니라 이 속성표가 채워져 있는지가 첫 번째 확인 지점이 됩니다. HIPAA 적용 판단도 순서를 고정해 두면 실수가 줄어듭니다. 먼저 데이터가 PHI인지, 다음으로 그 데이터를 다루는 주체가 보장 대상 기관이나 업무 파트너인지, 마지막으로 그 사용·공개가 치료·지불·운영 같은 허용 목적에 들어가는지를 봅니다. 세 단계 중 어느 하나라도 어긋나면 HIPAA의 결론이 달라집니다. AB 3030에 대해서는 적용 범위를 과장하지 않는 것이 중요합니다. 이 법은 생성형 AI가 작성한 환자 대상 임상 커뮤니케이션을 겨냥한 표시·연결 의무이지, 의료기관 내부의 모든 AI 활용에 대한 전면 허가제가 아닙니다. 다만 같은 논리 — 환자가 기계가 쓴 글인지 알 권리와 사람에게 닿을 통로 — 는 다른 주의 입법에서도 반복되고 있어, 다주 운영 기관은 캘리포니아 기준을 사실상 하한선으로 삼는 경향이 있습니다.
+
 ## Tiếng Việt（初译待校）
 
 Việc giám sát AI y tế tại Hoa Kỳ đi theo nhiều tuyến riêng. Mục 3060 của Đạo luật Chữa trị Thế kỷ 21 đã sửa đổi Mục 520(o) của FDCA (21 U.S.C. § 360j(o)) để loại trừ một số chức năng phần mềm hỗ trợ quyết định lâm sàng (CDS) khỏi định nghĩa pháp lý về thiết bị.
@@ -95,6 +97,8 @@ Phía ngược lại vẫn bị quản lý như thiết bị: phần mềm xử 
 Minh bạch là tuyến thứ hai. Quy tắc HTI-1 của ONC, tại 45 CFR § 170.315(b)(11) về Can thiệp Hỗ trợ Quyết định, yêu cầu công nghệ thông tin y tế được chứng nhận phải công bố thuộc tính nguồn của thuật toán dự đoán: ai xây dựng, trên dữ liệu nào, với giới hạn gì.
 
 HIPAA hẹp hơn nhiều người tưởng: chỉ áp dụng khi thông tin sức khỏe được bảo vệ do một thực thể thuộc diện điều chỉnh hoặc đối tác kinh doanh xử lý, không phải luật chung cho mọi ứng dụng sức khỏe. Tại California, AB 3030 (2024), hiệu lực từ ngày 1 tháng 1 năm 2025, yêu cầu tuyên bố miễn trừ và kênh liên hệ với người thật khi AI tạo sinh soạn nội dung lâm sàng gửi bệnh nhân.
+
+Bổ sung: cần nói rõ các thuộc tính nguồn (source attributes) của HTI-1 là một danh mục liệt kê cụ thể, không phải khẩu hiệu minh bạch trừu tượng. Với các can thiệp hỗ trợ quyết định mang tính dự đoán, đối tượng phải công bố gồm tên và bên phát triển của can thiệp, mục đích sử dụng dự kiến, tính chất của dữ liệu dùng để phát triển, các giới hạn đã biết và cân nhắc liên quan công bằng, cùng cách thức cập nhật — những thuộc tính mà người dùng thật sự đối chiếu được. Vì vậy khi thẩm định mua sắm, điểm kiểm tra đầu tiên là bảng thuộc tính này đã được điền hay chưa, chứ không phải câu chữ tiếp thị của nhà cung cấp. Phán đoán áp dụng HIPAA cũng nên cố định thứ tự để giảm sai sót: trước hết dữ liệu có phải PHI không, tiếp đó chủ thể xử lý dữ liệu có phải tổ chức được bao phủ hay đối tác kinh doanh không, cuối cùng việc sử dụng, tiết lộ đó có thuộc mục đích được phép như điều trị, thanh toán, vận hành không — lệch một trong ba bước là kết luận HIPAA thay đổi. Với AB 3030, điều quan trọng là không phóng đại phạm vi: luật này nhắm tới nghĩa vụ ghi nhãn và giữ đường liên hệ tới người thật đối với nội dung giao tiếp lâm sàng với bệnh nhân do AI tạo sinh viết ra, chứ không phải chế độ cấp phép toàn diện cho mọi ứng dụng AI nội bộ của cơ sở y tế. Tuy vậy cùng một lôgic — bệnh nhân có quyền biết đoạn văn do máy viết và có đường tới gặp người thật — đang lặp lại trong lập pháp của các bang khác, nên cơ sở hoạt động đa bang có xu hướng lấy chuẩn California làm sàn tối thiểu trên thực tế.
 
 ## हिन्दी（初译待校）
 
@@ -109,6 +113,8 @@ HIPAA hẹp hơn nhiều người tưởng: chỉ áp dụng khi thông tin sứ
 HIPAA अक्सर समझे जाने से संकरा है: यह केवल तब लागू होता है जब संरक्षित स्वास्थ्य जानकारी किसी कवर की गई संस्था या व्यावसायिक सहयोगी के पास हो, हर स्वास्थ्य ऐप के लिए सामान्य कानून नहीं है। कैलिफ़ोर्निया में AB 3030 (2024), 1 जनवरी 2025 से प्रभावी, जनरेटिव AI से रोगियों के लिए नैदानिक संचार बनने पर अस्वीकरण और वास्तविक व्यक्ति से संपर्क का रास्ता अनिवार्य करता है।
 
 ---
+
+पूरक: स्पष्ट करें कि HTI-1 के source attributes कोई अमूर्त पारदर्शिता नारा नहीं, बल्कि एक गिनी हुई सूची है। पूर्वानुमानात्मक निर्णय समर्थन हस्तक्षेपों के लिए जिन गुणों का प्रकटीकरण अपेक्षित है उनमें हस्तक्षेप का नाम व विकासकर्ता, इच्छित उपयोग, विकास में प्रयुक्त डेटा का स्वरूप, ज्ञात सीमाएँ व निष्पक्षता संबंधी विचार, और अद्यतन का तरीका शामिल हैं — ऐसे गुण जिन्हें उपयोगकर्ता वास्तव में तुलना कर सके। इसलिए खरीद मूल्यांकन में पहला जाँच बिंदु विक्रेता के विपणन वाक्य नहीं, बल्कि यह गुण-तालिका भरी है या नहीं, यही होता है। HIPAA लागू होने का निर्णय भी एक निश्चित क्रम से करें तो गलतियाँ घटती हैं: पहले देखें कि डेटा PHI है या नहीं, फिर कि उसे संभालने वाला पक्ष covered entity या business associate है या नहीं, और अंत में कि वह उपयोग या प्रकटीकरण उपचार, भुगतान, संचालन जैसे अनुमत उद्देश्यों में आता है या नहीं — तीनों में से कोई एक चरण भटके तो HIPAA का निष्कर्ष बदल जाता है। AB 3030 के बारे में दायरा बढ़ाकर न बताना महत्वपूर्ण है: यह कानून generative AI द्वारा लिखे गए रोगी-उन्मुख नैदानिक संचार पर लेबल व मानव-संपर्क मार्ग का दायित्व रखता है, अस्पताल के सभी आंतरिक AI उपयोगों पर कोई व्यापक लाइसेंस व्यवस्था नहीं है। फिर भी यही तर्क — रोगी को यह जानने का अधिकार कि पाठ मशीन ने लिखा है और मनुष्य तक पहुँचने का मार्ग — अन्य राज्यों के विधायन में भी दोहराया जा रहा है, इसलिए बहु-राज्य संस्थान व्यवहार में California मानक को न्यूनतम आधार मानने लगे हैं।
 
 ## 六语集中声明区（补译追加，正文未改动）
 
