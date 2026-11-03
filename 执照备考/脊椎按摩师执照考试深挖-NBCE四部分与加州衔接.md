@@ -54,6 +54,8 @@ Part I 随基础课程趁热打铁 → Part II 与临床课程同步 → Part II
 
 *Personal study notes only; not medical advice.*
 
+Supplement (aligned with the Chinese main text): A workable study sequence runs Part I right after the basic-science courses while they are fresh, Part II alongside the clinical courses, Part III with case-based questions to train the reasoning chain, and Part IV with early, repeated practice of technique demonstrations and station pacing. Keep the California BCE checklist and the separate X-ray permit pathway on a list of their own — do not wait until graduation to discover missing state-level documents. Note also that pre-DC undergraduate science coursework requirements vary by school, so check the target school's and the state's lists before applying.
+
 ## Español
 
 ### Exámenes de licencia quiropráctica: las cuatro partes del NBCE y la vía de California
@@ -68,6 +70,8 @@ Part I 随基础课程趁热打铁 → Part II 与临床课程同步 → Part II
 - **Ámbito y seguridad.** Sin recetar ni operar; lo que salga del ámbito neuromusculoesquelético se deriva. Primero las banderas rojas: déficit neurológico progresivo, signos de cola de caballo (anestesia en silla de montar, cambios de vejiga o intestino), sospecha de fractura tras traumatismo, fiebre con dolor espinal y pérdida de peso inexplicada o dolor nocturno exigen evaluación médica inmediata, no manipulación. Consentimiento informado y registro antes del tratamiento manual; síntomas de circulación posterior (vértigo, diplopía, alteración del habla) tras la terapia se tratan como urgencia. La imagen rutinaria temprana en lumbalgia inespecífica sin banderas rojas no mejora resultados: la imagen debe guiarse por indicaciones.
 
 *Notas personales de estudio; no constituyen asesoría médica. Traducción de estudio, pendiente de revisión nativa.*
+
+Suplemento (alineado con el texto principal en chino): una secuencia de estudio viable es hacer la Parte I justo después de las asignaturas de ciencias básicas, aún frescas; la Parte II en paralelo con las asignaturas clínicas; la Parte III con preguntas basadas en casos para entrenar la cadena de razonamiento; y la Parte IV con práctica temprana y repetida de demostraciones de técnica y del ritmo de las estaciones. Conviene llevar la lista de la BCE de California y la vía separada del permiso radiográfico en una relación propia: no esperar a graduarse para descubrir que faltan documentos estatales. Nótese también que los requisitos de cursos de ciencias previos al ingreso varían según la escuela, así que hay que revisar las listas de la escuela y del estado de destino antes de solicitar.
 
 ## 한국어 (초역, 교정 대기)
 
@@ -84,6 +88,8 @@ Part I 随基础课程趁热打铁 → Part II 与临床课程同步 → Part II
 
 *개인 학습 노트이며 의료 조언이 아닙니다.*
 
+보충(중국어 본문 정렬): 실행 가능한 학습 순서는 기초과학 과목을 마친 직후 기억이 생생할 때 Part I, 임상 과목과 병행해 Part II, 증례형 문제로 추론의 흐름을 훈련하며 Part III, 그리고 기법 시연과 스테이션 리듬을 일찍부터 반복 연습하며 Part IV를 준비하는 것입니다. 캘리포니아 BCE 체크리스트와 별도의 X선 허가 경로는 따로 목록을 만들어 두십시오. 졸업한 뒤에야 주 단계 서류가 빠진 것을 발견하면 늦습니다. 또한 DC 입학 전 학부 과학 과목 요건은 학교마다 다르므로, 지원 전에 목표 학교와 주의 목록을 확인해야 합니다.
+
 ## Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
 
 ### Kỳ thi giấy phép nắn chỉnh cột sống: bốn phần NBCE và lộ trình California
@@ -98,6 +104,8 @@ Part I 随基础课程趁热打铁 → Part II 与临床课程同步 → Part II
 - **Phạm vi và an toàn.** Không kê đơn, không phẫu thuật; biểu hiện ngoài phạm vi thần kinh–cơ–xương phải chuyển tuyến. Cờ đỏ đặt lên trước: thiếu hụt thần kinh tiến triển, dấu hiệu chùm đuôi ngựa (tê vùng yên ngựa, thay đổi tiểu–đại tiện), nghi ngờ gãy xương sau chấn thương, sốt kèm đau cột sống, sụt cân không rõ nguyên nhân và đau ban đêm đều cần đánh giá y khoa ngay, không phải chỉ định nắn chỉnh. Đồng ý sau khi được giải thích và ghi hồ sơ trước điều trị; triệu chứng tuần hoàn sau như chóng mặt, nhìn đôi hay rối loạn lời nói sau điều trị được xử lý như cấp cứu. Chụp hình sớm thường quy cho đau thắt lưng không đặc hiệu không có cờ đỏ không cải thiện kết cục — hình ảnh phải theo chỉ định.
 
 *Ghi chép học tập cá nhân, không phải tư vấn y tế.*
+
+Bổ sung (đối chiếu với văn bản chính tiếng Trung): một trình tự ôn thi khả thi là thi Phần I ngay sau các môn khoa học cơ bản khi kiến thức còn mới, Phần II song song với các môn lâm sàng, Phần III bằng câu hỏi dựa trên ca bệnh để rèn chuỗi suy luận, và Phần IV với việc luyện sớm và lặp lại phần trình diễn kỹ thuật cùng nhịp điệu các trạm. Hãy để danh mục kiểm tra BCE của California và lộ trình giấy phép X-quang riêng vào một danh sách riêng — đừng đợi đến khi tốt nghiệp mới phát hiện thiếu giấy tờ cấp bang. Cũng lưu ý yêu cầu về các môn khoa học ở bậc đại học trước khi vào chương trình DC khác nhau theo từng trường, vì vậy hãy kiểm tra danh sách của trường và của bang mục tiêu trước khi nộp hồ sơ.
 
 ## हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
 
@@ -117,3 +125,5 @@ Part I 随基础课程趁热打铁 → Part II 与临床课程同步 → Part II
 ---
 
 **声明**：个人学习笔记，不构成法律、税务或医疗建议。具体事务请咨询持牌专业人士。
+
+पूरक (चीनी मुख्य पाठ के अनुरूप): एक व्यावहारिक अध्ययन क्रम यह है — मूल विज्ञान पाठ्यक्रमों के तुरंत बाद, जब वे ताज़ा हों, भाग I; नैदानिक पाठ्यक्रमों के साथ-साथ भाग II; तर्क-शृंखला का अभ्यास कराने वाले मामला-आधारित प्रश्नों के साथ भाग III; और तकनीक प्रदर्शनों व स्टेशन की गति के शीघ्र, बार-बार अभ्यास के साथ भाग IV। California BCE की जाँच-सूची और अलग एक्स-रे परमिट मार्ग को अपनी अलग सूची में रखें — स्नातक होने तक प्रतीक्षा न करें कि तब पता चले कि राज्य-स्तरीय दस्तावेज़ अधूरे हैं। यह भी ध्यान दें कि DC कार्यक्रम से पहले के स्नातक विज्ञान पाठ्यक्रमों की आवश्यकताएँ हर स्कूल में भिन्न होती हैं, इसलिए आवेदन से पहले लक्ष्य स्कूल और राज्य की सूचियाँ जाँच लें।
