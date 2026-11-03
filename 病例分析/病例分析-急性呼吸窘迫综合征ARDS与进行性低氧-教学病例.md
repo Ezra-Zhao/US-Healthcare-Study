@@ -1,0 +1,59 @@
+# 病例分析：急性呼吸窘迫综合征 ARDS 与进行性低氧（教学病例）
+
+> 虚构教学病例，不构成医疗建议。真实出现呼吸困难进行性加重、血氧持续下降，请立即呼叫医疗团队，院外急症拨打 911。本篇全文不写药物剂量。
+
+## 中文主文
+
+### 一、病例呈现（虚构）
+
+58 岁男性，无已知慢性肺病，因社区获得性肺炎住院。入院时以发热、咳嗽与单侧肺部阴影为主，氧需求尚不高。住院第 3 天起病情拐弯：氧需求一路往上走，普通吸氧下呼吸仍快而费力，复查影像从单侧浸润进展为双肺弥漫浸润，血气显示低氧进行性恶化。团队评估后转入重症监护病房（ICU），按急性呼吸窘迫综合征（acute respiratory distress syndrome, ARDS）的框架处理。本例的教学价值在于时间线：感染起病在先、氧合在数日内阶梯式恶化、影像双侧化，三件事凑齐，就要从普通肺炎的思路切换到 ARDS 的思路。
+
+### 二、定案框架：柏林定义四件套与氧合分级
+
+ARDS 的诊断口径以柏林定义（Berlin Definition）为准，四件缺一不可。一是时机：已知临床打击后 1 周内新发或加重的呼吸症状，本例肺炎住院第 3 天恶化，正落在这个窗口里。二是影像：双侧肺部阴影，且不能完全由胸腔积液、肺叶或肺段不张、结节来解释，本例双肺浸润加重符合这一条，但判读时要逐项排除积液与不张的成分。三是水肿来源：呼吸衰竭不能完全由心力衰竭或容量过负荷解释，需要结合病史、查体与心脏评估把心源性成分分开，客观评估在鉴别不清时尤其重要。四是氧合：在呼气末正压（PEEP）不低于 5 cmH2O 的条件下，按动脉血氧分压与吸入氧浓度的比值（PaO2/FiO2）分级：比值在 200 至 300 之间为轻度，100 至 200 之间为中度，不超过 100 为重度。分级不是贴标签，它直接决定通气策略与升级节奏，所以同一患者要随氧合变化反复重估。
+
+### 三、鉴别：先把能混淆的几家分开
+
+心源性肺水肿是最重要的鉴别对象：它同样双肺阴影加低氧，但病史多有心脏基础、容量负荷线索，影像分布、心脏超声与利尿后的反应走向不同；ARDS 与心源性水肿还可以并存，柏林定义的措辞是呼吸衰竭不能完全由心衰解释，而不是要求一点心脏问题都没有。肺不张多为单侧或肺叶性，常见于术后、痰栓或体位相关，体位调整与气道清理后变化快，解释不了弥漫双侧进展。肺栓塞以低氧加循环表现为主，影像通常没有这种弥漫双侧浸润，怀疑时走栓塞的专门评估路径。鉴别的落点是：先确认打击因素与时间线，再用影像与心脏评估把水肿来源切开，最后用氧合分级定严重度。
+
+### 四、处理主线（原则层，不写剂量）
+
+1. **病因治疗与脓毒症并行**：ARDS 多数是结果不是源头，本例的源头是肺炎，针对病因的抗感染与脓毒症处理和呼吸支持同时推进，只调呼吸机不治病因，氧合很难真正拐弯。
+2. **肺保护通气是地基**：按 ARDSNet 的口径走肺保护策略，即按预计体重（predicted body weight）设定小潮气量，并把平台压控制在安全范围内，目标是避免呼吸机把已经受伤的肺再撑伤；参数的逐项设定由 ICU 团队结合血气与力学监测调整，本篇只讲原则不写具体数值。
+3. **中重度加俯卧位**：氧合分级进入中重度、常规通气下低氧仍顽固时，按 PROSEVA 研究的口径尽早评估俯卧位通气，每日长时程进行，由受训团队执行并管理管路与皮肤风险；俯卧位是通气策略的一部分，不是最后才想起的补救。
+4. **液体走保守路线**：在不影响器官灌注的前提下倾向保守液体管理，避免容量过负荷给肺水肿火上浇油，灌注与液体之间的平衡由 ICU 团队动态评估。
+5. **难治低氧的升级有台阶**：上述措施后氧合仍不达标时，升级选项包括神经肌肉阻滞与体外膜肺氧合（ECMO）转诊评估，均由 ICU 团队在专科中心框架内决定，家属沟通要提前，不要等到最后一刻才第一次听说这些词。
+
+### 五、家属沟通、红旗与教学要点回收
+
+- **红旗只有一条主线**：氧合进行性恶化、呼吸费力加重、意识变差，任何一项出现或加重，住院患者立即呼叫医疗团队，院外或转运途中出现急症表现拨打 911，不等观察一晚再看。
+- **和家属把话说在前面**：ARDS 的恢复以天到周计，氧合常有反复，俯卧位、镇静与管路都是治疗的一部分；预后与病因控制、合并症和氧合分级一起走，沟通时讲清不确定性，不给打包票式的时间表。
+- **教学要点回收**：肺炎后 1 周内氧合阶梯式恶化加双侧浸润，先按柏林定义四件套逐项核对；分级看 PEEP 不低于 5 cmH2O 条件下的 PaO2/FiO2；处置的顺序是病因与脓毒症并行、肺保护通气打底、中重度尽早俯卧位、液体保守、难治低氧再谈升级评估。
+
+*声明：虚构教学病例，个人学习笔记，不构成医疗建议。来源框架：ARDS 柏林定义（ARDS Definition Task Force, JAMA 2012）；ARDSNet 肺保护通气口径；PROSEVA 俯卧位研究（NEJM 2013）与重症医学通气管理的一般临床路径。具体处置由 ICU 团队结合患者状态决定。全文不写药物剂量。*
+
+---
+
+## English
+
+A fictional teaching case: a 58-year-old man with no known chronic lung disease is admitted with community-acquired pneumonia. On hospital day 3 his oxygen requirement climbs step by step, imaging progresses from a unilateral infiltrate to diffuse bilateral infiltrates, and blood gases show worsening hypoxemia; he is transferred to the ICU and managed under the framework of acute respiratory distress syndrome (ARDS). Diagnosis follows the Berlin Definition, all four elements required: onset within one week of a known clinical insult; bilateral opacities not fully explained by effusions, lobar collapse, or nodules; respiratory failure not fully explained by cardiac failure or fluid overload; and, on PEEP of at least 5 cmH2O, oxygenation graded by PaO2/FiO2 — mild 200 to 300, moderate 100 to 200, severe at or below 100. The key differentials are cardiogenic pulmonary edema (which can coexist — the definition says not fully explained by heart failure, not that the heart must be perfect), atelectasis (usually lobar and quick to change with positioning and airway clearance), and pulmonary embolism (hypoxemia without this diffuse bilateral picture, worked up on its own pathway). Management is principles only: treat the cause and sepsis in parallel with respiratory support; lung-protective ventilation in the ARDSNet sense — small tidal volumes set by predicted body weight with plateau pressure kept in a safe range, exact settings left to the ICU team; early prone positioning for moderate-to-severe disease in the PROSEVA sense, in prolonged daily sessions by a trained team; a conservative fluid approach once perfusion allows; and, for refractory hypoxemia, stepwise escalation to neuromuscular blockade and referral assessment for extracorporeal support (ECMO), decided by the ICU team. The red-flag line is simple: worsening oxygenation, harder breathing, or declining consciousness means call the care team immediately in hospital and 911 in an emergency. *Fictional teaching case; personal study notes only, not medical advice. No drug dosages are given.*
+
+## Español (traducción de estudio, pendiente de revisión nativa)
+
+Caso docente ficticio: varón de 58 años, sin enfermedad pulmonar crónica conocida, ingresado por neumonía adquirida en la comunidad. Al tercer día de hospitalización su necesidad de oxígeno sube escalón a escalón, la imagen pasa de un infiltrado unilateral a infiltrados bilaterales difusos y la gasometría muestra hipoxemia progresiva; se traslada a la UCI y se maneja con el marco del síndrome de dificultad respiratoria aguda (SDRA, ARDS en inglés). El diagnóstico sigue la Definición de Berlín, con sus cuatro elementos: inicio dentro de la semana siguiente a una agresión clínica conocida; opacidades bilaterales no explicadas por completo por derrames, colapso lobular o nódulos; insuficiencia respiratoria no explicada por completo por insuficiencia cardíaca o sobrecarga de líquidos; y, con PEEP de al menos 5 cmH2O, oxigenación graduada por PaO2/FiO2: leve de 200 a 300, moderada de 100 a 200 y grave de 100 o menos. Los diferenciales clave son el edema pulmonar cardiogénico (que puede coexistir: la definición dice no explicado por completo, no que el corazón deba estar sano), la atelectasia (suele ser lobular y cambia rápido con la postura y la limpieza de la vía aérea) y la embolia pulmonar (hipoxemia sin este cuadro bilateral difuso, con su propia vía de estudio). El manejo se enuncia en principios: tratar la causa y la sepsis en paralelo con el soporte respiratorio; ventilación protectora pulmonar en el sentido de ARDSNet — volúmenes corrientes pequeños según el peso corporal predicho y presión meseta en rango seguro, con los ajustes concretos a cargo del equipo de UCI —; decúbito prono precoz en la enfermedad moderada a grave según PROSEVA, en sesiones diarias prolongadas con equipo entrenado; estrategia de líquidos conservadora cuando la perfusión lo permite; y, ante hipoxemia refractaria, escalado escalonado hacia bloqueo neuromuscular y valoración de derivación para soporte extracorpóreo (ECMO), decidido por el equipo de cuidados intensivos. La señal de alarma es simple: empeoramiento de la oxigenación, mayor trabajo respiratorio o descenso de la conciencia exigen avisar de inmediato al equipo en el hospital y llamar al 911 en una emergencia. *Caso ficticio de enseñanza; notas personales de estudio, no asesoría médica. Sin dosis de medicamentos.*
+
+## 한국어 (초역, 원어민 감수 대기)
+
+가상의 교육 사례입니다. 알려진 만성 폐질환이 없는 58세 남성이 지역사회획득 폐렴으로 입원했습니다. 입원 3일째 산소 요구량이 단계적으로 늘고, 영상은 한쪽 침윤에서 양쪽 미만성 침윤으로 진행하며, 혈액가스에서 저산소혈증이 악화되어 중환자실로 옮겨 급성호흡곤란증후군(ARDS) 틀로 관리합니다. 진단은 베를린 정의의 네 가지를 모두 갖춰야 합니다. 알려진 임상 손상 후 1주 이내 발생, 흉수·폐엽 허탈·결절로 완전히 설명되지 않는 양측 음영, 심부전이나 수액 과부하로 완전히 설명되지 않는 호흡부전, 그리고 PEEP 5 cmH2O 이상에서 PaO2/FiO2로 나누는 산소화 등급(경증 200–300, 중등증 100–200, 중증 100 이하)이 그것입니다. 핵심 감별은 심인성 폐부종(공존할 수 있으며, 정의는 심부전으로 완전히 설명되지 않을 것을 요구할 뿐 심장이 멀쩡해야 한다는 뜻은 아닙니다), 무기폐(대개 폐엽 단위이고 체위 변경과 기도 청소에 빠르게 반응합니다), 폐색전증(이런 미만성 양측 양상 없이 저산소혈증을 보이며 별도 경로로 평가합니다)입니다. 처치는 원칙만 적습니다. 원인과 패혈증 치료를 호흡 보조와 병행하고, ARDSNet 취지의 폐보호 환기(예측 체중에 따른 작은 일회호흡량, 안전한 범위의 고원압 유지, 구체적 설정은 중환자실 팀이 정합니다)를 기본으로 하며, 중등증 이상에서는 PROSEVA 취지에 따라 훈련된 팀이 매일 장시간 복와위 환기를 조기에 적용하고, 관류가 허용하는 범위에서 보수적 수액 관리를 하며, 불응성 저산소혈증이면 신경근 차단과 체외막산소공급(ECMO) 의뢰 평가로 단계적으로 올리는데 결정은 중환자실 팀이 내립니다. 위험 신호는 단순합니다. 산소화 악화, 호흡 노력 증가, 의식 저하가 있으면 병원에서는 즉시 의료진을 부르고 응급 상황에서는 911에 전화해야 합니다. *가상의 교육 사례이며 개인 학습 노트입니다. 의료 조언이 아닙니다. 약물 용량은 없습니다.*
+
+## Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Ca bệnh giảng dạy hư cấu: nam 58 tuổi, không có bệnh phổi mạn tính đã biết, nhập viện vì viêm phổi mắc phải tại cộng đồng. Đến ngày thứ 3 của đợt nằm viện, nhu cầu oxy tăng từng bậc, hình ảnh tiến triển từ thâm nhiễm một bên thành thâm nhiễm lan tỏa hai bên và khí máu cho thấy giảm oxy máu nặng dần; bệnh nhân được chuyển vào khoa hồi sức tích cực (ICU) và xử trí theo khung hội chứng suy hô hấp cấp tiến triển (ARDS). Chẩn đoán theo Định nghĩa Berlin, phải đủ bốn yếu tố: khởi phát trong vòng một tuần sau một tổn thương lâm sàng đã biết; mờ hai bên phổi không được giải thích hoàn toàn bởi tràn dịch, xẹp thùy phổi hay nốt; suy hô hấp không được giải thích hoàn toàn bởi suy tim hoặc quá tải dịch; và, với PEEP ít nhất 5 cmH2O, mức oxy hóa phân độ theo PaO2/FiO2 — nhẹ 200 đến 300, trung bình 100 đến 200, nặng từ 100 trở xuống. Các chẩn đoán phân biệt chính là phù phổi do tim (có thể đồng tồn tại: định nghĩa nói không được giải thích hoàn toàn bởi suy tim, chứ không đòi hỏi tim phải hoàn toàn bình thường), xẹp phổi (thường theo thùy và thay đổi nhanh khi đổi tư thế và làm sạch đường thở) và thuyên tắc phổi (giảm oxy máu mà không có hình ảnh lan tỏa hai bên như vậy, được đánh giá theo lộ trình riêng). Xử trí chỉ nêu nguyên tắc: điều trị nguyên nhân và nhiễm khuẩn huyết song song với hỗ trợ hô hấp; thông khí bảo vệ phổi theo tinh thần ARDSNet — thể tích khí lưu thông nhỏ đặt theo cân nặng dự đoán và áp lực bình nguyên giữ trong giới hạn an toàn, thông số cụ thể do đội ICU quyết định; nằm sấp sớm cho bệnh trung bình đến nặng theo tinh thần PROSEVA, với các phiên kéo dài mỗi ngày do đội đã được huấn luyện thực hiện; quản lý dịch bảo tồn khi tưới máu cho phép; và với giảm oxy máu kháng trị, nâng bậc lên phong bế thần kinh cơ và đánh giá chuyển tuyến hỗ trợ ngoài cơ thể (ECMO), do đội ICU quyết định. Đường đỏ rất đơn giản: oxy hóa xấu đi, thở gắng sức hơn hoặc ý thức giảm thì trong bệnh viện phải gọi ngay đội điều trị, và trong tình huống khẩn cấp hãy gọi 911. *Ca bệnh hư cấu phục vụ giảng dạy; ghi chép học tập cá nhân, không phải tư vấn y tế. Bài viết không nêu liều lượng thuốc.*
+
+## हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+काल्पनिक शिक्षण मामला: 58 वर्षीय पुरुष, कोई ज्ञात पुराना फेफड़ा रोग नहीं, समुदाय-अर्जित निमोनिया के कारण भर्ती। अस्पताल के तीसरे दिन उसकी ऑक्सीजन-आवश्यकता सीढ़ी-दर-सीढ़ी बढ़ती है, इमेजिंग एकतरफ़ा घुसपैठ (infiltrate) से फैली हुई द्विपक्षीय घुसपैठ में बदल जाती है और रक्त-गैस में बिगड़ता अल्पऑक्सीयता (hypoxemia) दिखता है; उसे ICU में स्थानांतरित कर तीव्र श्वसन संकट सिंड्रोम (ARDS) के ढाँचे में संभाला जाता है। निदान Berlin परिभाषा के चारों तत्व माँगता है: ज्ञात नैदानिक आघात के एक सप्ताह के भीतर शुरुआत; द्विपक्षीय अपारदर्शिता जो बहाव (effusion), खंड-पतन (lobar collapse) या गाँठों से पूरी तरह स्पष्ट न हो; श्वसन- विफलता जो हृदय-विफलता या द्रव-अतिभार से पूरी तरह स्पष्ट न हो; और PEEP कम से कम 5 cmH2O पर PaO2/FiO2 से ऑक्सीकरण की श्रेणी — हल्का 200 से 300, मध्यम 100 से 200, गंभीर 100 या उससे कम। मुख्य विभेदक हैं हृदयजन्य फुफ्फुसीय शोफ (जो साथ भी रह सकता है — परिभाषा कहती है हृदय-विफलता से पूरी तरह स्पष्ट नहीं, यह नहीं कि हृदय पूर्णतः स्वस्थ हो), एटेलेक्टेसिस (आमतौर पर खंड-आधारित और स्थिति बदलने व वायुमार्ग सफ़ाई से तेज़ी से बदलने वाला) और फुफ्फुसीय थक्का (इस फैले द्विपक्षीय चित्र के बिना अल्पऑक्सीयता, अपनी अलग मूल्यांकन-पद्धति से)। प्रबंधन केवल सिद्धांतों में है: कारण और सेप्सिस का उपचार श्वसन-सहायता के साथ-साथ; ARDSNet अर्थ में फेफड़ा-सुरक्षात्मक वेंटिलेशन — अनुमानित शरीर-भार के अनुसार छोटे ज्वारीय आयतन और सुरक्षित सीमा में पठार-दाब, सटीक सेटिंग ICU टीम तय करती है; मध्यम से गंभीर रोग में PROSEVA अर्थ में शीघ्र prone स्थिति, प्रशिक्षित टीम द्वारा प्रतिदिन लंबे सत्रों में; परिसंचरण अनुमति दे तो संयमित द्रव-प्रबंधन; और दुर्दम्य अल्पऑक्सीयता पर स्नायु-पेशी अवरोध और बाह्य-शरीरी सहायता (ECMO) के लिए रेफ़रल-मूल्यांकन की ओर चरणबद्ध बढ़त, निर्णय ICU टीम का। लाल रेखा सरल है: ऑक्सीकरण बिगड़े, साँस का परिश्रम बढ़े या चेतना घटे तो अस्पताल में तुरंत उपचार-टीम को बुलाएँ और आपात स्थिति में 911 पर कॉल करें। *काल्पनिक शिक्षण मामला; व्यक्तिगत अध्ययन नोट, चिकित्सीय सलाह नहीं। कोई दवा-मात्रा नहीं दी गई है।*
+
+---
+
+*声明：个人学习笔记，不构成法律、税务或医疗建议（personal study notes only; not legal, tax, or medical advice）。全文不写药物剂量。*
