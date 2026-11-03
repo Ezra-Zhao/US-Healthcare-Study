@@ -166,3 +166,15 @@ Năm câu hỏi tự kiểm tra: bạn có thể nói bác sĩ chăm sóc chính
 ---
 
 本仓库为个人学习笔记，不构成医疗建议。出现胸痛、呼吸困难等急症症状请立即拨打 911 或前往急诊。
+
+
+---
+
+## 六语集中声明区（补译补齐）/ Consolidated disclaimer in six languages
+
+- 中文：个人学习笔记，不构成法律、税务或医疗建议；具体事项请咨询持牌专业人士。
+- English: Personal study notes only; not legal, tax, or medical advice. Consult a licensed professional for your specific situation.
+- Español: Notas personales de estudio; no constituye asesoramiento legal, fiscal ni médico. Consulte a un profesional autorizado para su caso concreto.
+- 한국어: 개인 학습 노트이며 법률·세무·의료 자문이 아닙니다. 구체적인 사안은 자격을 갖춘 전문가와 상담하십시오.
+- Tiếng Việt: Ghi chú học tập cá nhân, không phải tư vấn pháp lý, thuế hay y tế. Hãy tham khảo chuyên gia có giấy phép cho trường hợp cụ thể của bạn.
+- हिन्दी: व्यक्तिगत अध्ययन नोट; कानूनी, कर या चिकित्सा सलाह नहीं। अपने विशिष्ट मामले के लिए लाइसेंसधारी पेशेवर से परामर्श करें।
