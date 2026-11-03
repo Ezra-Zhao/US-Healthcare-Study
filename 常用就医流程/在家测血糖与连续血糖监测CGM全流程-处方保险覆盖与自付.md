@@ -30,13 +30,19 @@ Dos rutas de monitoreo en casa para la diabetes: glucómetro de punción digital
 
 당뇨병 가정 모니터링은 두 가지다: 손가락 채혈 혈당측정(BGM)과 연속혈당측정(CGM). 둘 다 처방이 필요한 내구성 의료장비(DME)/소모품이며, 처방에 적힌 측정 빈도가 보장되는 시험지·란셋 수량을 결정한다. **Medicare Part B**에서는 BGM 소모품과 치료용 CGM이 DME 범주에 속한다(일반적으로 공제액 이후 20% 본인부담, 플랜 약관 우선). CMS는 2023년 4월부터 인슐린 치료 중이거나 문제성 저혈당 병력이 있는 환자에게 치료용 CGM을 보장하며, 진료 기록과 추적 진료가 필요하다. 많은 상업 보험은 CGM을 약국 급여로 처리하며 인슐린 사용 등을 근거로 사전승인을 요구한다. 혈당 용품은 IRC §213(d)에 따라 HSA/FSA 사용이 가능하다. 안전: 증상과 CGM 수치가 다르면 손가락 채혈로 재확인하고, 모델별 FDA 라벨의 약물 간섭을 확인하며, 중증 저혈당은 응급상황으로 911에 신고한다. *(초벌 번역, 교정 대기 / 初译待校)*
 
+보충: 인슐린 사용자는 통상 월 300개 수준, 비사용자는 월 100개 수준의 시험지·란셋이 CMS 당뇨 용품 정책의 대략적인 기준으로 언급되지만, 실제 수량은 처방에 적힌 검사 빈도와 당시 DME MAC의 LCD가 정하므로 주문 전에 확인해야 합니다. 시험지는 유효기간이 있고 기기와 브랜드가 묶여 있으니 과잉 비축을 피하고, CGM 센서 부착 부위는 번갈아 사용하며 감염 징후가 보이면 진료를 받으세요. (초역, 원어민 감수 대기)
+
 ## Tiếng Việt
 
 Hai cách theo dõi đường huyết tại nhà cho bệnh tiểu đường: đo bằng que thử lấy máu đầu ngón tay (BGM) và theo dõi glucose liên tục (CGM) — cả hai đều cần đơn thuốc và thuộc nhóm thiết bị y tế lâu bền (DME)/vật tư. Tần suất đo ghi trong đơn quyết định số que thử/kim lấy máu được chi trả. Theo **Medicare Part B**, vật tư BGM và CGM điều trị thuộc danh mục DME (thường đồng chi trả 20% sau khấu trừ, tùy điều khoản chương trình). Từ tháng 4/2023, CMS chi trả CGM điều trị cho người đang dùng insulin **hoặc** có tiền sử hạ đường huyết có vấn đề, với hồ sơ bệnh án và tái khám hỗ trợ. Nhiều bảo hiểm thương mại đưa CGM qua quyền lợi nhà thuốc, cần phê duyệt trước dựa trên việc dùng insulin hoặc tiền sử hạ đường huyết. Vật tư đo đường huyết đủ điều kiện HSA/FSA theo IRC §213(d). An toàn: khi triệu chứng không khớp chỉ số CGM, hãy kiểm tra lại bằng máu đầu ngón tay; xem nhãn FDA của model về tương tác thuốc; hạ đường huyết nặng là cấp cứu — gọi 911. *(Bản dịch sơ bộ, chờ hiệu đính / 初译待校)*
 
+Bổ sung: người dùng insulin thường được nhắc tới mức khoảng 300 que thử/lancet mỗi tháng và người không dùng insulin khoảng 100 mỗi tháng như khung tham khảo của chính sách vật tư tiểu đường của CMS, nhưng số lượng thực tế do tần suất xét nghiệm ghi trong đơn và LCD hiện hành của DME MAC quyết định — hãy kiểm tra trước khi đặt hàng. Que thử có hạn sử dụng và gắn với từng hãng máy, nên tránh tích trữ quá mức; với CGM, hãy luân phiên vị trí dán cảm biến và đi khám nếu có dấu hiệu nhiễm trùng da. (Bản dịch sơ bộ, chờ hiệu đính)
+
 ## हिन्दी
 
 मधुमेह की घरेलू निगरानी के दो रास्ते हैं: फ़िंगरस्टिक रक्त ग्लूकोज़ (BGM) और सतत ग्लूकोज़ निगरानी (CGM) — दोनों के लिए पर्चा चाहिए और ये DME/आपूर्ति श्रेणी में आते हैं। पर्चे में लिखी जाँच-आवृत्ति तय करती है कि कितनी स्ट्रिप्स/लैंसेट कवर होंगे। **Medicare Part B** में BGM आपूर्ति और चिकित्सीय CGM DME श्रेणी में हैं (आमतौर पर डिडक्टिबल के बाद 20% सह-बीमा, योजना की शर्तों के अनुसार)। अप्रैल 2023 से CMS उन लाभार्थियों को चिकित्सीय CGM कवर करता है जो इंसुलिन ले रहे हैं **या** जिनका problematic hypoglycemia का इतिहास है, चार्ट दस्तावेज़ों के साथ। कई वाणिज्यिक योजनाएँ CGM को फ़ार्मेसी लाभ से देती हैं और इंसुलिन उपयोग आदि पर पूर्व-अनुमति माँगती हैं। ग्लूकोज़ आपूर्ति IRC §213(d) के तहत HSA/FSA योग्य है। सुरक्षा: लक्षण और CGM रीडिंग मेल न खाएँ तो फ़िंगरस्टिक से पुष्टि करें; अपने मॉडल के FDA लेबल पर दवा-हस्तक्षेप देखें; गंभीर हाइपोग्लाइसीमिया आपात स्थिति है — 911 पर कॉल करें। *(प्रारंभिक अनुवाद, समीक्षा लंबित / 初译待校)*
+
+पूरक: इंसुलिन उपयोगकर्ताओं के लिए सामान्यतः प्रतिमाह लगभग 300 परीक्षण-पट्टियों/लैंसेट और गैर-उपयोगकर्ताओं के लिए लगभग 100 का स्तर CMS मधुमेह-आपूर्ति नीति के संदर्भ-ढाँचे के रूप में उल्लेखित होता है, किंतु वास्तविक मात्रा नुस्खे में लिखी परीक्षण-आवृत्ति और उस समय के DME MAC के LCD से तय होती है — ऑर्डर से पहले जाँच लें। पट्टियों की समाप्ति-तिथि होती है और वे उपकरण-ब्रांड से बँधी होती हैं, इसलिए अतिरिक्त भंडारण न करें; CGM सेंसर की जगह बदलते रहें और त्वचा-संक्रमण के लक्षण दिखें तो चिकित्सक को दिखाएँ। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
 
 ---
 *个人学习笔记，不构成医疗建议。*
