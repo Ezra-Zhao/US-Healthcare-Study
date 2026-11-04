@@ -22,13 +22,19 @@ Empiece por eliminar la lectura errónea más común: la HIPAA en sí no fija un
 
 가장 흔한 오독부터 바로잡습니다. HIPAA 자체는 임상 진료기록의 보존 기간을 정하지 않습니다. 진료기록을 얼마나 보관해야 하는지는 주로 주법이 정하고, Medicare 같은 연방 참여 조건이 별도 층을 더합니다. HIPAA가 실제로 정한 6년은 45 CFR 164.530(j)(2)에 있습니다. 대상 기관은 개인정보 정책과 절차, 환자 승인서, 민원 기록 등 프라이버시 규칙이 요구하는 문서를 6년간 보존해야 하며, 기간은 문서 작성일과 마지막 효력일 중 더 늦은 날부터 셉니다. 다시 말해 6년은 준수했음을 증명하는 서류의 이야기이지 차트 자체의 이야기가 아닙니다. 실무에서 둘이 자주 섞이는 이유는 진료소가 편하게 6년을 내부 기준으로 쓰기 때문이지만, 그것은 관리상의 선택이지 기록에 대한 HIPAA의 명령이 아닙니다. 이 층을 분명히 해야 뒤에서 인용 오류가 없습니다. 보존 기간은 주법과 참여 조건에서 찾고, 기록을 어떻게 지키고 파기해야 하는지는 HIPAA 프라이버시와 보안 규칙에서 찾으십시오. 두 장부는 따로 계산합니다.
 
+(보충 번역 · 补译增量) 기관 내부 교육에서도 같은 방식으로 가르쳐야 합니다. 여섯 해라는 한마디로 두 장부를 한 장부로 뭉개지 마십시오. 보존 기간의 답은 주법과 참여 조건에 있고, 보관 방식과 파기 보장의 답은 HIPAA 프라이버시·보안 규칙에 있다는 구분을 교육에서도 그대로 유지해야 합니다.
+
 ### Tiếng Việt (bản dịch sơ bộ·待校)
 
 Hãy bắt đầu bằng việc gỡ bỏ cách hiểu sai phổ biến nhất: bản thân HIPAA không đặt thời hạn lưu giữ cho hồ sơ bệnh án lâm sàng. Hồ sơ phải giữ bao lâu chủ yếu do luật bang quy định, và các điều kiện tham gia liên bang như Medicare cộng thêm một lớp riêng. Thời hạn sáu năm mà HIPAA thực sự đặt ra nằm tại 45 CFR 164.530(j)(2): tổ chức thuộc diện điều chỉnh phải giữ tài liệu mà Quy tắc Quyền riêng tư yêu cầu trong sáu năm, gồm chính sách và thủ tục về quyền riêng tư, văn bản ủy quyền của bệnh nhân và hồ sơ khiếu nại, tính từ ngày tạo lập hoặc ngày tài liệu còn hiệu lực cuối cùng, lấy ngày nào muộn hơn. Nói cách khác, sáu năm quản phần giấy tờ chứng minh tuân thủ, không phải chính bệnh án. Hai thứ thường bị trộn trong thực tế vì một phòng khám có thể tiện tay dùng sáu năm làm quy tắc nội bộ, nhưng đó là lựa chọn quản lý, không phải mệnh lệnh của HIPAA về hồ sơ. Giữ rõ lớp này sẽ tránh trích dẫn sai về sau: tìm độ dài lưu giữ trong luật bang và điều kiện tham gia, và tìm cách bảo vệ cùng tiêu hủy hồ sơ trong quy tắc quyền riêng tư và an ninh của HIPAA, như hai sổ riêng.
 
+(Bổ sung bản dịch · 补译增量) Trong đào tạo nội bộ của cơ sở cũng phải giảng theo cách này: đừng dùng một câu sáu năm để gộp hai cuốn sổ thành một cuốn sổ. Độ dài lưu giữ thì tìm trong luật bang và điều kiện tham gia, cách bảo vệ và tiêu hủy hồ sơ thì tìm trong quy tắc quyền riêng tư và an ninh của HIPAA — hai cuốn sổ tính riêng, và cách phân chia này trong đào tạo cũng phải giữ nguyên như vậy.
+
 ### हिन्दी (प्रारंभिक अनुवाद·待校)
 
 सबसे आम गलत पढ़त को हटाकर शुरू करें: HIPAA स्वयं clinical medical records के लिए retention अवधि तय नहीं करती। Record कितने समय रखना है, यह मुख्यतः राज्य कानून तय करता है, और Medicare जैसी federal भागीदारी शर्तें एक अलग परत जोड़ती हैं। HIPAA जो छह वर्ष वास्तव में तय करती है, वह 45 CFR 164.530(j)(2) में है: covered entity को Privacy Rule द्वारा अपेक्षित दस्तावेज़ छह वर्षों तक रखने होंगे, जिनमें privacy policies व procedures, patient authorizations व complaint records शामिल हैं, गिनती creation की तारीख या document के अंतिम प्रभावी रहने की तारीख, जो भी बाद की हो, से होगी। दूसरे शब्दों में, छह वर्ष उस कागज़ को संचालित करते हैं जो compliance सिद्ध करता है, chart को नहीं। व्यवहार में दोनों अक्सर घुल जाते हैं क्योंकि clinic सुविधा से छह वर्ष को house rule की तरह उपयोग कर सकती है, लेकिन वह प्रबंधन का चुनाव है, records पर HIPAA का आदेश नहीं। इस परत को स्पष्ट रखने से बाद में citation की गलतियाँ बचती हैं: retention की लंबाई राज्य कानून व भागीदारी शर्तों में खोजें, और records को कैसे सुरक्षित रखना व नष्ट करना है, यह HIPAA privacy व security नियमों में खोजें, दो अलग खातों की तरह।
+
+(पूरक अनुवाद · 补译增量) संस्था के आंतरिक प्रशिक्षण में भी इसी तरह पढ़ाया जाना चाहिए: छह वर्ष की एक पंक्ति से दो खातों को एक खाते में न मिलाएँ। Retention की अवधि राज्य कानून व भागीदारी शर्तों में खोजें, और records की सुरक्षा व विनाश की गारंटी HIPAA privacy व security नियमों में खोजें — यह विभाजन प्रशिक्षण में भी वैसा ही बना रहना चाहिए।
 
 ## 二、加州年限：医院七年打底，未成年人再顺延
 
