@@ -439,3 +439,12 @@ Este artículo es una nota personal de estudio y no constituye asesoría médica
 *한국어·베트남어·힌디어 본문은 학습용 초역으로, 원어민 감수를 기다리고 있습니다.*
 *Bản tiếng Hàn, tiếng Việt và tiếng Hindi là bản dịch học tập, đang chờ người bản ngữ hiệu đính.*
 *कोरियाई, वियतनामी और हिंदी पाठ अध्ययन अनुवाद हैं; मूल-भाषी समीक्षा लंबित है।*
+
+
+## 补译增量 · 한국어 / Tiếng Việt / हिन्दी（细节对齐）
+
+한국어: 보탤 세부 하나는 재응시와 결과 처리입니다. NCLEX 불합격 시 NCSBN 기준상 최소 45일 간격을 두고 재응시할 수 있으며, 응시 횟수와 간격의 세부 운영은 관할 간호위원회(BON)의 당기 규정을 함께 확인해야 합니다. 합격 여부는 공식적으로 BON이 통보하는 것이 원칙이고, 일부 주에서 제공하는 Quick Results는 비공식 참고용입니다. CAT(컴퓨터 적응형) 특성상 문항 수는 최소·최대 범위 안에서 응시자 능력 추정에 따라 달라지며, 문항 수가 적게 끝났다는 것만으로 합격을 단정할 수 없습니다.
+
+Tiếng Việt: Bổ sung chi tiết về thi lại và kết quả: theo khung NCSBN, thí sinh trượt NCLEX phải chờ tối thiểu 45 ngày trước khi thi lại, và số lần thi cùng cách vận hành cụ thể phải đối chiếu quy định hiện hành của Hội đồng Điều dưỡng (BON) nơi đăng ký. Kết quả chính thức do BON thông báo; Quick Results ở một số bang chỉ là tham khảo không chính thức. Vì là kỳ thi thích ứng (CAT), số câu hỏi thay đổi trong khoảng tối thiểu–tối đa theo ước lượng năng lực, và việc bài thi kết thúc sớm không tự nó chứng minh đã đậu.
+
+हिन्दी: पुनः परीक्षा और परिणाम पर एक विवरण जोड़ते हैं: NCSBN ढाँचे के अनुसार NCLEX में असफल अभ्यर्थी को पुनः परीक्षा से पहले न्यूनतम 45 दिन प्रतीक्षा करनी होती है, और प्रयासों की संख्या व संचालन विवरण संबंधित BON के वर्तमान नियमों से जाँचने चाहिए। आधिकारिक परिणाम BON ही देता है; कुछ राज्यों का Quick Results केवल अनौपचारिक संदर्भ है। CAT होने के कारण प्रश्नों की संख्या क्षमता-अनुमान के अनुसार न्यूनतम–अधिकतम सीमा में बदलती है, और परीक्षा जल्दी समाप्त होना अपने आप में उत्तीर्ण होने का प्रमाण नहीं है।
