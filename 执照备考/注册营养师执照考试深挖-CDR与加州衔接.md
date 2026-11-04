@@ -63,3 +63,20 @@ CDR परीक्षा कंप्यूटर-आधारित, परि
 ---
 
 *本仓库为个人学习笔记，不构成医疗建议。This repository contains personal study notes only and does not constitute medical advice.*
+
+
+---
+
+## 补译增量（韩/越/印细节对齐）
+
+### 中文（增量锚点）
+补充 CDR 注册营养师（RDN）路径细节：2024 年 1 月 1 日起，报考资格要求研究生学位（CDR 口径），外加 ACEND 认可的教学课程与至少 1,000 小时的监督实践（supervised practice），考试由 CDR 委托 Pearson VUE 机考。加州没有州级 RD 执照制度，头衔保护走 B&P Code § 2585 起的注册营养师称谓规则，雇主与患者核验身份以 CDR 注册名录为准。
+
+### 한국어 (초역)
+CDR 등록영양사(RDN) 경로의 세부사항을 보충합니다. 2024년 1월 1일부터 응시 자격에는 대학원 학위(CDR 기준)와 ACEND 인증 교육과정, 최소 1,000시간의 감독 실습(supervised practice)이 필요하고, 시험은 CDR이 Pearson VUE에 위탁해 컴퓨터로 시행합니다. 캘리포니아에는 주 차원의 RD 면허 제도가 없으며, 칭호 보호는 B&P Code § 2585 이하의 등록영양사 명칭 규칙으로 이루어지고, 고용주와 환자는 CDR 등록 명부로 자격을 확인합니다.
+
+### Tiếng Việt (bản dịch sơ bộ)
+Bổ sung chi tiết về lộ trình Chuyên gia Dinh dưỡng đã Đăng ký (RDN) của CDR: từ ngày 1 tháng 1 năm 2024, điều kiện dự thi yêu cầu bằng sau đại học (theo quy định CDR), cộng với chương trình đào tạo được ACEND công nhận và ít nhất 1.000 giờ thực hành có giám sát (supervised practice); kỳ thi do CDR ủy thác Pearson VUE tổ chức trên máy tính. California không có chế độ cấp phép RD cấp bang; việc bảo vệ danh xưng đi theo quy tắc về tên gọi chuyên gia dinh dưỡng đã đăng ký từ B&P Code § 2585, và nhà tuyển dụng cùng bệnh nhân đối chiếu tư cách qua danh bạ đăng ký của CDR.
+
+### हिन्दी (प्रारंभिक अनुवाद)
+CDR पंजीकृत आहार विशेषज्ञ (RDN) पथ के विवरण जोड़े जाते हैं: 1 जनवरी 2024 से पात्रता के लिए स्नातकोत्तर डिग्री (CDR मानक), ACEND-मान्यता प्राप्त शिक्षा कार्यक्रम और कम से कम 1,000 घंटे का पर्यवेक्षित अभ्यास (supervised practice) चाहिए; परीक्षा CDR की ओर से Pearson VUE कंप्यूटर पर लेता है। कैलिफ़ोर्निया में राज्य-स्तरीय RD लाइसेंस व्यवस्था नहीं है; उपाधि संरक्षण B&P Code § 2585 से शुरू पंजीकृत आहार विशेषज्ञ नाम-नियमों से होता है, और नियोक्ता व मरीज़ स्थिति CDR रजिस्ट्री से जाँचते हैं।
