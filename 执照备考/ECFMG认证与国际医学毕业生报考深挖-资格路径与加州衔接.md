@@ -24,11 +24,17 @@ La ECFMG (Educational Commission for Foreign Medical Graduates) certifica a los 
 ### 한국어 (초역)
 ECFMG(Educational Commission for Foreign Medical Graduates)는 국제 의학 졸업생(IMG), 즉 미국과 캐나다 밖에서 의학 학위를 받은 사람을 인증합니다. 인증은 면허도, 취업 허가도 아닙니다. ACGME 인증 레지던시·펠로우십에 들어가고 USMLE Step 3에 응시하기 위해 일반적으로 먼저 필요한 자격 증명이며, 실제 면허는 각 주 의학위원회가 발급합니다. 첫 관문은 의대 자체입니다. 의대가 World Directory of Medical Schools에 등재돼 있어야 하고, 그 항목에 졸업생이 ECFMG 인증을 신청할 수 있다는 ECFMG Sponsor Note가 있어야 합니다. 적용되는 졸업 연도까지 항목을 직접 확인해야 하며, 등재만 있고 이 주석이 없으면 이 관문을 통과하지 못합니다. (초역, 원어민 감수 대기 중)
 
+보충: 명부를 확인하는 공식 입구는 하나뿐입니다. World Directory 공식 사이트에서 학교의 영어 이름과 국가로 검색해 해당 항목에 들어가 Sponsor Note 문단 자체를 읽으십시오. 주석에 특정 졸업 연도 이후부터 적용된다고 적혀 있으면 그 경계도 관문의 일부이며, 입학 연도와 졸업 연도가 주석의 적용 범위 안에 드는지를 함께 확인해야 합니다. 이 확인은 시험 준비에 시간과 비용을 들이기 전에 해야 합니다. 관문을 넘지 못하면 시험 점수가 아무리 높아도 되돌릴 수 없기 때문입니다.
+
 ### Tiếng Việt (bản dịch sơ khởi)
 ECFMG (Educational Commission for Foreign Medical Graduates) chứng nhận các bác sĩ tốt nghiệp quốc tế (IMG), tức những người lấy bằng y khoa ngoài Hoa Kỳ và Canada. Chứng nhận này không phải giấy phép hành nghề, cũng không phải giấy phép lao động; đây là chứng chỉ đủ điều kiện thường được yêu cầu trước khi vào chương trình nội trú hoặc fellowship được ACGME công nhận và trước khi đăng ký USMLE Step 3, còn việc cấp phép thuộc về hội đồng y khoa từng bang. Cổng đầu tiên là chính trường y: trường phải có tên trong World Directory of Medical Schools và mục của trường phải có ECFMG Sponsor Note nêu rõ sinh viên tốt nghiệp đủ điều kiện nộp đơn xin chứng nhận ECFMG. Cần kiểm tra trực tiếp mục đó, kể cả khóa nào được bao phủ; chỉ có tên mà không có ghi chú này thì không qua được cổng. (Bản dịch sơ khởi, chờ người bản ngữ hiệu đính)
 
+Bổ sung: chỉ có một cổng tra cứu chính thức duy nhất — vào trang chính thức của World Directory, tìm theo tên tiếng Anh của trường và quốc gia, mở đúng mục của trường và đọc chính đoạn Sponsor Note. Nếu ghi chú viết rõ chỉ áp dụng từ một khóa tốt nghiệp nào đó trở đi, ranh giới đó cũng là một phần của cổng; cả năm nhập học và năm tốt nghiệp đều phải nằm trong phạm vi bao phủ của ghi chú. Việc kiểm tra này phải làm trước khi đầu tư ôn thi: không qua được cổng thì điểm thi cao đến đâu cũng không bù lại được.
+
 ### हिन्दी (प्रारंभिक अनुवाद)
 ECFMG (Educational Commission for Foreign Medical Graduates) अंतरराष्ट्रीय चिकित्सा स्नातकों (IMG) को प्रमाणित करता है, अर्थात जिनकी चिकित्सा डिग्री संयुक्त राज्य और कनाडा के बाहर की है। यह प्रमाणन न लाइसेंस है, न कार्य-अनुमति; यह एक पात्रता-प्रमाण है जो सामान्यतः ACGME-मान्यता प्राप्त रेज़िडेंसी या फ़ेलोशिप में प्रवेश से पहले और USMLE Step 3 के पंजीकरण से पहले आवश्यक होता है, जबकि वास्तविक लाइसेंस प्रत्येक राज्य बोर्ड देता है। पहला द्वार विद्यालय स्वयं है: चिकित्सा विद्यालय World Directory of Medical Schools में सूचीबद्ध होना चाहिए और उसकी प्रविष्टि में ECFMG Sponsor Note होना चाहिए कि उसके स्नातक ECFMG प्रमाणन के लिए आवेदन कर सकते हैं। प्रविष्टि को सीधे जाँचें, यह भी कि नोट किन वर्षों को कवर करता है; बिना इस नोट के केवल सूचीबद्ध होना पर्याप्त नहीं है। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+पूरक: जाँच का केवल एक आधिकारिक प्रवेश-द्वार है — World Directory की आधिकारिक साइट पर विद्यालय के अंग्रेज़ी नाम और देश से खोजकर उसकी प्रविष्टि खोलें और Sponsor Note वाला अनुच्छेद स्वयं पढ़ें। यदि नोट में लिखा हो कि वह किसी निश्चित स्नातक-वर्ष से ही लागू है, तो वह सीमा भी द्वार का हिस्सा है; प्रवेश-वर्ष और स्नातक-वर्ष दोनों नोट के दायरे में होने चाहिए। यह जाँच परीक्षा-तैयारी में निवेश से पहले करें: द्वार पार न हो तो कितने भी ऊँचे अंक उसकी भरपाई नहीं कर सकते।
 
 ---
 
@@ -48,11 +54,17 @@ La certificación se apoya en tres piezas. Primera, los exámenes: aprobar el US
 ### 한국어 (초역)
 인증은 세 조각으로 이뤄집니다. 첫째, 시험으로 USMLE Step 1과 Step 2 CK 합격입니다. 둘째, 임상·의사소통 능력으로, 예전 Step 2 CS는 폐지됐고 현재는 ECFMG Pathways와 OET Medicine 같은 평가를 통해 충족합니다. Pathways는 신청 연도마다 달라지므로 신청하는 해의 ECFMG 안내를 따라야 합니다. 셋째, 의학 학력의 원본 출처 검증(primary-source verification)으로, 학위와 성적표는 신청자가 낸 사본이 아니라 졸업한 의대가 ECFMG에 직접 확인해야 합니다. 학교의 응답 속도는 차이가 크니 이 부분은 일찍 시작하세요. 세 조각이 모두 갖춰져야 인증이 발급됩니다. (초역)
 
+보충: 시험의 보고 방식부터 구분하세요. Step 1은 합격·불합격만 보고되고 Step 2 CK는 숫자 점수가 보고됩니다. 두 시험의 응시 자격, 응시 횟수, 성적의 유효성은 USMLE와 ECFMG의 해당 연도 규칙을 따르므로 이 글은 점수와 횟수를 고정해 적지 않습니다. Pathways는 이 글에서 가장 빨리 낡는 부분입니다. 어떤 경로가 본인에게 맞는지와 서류를 어떻게 내는지는 신청 연도의 ECFMG 설명이 기준이며, 남의 경험담 같은 이차 자료는 단서로만 쓸 수 있고 근거가 되지는 못합니다.
+
 ### Tiếng Việt (bản dịch sơ khởi)
 Chứng nhận gồm ba mảnh. Thứ nhất, thi cử: đạt USMLE Step 1 và Step 2 CK. Thứ hai, kỹ năng lâm sàng và giao tiếp: Step 2 CS trước đây đã ngừng, khung hiện hành đi qua các ECFMG Pathways cùng với các đánh giá như OET Medicine; các pathways thay đổi theo mùa nộp đơn, nên phải theo hướng dẫn ECFMG của năm mình nộp. Thứ ba, thẩm định nguồn gốc (primary-source verification) đối với văn bằng y khoa: bằng và bảng điểm phải do trường y xác minh trực tiếp với ECFMG, chứ không chỉ dựa trên bản sao do người nộp gửi. Nên bắt đầu phần trường học sớm, vì thời gian phản hồi rất khác nhau. Cả ba mảnh phải hoàn tất thì chứng nhận mới được cấp. (Bản dịch sơ khởi)
 
+Bổ sung: trước hết hãy phân biệt cách báo kết quả — Step 1 chỉ báo đạt hay không đạt, còn Step 2 CK báo điểm số. Điều kiện dự thi, số lần thi và hiệu lực điểm của cả hai bước đều theo quy định của USMLE và ECFMG trong năm nộp đơn, nên bài viết này không ghi cứng điểm số hay số lần. Phần Pathways là phần dễ lỗi thời nhất của cả bài: tuyến nào hợp với mình và nộp tài liệu thế nào đều lấy hướng dẫn ECFMG của năm nộp làm chuẩn; những bài chia sẻ kinh nghiệm trôi nổi chỉ dùng làm manh mối, không thể làm căn cứ.
+
 ### हिन्दी (प्रारंभिक अनुवाद)
 प्रमाणन तीन हिस्सों पर टिका है। पहला, परीक्षाएँ: USMLE Step 1 और Step 2 CK उत्तीर्ण करना। दूसरा, नैदानिक और संचार कौशल: पुराना Step 2 CS बंद हो चुका है और वर्तमान ढाँचा ECFMG Pathways तथा OET Medicine जैसी परीक्षाओं से चलता है; pathways आवेदन-सत्र के अनुसार बदलते हैं, इसलिए जिस वर्ष आवेदन करें उसी वर्ष के ECFMG मार्गदर्शन का पालन करें। तीसरा, चिकित्सा शिक्षा प्रमाणपत्रों का primary-source verification: डिग्री और अंकतालिका की पुष्टि चिकित्सा विद्यालय को सीधे ECFMG के पास करनी होती है, केवल आवेदक की भेजी प्रतियों से काम नहीं चलता। विद्यालय वाला हिस्सा जल्दी शुरू करें, क्योंकि संस्थानों की प्रतिक्रिया-समय बहुत अलग होता है। तीनों हिस्से पूरे होने पर ही प्रमाणन जारी होता है। (प्रारंभिक अनुवाद)
+
+पूरक: पहले परिणाम-रिपोर्ट का अंतर समझें — Step 1 केवल उत्तीर्ण/अनुत्तीर्ण बताता है, Step 2 CK संख्यात्मक अंक देता है। दोनों चरणों की पात्रता, प्रयास-संख्या और अंकों की वैधता आवेदन-वर्ष के USMLE व ECFMG नियमों से चलती है, इसलिए यह लेख अंक या संख्या स्थिर करके नहीं लिखता। Pathways इस पूरे लेख का सबसे जल्दी पुराना पड़ने वाला भाग है: कौन-सा मार्ग आपके लिए है और दस्तावेज़ कैसे जमा हों, इसका मानक आवेदन-वर्ष की ECFMG व्याख्या है; इधर-उधर के अनुभव-लेख केवल संकेत बन सकते हैं, आधार नहीं।
 
 ---
 
