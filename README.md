@@ -341,3 +341,5 @@
 ## License
 
 MIT © 2026 Guangyi Zhao
+
+📣 Telegram 频道：https://t.me/EzraZhao777（各平台的更新都同步到这里）
