@@ -107,3 +107,17 @@
 - 한국어 (초역, 원어민 감수 대기): 개인 학습 노트이며 의학적 자문이 아닙니다. 구체적인 사안은 의사 또는 자격 있는 의료 전문가와 상담하십시오.
 - Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính): Ghi chú học tập cá nhân, không phải tư vấn y tế. Vui lòng tham khảo bác sĩ hoặc chuyên gia y tế có chuyên môn cho vấn đề cụ thể.
 - हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित): व्यक्तिगत अध्ययन नोट; चिकित्सा सलाह नहीं। विशिष्ट मामलों के लिए चिकित्सक या योग्य स्वास्थ्य विशेषज्ञ से परामर्श करें।
+
+## 补记（2026-11-06 补译增量：ASCP 证书维持计划 CMP）
+
+### 中文
+通过 ASCP BOC 考试只是第一步：MLS 证书须参加 Credential Maintenance Program（CMP）维持，每 3 年一个周期、须累积 36 个 CMP 点数，其中须含实验室安全与各专业领域（血库、化学、血液学、微生物学等）的规定分布；加州 CDPH Laboratory Field Services 的州执照另有自己的续期与继续教育要求，证书维持与州执照续期不可互相替代。
+
+### 한국어 (초역)
+ASCP BOC 시험 합격은 첫 단계일 뿐입니다. MLS 자격은 Credential Maintenance Program(CMP)으로 유지해야 하며, 3년 주기에 36점을 누적해야 하고 실험실 안전과 각 전문 분야(혈액은행·화학·혈액학·미생물학 등)의 배분 요건이 있습니다. 캘리포니아 CDPH Laboratory Field Services의 주 면허는 별도의 갱신·보수교육 요건이 있어 서로 대체할 수 없습니다.
+
+### Tiếng Việt (bản dịch sơ bộ)
+Đạt kỳ thi ASCP BOC chỉ là bước đầu: chứng chỉ MLS phải duy trì qua Credential Maintenance Program (CMP), chu kỳ 3 năm với 36 điểm CMP và phân bổ bắt buộc gồm an toàn phòng xét nghiệm và các lĩnh vực chuyên môn (ngân hàng máu, hóa sinh, huyết học, vi sinh). Giấy phép bang của CDPH Laboratory Field Services (California) có yêu cầu gia hạn và đào tạo liên tục riêng, không thay thế cho nhau.
+
+### हिन्दी (प्रारंभिक अनुवाद)
+ASCP BOC परीक्षा पास करना केवल पहला कदम है: MLS प्रमाणपत्र Credential Maintenance Program (CMP) से बनाए रखना होता है — 3 वर्ष के चक्र में 36 CMP अंक, जिनमें प्रयोगशाला सुरक्षा और प्रत्येक विशेषज्ञ क्षेत्र (रक्त बैंक, रसायन, रुधिर विज्ञान, सूक्ष्मजीव विज्ञान आदि) का निर्धारित वितरण शामिल है। कैलिफ़ोर्निया CDPH Laboratory Field Services का राज्य लाइसेंस अपने अलग नवीनीकरण और सतत शिक्षा नियम रखता है; दोनों एक-दूसरे का विकल्प नहीं हैं।
