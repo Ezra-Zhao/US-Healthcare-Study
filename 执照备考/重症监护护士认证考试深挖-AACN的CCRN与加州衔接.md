@@ -100,3 +100,29 @@ CCRN जीवनभर के लिए नहीं है। चक्र त
 - 한국어 (初译待校)：개인 학습 노트이며 의학적 조언이 아닙니다.
 - Tiếng Việt (初译待校)：Ghi chú học tập cá nhân; không phải tư vấn y tế.
 - हिन्दी (初译待校)：व्यक्तिगत अध्ययन नोट; यह चिकित्सीय सलाह नहीं है।
+
+## 补译增量（2026-11-05 本轮）
+
+### 中文（增量锚点）
+补齐三语此前压缩的细节：一是报考小时的时间窗——直接照护小时必须落在最近两年内，成人方向通行口径总量与最近一年占比并存，纯管理与纯教学时间不计；二是考试形态与蓝图口径——考试中心机考、临床判断按系统分域、权重与合格线只认当期 Handbook；三是续期失效后果与加州三句收束——CERPs 按类别攒点、逾期失效，执照先行、雇主决定录用、Magnet 医院偏好认证。
+
+### 한국어 보충 (초역, 初译待校)
+중국어 본문에 맞춰 압축돼 있던 세부점을 보충합니다. 첫째, 응시 시간의 시간 창입니다. 직접 간호 시간은 반드시 최근 2년 안에 들어 있어야 하고, 성인 방향의 통상 기준에서는 총량 요건과 최근 1년에 일정 몫이 들어 있어야 한다는 요건이 함께 적용됩니다. 순수 관리 업무나 순수 교육 시간은 직접 간호로 세지 않으며, 이 숫자들은 바뀔 수 있으므로 응시 접수 전에 반드시 현행 CCRN Exam Handbook와 대조해야 합니다.
+
+둘째, 시험의 형태와 청사진 읽는 법입니다. 시험은 시험장에서 치르는 컴퓨터 기반 시험이며, 더 큰 축인 임상 판단은 심혈관, 호흡, 내분비, 혈액·면역, 신경, 신장, 다계통 문제처럼 계통별로 나뉩니다. 각 영역의 비중과 합격 기준은 현행 Handbook 청사진이 정하므로, 지난 회차의 경험담 숫자를 외워서는 안 됩니다. 준비는 증례 중심으로, 모든 선택지를 지금 이 환자에게 가장 위험한 것이 무엇인지에 대조하는 방식으로 해야 합니다.
+
+셋째, 갱신이 어긋났을 때의 결과와 캘리포니아에서의 수습입니다. 인증 주기는 3년이며, 계속교육·임상 실무·전문 활동이라는 범주별로 CERPs 점수를 쌓아 기한 안에 갱신하지 못하면 인증은 만료됩니다. 캘리포니아에서는 순서가 결론입니다. RN 면허가 먼저이고 그 발급 근거는 Nursing Practice Act(Business and Professions Code 2700조 이하)이며, CCRN은 주 문턱이 아니라 고용주가 채용과 승진에서 평가하는 전문 역량의 증거, 특히 Magnet 인정 병원에서 무게가 실리는 증거입니다. (초역, 교정 대기)
+
+### Tiếng Việt bổ sung (bản dịch sơ bộ, 初译待校)
+Bổ sung các chi tiết bị nén trong bản dịch cho khớp bản chính tiếng Trung. Một là cửa sổ thời gian của giờ dự thi: giờ chăm sóc trực tiếp phải nằm trong hai năm gần nhất, và với hướng người lớn, chuẩn thường nêu gồm cả yêu cầu tổng số giờ lẫn yêu cầu một phần xác định phải rơi vào năm gần nhất. Thời gian thuần quản lý hay thuần giảng dạy không được tính là chăm sóc trực tiếp, và vì các con số này có thể thay đổi, phải đối chiếu với CCRN Exam Handbook hiện hành trước khi nộp hồ sơ.
+
+Hai là hình thức kỳ thi và cách đọc khung nội dung: kỳ thi làm trên máy tính tại trung tâm khảo thí; trục lớn hơn là phán đoán lâm sàng được chia theo hệ cơ quan — tim mạch, hô hấp, nội tiết, huyết học và miễn dịch, thần kinh, thận và đa hệ thống. Trọng số từng lĩnh vực và chuẩn đậu do khung nội dung trong Handbook hiện hành quyết định, không học thuộc con số từ kinh nghiệm của khóa trước. Cách ôn đúng là ôn theo ca bệnh, đối chiếu mỗi lựa chọn với câu hỏi: điều gì nguy hiểm nhất cho bệnh nhân này ngay lúc này.
+
+Ba là hậu quả khi gia hạn trễ và phần kết cho California: chu kỳ chứng chỉ là ba năm, điểm CERPs tích lũy theo nhóm qua giáo dục liên tục, thực hành lâm sàng và hoạt động chuyên môn; không gia hạn đúng hạn thì chứng chỉ hết hiệu lực. Ở California, thứ tự là kết luận: giấy phép RN đứng trước, căn cứ cấp phép là Nursing Practice Act (Business and Professions Code từ mục 2700), còn CCRN không phải ngưỡng của bang mà là bằng chứng năng lực chuyên khoa được nhà tuyển dụng cân nhắc khi tuyển dụng và thăng tiến, đặc biệt có trọng lượng tại các bệnh viện được công nhận Magnet. (Bản dịch sơ bộ, chờ hiệu đính)
+
+### हिन्दी पूरक (प्रारंभिक अनुवाद, 初译待校)
+चीनी मूल पाठ में मौजूद पर अनुवादों में संक्षिप्त रह गए विवरण जोड़े जाते हैं। पहला, परीक्षा-घंटों की समय-खिड़की: प्रत्यक्ष देखभाल के घंटे पिछले दो वर्षों के भीतर के होने चाहिए, और वयस्क दिशा के प्रचलित मानक में कुल घंटों की शर्त के साथ एक तय हिस्सा सबसे हाल के वर्ष में होने की शर्त भी साथ चलती है। शुद्ध प्रबंधन या शुद्ध शिक्षण का समय प्रत्यक्ष देखभाल में नहीं गिना जाता, और ये संख्याएँ बदल सकती हैं, इसलिए आवेदन से पहले वर्तमान CCRN Exam Handbook से मिलान अनिवार्य है।
+
+दूसरा, परीक्षा का रूप और खाके को पढ़ने का तरीका: परीक्षा परीक्षा-केंद्र पर कंप्यूटर-आधारित होती है; बड़ा अक्ष, नैदानिक निर्णय, प्रणालियों के अनुसार बँटा है — हृदय-संवहनी, श्वसन, अंतःस्रावी, रक्त व प्रतिरक्षा, तंत्रिका, वृक्क और बहु-प्रणाली समस्याएँ। हर क्षेत्र का भार और उत्तीर्ण-मानक वर्तमान Handbook का खाका तय करता है, पिछले सत्र के अनुभव के आँकड़े रटने से काम नहीं चलेगा। तैयारी मामलों से करें और हर विकल्प को इस प्रश्न से परखें कि इस समय इस रोगी के लिए सबसे ख़तरनाक क्या है।
+
+तीसरा, नवीनीकरण चूकने का परिणाम और California के लिए निष्कर्ष: प्रमाणन-चक्र तीन वर्ष का है, CERPs अंक सतत शिक्षा, नैदानिक अभ्यास और व्यावसायिक गतिविधियों की श्रेणियों में जमा होते हैं; समय पर नवीनीकरण न हो तो प्रमाणन समाप्त हो जाता है। California में क्रम ही निष्कर्ष है: RN लाइसेंस पहले आता है, जिसका आधार Nursing Practice Act (Business and Professions Code धारा 2700 से आगे) है, और CCRN राज्य की शर्त नहीं बल्कि विशेषज्ञ दक्षता का वह प्रमाण है जिसे नियोक्ता नियुक्ति और पदोन्नति में तौलते हैं, विशेषकर Magnet-मान्यता प्राप्त अस्पतालों में। (प्रारंभिक अनुवाद, समीक्षा प्रतीक्षित)
