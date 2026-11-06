@@ -179,6 +179,8 @@ Part I은 ABS, 즉 Applied Basic Science, 응용 기초과학입니다. 이름 �
 
 형식상 Part I은 Part II와 마찬가지로 Pearson VUE 시험장에서 치르는 컴퓨터 기반 시험입니다. 이 글은 문항 수, 시간, 과목 비중, 합격선, 현행 수수료를 고정해 적지 않습니다. 모두 응시 회차의 NBEO Candidate Guide를 따르세요. 변하지 않는 것은 역할과 시점입니다. 기초과학에서 임상 적용으로 넘어가는 다리이며, 전문 과정 3학년, 그 학년 3월 회차부터 응시합니다. 준비 요점은 세 가지입니다. 약리와 광학을 막판 벼락치기에 맡기지 말 것, 틀린 문항마다 환자에게 왜 그 징후가 나타나는지를 물을 것, 그리고 장시간 컴퓨터 시험에 견디도록 시간을 재는 전체 모의시험을 치를 것.
 
+보충하면, 그 리듬에 맞춰 체계적인 복습은 시험 창이 열릴 때가 아니라 2학년 후반부터 시작해야 한다. 약리와 광학은 Part II의 약물 결정과 Part III의 술기의 토대이기도 해서, 여기서 진 빚은 뒤에서 이자까지 붙어 돌아온다.
+
 ### Tiếng Việt (初译待校)
 Part I là ABS, Applied Basic Science, khoa học cơ bản ứng dụng. Đúng như tên gọi, nó không kiểm tra bạn thuộc sách đến đâu, mà kiểm tra bạn có vận dụng được khoa học cơ bản vào các vấn đề lâm sàng hay không. Trên bài thi, một kiến thức trở thành một bệnh nhân trước mặt: lý do khám, dấu hiệu và kết quả xét nghiệm được cho sẵn, và câu hỏi yêu cầu cơ chế giải thích chúng cùng bước suy luận tiếp theo. Học thuộc mà không biết áp dụng là điều phần thi này trừng phạt rõ nhất.
 
@@ -186,12 +188,16 @@ Nội dung bao phủ nền tảng mà bác sĩ đo thị lực phải nắm: gi�
 
 Về hình thức, Part I, giống Part II, là kỳ thi trên máy tính tại các trung tâm Pearson VUE. Bài này cố ý không ghi cố định số câu, thời gian, trọng số môn, điểm đậu hay lệ phí hiện hành; với tất cả các mục đó, hãy dùng Candidate Guide hiện hành của NBEO. Điều ổn định là vai trò và thời điểm: cầu nối từ khoa học cơ bản sang ứng dụng lâm sàng, thi vào năm chuyên nghiệp thứ ba, từ đợt thi tháng 3 của năm đó trở đi. Ba điểm ôn tập thực tế: đừng để dược lý và quang học đến phút chót; luyện đến mức cơ chế, với mỗi câu sai hãy hỏi vì sao bệnh nhân có dấu hiệu đó; và làm các bài mô phỏng trọn vẹn có bấm giờ để rèn sức bền.
 
+Bổ sung: theo nhịp đó, việc ôn tập có hệ thống phải bắt đầu từ nửa sau của năm thứ hai, chứ không phải đợi cửa sổ thi mở. Dược lý và quang học cũng là nền cho quyết định dùng thuốc ở Part II và kỹ năng thực hành ở Part III, nên khoản nợ ở đây sẽ phải trả cả lãi về sau.
+
 ### हिन्दी (初译待校)
 Part I है ABS — Applied Basic Science, अनुप्रयुक्त आधारभूत विज्ञान। नाम के अनुसार यह नहीं परखता कि आपने पाठ्यपुस्तक कितनी रटी है; यह परखता है कि आप आधारभूत विज्ञान को नैदानिक समस्याओं पर लागू कर सकते हैं या नहीं। प्रश्नपत्र में कोई तथ्य सामने बैठे रोगी में बदल जाता है: शिकायत, चिह्न और जाँच परिणाम दिए जाते हैं, और प्रश्न पूछता है कि इनके पीछे तंत्र क्या है और तर्क आगे कहाँ जाएगा। बिना प्रयोग के रटा ज्ञान ही वह है जिसे यह भाग सबसे अधिक दंडित करता है।
 
 विषय-वस्तु उस नींव को समेटती है जो हर ऑप्टोमेट्रिस्ट के पास होनी चाहिए: मानव शरीर-रचना और ऊतक-विज्ञान, शरीर-क्रिया विज्ञान, विकृति विज्ञान, सूक्ष्मजीव विज्ञान और प्रतिरक्षा, जैव-रसायन, औषध-विज्ञान के सिद्धांत, और OD के लिए केंद्रीय प्रकाशिकी — ज्यामितीय और भौतिक प्रकाशिकी, आँख की प्रकाशिकी और दृष्टि का आधार विज्ञान सहित। नेत्र शरीर-रचना, नेत्र शरीर-क्रिया और नेत्र औषध-विज्ञान का भार स्पष्ट रूप से आँख की ओर झुका है। विषयों को अलग-अलग ढेरों में न पढ़ें: प्रश्न अक्सर अंतर्विषयी होते हैं, और एक ग्लूकोमा मामला जलीय गतिशीलता, रिसेप्टर औषध-विज्ञान और दृष्टि-तंत्रिका विकृति को एक साथ खींच सकता है।
 
 प्रारूप में Part I, Part II की तरह, Pearson VUE केंद्रों पर कंप्यूटर-आधारित परीक्षा है। यह लेख प्रश्न संख्या, समय, विषय भार, कट-स्कोर या वर्तमान शुल्क निश्चित नहीं करता; इन सबके लिए वर्तमान NBEO Candidate Guide देखें। जो स्थिर है वह है इसका स्थान और समय: आधार विज्ञान से नैदानिक प्रयोग की ओर पुल, जो तीसरे व्यावसायिक वर्ष में उस वर्ष की मार्च परीक्षा से दिया जाता है। तैयारी के तीन व्यावहारिक बिंदु: औषध-विज्ञान और प्रकाशिकी को अंतिम समय पर न छोड़ें; तंत्र के स्तर तक अभ्यास करें, हर छूटे प्रश्न पर पूछें कि रोगी में वह चिह्न क्यों है; और लंबे कंप्यूटर पेपर के लिए समयबद्ध पूर्ण अभ्यास से सहनशक्ति बनाएँ।
+
+पूरक: इसी लय के अनुसार व्यवस्थित पुनरावृत्ति दूसरे वर्ष के उत्तरार्ध से शुरू होनी चाहिए, परीक्षा-खिड़की खुलने पर नहीं। औषध-विज्ञान और प्रकाशिकी Part II के दवा-निर्णयों और Part III के कौशल की नींव भी हैं, इसलिए यहाँ का उधार बाद में ब्याज समेत चुकाना पड़ता है।
 
 ---
 ## 四、Part II PAM 病人评估与管理 + TMOD 眼病治疗与管理
@@ -228,6 +234,8 @@ Part I이 기전이 무엇인지를 묻는다면, Part II는 환자가 의자에
 
 TMOD는 가장 놓치기 쉬워 따로 경고가 필요합니다. TMOD는 Treatment and Management of Ocular Disease, 안질환 치료 및 관리의 약자로, Part II와 연계된 구성 요소이며 안질환의 약물 치료에 집중합니다. 어떤 약을, 왜 그 약을, 금기와 상호작용은 어떻게, 효과와 부작용 추적은 어떻게, 치료가 실패하면 무엇을 바꿀 것인가를 다룹니다. 신청과 채점 방식은 Part II와 밀접히 연결되어 있으니 현행 Candidate Guide에서 정확한 형식을 확인하세요. 다만 일찍 알아야 할 사실이 하나 있습니다. 캘리포니아를 포함한 여러 주가 면허 발급에 TMOD 합격을 명시적으로 요구합니다. 그 주들에서 TMOD는 선택 가산점이 아니라 강성 조건입니다. Part II도 Pearson VUE에서 치르는 컴퓨터 시험이며, 준비는 증례의 양과 결정 훈련이 핵심입니다.
 
+훈련법을 보충하면, 보기부터 보지 말고 감별진단의 순위를 먼저 적어 강제하고, 채점 뒤에는 정오만 확인하지 말고 출제자가 어느 추론 갈림길에 함정 선택지를 심었는지 복기해야 한다. 약리 복습도 약 이름과 기전을 외우는 방식에서 임상 장면으로 바꿔, 감염·염증·녹내장 같은 장면마다 같은 약을 어떻게 고르고 어떻게 피하는지를 바로 말할 수 있어야 TMOD가 묻는 층위에 닿는다.
+
 ### Tiếng Việt (初译待校)
 Nếu Part I hỏi cơ chế là gì, thì Part II hỏi bạn làm gì khi bệnh nhân đang ngồi trước mặt. Part II là PAM, Patient Assessment and Management, đánh giá và quản lý bệnh nhân. Nó được xây trên các ca bệnh: một vignette cho bệnh sử, dấu hiệu và kết quả xét nghiệm, và bạn chọn hướng xử trí lâm sàng. Điều được kiểm tra là suy luận chẩn đoán và thứ tự quản lý, không phải trí nhớ rời rạc. Một đáp án sai thường có nghĩa là trình tự suy luận bị đảo ngược, chứ không phải thiếu một dữ kiện thuộc lòng.
 
@@ -235,12 +243,16 @@ Các ca bệnh bao phủ toàn bộ thực hành đo thị lực: tật khúc x�
 
 TMOD cần một cảnh báo riêng vì nó là phần dễ bị bỏ sót nhất. TMOD là Treatment and Management of Ocular Disease, điều trị và quản lý bệnh mắt, thành phần gắn với Part II tập trung vào điều trị bằng thuốc: chọn thuốc nào, vì sao, chống chỉ định và tương tác ra sao, theo dõi hiệu quả và tác dụng phụ thế nào, và thay đổi gì khi điều trị thất bại. Cách đăng ký và chấm điểm của nó gắn chặt với Part II — hãy kiểm tra hình thức chính xác trong Candidate Guide hiện hành — nhưng một sự thật phải biết sớm: một số bang, trong đó có California, yêu cầu rõ ràng phải đậu TMOD mới cấp phép. Ở các bang đó, TMOD không phải điểm cộng tùy chọn mà là điều kiện cứng. Part II cũng là kỳ thi trên máy tính tại Pearson VUE, và cách ôn của nó dựa vào số lượng ca bệnh và luyện quyết định.
 
+Bổ sung cách luyện: hãy ép mình viết thứ tự chẩn đoán phân biệt trước khi nhìn các lựa chọn, và khi xem lại đừng chỉ kiểm tra đúng sai mà hãy lần lại xem người ra đề đã gài phương án gây nhiễu ở ngã rẽ suy luận nào. Ôn dược lý cũng phải đổi cách, từ thuộc tên thuốc và cơ chế sang thuộc cảnh lâm sàng: cùng một thuốc, trong các cảnh nhiễm trùng, viêm và glôcôm thì chọn thế nào, tránh thế nào, phải nói ra được ngay, vì đó chính là tầng mà TMOD kiểm tra.
+
 ### हिन्दी (初译待校)
 यदि Part I पूछता है कि तंत्र क्या है, तो Part II पूछता है कि जब रोगी सामने बैठा हो तो आप क्या करते हैं। Part II है PAM — Patient Assessment and Management, रोगी मूल्यांकन और प्रबंधन। यह रोगी मामलों पर बना है: एक केस में इतिहास, निष्कर्ष और जाँच परिणाम दिए जाते हैं, और आप नैदानिक कदम चुनते हैं। परखा जाने वाला विषय है निदान-तर्क और प्रबंधन का क्रम, अलग-थलग स्मरण नहीं। गलत उत्तर का अर्थ अक्सर यह होता है कि तर्क का क्रम उलट गया, न कि कोई एक तथ्य कभी पढ़ा ही नहीं।
 
 मामले ऑप्टोमेट्रिक अभ्यास की पूरी शृंखला को छूते हैं: अपवर्तन और द्विनेत्र दृष्टि समस्याएँ, कॉर्निया और नेत्र-पृष्ठ रोग, लेंस और मोतियाबिंद संबंधी निर्णय, ग्लूकोमा, रेटिना और विट्रस रोग, तंत्रिका-नेत्र संकेत, प्रणालीगत रोग के नेत्र चिह्न, और निर्णायक रूप से यह कि कब स्वयं प्रबंधन करें और कब नेत्र रोग विशेषज्ञ या अन्य विशेषज्ञ को भेजें। लाइसेंस परीक्षा में सीमा की समझ का छिपा भार बहुत है: हर अभ्यास मामले के साथ पूछें कि यदि रोगी एक दर्जा अधिक गंभीर होता, तो क्या मैं फिर भी स्वयं संभालता, किसे भेजता और कितनी जल्दी।
 
 TMOD को अलग चेतावनी चाहिए क्योंकि यही सबसे आसानी से छूटता है। TMOD का अर्थ है Treatment and Management of Ocular Disease, नेत्र रोग का उपचार और प्रबंधन। यह Part II से जुड़ा वह घटक है जो औषधीय उपचार पर केंद्रित है: कौन-सी दवा, क्यों वही दवा, निषेध और पारस्परिक क्रियाएँ, प्रभाव और दुष्प्रभावों का अनुसरण, और उपचार विफल होने पर क्या बदलें। इसका पंजीकरण और अंकन Part II से गहराई से जुड़ा है — सटीक रूप के लिए वर्तमान Candidate Guide देखें — लेकिन एक तथ्य जल्दी जानना ज़रूरी है: California समेत कई राज्य लाइसेंस के लिए TMOD में उत्तीर्ण होना स्पष्ट रूप से माँगते हैं। उन राज्यों में TMOD वैकल्पिक बोनस नहीं, कठोर शर्त है। Part II भी Pearson VUE पर कंप्यूटर-आधारित है, और इसकी तैयारी मामलों की संख्या और निर्णय-प्रशिक्षण पर टिकी है।
+
+प्रशिक्षण पर पूरक: विकल्प देखने से पहले विभेदक निदान का क्रम लिखने के लिए स्वयं को बाध्य करें, और समीक्षा में केवल सही-गलत न देखें, बल्कि यह भी खोजें कि परीक्षक ने तर्क की किस शाखा पर भ्रमित करने वाला विकल्प रखा था। औषध-विज्ञान की पढ़ाई भी दवा के नाम और तंत्र रटने से बदलकर नैदानिक दृश्यों की होनी चाहिए: संक्रमण, सूजन और ग्लूकोमा जैसे दृश्यों में एक ही दवा कैसे चुनी जाती है और कैसे बची जाती है, यह तुरंत कहा जा सके — TMOD ठीक यही स्तर परखता है।
 
 ---
 ## 五、Part III PEPS 病人接触与操作技能（含 ISE 与 LSPE 两个选考的定位）
@@ -277,6 +289,8 @@ En términos generales, la Parte III es un examen práctico realizado en un cent
 
 실기 시험의 논리는 필기와 완전히 다릅니다. 필기에서는 순서를 머릿속으로 복원할 수 있지만, 실기에서 빠뜨린 단계는 빠뜨린 그대로이며, 순서 오류, 건너뛴 안전 단계, 하지 않은 설명은 모두 실시간으로 감점되고 답을 고칠 기회가 없습니다. 따라서 준비는 읽기와 영상 시청에 머물 수 없습니다. 진료실과 실습실로 돌아가 각 핵심 술기를 표준 순서대로 근육 기억이 될 때까지 반복해야 합니다. 굴절 검사, 세극등 검사, 안저 검사와 기록, 안압 측정, 시야와 동공 검사 등이 이에 해당합니다. 환자 소통도 이 파트에서는 부드러운 가산점이 아니라 술기 그 자체의 일부입니다.
 
+연습 방식도 보충하면, 혼자 반복하는 것보다 동료가 표준 절차로 서로 점검하고 영상으로 녹화해 복기하는 편이 더 효과적이다. 설명하는 말은 임상 순환(로테이션) 때부터 매끄럽게 연습해 두어야, 시험장에서 긴장해도 술기에만 매달리다 말을 잊는 일이 없다.
+
 선택 시험 두 가지를 분명히 위치 지어야 합니다. ISE는 Injection Skills Examination, 주사 술기 시험이고, LSPE는 Laser and Surgical Procedures Examination, 레이저 및 외과 술기 시험입니다. 둘 다 일상적인 검안 범위를 넘는 고급 술기를 다루는데, 검안사가 그 술기를 할 수 있는지는 주마다 다릅니다. 주 업무 범위 법률이 허용하지 않는 술기는 시험을 봐도 쓸 곳이 없고, 주법이 허용하면서 해당 시험을 면허 조건으로 삼으면 반드시 마쳐야 합니다. 즉 ISE와 LSPE는 전원 필수 과목이 아니라 필요에 따라 선택하는 시험입니다. 판단 기준은 목표 주 검안 위원회의 현행 면허 및 업무 범위 규정 하나뿐입니다.
 
 일반적으로 Part III는 NBEO 시험 센터에서 표준화 환자와 술기 스테이션을 활용해 치르는 실기형 시험이며, 세부 사항은 현행 공식 안내가 최종 기준입니다.
@@ -286,6 +300,8 @@ Hai phần đầu trả lời trên máy tính; phần thứ ba kiểm tra đôi
 
 Logic của một kỳ thi thực hành khác hẳn bài viết: một bước bị bỏ qua là một bước bị bỏ qua, và thứ tự sai, một bước an toàn bị nhảy qua, hay một lời giải thích không được nói ra đều trừ điểm ngay lúc đó, không có cơ hội sửa đáp án. Vì vậy ôn tập không thể chỉ dựa vào đọc và xem video; phải quay lại phòng khám và phòng thực hành, luyện từng kỹ năng cốt lõi theo trình tự chuẩn cho đến thành trí nhớ cơ bắp: quy trình đo khúc xạ, khám đèn khe, khám đáy mắt và ghi chép, đo nhãn áp, kiểm tra thị trường và đồng tử. Giao tiếp trong phần này không phải điểm cộng mềm, mà là một phần của kỹ năng.
 
+Về cách luyện, kiểm tra lẫn nhau theo quy trình chuẩn với bạn học và xem lại video ghi hình đều hiệu quả hơn tự luyện một mình. Lời giải thích cho bệnh nhân cũng phải luyện cho trơn tru ngay từ các vòng luân chuyển lâm sàng, để khi vào phòng thi, dù căng thẳng, bạn không chỉ mải làm thủ thuật mà quên nói.
+
 Hai kỳ thi tùy chọn cần được định vị rõ. ISE là Injection Skills Examination, kỳ thi kỹ năng tiêm; LSPE là Laser and Surgical Procedures Examination, kỳ thi thủ thuật laser và phẫu thuật. Cả hai bao phủ các thủ thuật nâng cao ngoài thực hành đo thị lực thường quy, và không phải bang nào cũng cho phép bác sĩ đo thị lực thực hiện chúng: điều đó phụ thuộc luật về phạm vi hành nghề của bang. Vì vậy ISE và LSPE là các môn tự chọn theo nhu cầu, không phải yêu cầu phổ quát. Tiêu chí đáng tin duy nhất là quy định hiện hành về cấp phép và phạm vi hành nghề của hội đồng bang bạn nhắm tới.
 
 Nói chung, Part III là kỳ thi thực hành được tổ chức tại trung tâm thi của NBEO với bệnh nhân chuẩn hóa và các trạm kỹ năng, với hướng dẫn chính thức hiện hành là căn cứ cuối cùng cho chi tiết.
@@ -294,6 +310,8 @@ Nói chung, Part III là kỳ thi thực hành được tổ chức tại trung 
 पहले दो भाग कंप्यूटर पर उत्तर दिए जाते हैं; तीसरा भाग आपके हाथों और रोगी के साथ आपकी उपस्थिति को परखता है। Part III का वर्तमान नाम PEPS है — Patient Encounters and Performance Skills, रोगी सामना और प्रदर्शन कौशल परीक्षा। इसका पुराना नाम Clinical Skills Exam था, इसलिए पुरानी सामग्री में वह नाम मिले तो वह इसी द्वार की बात है। यह स्नातक वर्ष में दिया जाता है और NBEO शृंखला को बंद करता है: ज्ञान Part I में परखा गया, निर्णय Part II में, और यहाँ प्रश्न यह है कि वास्तविक नैदानिक भेंट में आप जाँच और प्रक्रियाएँ सही, पूर्ण और सुरक्षित ढंग से कर सकते हैं या नहीं, और प्रक्रिया को रोगी को समझा सकते हैं या नहीं।
 
 प्रदर्शन परीक्षा का तर्क लिखित पेपर से पूरी तरह अलग है। कागज़ पर आप क्रम मन में फिर बना सकते हैं; प्रदर्शन में छूटा कदम छूटा ही रहता है — गलत क्रम, छूटी सुरक्षा प्रक्रिया या न दी गई व्याख्या, सब उसी समय अंक काटते हैं, और उत्तर बदलने का मौका नहीं मिलता। इसलिए तैयारी केवल पढ़ने और वीडियो देखने पर नहीं टिक सकती। क्लीनिक और प्रयोगशाला में लौटकर हर मूल कौशल को मानक क्रम में मांसपेशी स्मृति बनने तक अभ्यास करना होगा: अपवर्तन प्रक्रिया, स्लिट-लैंप जाँच, फंडस जाँच और अभिलेख, टोनोमेट्री, दृश्य-क्षेत्र और पुतली जाँच। संवाद इस भाग में नरम बोनस नहीं, कौशल का हिस्सा है।
+
+अभ्यास की विधि पर पूरक: अकेले दोहराने से अधिक प्रभावी है साथियों द्वारा मानक क्रम पर परस्पर जाँच और वीडियो देखकर समीक्षा करना। रोगी को समझाने की भाषा नैदानिक रोटेशन के समय से ही सहज बनानी चाहिए, ताकि परीक्षा के दबाव में आप केवल प्रक्रिया पर ध्यान देकर बोलना न भूलें।
 
 दो वैकल्पिक परीक्षाओं की स्थिति स्पष्ट होनी चाहिए। ISE है Injection Skills Examination, इंजेक्शन कौशल परीक्षा, और LSPE है Laser and Surgical Procedures Examination, लेज़र और शल्य प्रक्रिया परीक्षा। दोनों नियमित ऑप्टोमेट्रिक अभ्यास से आगे की उन्नत प्रक्रियाओं को छूते हैं, और हर राज्य में ऑप्टोमेट्रिस्टों को वे प्रक्रियाएँ करने की अनुमति नहीं है: यह उस राज्य के अभ्यास-दायरा कानून पर निर्भर है जहाँ आप अभ्यास करते हैं। इसलिए ISE और LSPE आवश्यकता-आधारित विकल्प हैं, सार्वभौमिक शर्त नहीं। एकमात्र विश्वसनीय कसौटी आपके लक्षित राज्य बोर्ड के वर्तमान लाइसेंस और दायरा नियम हैं।
 
@@ -338,6 +356,8 @@ Cuatro puntos de cierre: planifique el calendario hacia atrás desde la graduaci
 
 전체 경로를 닫는 준비 요점은 네 가지입니다. 졸업 시점과 목표 면허 주를 먼저 정하고 Part III, Part II와 TMOD, Part I의 응시 창을 거꾸로 역산할 것. 가장 잊기 쉬운 두 이름인 TMOD와 CLRE를 자기 체크리스트에 별도 항목으로 적어 확인할 것. ISE와 LSPE는 주법을 읽은 뒤에만 결정할 것. 강성 규칙은 NBEO 현행 Candidate Guide, ACOE 인증 목록, 목표 주 위원회의 면허 페이지라는 세 가지 1차 출처만 신뢰할 것.
 
+마지막으로 빠지기 쉬운 세부 셋을 붙인다. CLRE는 임상 능력이 아니라 이 주에서 무엇을 할 수 있고 무엇을 할 수 없는지, 기록과 의뢰 의무를 어떻게 세는지를 묻는 시험이다. 신원 조회에서는 이력을 숨기는 일 자체가 대개의 기록보다 신청에 더 해롭다. 그리고 3학년 3월의 Part I 창을 놓치면 그 뒤의 전 일정이 함께 밀린다.
+
 ### Tiếng Việt (初译待校)
 Cuối cùng, hãy hạ tất cả các kỳ thi trên xuống một danh mục cấp phép cụ thể, đi trọn vẹn với California làm ví dụ. Các bang khác theo cấu trúc tương tự, nhưng các mục và tên gọi thay đổi, vì vậy đừng sao chép nguyên danh mục này. Ở California, cơ quan cấp phép là hội đồng đo thị lực của bang, căn cứ pháp lý chủ yếu nằm quanh các điều 3056 và 3057 của Bộ luật Kinh doanh và Nghề nghiệp California (Business and Professions Code), và trang Exam Information chính thức của hội đồng nêu rõ các yêu cầu kỳ thi. Hãy kiểm tra lại từng mục trên trang chính thức khi bạn thực sự nộp đơn.
 
@@ -347,6 +367,8 @@ Việc nộp đơn chạy qua hệ thống trực tuyến BreEZe của Californi
 
 Bốn điểm ôn tập khép lại: lập dòng thời gian ngược từ lúc tốt nghiệp và bang mục tiêu; ghi TMOD và CLRE thành hai ô riêng trong danh mục của bạn; chỉ quyết định về ISE và LSPE sau khi đã đọc luật bang; và với các quy tắc cứng, chỉ tin ba nguồn sơ cấp: Candidate Guide hiện hành của NBEO, danh sách được ACOE công nhận, và các trang cấp phép của hội đồng bang mục tiêu.
 
+Cuối cùng, gắn thêm ba chi tiết dễ sót. CLRE không kiểm tra năng lực lâm sàng, mà kiểm tra bạn có biết ở bang này việc gì được làm, việc gì không, và nghĩa vụ ghi hồ sơ cùng chuyển tuyến được tính thế nào hay không. Trong thẩm tra lý lịch, việc che giấu tiền sử tự nó gây hại cho hồ sơ hơn hầu hết các tiền sử. Và nếu lỡ cửa sổ Part I vào tháng 3 của năm thứ ba, toàn bộ chuỗi phía sau sẽ trượt theo.
+
 ### हिन्दी (初译待校)
 अंत में, ऊपर की सभी परीक्षाओं को एक ठोस लाइसेंस सूची पर उतारें, जिसे California के उदाहरण से पूरा चलकर देखें। दूसरे राज्यों की संरचना मिलती-जुलती है, लेकिन मदें और नाम बदलते हैं, इसलिए इस सूची को ज्यों का त्यों न नकल करें। California में लाइसेंस प्राधिकरण राज्य ऑप्टोमेट्री बोर्ड है, कानूनी आधार मुख्यतः California Business and Professions Code की धारा 3056 और 3057 के आसपास है, और बोर्ड का आधिकारिक Exam Information पृष्ठ परीक्षा आवश्यकताओं को स्पष्ट बताता है। आवेदन करते समय हर मद आधिकारिक साइट पर फिर जाँचें।
 
@@ -355,6 +377,8 @@ Bốn điểm ôn tập khép lại: lập dòng thời gian ngược từ lúc 
 आवेदन California के BreEZe ऑनलाइन तंत्र से, कदम-दर-कदम चलता है। पहला कदम है BreEZe में Initial Exam Request Application Part 1 जमा करके CLRE देने की पात्रता प्राप्त करना: बोर्ड पहले आपकी पात्रता की समीक्षा और पुष्टि करता है, तभी परीक्षा की अनुमति देता है। पात्रता मिलने के बाद निर्देशानुसार CLRE दें और पास करें, फिर BreEZe में लौटकर आवेदन के बाद के भाग पूरे करें — डिग्री, NBEO और TMOD परिणाम, पृष्ठभूमि जाँच और शेष मदें एक-एक करके — जब तक बोर्ड लाइसेंस जारी न कर दे। वर्तमान शुल्क, प्रपत्र संस्करण और प्रक्रिया क्रम BreEZe तंत्र और बोर्ड के वर्तमान निर्देशों के अनुसार होंगे।
 
 समापन के चार तैयारी बिंदु: समय-रेखा को स्नातक और लक्षित राज्य से उल्टा गिनकर बनाएँ; TMOD और CLRE, सबसे आसानी से भूलने वाले दो नामों को, अपनी सूची में अलग टिक-बॉक्स बनाएँ; ISE और LSPE पर निर्णय राज्य कानून पढ़ने के बाद ही लें; और कठोर नियमों के लिए केवल तीन प्राथमिक स्रोतों पर भरोसा करें — वर्तमान NBEO Candidate Guide, ACOE की प्रत्यायित सूची, और लक्षित राज्य बोर्ड के लाइसेंस पृष्ठ।
+
+अंत में तीन आसानी से छूटने वाले विवरण जोड़ें। CLRE नैदानिक क्षमता नहीं परखता; यह परखता है कि इस राज्य में क्या किया जा सकता है और क्या नहीं, और अभिलेख व रेफ़रल के दायित्व कैसे गिने जाते हैं। पृष्ठभूमि जाँच में इतिहास छिपाना स्वयं अधिकांश अभिलेखों से अधिक आवेदन को नुकसान पहुँचाता है। और यदि तीसरे वर्ष की मार्च वाली Part I खिड़की छूट गई, तो उसके पीछे की पूरी शृंखला खिसक जाती है।
 
 ---
 
