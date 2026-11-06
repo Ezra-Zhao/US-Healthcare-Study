@@ -85,3 +85,24 @@ La elegibilidad empieza por la facultad: el COMLEX-USA es para estudiantes y gra
 ### हिन्दी (प्रारंभिक अनुवाद·待校)
 पात्रता विद्यालय से शुरू होती है: COMLEX-USA COCA (Commission on Osteopathic College Accreditation) से मान्यता प्राप्त ऑस्टियोपैथिक स्कूलों के छात्रों और स्नातकों के लिए है, जो विद्यालय की पुष्टि के साथ पंजीकरण करते हैं; इस मार्ग के बाहर के लोग यह परीक्षा नहीं दे सकते। रेज़िडेंसी का परिदृश्य बदल चुका है: अलग-अलग रहे AOA और ACGME तंत्र ACGME के एकल मान्यता तंत्र में विलीन हो गए, संक्रमण 2020 में पूरा हुआ, इसलिए DO और MD स्नातक अब एक ही तंत्र में आवेदन करते और प्रशिक्षित होते हैं। कुछ कार्यक्रम USMLE स्कोर देखते हैं और कई DO स्नातक विकल्प बढ़ाने के लिए स्वेच्छा से USMLE भी देते हैं — यह आवेदन-रणनीति है, लाइसेंस-शर्त नहीं; DO लाइसेंस की मुख्य शृंखला COMLEX-USA ही है। कैलिफ़ोर्निया में DO लाइसेंस Osteopathic Medical Board of California देता है और MD लाइसेंस Medical Board of California — दोनों को एक न समझें। ऑस्टियोपैथिक बोर्ड COMLEX-USA की पूरी शृंखला को परीक्षा-शर्त के रूप में स्वीकार करता है, साथ ही मान्यता प्राप्त स्नातकोत्तर प्रशिक्षण और राज्य पृष्ठभूमि समीक्षा उसकी वर्तमान सूची के अनुसार चाहिए, और पंजीकरण व स्कोर-प्रेषण NBOME और उसी बोर्ड से होता है। व्यक्तिगत अध्ययन नोट्स हैं, चिकित्सा या कानूनी सलाह नहीं; चिकित्सा आपात स्थिति में 911 पर कॉल करें।
 
+
+
+## 补译增量 · 한국어 / Tiếng Việt / हिन्दी（细节对齐）
+
+### 한국어 (초역, 원어민 감수 대기)
+
+보충 1 — 3단계의 점수 보고 방식과 응시 순서: Level 1은 2022년 5월부터 숫자 점수 없이 합격/불합격으로만 보고되므로, 준비의 목표는 점수를 올리는 것에서 안정적으로 통과하는 것으로 바뀝니다. Level 2-CE는 숫자 점수가 있으며 레지던시 지원에서 가장 자주 비교되는 단계입니다. Level 3는 임상 의사결정과 독립 진료 준비도를 봅니다. 일반적으로 앞 단계를 합격해야 다음 단계에 응시할 수 있고, 점수 구간 같은 세부 사항은 해마다 조정될 수 있으니 외운 숫자가 아니라 NBOME 공식 핸드북을 기준으로 삼으십시오.
+
+보충 2 — OMM/OPP의 준비상 의미와 캘리포니아의 두 위원회: OMM(정골 도수 의학)과 OPP(정골 원칙과 실습)는 장식이 아니라 단계마다 실제 비중으로 출제되므로, DO 학생은 USMLE 자료를 그대로 가져다 쓸 수 없고 OMM/OPP를 별도 줄기로 준비해야 하며, MD 경로는 USMLE에 이 내용이 필요 없습니다. 캘리포니아에서는 DO 면허를 Osteopathic Medical Board of California가, MD 면허를 Medical Board of California가 발급합니다. 두 기관을 혼동하지 마시고, 접수와 성적 발송은 NBOME와 정골의학 위원회가 상대입니다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Bổ sung 1 — Cách báo điểm của ba cấp và trình tự dự thi: từ tháng 5 năm 2022, Level 1 chỉ báo đậu/rớt, không còn điểm số, nên mục tiêu ôn tập chuyển từ chạy điểm sang đậu vững. Level 2-CE có điểm số và là cấp được so sánh nhiều nhất trong hồ sơ nội trú. Level 3 nhìn vào ra quyết định lâm sàng và mức sẵn sàng hành nghề độc lập. Thông thường phải đậu cấp trước mới được thi cấp sau, và các chi tiết như thang điểm thay đổi theo từng năm, vì vậy hãy lấy sổ tay chính thức của NBOME làm chuẩn thay vì những con số thuộc lòng.
+
+Bổ sung 2 — Ý nghĩa ôn tập của OMM/OPP và hai hội đồng của California: OMM (Osteopathic Manipulative Medicine) và OPP (Osteopathic Principles and Practice) không phải phần trang trí mà được thi ở mọi cấp với trọng số thực sự, nên sinh viên DO không thể dùng nguyên tài liệu USMLE mà phải ôn OMM/OPP thành một tuyến riêng, còn tuyến MD không cần phần này cho USMLE. Tại California, giấy phép DO do Osteopathic Medical Board of California cấp và giấy phép MD do Medical Board of California cấp — đừng nhầm lẫn hai cơ quan; việc đăng ký và gửi điểm đi qua NBOME và hội đồng xương khớp.
+
+### हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+पूरक 1 — तीनों स्तरों की स्कोर-रिपोर्टिंग और परीक्षा क्रम: मई 2022 से Level 1 केवल पास/फ़ेल में रिपोर्ट होता है, इसलिए तैयारी का लक्ष्य अंक बढ़ाने से बदलकर स्थिरता से पास करना हो गया है। Level 2-CE का संख्यात्मक स्कोर मिलता है और रेज़िडेंसी आवेदनों में यही सबसे अधिक तुलना में आता है। Level 3 नैदानिक निर्णय और स्वतंत्र अभ्यास की तैयारी देखता है। सामान्यतः प्रत्येक स्तर पास करने के बाद ही अगला दिया जा सकता है, और स्कोर-सीमा जैसे विवरण वर्षों में बदल सकते हैं, इसलिए रटे हुए अंकों के बजाय NBOME की आधिकारिक पुस्तिका को आधार बनाएं।
+
+पूरक 2 — OMM/OPP का तैयारी-अर्थ और कैलिफ़ोर्निया के दो बोर्ड: OMM (Osteopathic Manipulative Medicine) और OPP (Osteopathic Principles and Practice) सजावट नहीं हैं; ये हर स्तर पर वास्तविक वज़न के साथ परखे जाते हैं, इसलिए DO छात्र USMLE की सामग्री ज्यों की त्यों नहीं वापर सकते और OMM/OPP की अलग अध्ययन-पंक्ति चाहिए, जबकि MD मार्ग को USMLE के लिए यह भाग नहीं चाहिए। कैलिफ़ोर्निया में DO लाइसेंस Osteopathic Medical Board of California देता है और MD लाइसेंस Medical Board of California — दोनों संस्थाओं को एक न समझें; पंजीकरण व स्कोर-प्रेषण NBOME और ऑस्टियोपैथिक बोर्ड से होता है।
