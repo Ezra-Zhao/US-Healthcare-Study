@@ -100,6 +100,8 @@ APMLE은 세 부분으로 나뉜다. 재학 중 기초과학인 Part I, 졸업 �
 
 캘리포니아의 면허는 Business and Professions Code 제2460조에서 시작하는 조항 아래 PMBC가 발급하고, 업무 범위는 제2472조 부근에 있다. 공개된 요건은 승인 학교의 DPM 학위, APMLE 세 부분 전부 합격, PMBC가 승인한 졸업 후 수련 이수(공개 기준은 최소 2년의 승인된 졸업 후 의학 교육이며, 현행 레지던시는 보통 3년제 PMSR이므로 실제 프로그램의 승인 상태와 기간이 기준이 된다), 수련 시작 전 레지던시 단계 면허, 그리고 주·연방 양쪽 지문 배경 심사이다. 갱신은 2년 주기로, 계속 의학 교육은 PMBC의 현행 공지를 따른다.
 
+ 보충 두 가지. 첫째, CPME 인증은 한 번 받으면 평생 가는 것이 아니라 주기적 평가와 지속 감독을 받으므로, 학교를 정할 때는 당기 인증 명단을 확인하고 조회 날짜를 기록해 두어야 하며, 해외나 비전통 교육 배경이라면 본국 학제를 임의로 연수와 학위 수준으로 환산하지 말고 목표 주와 NBPME의 당기 기준부터 확인해야 한다. 둘째, 면허 취득 뒤의 유지에서 APMLE 성적이 이전 가능하다는 말은 면허 자체가 자동으로 따라간다는 뜻이 아니며, CPME는 계속교육 활동 제공자 승인에도 관여하므로 학점을 사기 전에 목표 주 면허 기관이 그 학점을 인정하는지부터 확인해야 한다.
+
 *개인 학습 노트이며, 의학적 조언이 아닙니다. 이 글은 어떤 약물 용량도 다루지 않습니다. (초역, 교정 대기)*
 
 ---
@@ -114,6 +116,8 @@ APMLE gồm ba phần: Phần I về khoa học cơ bản trong thời gian họ
 
 Tại California, PMBC cấp phép theo các điều khoản bắt đầu từ mục 2460 của Bộ luật Kinh doanh và Nghề nghiệp, với phạm vi hành nghề quanh mục 2472. Khung yêu cầu đã công bố gồm: bằng DPM từ trường được phê duyệt, đậu cả ba phần APMLE, hoàn thành đào tạo sau tốt nghiệp được PMBC phê duyệt (khung công bố: ít nhất hai năm đào tạo y khoa sau tốt nghiệp được phê duyệt, trong khi các chương trình nội trú hiện nay thường là PMSR ba năm, nên điều quyết định là tình trạng phê duyệt và thời lượng thực tế của chương trình của bạn), giấy phép giai đoạn nội trú trước khi bắt đầu đào tạo, và kiểm tra lý lịch bằng dấu vân tay ở cấp bang và liên bang. Gia hạn theo chu kỳ hai năm, với đào tạo y khoa liên tục theo thông báo hiện hành của PMBC.
 
+ Bổ sung hai điểm. Thứ nhất, công nhận của CPME không phải một lần là xong mãi mãi: các chương trình chịu đánh giá định kỳ và giám sát liên tục, nên khi chọn trường phải tra danh sách công nhận hiện hành và ghi lại ngày tra cứu; người có nền tảng đào tạo ở nước ngoài hoặc phi truyền thống không được tự quy đổi năm học và cấp bằng theo hệ thống nước mình, mà phải xác nhận trước với bang đích và tiêu chuẩn hiện hành của NBPME. Thứ hai, sau khi có giấy phép, việc điểm APMLE chuyển được không có nghĩa giấy phép tự động đi theo; CPME còn tham gia phê duyệt đơn vị cung cấp đào tạo liên tục, vì vậy trước khi trả tiền học phải kiểm tra xem cơ quan cấp phép của bang đích có công nhận loại tín chỉ đó hay không.
+
 *Ghi chép học tập cá nhân, không phải tư vấn y tế. Bài viết này không đề cập bất kỳ liều lượng thuốc nào. (Bản dịch sơ bộ, chờ hiệu đính)*
 
 ---
@@ -127,5 +131,7 @@ DPM (Doctor of Podiatric Medicine) पैर, टखने और संबं�
 APMLE के तीन भाग हैं: विद्यालय के दौरान आधारभूत विज्ञान का Part I, स्नातक के आसपास नैदानिक ज्ञान का Part II, और रेज़िडेंसी के दौरान या बाद में Part III (PMLexis)। CPME से जुड़ाव पात्रता में ही बैठा है — परीक्षा बोर्ड तय करता है कि आप उत्तीर्ण हुए या नहीं, पर CPME की सूचियाँ तय करती हैं कि आप परीक्षा में बैठ ही सकते हैं या नहीं।
 
 California में लाइसेंस Business and Professions Code की धारा 2460 से शुरू होने वाले प्रावधानों के अंतर्गत PMBC देता है, और अभ्यास का दायरा धारा 2472 के आसपास है। प्रकाशित रूपरेखा के अनुसार चाहिए: स्वीकृत विद्यालय से DPM, APMLE के तीनों भागों में उत्तीर्णता, PMBC-स्वीकृत स्नातकोत्तर प्रशिक्षण पूर्ण करना (प्रकाशित रूपरेखा: कम से कम दो वर्ष की स्वीकृत स्नातकोत्तर चिकित्सा शिक्षा, जबकि वर्तमान रेज़िडेंसियाँ आमतौर पर तीन-वर्षीय PMSR हैं, इसलिए आपके वास्तविक कार्यक्रम की स्वीकृति-स्थिति और अवधि ही मान्य है), प्रशिक्षण शुरू करने से पहले रेज़िडेंसी-चरण लाइसेंस, और राज्य व संघीय दोनों स्तरों पर फ़िंगरप्रिंट पृष्ठभूमि जाँच। नवीनीकरण दो-वर्षीय चक्र पर होता है, सतत चिकित्सा शिक्षा PMBC की वर्तमान सूचना के अनुसार।
+
+ दो पूरक बिंदु। पहला, CPME प्रत्यायन एक बार मिलकर आजीवन नहीं रहता: कार्यक्रमों का आवधिक मूल्यांकन व निरंतर निगरानी होती है, इसलिए विद्यालय चुनते समय वर्तमान प्रत्यायन सूची जाँचकर जाँच की तारीख दर्ज करें; विदेशी या अपरंपरागत शिक्षा वाले अपने देश की व्यवस्था से वर्ष व डिग्री स्तर स्वयं न बदलें, पहले गंतव्य राज्य व NBPME के वर्तमान मानदंड से पुष्टि करें। दूसरा, लाइसेंस के बाद APMLE स्कोर का स्थानांतरित होना लाइसेंस के स्वतः साथ चलने का अर्थ नहीं है; CPME सतत शिक्षा गतिविधि प्रदाताओं के अनुमोदन से भी जुड़ी है, इसलिए शुल्क देने से पहले जाँच लें कि गंतव्य राज्य का बोर्ड उस प्रकार के क्रेडिट को मान्यता देता है या नहीं।
 
 *व्यक्तिगत अध्ययन नोट्स हैं; यह चिकित्सा सलाह नहीं है। इस लेख में किसी दवा की मात्रा का उल्लेख नहीं है। (प्रारंभिक अनुवाद, समीक्षा लंबित)*

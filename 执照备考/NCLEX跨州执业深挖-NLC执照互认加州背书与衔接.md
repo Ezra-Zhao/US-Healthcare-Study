@@ -78,6 +78,8 @@ NCLEX 합격은 시험 단계일 뿐이고, 면허는 별개이다. 미국에서
 
 캘리포니아는 NLC 가입 주가 아니다. 캘리포니아 RN 면허는 Board of Registered Nursing(BRN)이 Business and Professions Code 제2700조 이하의 Nursing Practice Act에 따라 발급하고 감독한다. 그래서 다른 주의 다주 면허만으로는 캘리포니아에서 일할 수 없고, 캘리포니아 면허를 반대로 다주 면허처럼 쓸 수도 없다.
 
+보충 두 가지. 첫째, NLC가 다루는 것은 RN과 LVN/LPN 면허이며, 고급실무 등록간호사(APRN)의 주간 진료 권한은 별도의 협약 체계를 따르므로 RN 다주 면허에서 자동으로 추정할 수 없다. 둘째, 이사는 주요 거주 주를 바꾸므로 면허 지형도 다시 짜야 한다. 가입 주에서 다주 면허를 갖고 캘리포니아로 이사해 캘리포니아를 주요 거주 주로 삼으면 기존 다주 면허로 캘리포니아나 예전 가입 주들에서 일할 수 없고 endorsement로 캘리포니아 면허를 받아야 하며, 반대로 캘리포니아에서 가입 주로 이사하면 캘리포니아 면허를 들고 바로 근무하는 것이 아니라 새 거주 주에 다주 면허를 신청해야 한다.
+
 다른 주 면허 소지자는 NCLEX를 다시 보지 않고 endorsement 경로로 캘리포니아에 들어온다. BREeze로 신청하고, Nursys로 기존 면허를 검증받으며, 성적표는 학교가 BRN으로 직접 보내야 하고, 지문은 캘리포니아 안에서는 Live Scan, 주 밖에서는 지문 카드와 연방 심사로 진행한다. BRN이 승인해 캘리포니아 면허가 나온 뒤에야 근무할 수 있다. 흔한 오해는 NCLEX를 전국 면허로 보는 것, 가입 주에서 시험을 보면 자동으로 다주 면허가 된다고 보는 것, 다주 면허가 캘리포니아에서도 통한다고 보는 것, 캘리포니아 면허가 다주 면허처럼 통한다고 보는 것, endorsement를 단순 등록으로 보는 것이다. (초역, 원어민 감수 대기)
 
 ## Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
@@ -92,6 +94,8 @@ Giấy phép đa bang vận hành theo ba điểm. Thứ nhất, bang cấp phé
 
 California không phải thành viên NLC. Giấy phép RN của California do Board of Registered Nursing (BRN) cấp và quản lý theo Nursing Practice Act trong Business and Professions Code, từ điều 2700 trở đi. Vì vậy giấy phép đa bang của bang khác không tự nó cho phép hành nghề ở California, và giấy phép California cũng không thể dùng ngược lại như giấy phép đa bang.
 
+Bổ sung hai điểm. Thứ nhất, NLC bao phủ giấy phép RN và LVN/LPN; quyền hành nghề xuyên bang của điều dưỡng thực hành nâng cao (APRN) đi theo một sắp xếp hiệp ước riêng và không thể suy ra từ giấy phép đa bang của RN. Thứ hai, chuyển nhà làm thay đổi bang cư trú chính nên toàn bộ cục diện giấy phép phải sắp xếp lại: người đang giữ phép đa bang ở bang thành viên mà chuyển vào California và lấy California làm bang cư trú chính thì không thể tiếp tục dựa vào phép đa bang cũ để hành nghề ở California hay ở nhóm bang thành viên cũ, mà phải lấy giấy phép California theo lộ trình endorsement; ngược lại, người từ California chuyển tới bang thành viên phải xin giấy phép đa bang của bang cư trú mới chứ không được mang giấy phép California ra hành nghề ngay.
+
 Điều dưỡng đã có phép ở bang khác vào California theo lộ trình endorsement mà không thi lại NCLEX: nộp đơn qua BREeze, xác minh giấy phép qua Nursys, bảng điểm do trường gửi thẳng tới BRN, và lấy vân tay — Live Scan trong California, hoặc thẻ vân tay kèm rà soát liên bang nếu ở ngoài bang. Chỉ sau khi BRN phê duyệt và cấp phép California mới được hành nghề tại California. Các ngộ nhận thường gặp gồm coi NCLEX là giấy phép toàn quốc, tưởng thi ở bang thành viên là tự động có phép đa bang, tưởng phép đa bang dùng được ở California, tưởng phép California dùng được như phép đa bang, và tưởng endorsement chỉ là đăng ký đơn giản. (bản dịch sơ bộ, chờ hiệu đính)
 
 ## हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
@@ -105,6 +109,8 @@ NCLEX उत्तीर्ण करना केवल परीक्षा �
 बहु-राज्य लाइसेंस तीन बिंदुओं पर चलता है। पहला, जारी करने वाला राज्य नर्स का primary state of residence है: कानूनी मुख्य निवास सदस्य राज्य में हो और वहीं लाइसेंस मिले, तभी बहु-राज्य विशेषाधिकार मिलता है; निवास राज्य सदस्य न हो तो सामान्यतः एकल-राज्य लाइसेंस ही मिलता है। दूसरा, अभ्यास उस राज्य के कानून से चलता है जहाँ नर्सिंग कार्य होता है। तीसरा, दूरस्थ नर्सिंग में भी यही तर्क है: देखभाल सामान्यतः वहीं मानी जाती है जहाँ रोगी स्थित है, इसलिए रोगी का राज्य सदस्य हो तो बहु-राज्य लाइसेंस काम करता है, न हो तो नहीं।
 
 कैलिफ़ोर्निया NLC सदस्य नहीं है। कैलिफ़ोर्निया RN लाइसेंस Board of Registered Nursing (BRN) द्वारा Business and Professions Code की धारा 2700 से आगे की Nursing Practice Act के तहत जारी व नियंत्रित होता है। इसलिए दूसरे राज्य का बहु-राज्य लाइसेंस अकेले कैलिफ़ोर्निया में अभ्यास का अधिकार नहीं देता, और कैलिफ़ोर्निया लाइसेंस को उल्टा बहु-राज्य लाइसेंस की तरह भी नहीं चलाया जा सकता।
+
+दो पूरक बिंदु। पहला, NLC RN व LVN/LPN लाइसेंसों को कवर करती है; उन्नत अभ्यास पंजीकृत नर्स (APRN) की अंतर-राज्य प्रैक्टिस एक अलग कॉम्पैक्ट व्यवस्था से चलती है और RN के बहु-राज्य लाइसेंस से उसका अनुमान नहीं लगाया जा सकता। दूसरा, स्थानांतरण से मुख्य निवास राज्य बदलता है, इसलिए लाइसेंस की पूरी व्यवस्था फिर से बनानी पड़ती है: सदस्य राज्य से बहु-राज्य लाइसेंस लेकर California आकर उसे मुख्य निवास बनाने वाला व्यक्ति पुराने बहु-राज्य लाइसेंस के सहारे न California में, न पुराने सदस्य राज्यों में काम कर सकता है — उसे endorsement से California लाइसेंस लेना होगा; उल्टा, California से सदस्य राज्य जाने वाले को California लाइसेंस लेकर सीधे काम शुरू नहीं करना है, बल्कि नए निवास राज्य से बहु-राज्य लाइसेंस के लिए आवेदन करना है।
 
 दूसरे राज्य का लाइसेंसधारी NCLEX दोबारा दिए बिना endorsement मार्ग से कैलिफ़ोर्निया आता है: BREeze से आवेदन, Nursys से लाइसेंस सत्यापन, विद्यालय द्वारा अंकतालिका सीधे BRN को भेजना, और उँगलियों के निशान — कैलिफ़ोर्निया के भीतर Live Scan, राज्य के बाहर फिंगरप्रिंट कार्ड व संघीय समीक्षा। BRN स्वीकृति देकर कैलिफ़ोर्निया लाइसेंस जारी करे, उसके बाद ही वहाँ अभ्यास वैध है। सामान्य भ्रम हैं: NCLEX को राष्ट्रीय लाइसेंस समझना, सदस्य राज्य में परीक्षा देने से स्वतः बहु-राज्य लाइसेंस मान लेना, बहु-राज्य लाइसेंस कैलिफ़ोर्निया में चलेगा मानना, कैलिफ़ोर्निया लाइसेंस बहु-राज्य जैसा चलेगा मानना, और endorsement को केवल पंजीकरण समझना। (प्रारंभिक अनुवाद, समीक्षा लंबित)
 
