@@ -45,11 +45,17 @@ El examen de física médica de la ABR tiene tres partes. La Part 1 consta de un
 ### 한국어 (초역, 初译待校)
 ABR 의학물리 시험은 세 부분으로 나뉜다. Part 1은 General과 Clinical 두 시험지로 구성된다. General은 물리 기초와 의학물리 공통(방사선물리, 선량학, 영상 원리, 방사선생물학과 방호 등)을, Clinical은 해부·생리와 임상 기초를 묻는다. 많은 응시자가 레지던시 기간 중이나 그 전에 Part 1을 통과한다. Part 2는 분야별 시험으로, 치료 의학물리, 진단 의학물리, 핵의학물리 셋 중 하나를 택하며 각 임상 실무(치료 계획과 정도관리, 영상 장비 QC와 선량, 방사성의약품과 내부 선량 등)에 밀착한 내용이 나온다. Part 3는 구술시험(oral exam)으로, examiners가 임상 시나리오 문제로 판단력과 의사소통을 대면 평가한다. 이 경로는 결국 계산 능력만이 아니라 임상 판단을 중시한다. 인증 유지는 ABR의 지속 인증(MOC) 트랙으로 이어진다. 컴퓨터 시험인 Part 1과 Part 2를 통과했다고 인증이 나오는 것이 아니며, 구술시험까지 합격하고 학위·훈련 요건을 모두 갖춰야 자격증이 발급된다.
 
+복습 포인트: Part 2는 세 방향 중 본인의 임상 방향과 같은 분야로 골라야 하며, Part 3 구술은 계산 속도보다 임상 상황에서의 판단과 설명 방식을 본다는 점을 기억하면 공부 방향이 잡힌다.
+
 ### Tiếng Việt (bản dịch, 初译待校)
 Kỳ thi vật lý y khoa của ABR gồm ba phần. Part 1 gồm bài General và bài Clinical: bài General kiểm tra nền tảng vật lý và kiến thức vật lý y khoa cốt lõi (vật lý bức xạ, đo liều, nguyên lý tạo ảnh, sinh học bức xạ và bảo vệ), bài Clinical kiểm tra giải phẫu, sinh lý và nền tảng lâm sàng; nhiều ứng viên vượt qua Part 1 trong hoặc trước thời kỳ residency. Part 2 theo chuyên ngành, chọn một trong ba: vật lý y khoa điều trị, vật lý y khoa chẩn đoán, hoặc vật lý y khoa hạt nhân, với nội dung gắn với từng lĩnh vực thực hành (lập kế hoạch điều trị và QA, QC thiết bị hình ảnh và liều, dược chất phóng xạ và đo liều trong). Part 3 là thi vấn đáp (oral exam), giám khảo dùng tình huống lâm sàng để đánh giá trực tiếp khả năng phán đoán và giao tiếp — lộ trình này cuối cùng coi trọng phán đoán lâm sàng, không chỉ tính toán. Chứng nhận được duy trì qua chương trình MOC của ABR. Đậu Part 1 và Part 2 trên máy tính không tự nó cấp chứng nhận; phải qua cả vấn đáp và hoàn tất mọi yêu cầu học vấn, huấn luyện mới được cấp chứng chỉ.
 
+Điểm ôn tập: cần chọn Part 2 đúng chuyên ngành lâm sàng của mình trong ba hướng, và nhớ rằng Part 3 vấn đáp đánh giá phán đoán cùng cách trình bày trong tình huống lâm sàng hơn là tốc độ tính toán.
+
 ### हिन्दी (अनुवाद, 初译待校)
 ABR चिकित्सा भौतिकी परीक्षा के तीन भाग हैं। Part 1 में General और Clinical दो प्रश्नपत्र हैं: General में भौतिकी की नींव और मूल चिकित्सा भौतिकी (विकिरण भौतिकी, डोसिमेट्री, इमेजिंग सिद्धांत, रेडियोबायोलॉजी और संरक्षण) और Clinical में शरीर-रचना, शरीर-क्रिया और नैदानिक मूलभूत बातें आती हैं; कई अभ्यर्थी residency के दौरान या पहले Part 1 पास कर लेते हैं। Part 2 विशेषज्ञता-आधारित है — तीन में से एक: उपचारात्मक चिकित्सा भौतिकी, नैदानिक (डायग्नोस्टिक) चिकित्सा भौतिकी, या नाभिकीय चिकित्सा भौतिकी — और सामग्री प्रत्येक व्यवहार-क्षेत्र से जुड़ी होती है (उपचार योजना व QA, इमेजिंग उपकरण QC व खुराक, रेडियोफ़ार्मास्यूटिकल व आंतरिक डोसिमेट्री)। Part 3 मौखिक परीक्षा है, जहाँ परीक्षक नैदानिक परिदृश्यों से आमने-सामने निर्णय व संप्रेषण परखते हैं — अंततः यह मार्ग केवल गणना नहीं, नैदानिक निर्णय को महत्व देता है। प्रमाणन ABR के Maintenance of Certification (MOC) से बना रहता है। कंप्यूटर-आधारित Part 1 व Part 2 पास करना ही प्रमाणन नहीं है; मौखिक परीक्षा और सभी शिक्षा-प्रशिक्षण आवश्यकताएँ पूरी होने पर ही प्रमाणपत्र मिलता है।
+
+पुनरावृत्ति बिंदु: Part 2 अपनी ही नैदानिक विशेषज्ञता में चुनें, और याद रखें कि Part 3 मौखिक परीक्षा गणना की गति से अधिक नैदानिक परिस्थितियों में निर्णय और उसे समझाने की शैली परखती है।
 
 ---
 
@@ -89,11 +95,17 @@ California no tiene licencia estatal independiente para físicos médicos. La cu
 ### 한국어 (초역, 初译待校)
 캘리포니아에는 의학물리사의 독립 주 면허가 없다. 주 내 자격은 두 갈래로 적용된다. 첫째, 방사성 물질은 캘리포니아 공중보건부 방사선보건국(CDPH Radiologic Health Branch)이 협정주 틀에서 규제하므로, 치료·핵의학 분야 물리사 직무는 10 CFR Part 35와 양립하는 주 규칙으로 AMP류 자격을 심사한다. 둘째, X선과 유방촬영 장면에는 연방 MQSA와 주의 방사선기술 규제가 겹치고, 물리사의 점검 책무와 자격은 § 900.12(a)(3) 같은 연방 텍스트에 따라 집행된다. 시험 포인트: 캘리포니아에서 의학물리사의 이력서상 경화는 ABR 인증(분야 명시)에 CAMPEP 학위와 레지던시 배경을 더한 것이고, AMP 자격은岗位별로 확인한다. 뉴욕주(Education Law상 면허)처럼 주 면허가 있는 소수 주에서는 주 면허가 먼저다. "전국 통일 면허는 없고, 자격은 인증과 연방 인용으로 흐른다"는 한 문장을 기억하면 이 주제의 판단형 문항 대부분이 풀린다.
 
+복습 포인트: 캘리포니아에서 구직할 때는 이력서에 ABR 인증(방향 명시)과 CAMPEP 학위·레지던시 배경을 앞세우고, AMP 자격은 지원하는 직무마다 따로 대조한다. 뉴욕처럼 주 면허가 있는 주에서는 면허 취득이 모든 것에 앞선다.
+
 ### Tiếng Việt (bản dịch, 初译待校)
 California không có license bang độc lập cho nhà vật lý y khoa. Điều kiện trong bang đi qua hai tuyến. Thứ nhất, vật liệu phóng xạ do Radiologic Health Branch của Sở Y tế Công cộng California quản lý trong khuôn khổ bang thỏa thuận, nên các vị trí vật lý trong xạ trị và y học hạt nhân được xét theo quy định bang tương thích với 10 CFR Part 35 về tư cách dạng AMP. Thứ hai, bối cảnh X-quang và nhũ ảnh chồng thêm MQSA liên bang và quản lý kỹ thuật viên X-quang của bang, với nhiệm vụ khảo sát của nhà vật lý được thực hiện theo văn bản liên bang như § 900.12(a)(3). Điểm chốt để thi: ở California, «tiền cứng» trên hồ sơ của nhà vật lý y khoa là chứng nhận ABR (ghi rõ chuyên ngành) cộng nền tảng học vấn và residency CAMPEP, còn tư cách AMP xét theo từng vị trí; ở thiểu số bang có license (ví dụ New York theo Education Law của bang), license bang phải có trước. Ghi nhớ một câu — không có license toàn quốc, năng lực chảy từ chứng nhận và việc liên bang viện dẫn — là xử lý được phần lớn câu hỏi phán đoán của chủ đề này.
 
+Điểm ôn tập: khi tìm việc ở California, hồ sơ nên đặt chứng nhận ABR (ghi rõ chuyên ngành) cùng nền tảng học vấn và residency CAMPEP lên trước, còn tư cách AMP đối chiếu theo từng vị trí; ở các bang có license như New York, license bang luôn đi trước.
+
 ### हिन्दी (अनुवाद, 初译待校)
 कैलिफ़ोर्निया में चिकित्सा भौतिकविदों का स्वतंत्र राज्य-लाइसेंस नहीं है। राज्य के भीतर योग्यता दो मार्गों से चलती है। पहला, रेडियोधर्मी पदार्थों का नियमन California Department of Public Health की Radiologic Health Branch Agreement State ढांचे में करती है, इसलिए 치료 व नाभिकीय चिकित्सा के भौतिकी पद 10 CFR Part 35 के अनुकूल राज्य-नियमों से AMP-प्रकार की योग्यता पर परखे जाते हैं। दूसरा, X-किरण व मैमोग्राफ़ी परिस्थितियों में संघीय MQSA और राज्य का रेडियोलॉजिक तकनीशियन नियमन जुड़ता है, और भौतिकविद् के सर्वेक्षण दायित्व § 900.12(a)(3) जैसे संघीय पाठ से चलते हैं। परीक्षा-निष्कर्ष: कैलिफ़ोर्निया में चिकित्सा भौतिकविद् के बायोडाटा की मज़बूत मुद्रा है ABR प्रमाणन (विशेषज्ञता सहित) और CAMPEP शिक्षा व residency पृष्ठभूमि, AMP दर्जा पद-दर-पद जांचा जाता है; जिन अल्प राज्यों में लाइसेंस है (जैसे न्यूयॉर्क अपने Education Law के तहत), वहाँ पहले राज्य-लाइसेंस। एक वाक्य याद रखें — राष्ट्रीय लाइसेंस नहीं है; योग्यता प्रमाणन और संघीय संदर्भ-समावेश से बहती है — इस विषय के अधिकांश निर्णय-प्रश्न इसी से हल होते हैं।
+
+पुनरावृत्ति बिंदु: कैलिफ़ोर्निया में नौकरी खोजते समय बायोडाटा में ABR प्रमाणन (विशेषज्ञता सहित) और CAMPEP शिक्षा व residency पृष्ठभूमि आगे रखें, AMP दर्जा हर पद के लिए अलग से जांचें; न्यूयॉर्क जैसे लाइसेंस वाले राज्यों में राज्य-लाइसेंस सबसे पहले आता है।
 
 ---
 
