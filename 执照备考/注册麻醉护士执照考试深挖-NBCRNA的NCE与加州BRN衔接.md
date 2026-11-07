@@ -81,11 +81,23 @@ En California, la fuente legal correcta son los artículos 2825 y siguientes del
 ### 한국어 (초역)
 캘리포니아에서는 법적 출처부터 바로 잡아야 합니다. 《사업 및 직업법전》 제2825조 이하가 《마취간호사법》으로 이 직함을 규율합니다. 인증 기관은 등록간호위원회(BRN)이며, 의학위원회도 아니고 NBCRNA의 캘리포니아 지부도 아닙니다. 순서는 뒤집을 수 없습니다. 먼저 캘리포니아 RN 면허를 보유한 뒤 NBCRNA 인증 증빙 등 자료를 BRN에 제출하면 BRN이 주 차원의 마취간호사 인증을 발급합니다. 연방 차원에서 캘리포니아는 42 CFR 482.52의 틀 안에서 의사 감독 요건에서 탈퇴(opt-out)했기 때문에, CRNA에 대한 의사 감독을 요구하던 Medicare 조건은 더 이상 적용되지 않습니다. 그러나 opt-out은 지시 없이 단독으로 일해도 된다는 뜻이 아닙니다. CRNA의 약물 투여는 여전히 의사, 치과의사 등이 내린 지시와 기관 규정에 따라 이뤄져야 합니다. 감독 탈퇴를 지시 불필요로 읽는 것이 시험의 대표적 함정입니다. 서류 목록은 BRN의 최신 안내를 따릅니다.
 
+세부 보충: 국가 인증시험(NCE)은 컴퓨터 적응형 시험으로, 이전 문항의 정오답에 따라 다음 문항의 난이도가 조정되며 문항 수는 100문항에서 170문항까지 가변적이고 제한 시간은 세 시간이다. 100문항에서 시험이 끝났다는 사실만으로는 결과를 알 수 없으며, 명확한 합격일 수도 명확한 불합격일 수도 있다.
+
+세부 보충: 재인증은 NBCRNA의 지속 전문 인증(CPC) 프로그램으로 진행되며, 팔 년이 한 주기이고 사 년마다 Class A 60학점과 Class B 40학점을 채우며, 팔 년마다 CPC Assessment를 한 번 받고 이 년마다 check-in을 한다. 한 줄로 기억하면 이 년에 한 번 보고하고, 사 년에 한 번 학점을 채우고, 팔 년에 한 번 평가를 받는다.
+
 ### Tiếng Việt (bản dịch)
 Tại California, nguồn luật đúng là các điều từ 2825 trở đi của Bộ luật Kinh doanh và Nghề nghiệp, tức Đạo luật Điều dưỡng Gây mê. Cơ quan chứng nhận là Hội đồng Điều dưỡng Đăng ký (BRN) — không phải hội đồng y khoa, cũng không phải chi nhánh của NBCRNA. Thứ tự không thể đảo ngược: trước hết có giấy phép RN của California, sau đó nộp bằng chứng chứng nhận NBCRNA và các tài liệu khác cho BRN, và BRN cấp chứng chỉ cấp bang. Ở cấp liên bang, California đã rút khỏi yêu cầu giám sát của bác sĩ (opt-out) trong khung của 42 CFR 482.52, nên điều kiện Medicare từng yêu cầu bác sĩ giám sát CRNA không còn áp dụng tại bang này. Nhưng opt-out không có nghĩa là làm việc không cần y lệnh: CRNA cho thuốc gây mê vẫn phải theo y lệnh của bác sĩ, nha sĩ hoặc người kê đơn có thẩm quyền khác, và trong quy trình của cơ sở. Đọc «rút khỏi giám sát» thành «không cần y lệnh» là cái bẫy kinh điển trong bài thi. Danh mục hồ sơ lấy theo hướng dẫn hiện hành của BRN.
 
+Chi tiết bổ sung: Kỳ thi chứng nhận quốc gia (NCE) là bài thi thích ứng trên máy tính, trong đó độ khó của câu tiếp theo được điều chỉnh theo câu trả lời trước, số câu thay đổi từ 100 đến 170 câu và giới hạn thời gian là ba giờ. Việc bài thi dừng ở 100 câu tự nó không tiết lộ kết quả: đó có thể là đậu rõ ràng hoặc rớt rõ ràng.
+
+Chi tiết bổ sung: Tái chứng nhận đi theo chương trình chứng nhận chuyên môn liên tục (CPC) của NBCRNA với chu kỳ tám năm, mỗi bốn năm hoàn thành 60 tín chỉ Class A cộng 40 tín chỉ Class B, một kỳ CPC Assessment mỗi tám năm và check-in mỗi hai năm. Nói gọn trong một câu: hai năm báo cáo một lần, bốn năm tích lũy một vòng tín chỉ, tám năm đánh giá một lần.
+
 ### हिन्दी (अनुवाद)
 कैलिफ़ोर्निया में सही कानूनी स्रोत है Business and Professions Code की धारा 2825 और आगे की धाराएँ, अर्थात Nurse Anesthetists Act। प्रमाणन संस्था Board of Registered Nursing (BRN) है — न मेडिकल बोर्ड, न NBCRNA की शाखा। क्रम उलटा नहीं हो सकता: पहले कैलिफ़ोर्निया RN लाइसेंस हो, फिर NBCRNA प्रमाणन का प्रमाण और अन्य सामग्री BRN को दें, तब BRN राज्य-स्तरीय प्रमाणपत्र जारी करता है। संघीय स्तर पर कैलिफ़ोर्निया 42 CFR 482.52 के ढाँचे में चिकित्सक-पर्यवेक्षण आवश्यकता से बाहर (opt-out) हो चुका है, इसलिए CRNA पर चिकित्सक-पर्यवेक्षण की Medicare शर्त अब राज्य में लागू नहीं होती। परंतु opt-out का अर्थ आदेशों के बिना अभ्यास नहीं है: CRNA अब भी दवा केवल चिकित्सक, दंत-चिकित्सक या अन्य अधिकृत prescriber के आदेशों के अनुसार और संस्था के प्रोटोकॉल के भीतर देता है। «पर्यवेक्षण से बाहर» को «आदेश आवश्यक नहीं» पढ़ना परीक्षा का क्लासिक जाल है। दस्तावेज़ सूची BRN के वर्तमान निर्देशों के अनुसार होगी।
+
+विवरण-वृद्धि: राष्ट्रीय प्रमाणन परीक्षा (NCE) कंप्यूटरीकृत अनुकूली परीक्षा है, जिसमें पिछले उत्तर के आधार पर अगले प्रश्न की कठिनाई बदलती है, प्रश्नों की संख्या 100 से 170 तक परिवर्तनीय है और समय-सीमा तीन घंटे है। 100 प्रश्नों पर रुक जाना स्वयं परिणाम नहीं बताता: यह स्पष्ट उत्तीर्ण भी हो सकता है और स्पष्ट अनुत्तीर्ण भी।
+
+विवरण-वृद्धि: पुनःप्रमाणन NBCRNA के सतत व्यावसायिक प्रमाणन (CPC) कार्यक्रम से होता है, जिसका चक्र आठ वर्ष का है, हर चार वर्ष में Class A 60 क्रेडिट और Class B 40 क्रेडिट पूरे होते हैं, हर आठ वर्ष में एक CPC Assessment होता है और हर दो वर्ष में check-in होता है। एक पंक्ति में: दो वर्ष में एक बार रिपोर्ट, चार वर्ष में एक चक्र क्रेडिट, आठ वर्ष में एक मूल्यांकन।
 
 ## 来源与免责声明
 
