@@ -24,10 +24,16 @@ El USMLE, copatrocinado por FSMB y NBME, tiene tres Steps; el Step 2 CS se elimi
 
 USMLE는 FSMB와 NBME가 공동 주관하며 3단계로 구성되고, Step 2 CS는 2021년 영구 폐지되었습니다. Step 1은 2022년 1월 26일부터 합격/불합격으로만 보고되며, Step 2 CK와 Step 3는 숫자 점수를 유지합니다. 해외 의대 졸업생은 World Directory 등재 학교, Step 1·Step 2 CK 합격, OET Medicine을 포함한 ECFMG Pathway로 인증을 받습니다. 캘리포니아 면허는 Medical Board of California가 Bus. & Prof. Code § 2170 이하에 따라 발급합니다. 개인 학습 노트입니다.
 
+보충 세부사항 두 가지. 첫째, Step 3는 독립 진료 준비 단계로 자리매김하며 보통 레지던시 첫해에 응시합니다. 셋째 단계를 단순한 지식 시험이 아니라 감독 없는 진료에 가까운 판단력을 보는 관문으로 이해해야 준비 방향이 어긋나지 않습니다. 둘째, Step 2 CK와 Step 3의 합격 기준은 USMLE 관리위원회가 정기적으로 재검토하므로, 외워 둔 옛 숫자가 아니라 응시 당시 공식 사이트의 현행 합격 기준을 확인해야 합니다. 캘리포니아 쪽도 마찬가지여서 수련 연수와 각 Step 합격의 시간 창은 Business and Professions Code 제2170조 이하와 의료위원회의 현행 신청 점검표가 기준이며, 이 글은 학습 경로 지도일 뿐 공식 점검표를 대신하지 않습니다.
+
 ## Tiếng Việt（初译待校）
 
 USMLE do FSMB và NBME đồng tổ chức, gồm ba Step; Step 2 CS đã bị hủy vĩnh viễn năm 2021. Từ 26/01/2022, Step 1 chỉ báo đạt/không đạt, còn Step 2 CK và Step 3 vẫn chấm điểm số. Bác sĩ quốc tế cần chứng nhận ECFMG: trường có tên trong World Directory, đạt Step 1 và Step 2 CK, và hoàn thành ECFMG Pathway gồm OET Medicine. Giấy phép California do Medical Board of California cấp theo Bus. & Prof. Code § 2170 trở đi. Ghi chú học tập cá nhân.
 
+Hai chi tiết bổ sung. Thứ nhất, Step 3 được định vị là bước chuẩn bị cho hành nghề độc lập và thường được thi trong năm đầu nội trú; hiểu nó là cửa kiểm tra năng lực phán đoán gần với hành nghề không giám sát, thay vì một bài thi kiến thức đơn thuần, sẽ giúp việc ôn tập đi đúng hướng. Thứ hai, chuẩn đạt của Step 2 CK và Step 3 được hội đồng quản lý USMLE rà soát định kỳ, vì vậy cần đối chiếu chuẩn đạt hiện hành trên trang chính thức tại thời điểm dự thi chứ không dựa vào con số cũ thuộc lòng. Phía California cũng vậy: số năm đào tạo và cửa sổ thời gian đạt từng Step lấy theo Business and Professions Code mục 2170 trở đi cùng danh mục hồ sơ hiện hành của hội đồng y khoa, và bài này chỉ là lộ trình học tập, không thay thế danh mục chính thức.
+
 ## हिन्दी（初译待校）
 
 USMLE, FSMB और NBME द्वारा संयुक्त रूप से आयोजित, तीन Steps में होता है; Step 2 CS 2021 में स्थायी रूप से बंद हो गया। 26 जनवरी 2022 से Step 1 केवल उत्तीर्ण/अनुत्तीर्ण रिपोर्ट होता है, जबकि Step 2 CK और Step 3 में संख्यात्मक अंक रहते हैं। अंतरराष्ट्रीय स्नातक ECFMG प्रमाणन के लिए World Directory में सूचीबद्ध स्कूल, Step 1 व Step 2 CK, और OET Medicine सहित ECFMG Pathway आवश्यक है। कैलिफ़ोर्निया लाइसेंस Medical Board of California द्वारा Bus. & Prof. Code § 2170 आदि के तहत दिया जाता है। यह अध्ययन नोट है।
+
+दो पूरक विवरण। पहला, Step 3 स्वतंत्र अभ्यास की तैयारी के चरण के रूप में रखा गया है और आमतौर पर रेज़िडेंसी के पहले वर्ष में दिया जाता है; इसे केवल ज्ञान-परीक्षा न समझकर बिना पर्यवेक्षण वाले अभ्यास के निकट निर्णय-क्षमता का द्वार समझने से तैयारी की दिशा नहीं भटकती। दूसरा, Step 2 CK और Step 3 के उत्तीर्ण-मानक USMLE प्रबंधन समिति द्वारा समय-समय पर पुनरीक्षित होते हैं, इसलिए याद किए पुराने अंक पर नहीं, परीक्षा के समय आधिकारिक साइट के वर्तमान मानक पर भरोसा करना चाहिए। California पक्ष भी ऐसा ही है: प्रशिक्षण-वर्षों और प्रत्येक Step पास करने की समय-खिड़की का आधार Business and Professions Code की धारा 2170 व आगे तथा चिकित्सा बोर्ड की वर्तमान आवेदन-सूची है, और यह लेख केवल अध्ययन-मार्गदर्शिका है, आधिकारिक सूची का विकल्प नहीं।
