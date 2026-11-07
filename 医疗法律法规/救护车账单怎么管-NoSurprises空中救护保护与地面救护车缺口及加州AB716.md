@@ -1,0 +1,77 @@
+# 救护车账单怎么管：No Surprises 空中救护保护、地面救护车缺口与加州 AB 716
+
+这篇讲什么：
+- 医疗法律法规的账单线专篇，与本仓《紧急医疗服务 EMS 怎么管》分工：那篇讲院前急救体系与 Medicare 救护车覆盖，本篇只攻账单——叫一次救护车之后，那张账单到底受哪部法律管。
+- 结论先行：空中救护已经被联邦《无意外法案》拉进保护圈，地面救护车却被联邦法明文留在圈外，这是目前美国医疗账单里最大的全国性缺口之一；缺口在加州由 AB 716 部分补上，但只补州监管计划这一侧。全文只讲制度与账单，不涉及任何临床处置。
+
+---
+
+## 中文主文
+
+救护车账单让人措手不及，有两个结构性原因。一是叫车的时候没得选：情况紧急时，是调度系统派车，不是患者比价挑选，事后却可能按网络外全价结算。二是管账单的法律是一张拼图：管医院急诊义务的法律不管账单，管意外账单的联邦法只管了一半的救护车，剩下一半要看州法与本人计划类型。把这张拼图按「空中还是地面、联邦还是州、什么计划」三格分清，收到账单时才知道哪一格的规则护得住自己。
+
+## 一、先划界：EMTALA 只管救治义务，不管账单
+
+《紧急医疗治疗与积极分娩法》（EMTALA，42 U.S.C. § 1395dd）要求参加 Medicare 的医院急诊部门对任何来诊者做医学筛查检查并稳定病情，这套义务的对象是医院的急诊救治行为。它不规定救护车服务如何收费，也不限制救护车账单的金额。院前这一段由谁出车、出车机构与保险计划之间有没有合同、账单按网络内还是网络外算，EMTALA 一概不管。实务中常见的一个误会，是以为「急诊是受法律保护的，所以救护车账单也应该受保护」——前半句对的是医院那一段，后半句没有任何联邦条文兜底。账单争议要找的，是下面两层完全不同的规则。
+
+## 二、联邦层：《无意外法案》护住了空中救护
+
+《无意外法案》（No Surprises Act）是《2021 年综合拨款法》（Pub. L. 116-260）的一部分，自 2022 年起对计划年度生效。它对意外账单的一般逻辑是：患者在不知情或没得选的情况下接受了网络外服务时，本人自付按网络内水平计算，提供者不得再向患者追讨差额（禁止差额账单，即 balance billing），提供者与计划之间谈不拢的金额争议走联邦的独立争议解决程序（IDR），不转嫁到患者头上。
+
+空中救护被这部法律明确拉进了这个保护圈：乘坐空中救护（直升机或固定翼飞机转运）产生的账单，本人自付按网络内自付口径计算，空中救护提供者不得向患者发差额账单，超出部分由提供者与计划按法定程序结算、必要时走 IDR。也就是说，空中这一格，联邦规则是完整的：患者只对网络内水平的那一份负责，剩下的争议与患者无关。若空中救护账单把全价直接压到患者头上，这本身就与联邦保护口径冲突，是申诉时最先要指出的一点。
+
+## 三、联邦缺口：地面救护车被明文排除在外
+
+地面救护车不在上面的保护圈里。《无意外法案》没有把地面救护纳入差额账单禁令与网络内自付口径；该法第 117 条对地面救护只做了一件事——设立一个咨询委员会，专门研究地面救护的患者账单保护问题。换言之，联邦立法者当时选择了「先研究、不立法」，地面救护的账单保护被留给了各州与各计划自行处理。
+
+这个缺口的后果很具体：地面救护若由与本人计划无合同的机构出车（这在由市政或第三方机构运营救护车的地区非常常见），账单常按网络外全价向患者结算，自付可能远高于网络内一次转运的水平，而且患者在叫车时既无法选择出车机构、也无从事先问价。Medicare 这一侧是另一套逻辑：Medicare 对地面救护按其费表与覆盖条件结算，不走《无意外法案》的保护逻辑，本文不展开其费表口径，个案以 Medicare 当期规则为准。商业计划与 Medicare Advantage 的地面救护账单，则主要看州法与计划条款，这就接上了加州这一格。
+
+## 四、加州补口：AB 716 把州监管计划的自付封顶
+
+加州在 2023 年通过 AB 716，并于 2024 年 1 月 1 日生效，专门补地面救护这一格。它的核心口径有两层。第一层是自付封顶：对受加州州级监管的健康计划，会员使用非合同地面救护服务时，本人自付不得超过其使用网络内服务时的自付水平，超出部分不得由救护机构直接向会员追讨差额。第二层是费率口径：非合同地面救护的结算费率按该法设定的方法确定，让提供者与计划之间的金额有章可循，而不是由提供者单方定价后把差额压给会员。本篇只写这两层口径，具体适用细节以法案文本与监管机构当期指引为准。
+
+用 AB 716 时要先认清它的边界：它只管州监管计划。由大型雇主自保、受联邦 ERISA 管辖的自保计划不在州法射程内，这类计划的地面救护账单仍回到计划自身条款与协商处理；Medicare 与 Medi-Cal 另有各自口径，也不读这部州法。因此同一趟地面救护，账单结果可能因本人计划类型完全不同——先确认自己的计划是州监管计划还是雇主自保计划，是用这部法律之前的第一步。
+
+## 五、收到账单后的自保顺序
+
+第一步，要明细账单。向救护机构索取逐项列明的账单（itemized bill），核对日期、里程、出车机构名称与所列服务项目，确认这趟车是不是本人或家属的那一趟、机构是不是与计划有合同的那一家。
+
+第二步，定性归格。按本文的拼图逐格对号：是空中还是地面；若是空中，直接援引《无意外法案》的网络内自付与禁差额口径；若是地面且本人是加州州监管计划，援引 AB 716 的自付封顶口径；若是雇主自保计划或人在外州，则以计划条款与当地州法为准。在这一步同时核对保险公司的给付说明（EOB）：计划按网络内还是网络外结算、自付是怎么算出来的，账单金额与 EOB 对不对得上。
+
+第三步，走申诉路径。先向计划提出正式申诉，要求按应适用的保护口径重新结算，并保留账单、EOB 与通话记录；计划处理不服的，加州州监管计划的争议可向州监管机构求助——管理式医疗计划找加州医疗保健管理局（DMHC），其他健康保险找加州保险局（CDI），两家都设有消费者申诉与独立审查的入口。在申诉未结期间，不要对明显超出保护口径的差额部分先行全额付款；如已被催收，把正在申诉的事实书面告知催收方并留存记录。
+
+来源口径：EMTALA（42 U.S.C. § 1395dd，义务限于筛查与稳定、不及账单）；《无意外法案》（Pub. L. 116-260，2022 年起生效，空中救护纳入网络内自付口径、禁止差额账单并走 IDR；第 117 条对地面救护仅设咨询委员会研究）；Medicare 地面救护按费表结算的一般口径；加州 AB 716（2023 年通过、2024 年 1 月 1 日生效，州监管计划下非合同地面救护会员自付封顶在网络内水平并设费率口径）。个案结算以本人计划文本与监管机构当期指引为准。
+
+声明：个人学习笔记，不构成医疗建议，也不构成法律意见。
+
+---
+
+## English
+
+An ambulance bill in the United States sits at the seam of three different bodies of law, and the first step is knowing which one does not apply. EMTALA (42 U.S.C. section 1395dd) obliges Medicare-participating hospital emergency departments to screen and stabilize anyone who arrives; it says nothing about what an ambulance service may charge, and it does not limit ambulance billing at all. The federal No Surprises Act, enacted as part of Public Law 116-260 and effective for plan years beginning in 2022, supplies the surprise-billing framework: when a patient receives out-of-network care without a real choice, cost sharing is calculated at the in-network level, balance billing is prohibited, and payment disputes between the provider and the plan go to the federal independent dispute resolution (IDR) process rather than onto the patient. Air ambulance transport is expressly inside that framework, so a patient flown by helicopter or fixed-wing aircraft owes only in-network-level cost sharing, and the air ambulance provider may not bill the patient for the balance.
+
+Ground ambulances are the gap. The No Surprises Act did not extend its protections to ground ambulance services; its section 117 did no more than establish an advisory committee to study ground ambulance patient billing. Because the dispatches are assigned rather than chosen, a ground ride with a non-contracted provider — common where municipal or third-party services operate the ambulances — is often billed at full out-of-network charges. Medicare pays for ground ambulance services under its own fee schedule and coverage rules, outside the No Surprises Act logic. California has partly filled the gap for its own regulated market: AB 716, enacted in 2023 and effective January 1, 2024, caps a member's cost sharing for non-contracted ground ambulance services at the in-network level under state-regulated health plans and sets a rate methodology for settling the rest between provider and plan. The limit of that fix matters: self-funded employer plans governed by ERISA are outside the state statute, and Medicare and Medi-Cal follow their own rules, so the first question on any California ground ambulance bill is what kind of plan the patient actually has. In practice: request an itemized bill and verify the date, mileage, and provider; read the explanation of benefits to see whether the claim was settled as in-network or out-of-network; classify the ride — air transport points to the federal protection, a California state-regulated plan points to AB 716 — and appeal to the plan first, then to the state regulator (the Department of Managed Health Care for managed care plans, the California Department of Insurance for other health insurance) if the plan's answer does not follow the applicable protection. Keep the bill, the explanation of benefits, and a record of every call. *Personal study notes only; not medical advice and not legal advice.*
+
+## Español (译稿·初译待校)
+
+Una factura de ambulancia en Estados Unidos se sitúa en la unión de tres cuerpos jurídicos distintos, y el primer paso es saber cuál no se aplica. EMTALA (42 U.S.C. § 1395dd) obliga a los servicios de urgencias de los hospitales participantes en Medicare a examinar y estabilizar a quien llegue; no dice nada sobre lo que puede cobrar un servicio de ambulancias ni limita su facturación. La ley federal contra facturas sorpresa (No Surprises Act), aprobada dentro de la Ley Pública 116-260 y vigente para los años de plan desde 2022, aporta el marco general: cuando el paciente recibe atención fuera de la red sin elección real, su coste compartido se calcula al nivel dentro de la red, se prohíbe la facturación del saldo (balance billing) y las disputas de pago entre proveedor y plan van al proceso federal de resolución independiente de disputas (IDR), no al paciente. El transporte en ambulancia aérea está expresamente dentro de ese marco, de modo que quien es trasladado en helicóptero o avión solo debe el coste compartido de nivel dentro de la red.
+
+Las ambulancias terrestres son el hueco. La No Surprises Act no extendió sus protecciones a los servicios de ambulancia terrestre; su artículo 117 se limitó a crear un comité asesor para estudiar la facturación al paciente de las ambulancias terrestres. Como el vehículo lo asigna el sistema de despacho y no lo elige el paciente, un traslado terrestre con un proveedor sin contrato —frecuente donde operan servicios municipales o de terceros— suele facturarse al precio completo fuera de la red. Medicare paga los servicios de ambulancia terrestre según su propia tarifa y reglas de cobertura, fuera de la lógica de la No Surprises Act. California ha cubierto en parte el hueco en su mercado regulado: la ley AB 716, aprobada en 2023 y vigente desde el 1 de enero de 2024, limita el coste compartido del afiliado por servicios de ambulancia terrestre sin contrato al nivel dentro de la red en los planes regulados por el estado y fija una metodología de tarifas para liquidar el resto entre proveedor y plan. Su límite también importa: los planes autofinanciados de empleador, regidos por ERISA, quedan fuera del estatuto estatal, y Medicare y Medi-Cal siguen sus propias reglas. En la práctica: pida una factura detallada y verifique fecha, distancia y proveedor; lea la explicación de beneficios para ver si la reclamación se liquidó dentro o fuera de la red; clasifique el traslado —el aéreo apunta a la protección federal y un plan californiano regulado por el estado apunta a AB 716— y recurra primero ante el plan y después ante el regulador estatal (el Departamento de Atención Médica Administrada, DMHC, para los planes de atención administrada, y el Departamento de Seguros de California, CDI, para otros seguros de salud). Conserve la factura, la explicación de beneficios y el registro de cada llamada. *Notas personales de estudio; no constituye asesoramiento médico ni jurídico.*
+
+## 한국어 (초역 · 初译待校)
+
+미국의 구급차 청구서는 서로 다른 세 법 영역의 경계에 놓여 있고, 첫 단계는 어떤 법이 적용되지 않는지 아는 것입니다. EMTALA(42 U.S.C. §1395dd)는 Medicare 참여 병원 응급실에 내원자 선별검사와 안정화 의무를 지울 뿐, 구급차 서비스가 얼마를 청구할 수 있는지는 전혀 규정하지 않습니다. 연방 《No Surprises Act》는 Pub. L. 116-260의 일부로 제정되어 2022년부터 계획 연도에 적용되며, 놀람 청구 전반의 틀을 제공합니다. 환자가 실질적 선택 없이 네트워크 외 서비스를 받으면 본인 부담은 네트워크 내 수준으로 계산되고, 차액 청구(balance billing)는 금지되며, 제공자와 계획 사이의 지급 분쟁은 환자가 아니라 연방 독립 분쟁 해결(IDR) 절차로 갑니다. 항공 구급 이송은 이 틀 안에 명시적으로 들어 있어, 헬리콥터나 고정익 항공기로 이송된 환자는 네트워크 내 수준의 본인 부담만 지고, 항공 구급 제공자는 환자에게 차액을 청구할 수 없습니다.
+
+지상 구급차는 빈틈입니다. 《No Surprises Act》는 지상 구급차 서비스로 보호를 넓히지 않았고, 그 §117은 지상 구급차 환자 청구를 연구하는 자문위원회를 설치한 것이 전부입니다. 출동은 환자가 고르는 것이 아니라 배차로 정해지기 때문에, 계약 없는 제공자의 지상 이송은 흔히 네트워크 외 전액으로 청구됩니다. Medicare는 지상 구급차에 자체 수가표와 보장 규칙을 적용하며, 이 법의 보호 논리 밖에 있습니다. 캘리포니아는 주 규제 시장 안에서 빈틈을 일부 메웠습니다. 2023년에 제정되어 2024년 1월 1일 시행된 AB 716은 주 규제 건강 계획 아래에서 비계약 지상 구급차에 대한 회원 본인 부담을 네트워크 내 수준으로 묶고, 나머지를 제공자와 계획이 정산할 요율 방법론을 둡니다. 이 보완의 한계도 중요합니다. ERISA가 적용되는 고용주 자가부담 계획은 주법 밖에 있고, Medicare와 Medi-Cal은 자체 규칙을 따릅니다. 실무 순서는 이렇습니다. 항목별 명세 청구서를 요청해 날짜, 거리, 제공자를 확인하고, 급여 명세서(EOB)를 읽어 네트워크 내로 정산됐는지 외로 정산됐는지 보며, 이송을 분류하십시오. 항공 이송은 연방 보호로, 캘리포니아 주 규제 계획은 AB 716으로 연결됩니다. 먼저 계획에 이의를 제기하고, 답이 해당 보호를 따르지 않으면 주 규제 기관(관리형 계획은 DMHC, 그 밖의 건강보험은 CDI)에 도움을 구하십시오. 청구서와 EOB, 통화 기록을 모두 보관하십시오. *개인 학습 노트이며 의료 자문도 법률 자문도 아닙니다.*
+
+## Tiếng Việt (bản dịch sơ bộ · 初译待校)
+
+Hóa đơn xe cứu thương tại Hoa Kỳ nằm ở ranh giới của ba hệ thống luật khác nhau, và bước đầu tiên là biết luật nào không áp dụng. EMTALA (42 U.S.C. §1395dd) chỉ buộc khoa cấp cứu của bệnh viện tham gia Medicare phải khám sàng lọc và ổn định cho người đến khám; luật này không quy định dịch vụ xe cứu thương được thu bao nhiêu và không giới hạn việc tính phí xe cứu thương. Đạo luật liên bang No Surprises Act, được ban hành trong Pub. L. 116-260 và áp dụng cho các năm chương trình từ 2022, đưa ra khung chung về hóa đơn bất ngờ: khi bệnh nhân nhận dịch vụ ngoài mạng lưới mà không có lựa chọn thực sự, phần chia sẻ chi phí được tính theo mức trong mạng lưới, việc thu phần chênh lệch (balance billing) bị cấm, và tranh chấp thanh toán giữa nhà cung cấp với chương trình được đưa vào quy trình giải quyết tranh chấp độc lập liên bang (IDR) chứ không đổ lên bệnh nhân. Vận chuyển bằng xe cứu thương hàng không nằm rõ ràng trong khung này, nên người được chuyển bằng trực thăng hay máy bay cánh cố định chỉ phải trả phần chia sẻ theo mức trong mạng lưới.
+
+Xe cứu thương mặt đất là khoảng trống. No Surprises Act không mở rộng bảo vệ sang dịch vụ xe cứu thương mặt đất; điều 117 của luật chỉ thành lập một ủy ban tư vấn để nghiên cứu việc tính phí xe cứu thương mặt đất cho bệnh nhân. Vì xe được điều phối chứ không do bệnh nhân chọn, một chuyến xe mặt đất với nhà cung cấp không có hợp đồng — phổ biến ở nơi dịch vụ của thành phố hoặc bên thứ ba vận hành xe cứu thương — thường bị tính theo giá ngoài mạng lưới đầy đủ. Medicare trả cho xe cứu thương mặt đất theo biểu phí và quy tắc chi trả riêng, nằm ngoài logic của No Surprises Act. California đã lấp một phần khoảng trống trong thị trường do bang quản lý: AB 716, ban hành năm 2023 và có hiệu lực từ ngày 1 tháng 1 năm 2024, giới hạn phần chia sẻ chi phí của thành viên đối với xe cứu thương mặt đất không hợp đồng ở mức trong mạng lưới đối với các chương trình sức khỏe do bang quản lý, và đặt ra phương pháp xác định mức phí để thanh toán phần còn lại giữa nhà cung cấp và chương trình. Giới hạn của biện pháp này cũng quan trọng: các chương trình do chủ lao động tự tài trợ chịu ERISA nằm ngoài luật bang, còn Medicare và Medi-Cal theo quy tắc riêng. Thực hành như sau: yêu cầu hóa đơn liệt kê từng khoản và kiểm tra ngày, quãng đường, nhà cung cấp; đọc bản giải thích quyền lợi (EOB) để xem yêu cầu đã được thanh toán trong hay ngoài mạng lưới; phân loại chuyến đi — vận chuyển hàng không dẫn tới bảo vệ liên bang, chương trình do California quản lý dẫn tới AB 716 — và kháng nghị với chương trình trước, sau đó tới cơ quan quản lý của bang (DMHC đối với chương trình chăm sóc có quản lý, CDI đối với bảo hiểm sức khỏe khác) nếu câu trả lời chưa đúng bảo vệ áp dụng được. Giữ lại hóa đơn, EOB và ghi chép mọi cuộc gọi. *Ghi chép học tập cá nhân, không phải tư vấn y tế và không phải tư vấn pháp lý.*
+
+## हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+
+अमेरिका में एम्बुलेंस का बिल तीन अलग-अलग विधि-क्षेत्रों की सीमा पर पड़ता है, और पहला कदम यह जानना है कि कौन सा कानून लागू नहीं होता। EMTALA (42 U.S.C. §1395dd) केवल Medicare-भागीदार अस्पतालों के आपात विभागों को आने वाले हर व्यक्ति की जाँच और स्थिरता का दायित्व देता है; यह एम्बुलेंस सेवा के शुल्क के बारे में कुछ नहीं कहता और एम्बुलेंस बिलिंग को सीमित नहीं करता। संघीय No Surprises Act, जो Pub. L. 116-260 के भाग के रूप में बना और 2022 से योजना वर्षों पर लागू है, अप्रत्याशित बिलों का सामान्य ढाँचा देता है: जब मरीज़ को वास्तविक विकल्प के बिना नेटवर्क-बाहरी सेवा मिलती है, तो उसकी लागत-साझेदारी नेटवर्क-भीतर के स्तर पर गिनी जाती है, शेष राशि का बिल (balance billing) प्रतिबंधित है, और प्रदाता व योजना के बीच भुगतान विवाद संघीय स्वतंत्र विवाद समाधान (IDR) प्रक्रिया में जाता है, मरीज़ पर नहीं। हवाई एम्बुलेंस परिवहन स्पष्ट रूप से इस ढाँचे के भीतर है, इसलिए हेलीकॉप्टर या स्थिर-पंख वाले विमान से ले जाया गया मरीज़ केवल नेटवर्क-भीतर स्तर की साझेदारी देता है।
+
+ज़मीनी एम्बुलेंस ही वह खाली जगह है। No Surprises Act ने अपनी सुरक्षा ज़मीनी एम्बुलेंस सेवाओं तक नहीं बढ़ाई; उसकी धारा 117 ने ज़मीनी एम्बुलेंस के मरीज़-बिलिंग का अध्ययन करने के लिए केवल एक सलाहकार समिति बनाई। चूँकि वाहन मरीज़ नहीं चुनता, प्रेषण प्रणाली भेजती है, इसलिए बिना-अनुबंध प्रदाता की ज़मीनी यात्रा अक्सर पूरे नेटवर्क-बाहरी मूल्य पर बिल होती है। Medicare ज़मीनी एम्बुलेंस का भुगतान अपनी शुल्क-सूची और कवरेज नियमों से करता है, No Surprises Act के तर्क से बाहर। California ने अपने विनियमित बाज़ार में यह खाली जगह आंशिक रूप से भरी है: AB 716, जो 2023 में बना और 1 जनवरी 2024 से लागू है, राज्य-विनियमित स्वास्थ्य योजनाओं के तहत बिना-अनुबंध ज़मीनी एम्बुलेंस के लिए सदस्य की लागत-साझेदारी को नेटवर्क-भीतर स्तर पर सीमित करता है और शेष राशि के निपटान के लिए दर-विधि तय करता है। इस सुधार की सीमा भी महत्वपूर्ण है: ERISA के अधीन नियोक्ता-स्ववित्तपोषित योजनाएँ राज्य कानून से बाहर हैं, और Medicare व Medi-Cal अपने नियम मानते हैं। व्यवहार में: मदवार बिल माँगकर तारीख़, दूरी और प्रदाता जाँचें; लाभ-विवरण (EOB) पढ़कर देखें कि दावा नेटवर्क-भीतर निपटा या नेटवर्क-बाहरी; यात्रा का वर्ग तय करें — हवाई परिवहन संघीय सुरक्षा से जुड़ता है, California की राज्य-विनियमित योजना AB 716 से — और पहले योजना के पास अपील करें, फिर उत्तर लागू सुरक्षा के अनुरूप न हो तो राज्य नियामक (प्रबंधित देखभाल योजनाओं के लिए DMHC, अन्य स्वास्थ्य बीमा के लिए CDI) से सहायता लें। बिल, EOB और हर कॉल का अभिलेख रखें। *व्यक्तिगत अध्ययन नोट; चिकित्सा सलाह नहीं और विधिक सलाह भी नहीं।*
