@@ -78,6 +78,10 @@ Is your medical record legally "yours" in the United States? The chart itself is
 
 **캘리포니아 상층 규정.** 환자 열람법(Health & Saf. Code §§ 123100 이하)은 더 빠릅니다: 열람은 통상 5영업일 이내, 사본은 15일 이내 제공(§ 123130), 수수료 법정 상한 적용.
 
+**정보 차단 대응 실무.** 환자 포털이 검사 결과를 늦게 올리거나 이유 없는 지연이 있으면 ONC에 정보 차단 신고를 할 수 있습니다. 정보 차단 규정은 차단 행위 자체를 다스릴 뿐 § 164.524의 접근권을 대체하지 않으므로, 정식 열람·사본 청구와 지연에 대한 신고를 병행하는 것이 실무적입니다.
+
+**청구 실무 순서.** 청구는 서면으로 기록 범위와 날짜, 원하는 형식(전자 PDF), 근거 조항(§ 164.524)을 적고 제출 증빙을 남기십시오. 30일이 지나도 오지 않으면 먼저 서면으로 독촉하고, 그래도 안 되면 HHS 민권국(OCR)에 신고하는데, 이는 무료이며 가장 흔히 쓰이는 압박 경로입니다.
+
 *개인 학습 노트이며 의료·법률 자문이 아닙니다.*
 
 ---
@@ -98,6 +102,10 @@ Tại Hoa Kỳ, hồ sơ bệnh án có hợp pháp là "của bạn" không? B�
 
 **Lớp quy định California.** Đạo luật Truy cập Hồ sơ Sức khỏe của Bệnh nhân (Health & Saf. Code §§ 123100 trở đi) nhanh hơn: xem hồ sơ thường trong 5 ngày làm việc và bản sao trong 15 ngày (§ 123130), có trần phí theo luật.
 
+**Thực hành khi bị chặn thông tin.** Nếu cổng bệnh nhân chậm đăng kết quả xét nghiệm hoặc trì hoãn vô cớ, bạn có thể gửi khiếu nại chặn thông tin tới ONC. Quy tắc chặn thông tin xử lý hành vi cản trở chứ không thay thế quyền truy cập theo § 164.524, nên thực hành đúng là dùng song song hai tuyến: chính thức yêu cầu theo § 164.524 và đồng thời khiếu nại về sự trì hoãn.
+
+**Trình tự yêu cầu thực tế.** Hãy yêu cầu bằng văn bản, ghi rõ phạm vi hồ sơ và ngày tháng, định dạng mong muốn (PDF điện tử), căn cứ § 164.524, và giữ bằng chứng đã nộp. Quá 30 ngày chưa nhận được, trước tiên nhắc bằng văn bản, sau đó khiếu nại lên Văn phòng Dân quyền (OCR) của HHS — miễn phí và là con đường gây áp lực thông dụng nhất.
+
 *Ghi chú học tập cá nhân, không phải tư vấn y tế hay pháp lý.*
 
 ---
@@ -117,5 +125,9 @@ Tại Hoa Kỳ, hồ sơ bệnh án có hợp pháp là "của bạn" không? B�
 **जानकारी अवरोधन (information blocking)।** 21st Century Cures Act की धारा 4004, जिसे 45 C.F.R. Part 171 में लागू किया गया, प्रदाताओं, स्वास्थ्य सूचना नेटवर्कों और प्रमाणित EHR डेवलपर्स को इलेक्ट्रॉनिक स्वास्थ्य जानकारी की पहुँच, विनिमय या उपयोग में बाधा डालने वाले आचरण से रोकती है, आठ नियामक अपवादों को छोड़कर। शिकायत ONC को जाती है।
 
 **California की अतिरिक्त परत।** Patient Access to Health Records Act (Health & Saf. Code §§ 123100 और आगे) तेज़ है: निरीक्षण सामान्यतः 5 कार्यदिवसों में और प्रतियाँ 15 दिनों में (§ 123130), वैधानिक शुल्क-सीमा सहित।
+
+**जानकारी अवरोधन पर व्यावहारिक कार्रवाई।** यदि रोगी-पोर्टल जाँच परिणाम देर से डाले या बिना कारण विलंब हो, तो ONC को जानकारी-अवरोधन की शिकायत की जा सकती है। अवरोधन नियम अवरोधक आचरण को संबोधित करता है, § 164.524 के पहुँच अधिकार का स्थान नहीं लेता, इसलिए व्यावहारिक तरीका दोनों रेखाएँ साथ चलाना है: § 164.524 के तहत औपचारिक माँग और साथ ही विलंब की शिकायत।
+
+**माँग का व्यावहारिक क्रम।** माँग लिखित रूप में करें — रिकॉर्ड का दायरा और तारीख़ें, चाहा गया प्रारूप (इलेक्ट्रॉनिक PDF) और आधार § 164.524 लिखें — और जमा करने का प्रमाण रखें। 30 दिन बीतने पर पहले लिखित अनुस्मारक दें, फिर HHS के नागरिक अधिकार कार्यालय (OCR) को शिकायत करें — यह निःशुल्क है और सबसे अधिक उपयोग होने वाला दबाव-मार्ग है।
 
 *केवल व्यक्तिगत अध्ययन नोट; यह चिकित्सीय या कानूनी सलाह नहीं है।*
