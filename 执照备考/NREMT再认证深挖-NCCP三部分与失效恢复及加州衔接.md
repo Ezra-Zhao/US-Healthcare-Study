@@ -82,6 +82,8 @@ NREMT 认证两年一轮。EMT、AEMT 与 Paramedic 的到期日统一在到期�
 
 ---
 
+(2026-11-08 보충) 두 가지 세부 사항. 첫째, NREMT 복원 기간(reinstatement period) 안에 신청하면 추가 수수료(현행 안내 기준 50달러)가 붙고, 3월 31일 만료 등급은 복원 기간을 넘기면 5월 1일부터 인증이 정식 실효(lapsed)됩니다. 둘째, 캘리포니아 EMT 갱신은 Title 22 §100069.01 일대의 기준으로, 만료 전 24개월 안에 승인된 재교육 24시간 또는 승인된 계속교육 24시간(최소 절반은 강사 참여형)과 기술 검증표(EMSA-SCV)를 원 발급 주체에 제출하는 방식이며, Paramedic은 EMSA가 §100095 일대에 따라 주기당 48시간 계속교육으로 갱신합니다. 전국 표를 캘리포니아 서류에 그대로 옮기지 마십시오.
+
 ## Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
 
 **Đào sâu về tái chứng nhận NREMT — giữ cho chứng chỉ còn sống.** Có ba sổ không bao giờ được gộp làm một: chứng nhận quốc gia của NREMT (gia hạn mỗi hai năm), chứng chỉ hoặc giấy phép của bang — thứ thực sự cho phép hành nghề — và sự công nhận của cơ quan địa phương; ở California, Paramedic còn cần được LEMSA của quận công nhận, nằm trên giấy phép EMSA cấp bang. Gia hạn một sổ không gia hạn thay các sổ còn lại.
@@ -98,6 +100,8 @@ NREMT 认证两年一轮。EMT、AEMT 与 Paramedic 的到期日统一在到期�
 
 ---
 
+(Bổ sung 2026-11-08) Hai chi tiết. Thứ nhất, nộp đơn trong thời kỳ khôi phục (reinstatement period) của NREMT phải trả thêm phí (50 đô la theo hướng dẫn hiện hành), và các cấp hết hạn ngày 31 tháng 3 sẽ chính thức mất hiệu lực (lapsed) từ ngày 1 tháng 5 nếu qua thời kỳ khôi phục. Thứ hai, gia hạn EMT tại California theo Title 22 §100069.01 trở đi yêu cầu, trong 24 tháng trước khi hết hạn, 24 giờ huấn luyện lại được phê duyệt hoặc 24 giờ giáo dục thường xuyên được phê duyệt (ít nhất một nửa có giảng viên) kèm biểu xác minh kỹ năng (EMSA-SCV) nộp cho cơ quan cấp chứng nhận gốc; Paramedic do EMSA gia hạn theo §100095 trở đi với 48 giờ giáo dục thường xuyên mỗi chu kỳ. Đừng sao chép bảng toàn quốc vào hồ sơ California.
+
 ## हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
 
 **NREMT पुनःप्रमाणन गहराई से — प्रमाणपत्र को जीवित रखना।** तीन खाते कभी एक नहीं करने चाहिए: NREMT का राष्ट्रीय प्रमाणन (हर दो वर्ष में नवीनीकरण), राज्य का प्रमाणपत्र या लाइसेंस — जो वास्तव में अभ्यास की अनुमति देता है — और स्थानीय एजेंसी की मान्यता; California में Paramedic को राज्य EMSA लाइसेंस के ऊपर काउंटी LEMSA की मान्यता भी चाहिए। एक का नवीनीकरण बाक़ियों का नवीनीकरण नहीं होता।
@@ -111,3 +115,5 @@ NREMT 认证两年一轮。EMT、AEMT 与 Paramedic 的到期日统一在到期�
 **California की तालिका अलग है।** California नियम संहिता के Title 22, Division 9, धारा 100069.01 के तहत EMT पिछले 24 महीनों में 24 घंटे के पुनश्चर्या पाठ्यक्रम या कम से कम 24 घंटे अनुमोदित सतत शिक्षा (कम से कम आधी प्रशिक्षक-सहित) के साथ EMSA-SCV कौशल सत्यापन प्रपत्र प्रमाणन इकाई — सामान्यतः LEMSA — के पास जमा करके नवीनीकरण करता है; व्यपगत अवधि बढ़ने पर घंटे बढ़ते हैं, और एक वर्ष या अधिक के व्यपगत होने पर पृष्ठभूमि जाँच व NREMT परीक्षाएँ फिर जुड़ जाती हैं। AEMT नवीनीकरण 36 घंटे सतत शिक्षा व कौशल सत्यापन है। Paramedic के पास EMSA का राज्य लाइसेंस होता है: धारा 100095 के तहत नवीनीकरण के लिए हर चक्र 48 घंटे सतत शिक्षा, कम से कम आधी प्रशिक्षक-सहित, चाहिए, और काउंटी मान्यता एक अलग खाता बनी रहती है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
 
 *व्यक्तिगत अध्ययन नोट; चिकित्सा सलाह नहीं। इस लेख में किसी दवा की मात्रा नहीं दी गई है।*
+
+(2026-11-08 पूरक) दो विवरण। पहला, NREMT की बहाली अवधि (reinstatement period) में आवेदन करने पर अतिरिक्त शुल्क लगता है (वर्तमान मार्गदर्शन अनुसार 50 डॉलर), और 31 मार्च को समाप्त होने वाले स्तर, बहाली अवधि निकल जाने पर 1 मई से औपचारिक रूप से समाप्त (lapsed) हो जाते हैं। दूसरा, कैलिफ़ोर्निया EMT नवीनीकरण Title 22 §100069.01 आदि के अनुसार है: समाप्ति से पहले के 24 महीनों में स्वीकृत 24 घंटे का पुनःप्रशिक्षण या स्वीकृत 24 घंटे की सतत शिक्षा (कम से कम आधा प्रशिक्षक-सहित) और कौशल सत्यापन प्रपत्र (EMSA-SCV) मूल जारीकर्ता को देना होता है; Paramedic का नवीनीकरण EMSA §100095 आदि के तहत प्रति चक्र 48 घंटे सतत शिक्षा से करता है। राष्ट्रीय तालिका को कैलिफ़ोर्निया प्रपत्रों में यथावत न उतारें।
