@@ -176,6 +176,8 @@ PMBC의 공개 개요에 따르면 완전 면허는 네 가지 요소에 달려 
 
 갱신은 2년 주기이며, 계속 의학 교육(PMBC 개요상 주기당 50시간 CME 수준)과 계속 역량 자가 인증이 필요합니다. 정확한 시간과 수수료는 PMBC의 당해 갱신 공고를 따르세요. 업무 범위도 법정 사항입니다. DPM은 발을 진료하고 법전이 정한 대로 발목과 발에 붙는 힘줄까지 다룹니다. 그 범위를 넘는 시술이 다른 주에서 허용된다고 캘리포니아에서도 합법이라고 단정하지 마세요. 신청 전에 각 항목을 PMBC의 현행 체크리스트와 대조하세요.
 
+보충(초역, 교정 대기): 두 가지를 덧붙입니다. 첫째, 응시 시점입니다. Part I은 초기 교과 과정을 마친 뒤 보통 2학년 말 무렵에, Part II는 임상 실습이 깊어진 뒤 졸업 전 보통 마지막 학년에 응시합니다. 둘째, Part III(PMLexis)의 실무 처리입니다. 신청할 때 면허를 받을 주를 정확히 지정해 성적이 그 기관에 도착하게 해야 하고, Part III를 레지던시 수료 증명 및 신원 조회와 하나의 묶음으로 일정을 잡아야 합니다. 완전 면허는 시험, 훈련 서류, 신청 자료가 모두 갖춰져야 나옵니다.
+
 ### Tiếng Việt (初译待校)
 California có mục riêng vì nhiều điểm khác các bang khác. Cơ quan cấp phép là Hội đồng Y khoa Bàn chân California (Podiatric Medical Board of California, PMBC), theo các quy định về y khoa bàn chân của Business and Professions Code từ điều 2460.
 
@@ -183,12 +185,16 @@ Theo khung công bố của PMBC, giấy phép đầy đủ dựa trên bốn ph
 
 Gia hạn theo chu kỳ hai năm, với giáo dục y khoa liên tục (khung PMBC ở mức khoảng 50 giờ CME mỗi chu kỳ) và tự chứng nhận năng lực liên tục; giờ và phí chính xác theo thông báo gia hạn hiện hành của PMBC. Phạm vi hành nghề do luật định: DPM điều trị bàn chân, mở rộng tới cổ chân và các gân bám vào bàn chân theo bộ luật, và không được suy đoán một thủ thuật ngoài phạm vi đó là hợp pháp ở California chỉ vì bang khác cho phép. Hãy đối chiếu từng mục với danh mục hiện hành của PMBC trước khi nộp hồ sơ.
 
+Bổ sung (bản dịch sơ bộ, chờ hiệu đính): Thêm hai chi tiết. Thứ nhất, thời điểm thi: Part I thường thi vào khoảng cuối năm thứ hai sau khi học xong giai đoạn đầu, và Part II thường thi vào năm cuối trước khi tốt nghiệp, khi luân khoa lâm sàng đã sâu. Thứ hai, xử lý thực tế của Part III (PMLexis): khi đăng ký phải chỉ định đúng bang sẽ cấp phép để điểm đến được hội đồng đó, và phải xếp lịch Part III cùng với xác nhận nội trú và thẩm tra lý lịch như một gói duy nhất; giấy phép đầy đủ chỉ được cấp khi kỳ thi, hồ sơ đào tạo và hồ sơ xin phép đều hoàn tất.
+
 ### हिन्दी (初译待校)
 California का अलग खंड इसलिए है क्योंकि कई बातें दूसरे राज्यों से अलग हैं। लाइसेंस देने वाली संस्था Podiatric Medical Board of California (PMBC) है, Business and Professions Code की धारा 2460 से शुरू होने वाले पोडियाट्रिक चिकित्सा प्रावधानों के अंतर्गत।
 
 PMBC की प्रकाशित रूपरेखा के अनुसार पूर्ण लाइसेंस चार बातों पर टिका है। पहली, स्वीकृत पोडियाट्रिक चिकित्सा विद्यालय से DPM उपाधि — California का अपना विद्यालय भी है (Pomona में Western University का पोडियाट्रिक कॉलेज), लेकिन दूसरे राज्यों के CPME-प्रत्यायित विद्यालयों के स्नातक भी उसी ढाँचे में आवेदन करते हैं। दूसरी, Part III (PMLexis) सहित APMLE के तीनों भागों में उत्तीर्ण होना, कोई भाग छूटा नहीं चलेगा। तीसरी, PMBC-स्वीकृत स्नातकोत्तर प्रशिक्षण पूर्ण करना: PMBC रूपरेखा कम से कम दो वर्ष की स्वीकृत स्नातकोत्तर चिकित्सा शिक्षा कहती है, जबकि वर्तमान रेज़िडेंसियाँ आमतौर पर तीन-वर्षीय PMSR हैं, इसलिए आपके वास्तविक कार्यक्रम की अवधि और PMBC की वर्तमान स्वीकृत सूची मान्य है; रेज़िडेंसी शुरू करने से पहले PMBC का Resident's License आवश्यक है। चौथी, राज्य (DOJ) और संघीय (FBI) दोनों स्तरों पर फ़िंगरप्रिंट (Live Scan) पृष्ठभूमि जाँच, जो California के स्वास्थ्य लाइसेंसों का मानक तरीका है।
 
 नवीनीकरण दो-वर्षीय चक्र पर होता है, जिसमें सतत चिकित्सा शिक्षा (PMBC रूपरेखा के अनुसार प्रति चक्र लगभग 50 घंटे CME) और सतत-क्षमता स्व-प्रमाणन शामिल है; सटीक घंटे और शुल्क PMBC की वर्तमान सूचना से लें। अभ्यास का दायरा विधि-निर्धारित है: DPM पैर का उपचार करता है, संहिता के अनुसार टखने और पैर में जुड़ने वाले टेंडन तक; उस दायरे से बाहर की प्रक्रिया को किसी दूसरे राज्य में अनुमत होने के आधार पर California में वैध न मानें। आवेदन से पहले हर मद PMBC की वर्तमान सूची से जाँचें।
+
+पूरक (प्रारंभिक अनुवाद, समीक्षा प्रतीक्षित): दो विवरण और जोड़ें। पहला, परीक्षा का समय: Part I आमतौर पर प्रारंभिक पाठ्यक्रम पूरा होने के बाद दूसरे वर्ष के अंत के आसपास दी जाती है, और Part II आमतौर पर स्नातक से पहले अंतिम वर्ष में, नैदानिक चक्र गहरा जाने के बाद, दी जाती है। दूसरा, Part III (PMLexis) की व्यावहारिक व्यवस्था: पंजीकरण के समय वही राज्य चुनें जो आपको लाइसेंस देगा ताकि अंक उसी बोर्ड तक पहुँचें, और Part III को रेज़िडेंसी सत्यापन व पृष्ठभूमि जाँच के साथ एक पैकेज की तरह नियोजित करें; पूर्ण लाइसेंस तभी मिलता है जब परीक्षा, प्रशिक्षण दस्तावेज़ और आवेदन सामग्री, तीनों पूरे हों।
 
 ---
 
