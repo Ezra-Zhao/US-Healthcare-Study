@@ -104,6 +104,8 @@ PT Compact는 PT Compact Commission이 운영하고 FSBPT가 지원하며, 현�
 
 ---
 
+보충 메모 (중국어 본문과 대조): 소수의 성적은 추가 성적 확인 절차 때문에 발표가 보류될 수 있으며, 확인이 끝나기 전에는 어떤 이전도 시작할 수 없습니다. 이런 경우에는 먼저 FSBPT의 요구에 따라 정보를 보완하고, 목표 주 위원회에 일정을 약속하지 않는 것이 순서입니다. 또한 순서를 뒤집는 것이 가장 흔한 함정입니다. 먼저 사직하고 이사한 뒤에야 목표 주가 수 주의 처리를 요구한다는 사실을 알게 되면 임시로도 일할 자격이 없습니다. 올바른 순서는 목표 주의 면허를 받거나 근무 가능 상태를 서면으로 확인한 다음 입사일을 정하는 것입니다. NPTE 성적은 평생 이전할 수 있지만, 그것이 면허 상태가 평생 깨끗하다는 뜻은 아닙니다. 갱신 공백이나 징계 처분은 성적이 좋아도 가려지지 않습니다.
+
 ## Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
 
 ### Chuyển điểm NPTE, cấp phép theo endorsement và đặc quyền PT Compact
@@ -122,6 +124,8 @@ California không phải thành viên PT Compact. Việc cấp phép thuộc Phy
 
 ---
 
+Ghi chú bổ sung (đối chiếu với bản chính tiếng Trung): Một số ít kết quả điểm có thể bị tạm hoãn công bố do thủ tục xác minh điểm bổ sung, và trước khi xác minh hoàn tất thì không thể bắt đầu bất kỳ việc chuyển điểm nào; khi gặp trường hợp này, hãy bổ sung thông tin theo yêu cầu của FSBPT trước và đừng hứa hẹn thời gian với hội đồng bang đích. Cái bẫy thường gặp nhất là làm ngược thứ tự: nghỉ việc và chuyển nhà trước, rồi mới phát hiện bang đích cần vài tuần xử lý và mình không có tư cách hành nghề tạm thời. Thứ tự đúng là nhận giấy phép của bang đích, hoặc xác nhận bằng văn bản tình trạng được phép hành nghề, rồi mới chốt ngày bắt đầu làm việc. Điểm NPTE được chuyển suốt đời không có nghĩa là tình trạng giấy phép sạch suốt đời — đứt quãng gia hạn hay kỷ luật vẫn bị hội đồng bang đích kiểm tra thấy, điểm tốt đến đâu cũng không che được.
+
 ## हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
 
 ### NPTE स्कोर स्थानांतरण, endorsement लाइसेंस और PT Compact विशेषाधिकार
@@ -137,3 +141,5 @@ PT Compact का संचालन PT Compact Commission करती है �
 California PT Compact की सदस्य नहीं है। वहाँ लाइसेंस Physical Therapy Board of California (PTBC) Business and Professions Code की धारा 2600 से शुरू होने वाले प्रावधानों के तहत देती है। California में प्रवेश का अर्थ हमेशा पूर्ण endorsement आवेदन है: FSBPT Score Transfer सेवा से NPTE स्कोर की आधिकारिक डिलीवरी, लाइसेंस सत्यापन, शिक्षा अभिलेख, फ़िंगरप्रिंट, और California की jurisprudence आवश्यकता — PTBC के वर्तमान पृष्ठों के अनुसार आज CAL-JAM मॉड्यूल। California से बाहर जाने पर भी कोई छोटा रास्ता नहीं: घरेलू राज्य सदस्य न होने से California लाइसेंसधारी Compact विशेषाधिकार ख़रीद ही नहीं सकता और उसे राज्य-दर-राज्य लाइसेंस लेना पड़ता है। (प्रारंभिक अनुवाद, समीक्षा लंबित।)
 
 *व्यक्तिगत अध्ययन नोट्स हैं; यह कानूनी या चिकित्सा सलाह नहीं है। इस लेख में किसी दवा की मात्रा का उल्लेख नहीं है।*
+
+पूरक टिप्पणी (चीनी मूल पाठ से मिलान): कुछ ही स्कोर अतिरिक्त स्कोर-सत्यापन प्रक्रिया के कारण रोके जा सकते हैं, और सत्यापन पूरा होने से पहले कोई स्थानांतरण शुरू ही नहीं हो सकता; ऐसी स्थिति में पहले FSBPT की माँग के अनुसार जानकारी पूरी करें और लक्ष्य राज्य बोर्ड को समय का कोई वादा न करें। सबसे आम ग़लती क्रम उलट देना है: पहले नौकरी छोड़कर स्थानांतरित हो जाना और फिर पता चलना कि लक्ष्य राज्य को कई सप्ताह लगेंगे और अस्थायी अभ्यास का कोई अधिकार नहीं है। सही क्रम यह है कि पहले लक्ष्य राज्य का लाइसेंस प्राप्त करें या अभ्यास-योग्य स्थिति की लिखित पुष्टि लें, उसके बाद ही कार्य आरंभ तिथि तय करें। NPTE स्कोर जीवनभर स्थानांतरित हो सकता है, लेकिन इसका अर्थ यह नहीं कि लाइसेंस की स्थिति जीवनभर स्वच्छ रहती है — नवीकरण में अंतर या अनुशासनात्मक कार्रवाई को अच्छा स्कोर भी नहीं छिपा सकता।

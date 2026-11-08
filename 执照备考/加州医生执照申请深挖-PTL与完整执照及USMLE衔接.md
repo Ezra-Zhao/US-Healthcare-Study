@@ -161,6 +161,8 @@ Tomar el día 180 como fecha para *empezar* a solicitar (es la fecha límite par
 
 ---
 
+보충 메모 (중국어 본문과 대조): PTL은 갱신할 수 없습니다. 만료 시점에 완전 면허에 필요한 수련 학점을 아직 채우지 못했다면, 프로그램 디렉터가 그 학점을 채우기 위한 목적으로만 만료일 연장을 신청할 수 있으며, PTL이 만료되었는데 완전 면허가 아직 나오지 않았다면 캘리포니아에서의 모든 임상 업무를 중단해야 합니다. 또한 징계·형사 기록이나 다른 주의 면허 기록은 설명을 붙여 성실히 공개해야 합니다. 숨기는 것이 기록 자체보다 신청에 더 해롭습니다. 여권, 졸업장, ECFMG 서류와 신청서의 이름 철자가 서로 다르면 1차 출처 확인 단계에서 막히므로, 신청 전에 표기를 통일하고 이름 변경이나 차이를 증명할 서류를 준비해 두어야 합니다.
+
 ## Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
 
 > Ghi chú học tập cá nhân, không phải tư vấn pháp lý hay y tế. Quy tắc tóm tắt từ Medical Board of California và Business and Professions Code (BPC) của California; luôn đối chiếu trang hiện hành của Hội đồng. Bài viết không đề cập liều lượng thuốc.
@@ -184,6 +186,8 @@ Theo danh mục của Hội đồng: tốt nghiệp trường y đã phê duyệ
 
 ---
 
+Ghi chú bổ sung (đối chiếu với bản chính tiếng Trung): PTL không được gia hạn. Nếu khi PTL hết hạn mà vẫn chưa đủ tháng tín chỉ đào tạo cần cho giấy phép đầy đủ, giám đốc chương trình có thể xin kéo dài ngày hết hạn chỉ nhằm bổ sung đủ tín chỉ; PTL đã hết hạn mà giấy phép đầy đủ chưa về tay thì mọi hoạt động lâm sàng tại California phải dừng lại. Ngoài ra, hồ sơ kỷ luật, hình sự hoặc giấy phép ở bang khác phải khai báo trung thực kèm giải thích — che giấu còn gây hại cho hồ sơ hơn chính bản thân các ghi chép đó. Họ tên trên hộ chiếu, bằng tốt nghiệp, ECFMG và đơn đăng ký không nhất quán sẽ bị kẹt ở bước xác minh nguồn gốc, vì vậy cần thống nhất cách viết và chuẩn bị sẵn giấy tờ chứng minh đổi tên hoặc khác biệt trước khi nộp.
+
 ## हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
 
 > व्यक्तिगत अध्ययन नोट; विधिक या चिकित्सा सलाह नहीं। नियम Medical Board of California और California Business and Professions Code (BPC) से सारांशित हैं; बोर्ड के वर्तमान पृष्ठों से सदैव पुष्टि करें। इस लेख में औषधि-खुराक का उल्लेख नहीं है।
@@ -206,6 +210,8 @@ California में प्रशिक्षणरत चिकित्सक 
 *स्रोत: Medical Board of California PTL Information & Checklist, PTL पृष्ठ व FAQ; BPC §§ 2000 आगे, 2064.5, 2084, 2096; 16 CCR § 1328; FSMB/USMLE Bulletin.*
 
 ---
+
+पूरक टिप्पणी (चीनी मूल पाठ से मिलान): PTL का नवीकरण नहीं होता। यदि PTL की समाप्ति पर पूर्ण लाइसेंस के लिए आवश्यक प्रशिक्षण क्रेडिट माह अभी पूरे न हुए हों, तो कार्यक्रम निदेशक केवल वे क्रेडिट पूरे कराने के उद्देश्य से समाप्ति तिथि बढ़ाने का आवेदन कर सकता है; PTL समाप्त हो जाए और पूर्ण लाइसेंस अभी न मिला हो, तो California में सभी नैदानिक सेवाएँ रोकनी पड़ेंगी। साथ ही अनुशासनात्मक, आपराधिक या अन्य राज्य के लाइसेंस रिकॉर्ड को स्पष्टीकरण सहित ईमानदारी से प्रकट करना चाहिए — छिपाना रिकॉर्ड से भी अधिक हानिकारक होता है। पासपोर्ट, डिग्री, ECFMG और आवेदन पत्र में नाम की वर्तनी असंगत हो तो प्राथमिक स्रोत सत्यापन में रुकावट आती है, इसलिए आवेदन से पहले वर्तनी एकसमान करें और नाम परिवर्तन या अंतर के प्रमाण दस्तावेज़ तैयार रखें।
 
 ## 免责声明 / Disclaimer
 
