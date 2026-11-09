@@ -86,11 +86,23 @@ Medi-Cal de California tiene sus propias listas de DME y reglas de autorización
 ### 한국어 (초역)
 캘리포니아 Medi-Cal은 자체 DME 목록과 승인 규칙(DHCS와 Medi-Cal 관리형 플랜을 통해 운영, 일부 품목은 치료승인요청 TAR 필요)을 가지고 있으며, Medicare가 주 지불자이면 Medicare가 먼저 지불합니다. 배송 후에는 모델이 지시서와 일치하는지 확인하고, 배송 확인서와 임대 개월 기록을 보관하며, 지팡이 고무팁·보행기 바퀴 같은 소모 부품의 교체 주체를 확인하십시오. 임대 장비가 더 필요 없으면 공급업체에 회수를 알려 청구가 멈추게 하십시오. 청구가 거부되면 기록 부족인지 승인 부족인지 사유를 보고, 보완한 뒤 플랜의 이의신청 절차를 이용하십시오.
 
+보충 1: DME 판정은 네 가지가 함께 맞아야 합니다. 반복 사용할 수 있을 만큼 튼튼하고, 주된 목적이 의료용이며, 질병이나 부상이 없으면 일반적으로 쓸모가 없고, 집에서 쓰기에 적합해야 합니다. 필요성을 적는 기록은 이동 관련 일상활동(MRADL) 여섯 가지, 즉 화장실 사용, 식사, 옷 입기, 세면, 목욕, 침대 오르내리기를 집에서 할 수 없는지를 항목별로 남기는 것이 핵심입니다.
+보충 2: 일부 품목은 배송 전에 서면 지시가 먼저 완료되어야 하며(written order prior to delivery), Medicare에 등록된 공급업체가 아닌 곳에서 먼저 산 물건은 나중에 환급이 대부분 인정되지 않습니다. 청구가 거부되면 기록이 부족한 것인지 승인이 부족한 것인지부터 가려 보완한 뒤 플랜의 이의신청 절차로 가야 하며, 바로 포기할 일이 아닙니다.
+
+
 ### Tiếng Việt (bản dịch sơ bộ)
 Medi-Cal của California có danh mục DME và quy tắc ủy quyền riêng (qua DHCS và các chương trình quản lý của Medi-Cal; một số loại cần Đơn xin ủy quyền điều trị TAR), và Medicare chi trả trước khi là bên trả chính. Sau khi nhận thiết bị, đối chiếu mẫu mã với y lệnh, giữ phiếu giao hàng và hồ sơ số tháng thuê, và hỏi rõ ai thay các bộ phận hao mòn như đầu gậy cao su và bánh khung tập đi. Nếu không cần thiết bị thuê nữa, hãy báo nhà cung cấp đến lấy để ngừng tính phí. Nếu yêu cầu bị từ chối, xem lý do là thiếu hồ sơ hay thiếu ủy quyền, bổ sung rồi đi theo quy trình khiếu nại của chương trình.
 
+Bổ sung 1: Việc xác định DME phải đồng thời thỏa bốn điều kiện: bền và dùng lại được, mục đích chủ yếu là y tế, thường vô dụng nếu không có bệnh hoặc chấn thương, và phù hợp dùng tại nhà. Hồ sơ ghi tính cần thiết nên nêu theo từng mục sáu hoạt động sinh hoạt liên quan đến di chuyển (MRADL): đi vệ sinh, ăn uống, mặc quần áo, vệ sinh cá nhân, tắm và lên xuống giường, việc nào không làm được tại nhà.
+Bổ sung 2: Một số mặt hàng yêu cầu y lệnh bằng văn bản phải hoàn tất trước khi giao hàng (written order prior to delivery), và thiết bị tự mua trước từ nơi không phải nhà cung cấp đã đăng ký với Medicare thường không được hoàn tiền về sau. Khi yêu cầu bị từ chối, trước hết hãy phân biệt thiếu hồ sơ hay thiếu ủy quyền, bổ sung đúng chỗ thiếu rồi đi theo quy trình khiếu nại của chương trình, thay vì bỏ cuộc ngay.
+
+
 ### हिन्दी (प्रारंभिक अनुवाद)
 कैलिफ़ोर्निया Medi-Cal की अपनी DME सूचियाँ और अनुमोदन नियम हैं (DHCS और Medi-Cal प्रबंधित योजनाओं के ज़रिए; कुछ श्रेणियों में उपचार अनुमोदन अनुरोध TAR चाहिए), और Medicare मुख्य भुगतानकर्ता हो तो पहले वही देता है। डिलीवरी के बाद मॉडल को आदेश से मिलाएँ, डिलीवरी पर्ची और किराया-महीनों का रिकॉर्ड रखें, और छड़ी के रबर टिप व वॉकर के पहिये जैसे घिसने वाले हिस्सों की ज़िम्मेदारी स्पष्ट करें। किराए का उपकरण अब ज़रूरी न हो तो आपूर्तिकर्ता को उठाने की सूचना दें ताकि बिलिंग रुके। दावा अस्वीकृत हो तो कारण देखें — दस्तावेज़ की कमी है या अनुमोदन की — उसे पूरा करके योजना की अपील प्रक्रिया का उपयोग करें।
+
+पूरक 1: DME का निर्धारण चार शर्तों के एक साथ पूरे होने पर होता है: टिकाऊ और दोबारा उपयोग योग्य होना, मुख्य उद्देश्य चिकित्सीय होना, बीमारी या चोट के बिना आमतौर पर बेकार होना, और घर पर उपयोग के योग्य होना। आवश्यकता दर्ज करते समय गतिशीलता से जुड़ी छह दैनिक गतिविधियों (MRADL) — शौच, भोजन, कपड़े पहनना, संवारना, स्नान और बिस्तर से उठना-बैठना — को मद-वार लिखना चाहिए कि घर पर कौन-सी नहीं हो पातीं।
+पूरक 2: कुछ वस्तुओं में डिलीवरी से पहले लिखित आदेश पूरा होना ज़रूरी है (written order prior to delivery), और Medicare में नामांकित आपूर्तिकर्ता के अलावा कहीं से पहले खरीदी गई वस्तु की प्रतिपूर्ति बाद में आमतौर पर नहीं मिलती। दावा अस्वीकृत हो तो पहले यह अलग करें कि कमी दस्तावेज़ की है या अनुमोदन की, उसी कमी को पूरा करके योजना की अपील प्रक्रिया अपनाएँ, तुरंत हार न मानें।
+
 
 ---
 
