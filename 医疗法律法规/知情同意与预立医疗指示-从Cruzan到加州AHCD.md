@@ -168,3 +168,18 @@ Ba câu nhắc nhở thực tiễn để kết thúc. Thứ nhất, sau khi ký 
 *कोरियाई, वियतनामी और हिंदी पाठ अध्ययन अनुवाद हैं; मूल-भाषी समीक्षा लंबित है।*
 
 声明：本篇为个人学习笔记，不构成医疗或法律建议。出现急症请立即拨打 911 或前往急诊。This article is a personal study note only and does not constitute medical or legal advice. Este artículo es una nota personal de estudio y no constituye asesoría médica ni legal. 본 글은 개인 학습 노트이며 의료 또는 법률 자문이 아닙니다. 응급 상황에서는 즉시 911에 전화하거나 응급실로 가십시오. Bài viết này là ghi chú học tập cá nhân và không cấu thành tư vấn y tế hay pháp lý. Khi có tình huống khẩn cấp, hãy gọi ngay 911 hoặc đến khoa cấp cứu. यह लेख एक व्यक्तिगत अध्ययन नोट है और चिकित्सा या कानूनी सलाह नहीं है। आपात स्थिति में तुरंत 911 पर कॉल करें या आपातकालीन विभाग जाएँ।
+
+
+## 补译增量（2026-11-09 · 初译待校）
+
+### 한국어 (초역 · 初译待校)
+
+(2026-11-09 보충) 두 가지 세부 사항. 첫째, AHCD의 서명 형식 요건입니다. 유언검인법전(Probate Code) 제4701조 공식 양식의 설명에 따르면, 본인 서명만으로는 부족하고 공증을 받거나 자격 있는 증인 두 명의 입회 중 하나를 갖춰야 합니다. 지정된 대리인은 증인이 될 수 없으며, 의료기관 안에서 장기 요양을 받는 환자가 서명할 때는 환자 권익 옹호자(patient advocate/ombudsman)의 입회가 추가로 필요합니다. 둘째, 대리권의 발동 조건과 권한의 경계입니다. 대리권은 본인이 결정 능력을 잃었을 때만 발동하고, 본인에게 아직 결정 능력이 있는 동안에는 본인의 현재 결정이 문서와 대리인보다 언제나 우선합니다. 대리인이 결정할 때는 먼저 양식에 적힌 지시를 따르고, 적혀 있지 않은 사항은 본인의 알려진 의사와 가치관에 따르며, 그래도 분명하지 않을 때에만 본인의 최선의 이익을 기준으로 판단합니다. 제4652조 일대에는 대리인이 동의할 수 없는 사항이 열거되어 있는데, 정신건강 기관에 보내는 것, 경련 치료, 정신외과 수술 등이 그 예입니다.
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+
+(2026-11-09 bổ sung) Hai chi tiết. Thứ nhất, cửa hình thức ký AHCD: theo phần hướng dẫn của mẫu chính thức tại Điều 4701 Bộ luật Di chúc (Probate Code), ngoài chữ ký của chính người lập, văn bản phải được công chứng hoặc có hai nhân chứng đủ tư cách chứng kiến, chọn một trong hai; người được chỉ định làm đại diện không được làm nhân chứng, và khi người ký là bệnh nhân chăm sóc dài hạn trong một cơ sở y tế, còn phải có người bảo vệ quyền lợi bệnh nhân (patient advocate/ombudsman) chứng kiến. Thứ hai, điều kiện khởi động quyền đại diện và ranh giới quyền hạn: quyền của người đại diện chỉ khởi động khi người lập đã mất năng lực quyết định, và chừng nào người lập còn năng lực, quyết định hiện tại của chính họ luôn thắng văn bản và người đại diện; khi quyết định, người đại diện trước hết tuân theo các chỉ thị đã viết trong mẫu, những việc chưa viết thì theo nguyện vọng và giá trị đã biết của người lập, và chỉ khi vẫn chưa rõ mới xét theo lợi ích tốt nhất; quanh Điều 4652 có liệt kê những việc người đại diện không được đồng ý, chẳng hạn đưa người lập vào cơ sở sức khỏe tâm thần, điều trị co giật, hay phẫu thuật tâm thần.
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+
+(2026-11-09 पूरक) दो विवरण. पहला, AHCD के हस्ताक्षर का रूप-द्वार: प्रोबेट कोड (Probate Code) की धारा 4701 के आधिकारिक प्रपत्र की व्याख्या के अनुसार, स्वयं के हस्ताक्षर के अलावा दस्तावेज़ को या तो नोटरीकृत कराना होता है या दो योग्य गवाहों की उपस्थिति चाहिए — दोनों में से एक; नामित अभिकर्ता (agent) गवाह नहीं बन सकता, और यदि हस्ताक्षर करने वाला किसी चिकित्सा संस्था में दीर्घकालिक देखभाल का रोगी है तो रोगी-अधिकार अधिवक्ता (patient advocate/ombudsman) की उपस्थिति अतिरिक्त रूप से आवश्यक है. दूसरा, अभिकर्ता-अधिकार के प्रारंभ की शर्त और उसकी सीमाएँ: अभिकर्ता का अधिकार तभी प्रारंभ होता है जब व्यक्ति निर्णय-क्षमता खो दे, और जब तक व्यक्ति में निर्णय-क्षमता है, उसका वर्तमान निर्णय दस्तावेज़ और अभिकर्ता दोनों पर हमेशा भारी रहता है; निर्णय लेते समय अभिकर्ता पहले प्रपत्र में लिखे निर्देशों का पालन करता है, जो बातें नहीं लिखी हैं उनमें व्यक्ति की ज्ञात इच्छाओं और मूल्यों के अनुसार चलता है, और तभी जब वह भी स्पष्ट न हो, सर्वोत्तम हित के आधार पर निर्णय करता है; धारा 4652 के आसपास उन बातों की सूची है जिन पर अभिकर्ता सहमति नहीं दे सकता, जैसे व्यक्ति को मानसिक स्वास्थ्य संस्था में भेजना, आक्षेप-उपचार (convulsive therapy) और मनोशल्य-चिकित्सा (psychosurgery).

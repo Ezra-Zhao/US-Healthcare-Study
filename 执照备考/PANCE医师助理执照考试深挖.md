@@ -313,3 +313,18 @@ PANCE अध्ययन योजना को blueprint के प्रत्
 本篇为个人学习笔记，不构成医疗建议或执照申请建议。具体报考与发照要求以 NCCPA 与 California Physician Assistant Board 当期公布为准。
 
 This article is a personal study note and does not constitute medical or licensing advice. / Este artículo es una nota personal de estudio y no constituye asesoría médica ni de licencias. La versión en español es una traducción de estudio, pendiente de revisión por un hablante nativo.
+
+
+## 补译增量（2026-11-09 · 初译待校）
+
+### 한국어 (초역 · 初译待校)
+
+(2026-11-09 보충) 두 가지 세부 사항. 첫째, 재시험 리듬과 자격 창입니다. PANCE는 임의의 90일 안에 한 번만 볼 수 있고, 한 역년(曆年)에 최대 세 번까지 볼 수 있습니다. PA 프로그램 졸업 요건을 마친 시점부터 자격 창은 6년이며 총 시도 상한은 여섯 번인데, 두 상한 중 먼저 닿는 쪽이 자격을 소진시킵니다. 자격이 소진되면 길은 하나뿐으로, ARC-PA 인증 프로그램을 처음부터 다시 마쳐야 응시 자격이 회복됩니다. 둘째, 캘리포니아 SB 697의 진료 협약(practice agreement)입니다. 2020년 1월 1일부터 시행된 개혁으로, 기존의 위임 협약은 진료 협약으로 바뀌었습니다. 한 명 이상의 의사와 PA가 속한 기관이 서면 협약을 맺어 PA가 제공할 수 있는 의료 서비스의 범위를 정하고, 대부분의 일상 임상 업무에는 더 이상 의사의 건별 현장 감독이 필요하지 않습니다. 다만 처방(규제 약품 포함)은 연방 DEA 등록과 주법 규율을 따로 받습니다.
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+
+(2026-11-09 bổ sung) Hai chi tiết. Thứ nhất, nhịp thi lại và cửa sổ tư cách: PANCE chỉ được thi một lần trong bất kỳ khoảng 90 ngày nào, và tối đa ba lần trong một năm dương lịch; kể từ khi hoàn thành yêu cầu tốt nghiệp của chương trình PA, cửa sổ tư cách kéo dài sáu năm với tổng số lần thi tối đa là sáu, giới hạn nào chạm trước sẽ làm cạn tư cách, và khi tư cách đã cạn, con đường duy nhất là hoàn thành lại từ đầu một chương trình PA được ARC-PA chứng nhận. Thứ hai, thỏa thuận hành nghề theo SB 697 của California: có hiệu lực từ ngày 1 tháng 1 năm 2020, California đã đổi thỏa thuận ủy quyền cũ thành thỏa thuận hành nghề — một hoặc nhiều bác sĩ cùng cơ sở nơi PA làm việc ký thỏa thuận bằng văn bản quy định phạm vi dịch vụ y tế mà PA được thực hiện, và phần lớn công việc lâm sàng hằng ngày không còn cần bác sĩ giám sát trực tiếp từng việc; tuy vậy kê đơn, kể cả thuốc kiểm soát, vẫn chịu sự điều chỉnh riêng của đăng ký DEA liên bang và luật bang.
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+
+(2026-11-09 पूरक) दो विवरण. पहला, पुनःपरीक्षा की लय और पात्रता-खिड़की: PANCE किसी भी 90 दिनों में केवल एक बार दिया जा सकता है और एक कैलेंडर वर्ष में अधिकतम तीन बार; PA कार्यक्रम की स्नातक आवश्यकताएँ पूरी करने के समय से पात्रता-खिड़की छह वर्ष की होती है और कुल प्रयासों की सीमा छह है — दोनों सीमाओं में से जो पहले पूरी हो, वही पात्रता समाप्त कर देती है, और पात्रता समाप्त होने पर एकमात्र मार्ग ARC-PA प्रमाणित कार्यक्रम को फिर से पूरा करना है. दूसरा, कैलिफ़ोर्निया SB 697 का अभ्यास समझौता (practice agreement): 1 जनवरी 2020 से प्रभावी सुधार के तहत कैलिफ़ोर्निया ने पुराने प्रत्यायोजन समझौते को अभ्यास समझौते में बदल दिया — एक या अधिक चिकित्सक और PA की संस्था लिखित समझौते से उन चिकित्सा सेवाओं का दायरा तय करते हैं जो PA दे सकता है, और अधिकांश दैनिक नैदानिक कार्य के लिए अब चिकित्सक की प्रत्येक कार्य पर मौके पर निगरानी आवश्यक नहीं है; किंतु नुस्खा-लेखन (prescribing) — नियंत्रित दवाओं सहित — संघीय DEA पंजीकरण और राज्य विधि के अलग अनुशासन में रहता है.
