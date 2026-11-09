@@ -224,3 +224,17 @@ Bản dịch sơ khởi, đang chờ người bản ngữ hiệu đính. Bài n�
 ### हिन्दी (अनुवाद)
 
 प्रारंभिक अनुवाद है; मूल-भाषी समीक्षा लंबित है। यह लेख सार्वजनिक रूप से उपलब्ध परीक्षा और लाइसेंस जानकारी का सार प्रस्तुत करने वाला एक व्यक्तिगत अध्ययन नोट है। यह चिकित्सा सलाह या कानूनी सलाह नहीं है। यहाँ वर्णित पात्रता, परीक्षा या लाइसेंस आवश्यकताओं में कोई बदलाव हो तो JCNDE और Dental Hygiene Board of California की आधिकारिक वेबसाइटों पर वर्तमान सूचनाएँ ही मान्य होंगी।
+
+## 补译增量（2026-11-09 · 初译待校）
+
+### 한국어 (초역 · 初译待校)
+
+(2026-11-09 보충) 두 가지 세부 사항. 첫째, 성적 읽는 법입니다. NBDHE 성적은 49점에서 99점 사이의 척도 점수로 보고되며 최저 합격 기준은 75점입니다. 이 75점은 맞힌 문항 수가 75개라는 뜻도, 정답률 75퍼센트라는 뜻도 아닙니다. 척도 환산 뒤의 합격선이라 원점수와 일대일로 대응하지 않으며, 결과는 최종적으로 합격 또는 불합격의 형태로 각 주 면허 기관에 제공됩니다. 기관이 보는 것은 순위를 매기는 점수표가 아니라 그 결론 자체입니다. 둘째, 캘리포니아의 세 관문입니다. 캘리포니아에서 RDH 면허는 Dental Hygiene Board of California가 Business and Professions Code 제1900조 이하의 규정에 따라 발급합니다. 정규 경로에서는 CODA 인증 프로그램 졸업에 더해 NBDHE 합격, 주가 인정하는 임상시험 합격, 캘리포니아 법률·윤리 시험 합격이 모두 필요하고, 세 관문을 다 넘어야 면허가 나옵니다. 이미 타주 면허를 가진 사람에게는 외주 면허와 실무 경력을 심사하는 licensure by credential 별도 경로가 있으며, 조건은 항목별로 확인해야 합니다.
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+
+(2026-11-09 bổ sung) Hai chi tiết. Thứ nhất, cách đọc điểm: kết quả NBDHE được báo theo thang điểm từ 49 đến 99, và 75 là chuẩn đạt tối thiểu. Con số 75 này không có nghĩa là đúng 75 câu, cũng không phải đúng 75 phần trăm; đó là vạch đạt đã quy đổi theo thang, không tương ứng một-một với số câu đúng gốc, và kết quả cuối cùng được cung cấp cho các cơ quan cấp phép của bang dưới dạng đạt hoặc không đạt — cơ quan dùng chính kết luận đó chứ không phải một bảng điểm để xếp hạng. Thứ hai, ba cửa ải của California: giấy phép RDH tại California do Dental Hygiene Board of California cấp theo các quy định từ mục 1900 trở đi của Business and Professions Code. Theo lộ trình thông thường, ngoài tốt nghiệp chương trình được CODA chứng nhận, ứng viên phải qua NBDHE, qua kỳ thi lâm sàng được bang chấp nhận và qua kỳ thi luật và đạo đức của California; đủ cả ba cửa mới được cấp phép. Người đã có giấy phép ở bang khác có lộ trình riêng là licensure by credential, xét trên giấy phép ngoài bang và lịch sử hành nghề, với điều kiện phải đối chiếu từng mục.
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+
+(2026-11-09 पूरक) दो विवरण. पहला, अंक पढ़ने का तरीका: NBDHE का प्रदर्शन 49 से 99 के पैमाने पर सूचित होता है और 75 न्यूनतम उत्तीर्ण मानक है। यह 75 न तो 75 प्रश्न सही होने का अर्थ है, न 75 प्रतिशत का; यह पैमाने में बदली हुई उत्तीर्ण रेखा है जिसका कच्चे सही उत्तरों से एक-से-एक मेल नहीं है, और परिणाम अंततः उत्तीर्ण या अनुत्तीर्ण के रूप में राज्य लाइसेंस एजेंसियों को दिया जाता है — एजेंसी उसी निष्कर्ष का उपयोग करती है, किसी रैंकिंग वाली अंक-तालिका का नहीं। दूसरा, कैलिफ़ोर्निया के तीन द्वार: कैलिफ़ोर्निया में RDH लाइसेंस Dental Hygiene Board of California द्वारा Business and Professions Code की धारा 1900 से आगे के प्रावधानों के तहत जारी होता है। सामान्य मार्ग पर CODA-प्रमाणित कार्यक्रम से स्नातक होने के साथ-साथ NBDHE उत्तीर्ण करना, राज्य-स्वीकृत नैदानिक परीक्षा उत्तीर्ण करना और कैलिफ़ोर्निया विधि व नैतिकता परीक्षा उत्तीर्ण करना — तीनों द्वार पूरे होने पर ही बोर्ड लाइसेंस जारी करता है। किसी अन्य राज्य में पहले से लाइसेंस रखने वालों के लिए licensure by credential का अलग मार्ग है, जिसका आकलन बाहरी लाइसेंस और अभ्यास इतिहास के आधार पर होता है, यद्यपि उसकी शर्तें बिंदु-दर-बिंदु जाँचनी होती हैं।
