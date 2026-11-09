@@ -119,3 +119,18 @@ Tại California, cơ quan cấp phép là Hội đồng Vật lý trị liệu 
 西班牙语为学习译稿，待母语校对。韩语、越南语、印地语为初译待校。El texto en español es una traducción de estudio, pendiente de revisión por un hablante nativo. 한국어·베트남어·힌디어 본문은 초역으로, 원어민 감수를 기다리고 있습니다. Bản tiếng Hàn, tiếng Việt và tiếng Hindi là bản dịch sơ khởi, đang chờ người bản ngữ hiệu đính. कोरियाई, वियतनामी और हिंदी पाठ प्रारंभिक अनुवाद हैं; मूल-भाषी समीक्षा लंबित है।
 
 声明：本篇为个人学习笔记，不构成医疗建议。This article is a personal study note only and does not constitute medical advice. Este artículo es una nota personal de estudio y no constituye asesoría médica. 본 글은 개인 학습 노트일 뿐, 의료 조언이 아닙니다. Bài viết này chỉ là ghi chú học tập cá nhân và không cấu thành lời khuyên y tế. यह लेख केवल एक व्यक्तिगत अध्ययन नोट है और चिकित्सा सलाह नहीं है।
+
+
+## 补译增量（2026-11-09 · 初译待校）
+
+### 한국어 (초역 · 初译待校)
+
+(2026-11-09 보충) 두 가지 세부 사항. 첫째, 낮은 점수 차단선에 대한 구제 경로입니다. 이전에 두 번 응시해 두 번 모두 400점 이하를 받은 수험생은 더 이상 응시할 수 없는데, 이에 대한 이의신청은 수험생 본인이 FSBPT에 직접 낼 수 없고 반드시 주 면허 기관이 대신 제출해야 합니다. 신청이 승인되면 추가 시험 기회 한 번이 주어지며, 승인 뒤 1년 안에 그 기회를 써야 합니다. 둘째, 캘리포니아 법규 평가 모듈 CAL-JAM의 구체적인 형식입니다. 온라인으로 언제든 시작할 수 있는 모듈로 50문항, 90분, 응시료 50달러이며, 구매한 뒤 96시간 안에 마쳐야 합니다. 80퍼센트를 맞히면 통과하고 시도 횟수에는 제한이 없습니다. 틀린 문항은 근거가 되는 법규를 즉시 보여 주고 한 번 다시 답할 기회를 주어, 시험이면서 동시에 학습 도구로 설계되어 있습니다.
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+
+(2026-11-09 bổ sung) Hai chi tiết. Thứ nhất, đường cứu xét đối với rào điểm thấp: thí sinh đã thi hai lần và cả hai lần đều từ 400 điểm trở xuống thì không được thi tiếp, và đơn xin cứu xét không được do thí sinh trực tiếp nộp cho FSBPT, mà phải do cơ quan cấp phép của bang nộp thay; nếu được chấp thuận, thí sinh có thêm một lần thi và phải dùng cơ hội đó trong vòng một năm kể từ khi được duyệt. Thứ hai, hình thức cụ thể của mô-đun đánh giá pháp quy California CAL-JAM: đây là mô-đun trực tuyến có thể bắt đầu bất cứ lúc nào, gồm 50 câu hỏi trong 90 phút, phí 50 đô la, và phải hoàn thành trong vòng 96 giờ sau khi mua; đạt từ 80 phần trăm là đỗ và không giới hạn số lần làm; câu trả lời sai sẽ được hiển thị ngay căn cứ pháp quy liên quan và được trả lời lại một lần, nên mô-đun này vừa là bài kiểm tra vừa là công cụ học tập.
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+
+(2026-11-09 पूरक) दो विवरण. पहला, निम्न-अंक रोक के विरुद्ध राहत का मार्ग: जो अभ्यर्थी पहले दो बार परीक्षा दे चुका हो और दोनों बार 400 अंक या उससे कम पाए हों, वह आगे परीक्षा नहीं दे सकता, और इसके विरुद्ध अपील अभ्यर्थी स्वयं FSBPT को सीधे नहीं दे सकता — अपील केवल राज्य लाइसेंस प्राधिकरण ही उसकी ओर से प्रस्तुत कर सकता है; अपील स्वीकार होने पर एक अतिरिक्त परीक्षा अवसर मिलता है, जिसे स्वीकृति के बाद एक वर्ष के भीतर उपयोग करना होता है. दूसरा, कैलिफ़ोर्निया विधि-मूल्यांकन मॉड्यूल CAL-JAM का ठोस प्रारूप: यह ऑनलाइन मॉड्यूल कभी भी शुरू किया जा सकता है, इसमें 50 प्रश्न और 90 मिनट हैं, शुल्क 50 डॉलर है, और खरीद के बाद 96 घंटों के भीतर इसे पूरा करना होता है; 80 प्रतिशत सही उत्तर पर उत्तीर्ण माना जाता है और प्रयासों की कोई सीमा नहीं है; गलत उत्तर पर संबंधित विधि-प्रावधान तुरंत दिखाया जाता है और एक बार फिर उत्तर देने का अवसर मिलता है, इसलिए यह मॉड्यूल परीक्षा के साथ-साथ सीखने का साधन भी है.

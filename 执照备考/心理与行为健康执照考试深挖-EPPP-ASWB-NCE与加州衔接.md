@@ -100,3 +100,18 @@ Hãy xếp việc ôn tập quanh bốn việc. Thứ nhất, ôn theo bản đ�
 本仓库为个人学习笔记，不构成医疗、法律或职业规划建议（This repository contains personal study notes only and does not constitute medical, legal or career advice）。考试结构、通过标准与发照要求以 ASPPB、ASWB、NBCC、加州心理委员会与加州行为科学委员会（BBS）的官方公布为准，各州要求可能不同。
 
 *六语对照：中文主文，English 次之，Español 为学习译稿，한국어·Tiếng Việt·हिन्दी 为初译待校。*
+
+
+## 补译增量（2026-11-09 · 初译待校）
+
+### 한국어 (초역 · 初译待校)
+
+(2026-11-09 보충) 두 가지 세부 사항. 첫째, 캘리포니아 심리사 면허의 네 관문입니다. 심리사 면허는 심리위원회(Board of Psychology)가 발급하며, 박사 학위, 감독 아래 쌓은 전문 경험 3,000시간(그중 최소 1,500시간은 박사 학위 취득 뒤에 채운 것), EPPP 통과, 그리고 캘리포니아 심리 법·윤리 시험 CPLEE 통과가 모두 갖춰져야 합니다. 둘째, 캘리포니아만의 임상시험 차이입니다. 행동과학위원회(BBS) 관할 세 노선은 모두 감독 경험 3,000시간을 최소 104주에 걸쳐 채우고 캘리포니아 법·윤리 시험을 먼저 통과한 뒤 임상시험을 봅니다. 그런데 LMFT의 임상시험은 AMFTRB 전국 시험이 아니라 BBS가 위탁해 만든 캘리포니아 자체 임상시험이고, LPCC의 임상시험은 NBCC의 NCMHCE를 씁니다. 같은 치료 노선이라도 캘리포니아로 옮기면 시험 목록이 달라지므로, 다른 주에서 온 사람은 전국 시험 성적이 자동으로 옮겨 온다고 가정하면 안 됩니다.
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+
+(2026-11-09 bổ sung) Hai chi tiết. Thứ nhất, bốn cửa của giấy phép tâm lý học tại California: giấy phép do Hội đồng Tâm lý học (Board of Psychology) cấp, đòi hỏi đồng thời bằng tiến sĩ, 3.000 giờ kinh nghiệm chuyên môn có giám sát (trong đó ít nhất 1.500 giờ hoàn thành sau tiến sĩ), đỗ kỳ thi EPPP, và đỗ kỳ thi luật và đạo đức tâm lý California CPLEE. Thứ hai, khác biệt riêng của California về kỳ thi lâm sàng: cả ba tuyến thuộc Hội đồng Khoa học Hành vi (BBS) đều yêu cầu 3.000 giờ kinh nghiệm có giám sát, hoàn thành trong tối thiểu 104 tuần, và phải đỗ kỳ thi luật và đạo đức California trước khi thi lâm sàng; tuy nhiên kỳ thi lâm sàng của LMFT không phải bài thi quốc gia của AMFTRB mà là bài thi lâm sàng riêng của California do BBS ủy thác biên soạn, còn kỳ thi lâm sàng của LPCC dùng bài NCMHCE của NBCC. Cùng một tuyến trị liệu, chuyển sang California là danh mục kỳ thi thay đổi, nên người chuyển bang không được mặc định rằng điểm thi quốc gia sẽ tự động được chuyển theo.
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+
+(2026-11-09 पूरक) दो विवरण. पहला, कैलिफ़ोर्निया में मनोवैज्ञानिक लाइसेंस के चार द्वार: यह लाइसेंस मनोविज्ञान बोर्ड (Board of Psychology) देता है और इसके लिए एक साथ डॉक्टरेट डिग्री, पर्यवेक्षण में 3,000 घंटों का पेशेवर अनुभव (जिसमें से कम से कम 1,500 घंटे डॉक्टरेट के बाद पूरे किए गए हों), EPPP में उत्तीर्ण होना, और कैलिफ़ोर्निया मनोविज्ञान विधि व नैतिकता परीक्षा CPLEE में उत्तीर्ण होना आवश्यक है. दूसरा, नैदानिक परीक्षा में कैलिफ़ोर्निया की अपनी विशेषता: व्यवहार विज्ञान बोर्ड (BBS) की तीनों पंक्तियों में 3,000 घंटों का पर्यवेक्षित अनुभव कम से कम 104 सप्ताह में पूरा करना होता है और पहले कैलिफ़ोर्निया विधि व नैतिकता परीक्षा देकर फिर नैदानिक परीक्षा देनी होती है; किंतु LMFT की नैदानिक परीक्षा AMFTRB की राष्ट्रीय परीक्षा नहीं है, वह BBS द्वारा तैयार कराई गई की गई कैलिफ़ोर्निया की अपनी नैदानिक परीक्षा है, और LPCC की नैदानिक परीक्षा NBCC की NCMHCE है. एक ही उपचार पंक्ति कैलिफ़ोर्निया आने पर परीक्षा सूची बदल जाती है, इसलिए दूसरे राज्य से आने वाला व्यक्ति यह मानकर न चले कि राष्ट्रीय परीक्षा के अंक अपने आप स्थानांतरित हो जाएँगे.
