@@ -100,3 +100,19 @@ Khung pháp lý của California là Đạo luật Công nghệ X-quang: Health 
 本仓库为个人学习笔记，不构成医疗建议（This repository contains personal study notes only and does not constitute medical advice）。具体报考与执业要求请以 ARRT 与 CDPH-RHB 官方文本为准；出现急症症状请立即拨打 911。
 
 *六语对照：中文主文，English 次之，Español 为学习译稿，한국어·Tiếng Việt·हिन्दी 为初译待校。*
+
+---
+
+## 补译增量（2026-11-09 12:55 轮）
+
+### 한국어 (초역 · 初译待校)
+- ARRT 자격 유지는 세 겹으로 굴러갑니다. 매년 등록을 갱신하고, 2년 단위(biennium)로 계속교육 24학점을 채우며, 10년마다 계속 자격 요건 평가(CQR)를 받습니다. 주 인증 위에 얹는 포스트프라이머리 경로(CT, MRI, 유방촬영, 중재 등)는 구조화된 교육 시간과 임상 경험 기록을 쌓은 뒤 전문 시험을 따로 치르는 구조입니다.
+- 캘리포니아 CRT 신청의 돈과 종이: 신청 수수료는 범주당 112달러, 2년 갱신 수수료는 범주당 104달러이며, 신청할 때 CDPH 8200 양식과 함께 Live Scan 지문 배경 심사를 거칩니다. 갱신 주기마다 계속교육 24시간이 필요하고 그 안에 디지털 방사선 촬영 4시간이 반드시 포함됩니다. 투시 허가는 진단 CRT를 먼저 딴 뒤에 받는 별도 허가이며, 2011년 1월 1일 이후 ARRT 방사선 촬영 시험에 합격하고 자격 있는 프로그램을 졸업한 사람은 주 투시 시험이 면제되어 CDPH 8228 양식으로 바로 신청할 수 있습니다.
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+- Việc duy trì chứng chỉ ARRT chạy theo ba lớp: đăng ký lại hằng năm, hoàn thành 24 tín chỉ giáo dục liên tục trong mỗi chu kỳ hai năm (biennium), và đánh giá yêu cầu năng lực liên tục (CQR) mỗi mười năm. Các hướng postprimary đặt trên chứng chỉ chính — CT, MRI, nhũ ảnh, can thiệp — đòi hỏi giờ giáo dục có cấu trúc cộng hồ sơ kinh nghiệm lâm sàng, rồi thi thêm một kỳ thi chuyên khoa riêng.
+- Tiền và giấy tờ khi xin CRT ở California: lệ phí nộp đơn là 112 đô la cho mỗi loại, lệ phí gia hạn hai năm là 104 đô la cho mỗi loại, nộp kèm mẫu CDPH 8200 và kiểm tra lý lịch bằng dấu vân tay Live Scan. Mỗi chu kỳ gia hạn cần 24 giờ giáo dục liên tục, trong đó bắt buộc có 4 giờ về chụp X-quang kỹ thuật số. Giấy phép chiếu huỳnh quang là giấy phép riêng, chỉ xin được sau khi đã có CRT chẩn đoán; người đỗ kỳ thi chụp X-quang của ARRT sau ngày 1 tháng 1 năm 2011 và tốt nghiệp chương trình đủ điều kiện thì được miễn kỳ thi chiếu huỳnh quang của bang và nộp thẳng mẫu CDPH 8228.
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+- ARRT प्रमाणपत्र का रखरखाव तीन परतों में चलता है: हर वर्ष पंजीकरण का नवीनीकरण, हर दो वर्ष की अवधि (biennium) में 24 सतत शिक्षा क्रेडिट, और हर दस वर्ष में सतत योग्यता आवश्यकता मूल्यांकन (CQR)। मुख्य प्रमाणपत्र के ऊपर की postprimary दिशाएँ — CT, MRI, मैमोग्राफ़ी, इंटरवेंशन — संरचित शिक्षा घंटों और नैदानिक अनुभव अभिलेख के बाद एक अलग विशेषज्ञ परीक्षा माँगती हैं।
+- कैलिफ़ोर्निया CRT आवेदन के पैसे और काग़ज़ात: आवेदन शुल्क प्रति श्रेणी 112 डॉलर है, दो वर्ष का नवीनीकरण शुल्क प्रति श्रेणी 104 डॉलर है, आवेदन के साथ CDPH 8200 फ़ॉर्म और Live Scan फ़िंगरप्रिंट पृष्ठभूमि जाँच लगती है। हर नवीनीकरण चक्र में 24 घंटे की सतत शिक्षा चाहिए, जिसमें डिजिटल रेडियोग्राफ़ी के 4 घंटे अनिवार्य रूप से शामिल हों। फ़्लोरोस्कोपी परमिट एक अलग परमिट है जो पहले डायग्नोस्टिक CRT लेने के बाद ही मिलता है; 1 जनवरी 2011 के बाद ARRT रेडियोग्राफ़ी परीक्षा पास करके योग्य कार्यक्रम से स्नातक करने वालों को राज्य की फ़्लोरोस्कोपी परीक्षा से छूट मिलती है और वे सीधे CDPH 8228 फ़ॉर्म से आवेदन कर सकते हैं।

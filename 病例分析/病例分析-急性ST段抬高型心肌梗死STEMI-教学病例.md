@@ -109,3 +109,19 @@ Mở được mạch không có nghĩa là xong chuyện; những ngày đầu c
 本仓库为个人学习笔记，不构成医疗建议（This repository contains personal study notes only and does not constitute medical advice）。具体病情诊断、用药剂量与治疗决策请咨询持牌医生、药师等专业人员；出现胸痛、呼吸困难等急症症状请立即拨打 911 或前往急诊。文中法规与流程为一般性介绍，各州规定可能不同，请以官方文本和专业意见为准。
 
 *六语对照：中文主文，English 次之，Español 为学习译稿，한국어·Tiếng Việt·हिन्दी 为初译待校。*
+
+---
+
+## 补译增量（2026-11-09 12:55 轮）
+
+### 한국어 (초역 · 初译待校)
+- 재관류 시계는 첫 의료 접촉에서 시작합니다. 직접 PCI는 첫 접촉부터 기구 개통까지 90분 이내가 목표이고, PCI가 안 되는 병원에서 전원해야 하면 120분 이내로 잡습니다. 그 시간 안에 PCI가 어렵고 발병 12시간 이내이며 금기가 없으면 혈전 용해를 택하는데, 도착부터 주사까지(door-to-needle) 30분 이내가 목표입니다. 용해가 끝이 아니라, 용해 후 2~24시간 안에 PCI 가능 센터로 옮겨 조영으로 개통 상태를 확인합니다.
+- 심장 재활 의뢰는 말로만 전하는 것이 아니라 실제로 발급되어야 하며, 심장 박출률(EF)이 낮게 남아 있더라도 이식형 제세동기(ICD) 평가는 최소 40일을 기다리고 표준 약물 치료가 깔린 상태에서 다시 판단합니다. 그 사이 심근이 회복되면서 EF가 오를 수 있어, 서둘러 결론 내리면 필요 없는 기기를 심을 수 있기 때문입니다.
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+- Đồng hồ tái tưới máu bắt đầu chạy từ lần tiếp xúc y tế đầu tiên. PCI trực tiếp nhắm mục tiêu từ tiếp xúc đầu tiên đến khi mở thông bằng dụng cụ trong vòng 90 phút; nếu phải chuyển viện từ nơi không có PCI thì giới hạn là 120 phút. Khi không thể PCI trong các mốc đó, bệnh còn trong 12 giờ và không có chống chỉ định, thì chọn tiêu sợi huyết với mục tiêu từ lúc đến đến lúc tiêm (door-to-needle) trong 30 phút. Tiêu sợi huyết không phải điểm kết thúc: sau đó phải chuyển đến trung tâm có PCI trong vòng 2 đến 24 giờ để chụp mạch vành đánh giá mức thông.
+- Giấy chuyển đến phục hồi chức năng tim phải được xuất thật, không chỉ nói miệng; và dù phân suất tống máu (EF) vẫn thấp, việc đánh giá máy khử rung cấy được (ICD) vẫn phải chờ tối thiểu 40 ngày và dựa trên nền điều trị thuốc chuẩn rồi mới quyết định, vì trong khoảng thời gian đó EF có thể cải thiện theo sự hồi phục của cơ tim — kết luận quá sớm có thể dẫn đến cấy một thiết bị vốn không cần thiết.
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+- रिपरफ़्यूज़न की घड़ी पहले चिकित्सा संपर्क से चलती है। प्रत्यक्ष PCI का लक्ष्य पहले संपर्क से उपकरण द्वारा धमनी खोलने तक 90 मिनट के भीतर है; यदि PCI सुविधा न रखने वाले अस्पताल से स्थानांतरण करना पड़े तो सीमा 120 मिनट है। यदि उन सीमाओं में PCI संभव न हो, बीमारी 12 घंटों के भीतर हो और कोई प्रतिषेध न हो, तो थ्रोम्बोलिसिस चुना जाता है, जिसका लक्ष्य आगमन से सुई तक (door-to-needle) 30 मिनट के भीतर है। थ्रोम्बोलिसिस अंत नहीं है: उसके बाद 2 से 24 घंटों के भीतर PCI केंद्र में स्थानांतरित करके एंजियोग्राफ़ी से खुलने की स्थिति देखी जाती है।
+- हृदय पुनर्वास का रेफ़रल केवल मुँह से कहकर नहीं, वास्तव में जारी होना चाहिए; और इजेक्शन फ़्रैक्शन (EF) कम बना रहने पर भी प्रत्यारोपण योग्य डिफ़िब्रिलेटर (ICD) का मूल्यांकन कम से कम 40 दिन प्रतीक्षा करके और मानक दवा उपचार की पृष्ठभूमि पर ही तय होता है, क्योंकि इस बीच हृदय-पेशी के ठीक होने के साथ EF सुधर सकता है — जल्दबाज़ी में निष्कर्ष निकालने से अनावश्यक उपकरण लगाया जा सकता है।
