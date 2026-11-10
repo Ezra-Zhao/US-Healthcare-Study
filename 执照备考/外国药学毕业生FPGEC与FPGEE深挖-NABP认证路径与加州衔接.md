@@ -173,3 +173,19 @@ Khi ngày chứng nhận FPGEC xuất hiện trong e-Profile, cửa trước coi
 This article is a personal study note, not medical advice. For licensure and application questions, consult the board of pharmacy of your target state.
 
 *Español, 한국어, Tiếng Việt y हिन्दी: traducción inicial de estudio, pendiente de corrección por hablantes nativos (初译待校).*
+
+---
+
+## 补译增量（2026-11-09 19:55 轮：韩／越／印三语各补 2 项细节增量）
+
+### 한국어（初译待校）
+
+보충 두 가지. 첫째, 성적 쪽 세부사항입니다. FPGEE 성적은 종이 성적표가 우편으로 오지 않고 e-Profile에만 나타나며, 성적의 유효 기간과 성적 발송 코드는 당기 Bulletin을 따릅니다. 준비의 성격도 분명히 해야 합니다. FPGEE 준비는 환자 사례를 중심으로 한 NAPLEX식 면허 임상 시험에 맞추는 것이 아니라, 폭넓은 약학 기초와 임상 적용 전반을 점검하는 등가성 시험에 맞추는 것입니다. 둘째, 캘리포니아 연결의 갈음 경로와 일정 단축 동작입니다. 이미 다른 주에서 면허를 취득해 일정 기간이 지난 사람에게는 보유 기간으로 경험을 갈음하는 연결 기준이 따로 있으며, 구체적인 갈음 범위는 위원회의 당기 신청서를 따릅니다. 전체 일정에서 가장 오래 걸리는 부분은 어느 시험도 아니라 평가 대기와 인턴 시간이라는 두 대기 구간입니다. 서류를 한 번에 정확히 내고, 영어와 평가를 병행으로 진행하며, 인증이 나오는 즉시 인턴 등록을 하는 세 가지 동작이 전체 기간을 줄이는 방법입니다.
+
+### Tiếng Việt（初译待校）
+
+Bổ sung hai điểm. Thứ nhất, chi tiết phía điểm số: điểm FPGEE không được gửi về bằng bản giấy qua bưu điện mà chỉ xuất hiện trong e-Profile, và thời hạn hiệu lực của điểm cùng mã gửi điểm đều theo Bulletin kỳ hiện hành. Tính chất ôn tập cũng phải xác định rõ: ôn cho FPGEE là ôn cho một kỳ thi tương đương rà soát rộng nền tảng dược học và ứng dụng lâm sàng, không phải ôn theo kiểu bài thi lâm sàng cấp phép lấy ca bệnh làm trung tâm như NAPLEX. Thứ hai, đường nối tiếp bằng kinh nghiệm có giấy phép ở bang khác và các động tác rút ngắn tổng thời gian tại California: người đã có giấy phép ở một bang khác trong một thời gian nhất định có một quy chuẩn nối tiếp riêng cho phép quy đổi thời gian hành nghề có giấy phép thành kinh nghiệm, với phạm vi quy đổi cụ thể theo mẫu đơn hiện hành của hội đồng. Phần tốn thời gian nhất của toàn bộ chuỗi không phải bất kỳ kỳ thi nào, mà là hai đoạn chờ: chờ đánh giá hồ sơ và chờ tích lũy giờ thực tập. Ba động tác nén tổng thời gian là nộp hồ sơ đúng ngay lần đầu, chạy song song phần tiếng Anh với phần đánh giá, và đăng ký thực tập sinh ngay khi chứng nhận xuất hiện.
+
+### हिन्दी（初译待校）
+
+दो पूरक बिंदु। पहला, स्कोर पक्ष का विवरण: FPGEE का स्कोर कागज़ पर डाक से नहीं आता, वह केवल e-Profile में दिखाई देता है, और स्कोर की वैधता अवधि तथा स्कोर भेजने का कोड वर्तमान Bulletin के अनुसार होता है। तैयारी का स्वरूप भी स्पष्ट रखें: FPGEE की तैयारी रोगी-मामला केंद्रित NAPLEX-शैली की लाइसेंस नैदानिक परीक्षा के लिए नहीं है, बल्कि व्यापक औषधि-विज्ञान आधार और नैदानिक अनुप्रयोग की समीक्षा करने वाली समकक्षता परीक्षा के लिए है। दूसरा, California में अन्य राज्य के लाइसेंस अनुभव से जुड़ने का मार्ग और कुल समय घटाने के उपाय: जिस व्यक्ति के पास किसी अन्य राज्य का लाइसेंस एक निश्चित अवधि से है, उसके लिए लाइसेंस-अवधि को अनुभव में बदलने का अलग मानदंड है, जिसका ठोस दायरा बोर्ड के वर्तमान आवेदन पत्र से तय होता है। पूरी शृंखला में सबसे अधिक समय किसी परीक्षा में नहीं, बल्कि दो प्रतीक्षा खंडों — मूल्यांकन की कतार और इंटर्नशिप घंटे — में लगता है। कुल समय घटाने के तीन उपाय हैं: दस्तावेज़ पहली बार में ही सही जमा करना, अंग्रेज़ी और मूल्यांकन को समानांतर चलाना, और प्रमाणन आते ही इंटर्न पंजीकरण करा लेना।
