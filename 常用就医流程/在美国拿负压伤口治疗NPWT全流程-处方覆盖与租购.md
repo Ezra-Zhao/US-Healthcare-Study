@@ -85,3 +85,19 @@ Về chi phí, hãy nhớ khung chung: theo Medicare, máy NPWT thường đư�
 ---
 
 *声明：个人学习笔记，不构成医疗建议。来源框架：Social Security Act 的 DME 福利类别；42 C.F.R. § 410.38 一带（DMEPOS 范围与付款条件、面对面就诊与交付前书面医嘱）；CMS Final Rule 1713 与 DME MAC 标准文件要求（Standard Documentation Requirements, A55426 一带）；CMS 负压伤口治疗泵 LCD 与政策文章的一般原则（本文不列具体编号细节）；加州 DHCS / Medi-Cal 的 DME 事先授权一般口径。具体覆盖以 CMS、DME MAC 与所持计划当期文件为准。全文不写处置参数、负压数值与药物剂量。*
+
+---
+
+## 补译增量（2026-11-10 02:55 轮追加：韩／越／印三语补齐中文主文细节，正文原有段落未改动）
+
+### 한국어 보충 (초역 · 初译待校)
+
+보충합니다. 첫째, 두 가지 딱딱한 절차 문의 순서입니다. 대면 진료(face-to-face encounter)는 치료자가 지시를 내리기 전 6개월 안에 있어야 하고, 직접 방문이거나 요건을 갖춘 원격 형식이어야 하며, 그 진료 내용이 이 장비를 뒷받침해야 합니다. 배송 전 서면 지시(WOPD)에서는 공급업체가 배송 전에 서명된 서면 지시를 받아 두어야 하며, 먼저 배송하고 서류를 나중에 채우는 순서는 청구 전체의 거절로 이어집니다. 둘째, 청구서의 두 줄과 보험 교체 때의 단절 위험입니다. 펌프 임대료와 용품비(드레싱·수집통)가 청구서에 따로 나오는 것은 정상이며, 이중 청구로 단정하기 전에 EOB를 대조하고 공급업체에 확인하십시오. 치료 도중 보험을 바꾸는 캘리포니아 주민은 새 플랜이 기존 공급업체와 사용 중인 장비를 인정하는지 먼저 확인해야 치료 중간에 공급이 끊기지 않습니다.
+
+### Bổ sung Tiếng Việt (bản dịch sơ bộ · 初译待校)
+
+Bổ sung. Thứ nhất, thứ tự của hai cửa thủ tục cứng. Buổi khám trực tiếp (face-to-face encounter) phải diễn ra trong vòng sáu tháng trước khi người điều trị ra y lệnh, theo hình thức gặp mặt trực tiếp hoặc từ xa đủ điều kiện, và nội dung buổi khám phải nâng đỡ được việc dùng thiết bị này. Với y lệnh bằng văn bản trước khi giao hàng (WOPD), nhà cung cấp phải cầm được y lệnh đã ký trước khi giao hàng; giao hàng trước rồi bổ sung giấy tờ sau sẽ khiến toàn bộ hồ sơ bị từ chối. Thứ hai, hai dòng trên hóa đơn và nguy cơ đứt quãng khi đổi bảo hiểm. Việc tiền thuê máy và phí vật tư (băng gạc và bình chứa) xuất hiện thành hai dòng riêng trên hóa đơn là bình thường; hãy đối chiếu EOB và hỏi nhà cung cấp trước khi kết luận bị tính trùng. Người dân California đổi bảo hiểm giữa chừng điều trị nên xác nhận trước chương trình mới có chấp nhận nhà cung cấp hiện tại và thiết bị đang dùng hay không, để việc điều trị không bị ngắt giữa chừng.
+
+### हिन्दी पूरक (प्रारंभिक अनुवाद · 初译待校)
+
+पूरक विवरण। पहला, दो कठोर प्रक्रियात्मक दरवाज़ों का क्रम। आमने-सामने मुलाकात (face-to-face encounter) उपचारकर्ता के आदेश देने से पहले छह महीनों के भीतर होनी चाहिए, आमने-सामने या पात्र दूरस्थ रूप में, और उस मुलाकात की सामग्री इस उपकरण का समर्थन करने वाली होनी चाहिए। डिलीवरी-पूर्व लिखित आदेश (WOPD) में आपूर्तिकर्ता को डिलीवरी से पहले हस्ताक्षरित लिखित आदेश प्राप्त कर लेना होता है; पहले डिलीवरी करके काग़ज़ बाद में पूरे करने का क्रम पूरे दावे की अस्वीकृति तक ले जाता है। दूसरा, बिल की दो पंक्तियाँ और प्लान बदलने पर टूट का जोखिम। पंप-किराया और सामग्री-शुल्क (ड्रेसिंग व कैनिस्टर) का बिल में अलग पंक्तियों में आना सामान्य है; दोहरी वसूली मानने से पहले EOB मिलाएँ और आपूर्तिकर्ता से पूछें। उपचार के बीच बीमा बदलने वाले California निवासी पहले पुष्ट करें कि नया प्लान मौजूदा आपूर्तिकर्ता और उपयोग में चल रहे उपकरण को मानता है या नहीं, ताकि उपचार बीच में न टूटे।
