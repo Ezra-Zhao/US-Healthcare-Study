@@ -143,3 +143,17 @@ Một loại kết quả khác không liên quan đến chính phổi: vùng ch�
 *개인 학습 노트이며 의료 자문이 아닙니다. 응급 상황에서는 911에 전화하십시오. (초역·待校)*
 *Ghi chú học tập cá nhân, không phải tư vấn y tế. Trong trường hợp khẩn cấp, hãy gọi 911. (bản dịch sơ bộ·待校)*
 *व्यक्तिगत अध्ययन नोट; चिकित्सा सलाह नहीं है। आपातकाल में 911 पर कॉल करें। (प्रारंभिक अनुवाद·待校)*
+
+## 补译增量（2026-11-10 · 初译待校）
+
+### 한국어 (초역 · 初译待校)
+
+(2026-11-10 보충) 두 가지 세부 사항. 첫째, 팩이어(pack-years)의 계산 예시입니다. 하루에 피우는 갑 수에 피운 햇수를 곱한 값이 팩이어입니다. 하루 한 갑씩 20년이면 20팩이어, 하루 두 갑씩 10년이어도 20팩이어, 하루 반 갑이면 40년을 피워야 20팩이어에 닿습니다. 자기 숫자가 어림으로 안 잡히면 대략의 갑 수와 햇수를 주치의(PCP)에게 알려 함께 계산하십시오. 자격에 맞추려고 숫자를 부풀리면 안 됩니다. 그 숫자가 차트에 적혀 이후 해마다의 추적이 그 숫자를 따라가기 때문입니다. 둘째, 선별 검사를 멈추는 선입니다. 금연한 지 15년이 지났거나, 심각한 건강 문제로 기대 여명이 제한되거나, 근치적 폐 수술을 받을 수 없거나 받기를 원하지 않는 사람은 선별 검사를 중단하는 것이 USPSTF 권고의 정함입니다. 또 선별 검사는 증상이 없는 사람을 위한 것이어서, 객혈이나 새로 생긴 지속 기침, 원인 모를 체중 감소 같은 증상이 있으면 선별 일정에 넣지 말고 진단 검사 경로로 가야 합니다.
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+
+(2026-11-10 bổ sung) Hai chi tiết. Thứ nhất, ví dụ tính số gói-năm (pack-years): lấy số gói hút mỗi ngày nhân với số năm đã hút. Mỗi ngày một gói trong 20 năm là 20 gói-năm; mỗi ngày hai gói trong 10 năm cũng là 20 gói-năm; còn mỗi ngày nửa gói thì phải hút đủ 40 năm mới chạm 20 gói-năm. Nếu tự ước lượng không chắc, hãy cho bác sĩ chăm sóc ban đầu (PCP) biết con số gói và số năm gần đúng để cùng tính; đừng khai cao lên để cho đủ điều kiện, vì con số đó sẽ được ghi vào hồ sơ và việc theo dõi hằng năm sau này đều đi theo nó. Thứ hai, đường dừng sàng lọc. Khuyến nghị của USPSTF định rõ nên dừng sàng lọc khi đã bỏ thuốc đủ 15 năm, hoặc khi có vấn đề sức khỏe nghiêm trọng khiến tuổi thọ kỳ vọng bị giới hạn, hoặc khi không thể hay không muốn thực hiện phẫu thuật phổi triệt căn. Đồng thời, sàng lọc chỉ dành cho người không có triệu chứng; ai đã có ho ra máu, ho kéo dài mới xuất hiện hay sụt cân không rõ nguyên nhân thì không xếp vào lịch sàng lọc, mà phải đi đường kiểm tra chẩn đoán.
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+
+(2026-11-10 पूरक) दो विवरण. पहला, pack-years का गणना-उदाहरण. प्रतिदिन पीए गए पैक की संख्या को धूम्रपान के वर्षों से गुणा करने पर pack-years निकलता है. रोज़ एक पैक 20 वर्ष तक पीने से 20 pack-years बनते हैं; रोज़ दो पैक 10 वर्ष तक पीने से भी 20 pack-years बनते हैं; और रोज़ आधा पैक पीने पर 20 pack-years तक पहुँचने के लिए 40 वर्ष लगेंगे. अपना आँकड़ा स्वयं निश्चित न हो तो अनुमानित पैक-संख्या व वर्ष अपने प्राथमिक चिकित्सक (PCP) को बताकर साथ में गिनें; योग्यता पूरी करने के लिए संख्या बढ़ाकर न बताएँ, क्योंकि वही संख्या chart में दर्ज होती है और आगे के हर वर्ष का अनुवर्ती उसी के अनुसार चलता है. दूसरा, screening रोकने की रेखा. USPSTF की सिफ़ारिश स्पष्ट करती है कि धूम्रपान छोड़े 15 वर्ष हो जाने पर, या गंभीर स्वास्थ्य समस्या से अपेक्षित आयु सीमित होने पर, या curative फेफड़ा-शल्यक्रिया कराने में असमर्थ या अनिच्छुक होने पर screening रोक देनी चाहिए. साथ ही, screening लक्षण-रहित लोगों के लिए है; जिसे ख़ून की खाँसी, नई लगातार खाँसी या अकारण वज़न-घटना जैसे लक्षण हों, उसे screening की कतार में नहीं, निदान-जाँच के मार्ग पर जाना चाहिए.
