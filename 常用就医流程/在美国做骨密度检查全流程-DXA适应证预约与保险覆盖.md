@@ -121,3 +121,17 @@ Español: Este artículo es una nota de estudio personal y no constituye consejo
 Tiếng Việt: Bài viết này là ghi chép học tập cá nhân và không cấu thành lời khuyên y tế; hãy tham khảo bác sĩ của bạn về việc tầm soát hoặc điều trị có phù hợp với bạn hay không.
 
 हिन्दी: यह लेख एक व्यक्तिगत अध्ययन नोट है और चिकित्सा सलाह नहीं है; screening या उपचार आपके लिए उचित है या नहीं, इस पर अपने चिकित्सक से परामर्श करें।
+
+## 补译增量（2026-11-10 · 初译待校）
+
+### 한국어 (초역 · 初译待校)
+
+두 가지를 덧붙입니다. 첫째, 재검사 간격은 보통 연 단위로 잡습니다. 몇 달 만에 다시 재는 것은 의미가 제한적이므로, 구체적인 재검사 리듬은 검사를 지시한 의사의 판단을 따르십시오. 판독 보고서가 이전 결과와 비교해 변화 속도를 보는 것도 이 간격을 정하기 위한 것입니다. 둘째, 보험이 없어 전액 자비로 하려는 경우, 기관마다 전체 가격이 상당히 다릅니다. 예약할 때 시작 가격만 듣지 말고 총가격을 분명히 물은 뒤 견적을 비교하십시오. (초역 · 初译待校)
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+
+Thêm hai điểm. Một, khoảng cách kiểm tra lại thường tính theo năm. Đo lại chỉ sau vài tháng có ý nghĩa hạn chế, nên nhịp kiểm tra lại cụ thể hãy theo phán đoán của bác sĩ chỉ định; bản thân báo cáo đọc kết quả cũng so sánh với kết quả trước để xem tốc độ thay đổi, chính là để định khoảng cách này. Hai, nếu không có bảo hiểm và định tự trả toàn bộ, giá trọn gói giữa các cơ sở chênh nhau không ít: khi đặt lịch hãy hỏi rõ tổng giá rồi mới so sánh, đừng chỉ nghe một mức giá khởi điểm. (bản dịch sơ bộ · 初译待校)
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+
+दो बातें और जोड़ें। एक, दोबारा जाँच का अंतराल आमतौर पर वर्षों में रखा जाता है। कुछ ही महीनों में फिर से मापने का अर्थ सीमित होता है, इसलिए दोबारा जाँच की ठोस लय order देने वाले चिकित्सक के निर्णय के अनुसार रखें; पढ़ने वाले चिकित्सक की report पिछले परिणामों से तुलना करके बदलाव की गति देखती है, वही तुलना इस अंतराल को तय करने के काम आती है। दो, यदि बीमा न हो और पूरा ख़र्च स्वयं उठाना हो, तो संस्थानों के बीच कुल कीमत में अच्छा-खासा अंतर होता है: booking के समय केवल शुरुआती कीमत न सुनें, कुल कीमत स्पष्ट पूछकर ही तुलना करें। (प्रारंभिक अनुवाद · 初译待校)

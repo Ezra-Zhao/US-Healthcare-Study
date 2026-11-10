@@ -62,6 +62,8 @@ Fuera del hospital hay tres rutas paralelas: la agencia estatal de inspección �
 
 *주: 개인 학습 노트이며 의료·법률 자문이 아닙니다. 응급 시 911에 연락하십시오. 출처: 42 C.F.R. §482.13((a)(2) 포함); CMS State Operations Manual Appendix A; 22 C.C.R. §70707; CDPH Licensing & Certification 불만 안내; CMS BFCC-QIO 자료. 초역으로 원어민 감수 대기 중입니다.*
 
+
+**보충 (补译增量):** 두 가지를 덧붙입니다. 첫째, 현장에서 풀리는 가벼운 불만과 공식 grievance를 가르는 실무 판단선은 셋입니다. 환자가 조사나 서면 답변을 요구하는지, 문제가 당직 직원의 권한을 넘는 것인지, 당사자가 구두 처리 결과를 받아들이지 않겠다고 이미 밝혔는지입니다. 어느 쪽인지 가리기 어려울 때는 공식 grievance로 등록하는 편이 환자에게도 병원에도 더 안전합니다. 둘째, 흔한 오해 하나를 바로잡습니다. 병원이나 감독 기관에 불만을 제기했다고 해서 환자가 응급 진료를 계속 받는 데 불이익이 생기지 않습니다. EMTALA의 응급 선별과 안정화 의무는 불만 절차와 독립적으로 존재합니다.
 ---
 
 ## Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
@@ -74,6 +76,8 @@ Bên ngoài bệnh viện có ba tuyến song song: cơ quan khảo sát của b
 
 *Ghi chú: ghi chép học tập cá nhân, không phải tư vấn y tế hay pháp lý. Khẩn cấp hãy gọi 911. Nguồn: 42 C.F.R. §482.13 (gồm (a)(2)); CMS State Operations Manual Appendix A; 22 C.C.R. §70707; thông tin khiếu nại của CDPH Licensing & Certification; tài liệu CMS về BFCC-QIO. Bản dịch sơ bộ, chờ hiệu đính.*
 
+
+**Bổ sung (补译增量):** Thêm hai điểm. Một, lằn ranh thực hành để phân biệt phàn nàn nhỏ xử lý tại chỗ với grievance chính thức có ba đường: bệnh nhân có yêu cầu điều tra hoặc trả lời bằng văn bản hay không, vấn đề có vượt quá thẩm quyền của nhân viên đang trực hay không, và đương sự đã tuyên bố không chấp nhận kết quả xử lý bằng lời nói hay chưa. Khi khó phân định, ghi nhận theo grievance chính thức là cách chắc chắn hơn cho cả bệnh nhân lẫn bệnh viện. Hai, sửa một hiểu lầm thường gặp: việc khiếu nại lên bệnh viện hoặc cơ quan quản lý không ảnh hưởng tới việc bệnh nhân tiếp tục nhận chăm sóc khẩn cấp; nghĩa vụ sàng lọc và ổn định cấp cứu của EMTALA tồn tại độc lập với thủ tục khiếu nại.
 ---
 
 ## हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
@@ -85,3 +89,5 @@ Bên ngoài bệnh viện có ba tuyến song song: cơ quan khảo sát của b
 अस्पताल के बाहर तीन समानांतर मार्ग हैं: राज्य सर्वे एजेंसी — कैलिफ़ोर्निया में Public Health विभाग का Licensing & Certification प्रभाग, जो अस्पताल की गुणवत्ता, सुरक्षा व अनुपालन की शिकायतों का वर्गीकरण करता है (राज्य कानून के तहत अस्पताल रोगी अधिकारों की सूची 22 C.C.R. §70707 में है); अस्पताल की मान्यता संस्था, जहाँ deemed status हो; और Medicare गुणवत्ता शिकायतों व छुट्टी अपीलों के लिए BFCC-QIO। किसी भी मार्ग में पहले आंतरिक प्रक्रिया समाप्त करना आवश्यक नहीं है। सीमा स्पष्ट रखें: गुणवत्ता, सुरक्षा व व्यवहार की शिकायतें grievance और नियामक शिकायत से; बिल व अस्वीकृति योजना अपील और कैलिफ़ोर्निया IMR जैसी बाहरी समीक्षा से जाती हैं — दोनों हों तो अलग-अलग दाख़िल करें। व्यवहार में: तिथि, विभाग और अपेक्षित परिणाम लिखकर शिकायत लिखित में करें और grievance के रूप में दर्ज होने की पुष्टि माँगें; अस्पताल का लिखित उत्तर बाद की एजेंसी शिकायत के साक्ष्य के रूप में रखें; वादा की गई अवधि बीतने पर चुप्पी रहे तो सीधे CDPH को जाएँ; और Medicare छुट्टी विवाद में सबसे पहले QIO को कॉल करें — उसकी समय-सीमाएँ पूरे तंत्र में सबसे छोटी हैं।
 
 *टिप्पणी: व्यक्तिगत अध्ययन नोट्स, चिकित्सा या कानूनी सलाह नहीं। आपात स्थिति में 911 पर कॉल करें। स्रोत: 42 C.F.R. §482.13 ((a)(2) सहित); CMS State Operations Manual Appendix A; 22 C.C.R. §70707; CDPH Licensing & Certification शिकायत जानकारी; CMS BFCC-QIO सामग्री। यह प्रारंभिक अनुवाद है, समीक्षा लंबित है।*
+
+**पूरक (补译增量):** दो बातें और जोड़ें। एक, मौके पर सुलझने वाली छोटी शिकायत और औपचारिक grievance को अलग करने की व्यावहारिक कसौटी तीन हैं: क्या रोगी जाँच या लिखित उत्तर माँग रहा है, क्या मामला ड्यूटी पर मौजूद कर्मचारी के अधिकार-क्षेत्र से बाहर है, और क्या पक्षकार पहले ही कह चुका है कि वह मौखिक निपटारे का परिणाम स्वीकार नहीं करेगा। जब तय करना कठिन हो, तो औपचारिक grievance के रूप में दर्ज करना रोगी और अस्पताल — दोनों — के लिए अधिक सुरक्षित रहता है। दो, एक आम भ्रम दूर करें: अस्पताल या नियामक एजेंसी को शिकायत करने से रोगी की आपातकालीन देखभाल जारी रहने पर कोई असर नहीं पड़ता; EMTALA के आपातकालीन screening और stabilization कर्तव्य शिकायत प्रक्रिया से स्वतंत्र रूप से मौजूद रहते हैं।
