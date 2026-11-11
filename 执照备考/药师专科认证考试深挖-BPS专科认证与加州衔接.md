@@ -89,3 +89,17 @@ California के संबंध के लिए पहले लाइसे�
 本文为个人学习笔记，不构成医疗建议，也不构成执业资格意见。This is a personal study note, not medical advice and not advice on professional licensure. Esta es una nota de estudio personal, no asesoría médica ni asesoría sobre licencias. 개인 학습 노트이며 의료 자문이나 자격 자문이 아닙니다. Đây là ghi chép học tập cá nhân, không phải tư vấn y tế và không phải tư vấn về giấy phép hành nghề. यह व्यक्तिगत अध्ययन नोट है; चिकित्सा सलाह नहीं और व्यावसायिक लाइसेंस संबंधी सलाह भी नहीं।
 
 *Español、한국어、Tiếng Việt、हिन्दी 为初译待校。*
+
+## 补译增量（2026-11-10 21:55 轮 · 初译待校）
+
+### 한국어 (초역 · 初译待校)
+보충 하나, 전문 분야 고르기입니다. 먼저 본인의 일상 업무가 실제로 몰리는 환자군과 치료 장면을 보고, 그다음 손에 있는 훈련과 직무가 맞는지를 봅니다. 이름이 인기 있는 분야만 골라 경력 기간을 억지로 맞추지 마십시오. 그렇게 하면 시험과 재인증을 길게 버티기 어렵습니다.
+보충 둘, 시험 준비와 재인증 마무리입니다. 준비는 현행 개요의 내용 영역을 본인이 다룬 전문 증례와 하나씩 대조해 약한 영역부터 먼저 메웁니다. 재인증 해가 가까워지면 지속 전문성 개발(CPD) 기록과 학점 증빙을 한 번에 모아 다시 확인합니다.
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+Bổ sung một, cách chọn chuyên khoa: trước hết nhìn vào nhóm bệnh nhân và bối cảnh điều trị mà công việc hằng ngày của mình thật sự tập trung vào, rồi mới xem đào tạo và vị trí trong tay có khớp hay không; đừng chỉ chọn chuyên khoa có tên đang «hot» rồi gượng ép cho đủ số năm kinh nghiệm, vì như vậy dù đăng ký được cũng khó trụ qua kỳ thi và các chu kỳ tái chứng nhận.
+Bổ sung hai, chuẩn bị thi và khâu cuối của tái chứng nhận: ôn thi theo đề cương hiện hành, đối chiếu từng lĩnh vực nội dung với các ca chuyên khoa mình từng xử lý, và ưu tiên lấp lĩnh vực yếu trước; khi năm tái chứng nhận đến gần, tập hợp hồ sơ Phát triển Nghề nghiệp Liên tục (CPD) và chứng từ tín chỉ lại để rà soát một lượt.
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+पूरक एक, विशेषज्ञता चुनना: पहले यह देखें कि आपका दैनिक कार्य वास्तव में किन रोगी-समूहों और उपचार-परिस्थितियों पर केंद्रित है, फिर देखें कि उपलब्ध प्रशिक्षण और पद उससे मेल खाते हैं या नहीं; केवल नाम के लोकप्रिय होने पर विशेषज्ञता चुनकर अनुभव-वर्ष ज़बरदस्ती न जोड़ें, क्योंकि ऐसे में परीक्षा और पुनःप्रमाणन लंबे समय तक टिकना कठिन होता है।
+पूरक दो, परीक्षा-तैयारी और पुनःप्रमाणन का अंतिम चरण: तैयारी वर्तमान रूपरेखा के अनुसार करें — हर सामग्री-क्षेत्र को अपने संभाले हुए विशेषज्ञता मामलों से एक-एक करके मिलाएँ और कमज़ोर क्षेत्र पहले भरें; पुनःप्रमाणन वर्ष निकट आने पर सतत व्यावसायिक विकास (CPD) के अभिलेख और क्रेडिट प्रमाण एक साथ इकट्ठा करके एक बार फिर जाँचें।
