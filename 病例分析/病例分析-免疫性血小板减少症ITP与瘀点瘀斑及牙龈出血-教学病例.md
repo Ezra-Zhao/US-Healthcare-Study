@@ -101,3 +101,23 @@ Quản lý chỉ nêu theo nhóm và nguyên tắc, theo hướng dẫn ASH 2019
 
 声明：个人学习笔记，不构成医疗建议。教学病例为完全虚构，化名处理，不含真实患者信息；具体诊断与治疗请咨询持牌医生。
 Disclaimer: Personal study notes only; not medical advice. The teaching case is entirely fictional, uses a pseudonym, and contains no real patient information. For diagnosis and treatment, consult a licensed clinician.
+
+## 补译增量 · 한국어 / Tiếng Việt / हिन्दी（细节对齐，2026-11-11 12:55 轮）
+
+### 한국어 (초역 · 初译待校)
+
+보충 1 — 생활 세부 수칙으로 부드러운 칫솔과 전기면도기를 쓸 것(본문 넷째 절에서 옮김): 혈소판이 크게 떨어진 기간에는 점막과 피부에서 피가 나기 쉬우므로, 양치에는 부드러운 칫솔을 쓰고 면도는 전기면도기로 바꾸는 편이 안전합니다. 잇몸에 상처가 나면 그 자체가 출혈의 시작점이 되기 때문입니다. 이런 생활 세부 수칙은 약물 못지않게 중요한 보조 관리로, 매 진료 때마다 지키고 있는지 확인합니다.
+
+보충 2 — 월경 과다는 산부인과와 함께 평가할 것(본문 넷째 절에서 옮김): 이번 사례처럼 월경량이 눈에 띄게 늘고 기간까지 길어진 경우, 혈액 쪽 평가만으로 끝내지 말고 산부인과 평가를 함께 연결해야 합니다. 자궁 쪽에 다른 원인이 겹쳐 있는지를 가리고, 월경으로 인한 빈혈이 쌓이지 않는지 함께 살피기 위해서입니다. 월경의 양과 기간 변화는 매 진료 때마다 혈소판 수치와 나란히 기록해 가져가는 항목입니다.
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+
+Bổ sung 1 — chi tiết sinh hoạt: dùng bàn chải mềm và dao cạo điện (chuyển từ tiết bốn của bài chính): trong giai đoạn tiểu cầu giảm sâu, niêm mạc và da rất dễ chảy máu, nên đánh răng bằng bàn chải mềm và chuyển sang dao cạo điện sẽ an toàn hơn, vì một vết xước ở lợi có thể tự nó trở thành điểm khởi đầu của chảy máu. Những chi tiết sinh hoạt này là phần quản lý hỗ trợ quan trọng không kém thuốc, và nên được kiểm tra lại ở mỗi lần tái khám.
+
+Bổ sung 2 — kinh nguyệt ra nhiều phải được đánh giá phối hợp với phụ khoa (chuyển từ tiết bốn của bài chính): khi lượng kinh tăng rõ rệt và kỳ kinh kéo dài như trong ca này, không nên chỉ dừng ở đánh giá huyết học mà phải nối thêm đánh giá phụ khoa, để phân biệt xem có nguyên nhân tại tử cung chồng lên hay không và để theo dõi thiếu máu tích lũy do mất máu kinh. Thay đổi về lượng và thời gian hành kinh là mục cần ghi lại và mang theo ở mỗi lần tái khám, đặt cạnh chỉ số tiểu cầu.
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+
+पूरक 1 — जीवन-शैली की बारीकी: मुलायम टूथब्रश और इलेक्ट्रिक रेज़र का प्रयोग (मुख्य पाठ के चौथे खंड से): जब प्लेटलेट बहुत घटे हों तो श्लेष्मा और त्वचा से रक्तस्राव आसान हो जाता है, इसलिए मुलायम ब्रश से दाँत साफ़ करना और इलेक्ट्रिक रेज़र अपनाना अधिक सुरक्षित है, क्योंकि मसूड़े की छोटी खरोंच ख़ुद रक्तस्राव की शुरुआत बन सकती है। ये जीवन-शैली की बारीकियाँ सहायक प्रबंधन का दवा जितना ही महत्वपूर्ण हिस्सा हैं, और हर जाँच पर इनके पालन की पुष्टि होनी चाहिए।
+
+पूरक 2 — अधिक मासिक रक्तस्राव का मूल्यांकन स्त्री-रोग विभाग के साथ मिलकर हो (मुख्य पाठ के चौथे खंड से): जब मासिक रक्तस्राव की मात्रा स्पष्ट बढ़ जाए और अवधि भी लंबी हो जाए, जैसा इस मामले में हुआ, तो केवल रक्त-विज्ञान मूल्यांकन पर न रुकें, बल्कि स्त्री-रोग मूल्यांकन भी साथ जोड़ें, ताकि यह अलग हो सके कि गर्भाशय की कोई अन्य वजह तो नहीं जुड़ी है, और मासिक हानि से जमा होता रक्ताल्पता भी साथ देखा जा सके। मासिक की मात्रा और अवधि में बदलाव हर जाँच पर प्लेटलेट गिनती के साथ दर्ज करके ले जाने वाली 항목 है।
