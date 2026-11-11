@@ -152,3 +152,16 @@ Este artículo es una nota personal de estudio y no constituye asesoría médica
 Bài viết này là ghi chú học tập cá nhân và không phải tư vấn y tế. (bản dịch sơ bộ)
 
 यह लेख व्यक्तिगत अध्ययन नोट है और चिकित्सा सलाह नहीं है। (प्रारंभिक अनुवाद)
+## 补译增量（2026-11-10 23:55 轮）
+
+### 한국어 (초역 · 初译待校)
+보충 항목 1 — 레크리에이션 치료는 작업치료·물리치료와 함께 재활 팀을 이루는 직종입니다. 차이는 매개에 있습니다. 레크리에이션 치료의 매개는 여가 참여 그 자체이며, 목표는 기능, 지역사회 통합, 삶의 질 쪽에 놓이고, 세 자격은 서로를 대신하지 않습니다.
+보충 항목 2 — CTRS 전공 분야 지정(Specialization Area Designation)을 받으려면 기본 자격 위에 해당 분야의 경력과 추가 교육이 필요합니다. 이는 심화 표시일 뿐 기본 자격을 대신하지 않습니다.
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+Mục bổ sung 1 — Trị liệu giải trí cùng thuộc đội phục hồi chức năng với trị liệu nghề nghiệp và vật lý trị liệu. Khác biệt nằm ở phương tiện: phương tiện của trị liệu giải trí là chính sự tham gia giải trí, mục tiêu đặt ở chức năng, hòa nhập cộng đồng và chất lượng cuộc sống, và ba chứng chỉ không thay thế lẫn nhau.
+Mục bổ sung 2 — Để nhận CTRS Specialization Area Designation, cần có kinh nghiệm trong lĩnh vực tương ứng và học tập bổ sung đặt trên chứng chỉ gốc. Đây chỉ là dấu ấn nâng cao, không thay thế chứng chỉ gốc.
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+पूरक बिंदु 1 — मनोरंजन चिकित्सा व्यावसायिक चिकित्सा और भौतिक चिकित्सा के साथ एक ही पुनर्वास टीम का हिस्सा है। अंतर माध्यम में है: मनोरंजन चिकित्सा का माध्यम स्वयं leisure-भागीदारी है, लक्ष्य कार्य, सामुदायिक समावेशन और जीवन-गुणवत्ता की ओर रखा है, और तीनों प्रमाणन एक-दूसरे का स्थान नहीं लेते।
+पूरक बिंदु 2 — CTRS Specialization Area Designation पाने के लिए मूल प्रमाणन के ऊपर संबंधित क्षेत्र का अनुभव और अतिरिक्त अध्ययन चाहिए। यह केवल एक उन्नत चिह्न है, मूल प्रमाणन का विकल्प नहीं।
