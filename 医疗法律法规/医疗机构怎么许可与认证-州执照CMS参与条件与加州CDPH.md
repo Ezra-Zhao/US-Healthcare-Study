@@ -192,3 +192,24 @@ California में आकर, संस्थान लाइसेंस क�
 *개인 학습 노트이며 법률 또는 의료 자문이 아닙니다. 특정 기관의 면허와 참여 상태는 CDPH와 CMS의 공개 기록에서 확인하십시오. (初译待校)*
 *Ghi chú học tập cá nhân, không phải tư vấn pháp lý hay y tế. Hãy tra cứu hồ sơ công khai của CDPH và CMS để biết tình trạng cấp phép và tham gia của một cơ sở cụ thể. (初译待校)*
 *व्यक्तिगत अध्ययन नोट; कानूनी या चिकित्सा सलाह नहीं है। किसी विशिष्ट संस्थान की लाइसेंस व भागीदारी स्थिति के लिए CDPH और CMS के सार्वजनिक अभिलेख देखें। (初译待校)*
+
+
+## 补译增量 · 한국어 / Tiếng Việt / हिन्दी（细节对齐）
+
+### 한국어 (초역, 初译待校)
+
+보충 1 — 참여 조건(CoP)을 읽는 두 가지 실무 포인트입니다. 첫째, CoP는 잘하는 병원의 기준이 아니라 연방 최저선입니다. 주법이나 인증 기관의 기준이 특정 지점에서 더 엄격할 수 있습니다. 둘째, CoP는 기관의 시스템과 절차를 다루는 것이지, 특정 의사의 특정 진료 판단이 옳았는지를 직접 심판하지 않습니다. 개별 임상 판단의 다툼은 동료 심사, 주 면허 징계, 의료 책임 소송의 길로 가야 하며, 장부를 엉뚱한 곳에 청구하지 마십시오.
+
+보충 2 — 제1254조와 제1255조의 구분, 그리고 세 번째 규제입니다. 캘리포니아에서 의료기관 면허의 본조문은 Health & Safety Code 제1254조(점검과 면허 부여, 기본 서비스 승인)이고, 제1255조는 면허 자체가 아니라 종합 급성기 병원이 기본 서비스를 넘어 특수 서비스를 제공할 때 필요한 승인입니다. 제1255조를 면허 조문으로 인용하는 것은 흔한 오류입니다. 또 기관 내부의 작업장 안전(직업적 노출, 주사침 상해, 폭력 예방)은 CDPH가 아니라 Cal/OSHA의 영역으로, 기관 면허 및 연방 참여 조건과 나란히 달리는 세 번째 주 규제이므로 병원의 준수 장부에 별도 칸으로 두어야 합니다.
+
+### Tiếng Việt (bản dịch sơ bộ, 初译待校)
+
+Bổ sung 1 — Hai điểm thực hành khi đọc CoP: một, Điều kiện Tham gia (CoP) là sàn tối thiểu liên bang, không phải chuẩn của bệnh viện giỏi; luật bang hoặc tiêu chuẩn của tổ chức kiểm định có thể nghiêm hơn ở từng điểm. Hai, CoP quản hệ thống và quy trình của cơ sở, không trực tiếp phán xét một phán đoán lâm sàng cụ thể của một bác sĩ có đúng hay không; tranh chấp về phán đoán lâm sàng cá nhân đi theo các đường đánh giá đồng nghiệp, kỷ luật giấy phép bang và kiện trách nhiệm y tế, đừng ghi nhầm sổ.
+
+Bổ sung 2 — Phân biệt Điều 1254 với Điều 1255 và bộ quản lý thứ ba: tại California, điều khoản cấp phép cơ sở y tế đúng nghĩa là Điều 1254 của Bộ luật Sức khỏe và An toàn (kiểm tra, cấp phép và phê duyệt dịch vụ cơ bản), còn Điều 1255 không phải bản thân giấy phép mà là sự phê duyệt để bệnh viện đa khoa cấp tính cung cấp dịch vụ đặc biệt vượt ra ngoài dịch vụ cơ bản; trích Điều 1255 như điều khoản cấp phép là lỗi thường gặp. Ngoài ra, an toàn nơi làm việc bên trong cơ sở (phơi nhiễm nghề nghiệp, thương tích do vật sắc, phòng chống bạo lực) thuộc Cal/OSHA chứ không thuộc CDPH, là bộ quản lý cấp bang thứ ba chạy song song với giấy phép cơ sở và tham gia liên bang, cần cột riêng trong sổ tuân thủ của bệnh viện.
+
+### हिन्दी (प्रारंभिक अनुवाद, 初译待校)
+
+पूरक 1 — CoP पढ़ने के दो व्यावहारिक बिंदु: एक, Conditions of Participation (CoP) उत्कृष्टता की रेखा नहीं, संघीय न्यूनतम रेखा है; राज्य विधि या मान्यता-संस्थाओं के मानक किसी बिंदु पर इससे कठोर हो सकते हैं। दो, CoP संस्थान की प्रणालियों और प्रक्रियाओं को देखता है, किसी विशिष्ट चिकित्सक के किसी एक नैदानिक निर्णय की सही-ग़लत का सीधा फ़ैसला नहीं करता; व्यक्तिगत नैदानिक विवाद peer review, राज्य लाइसेंस अनुशासन और चिकित्सकीय दायित्व वाद के मार्ग से जाते हैं, खाता ग़लत जगह न लिखें।
+
+पूरक 2 — धारा 1254 बनाम 1255 का अंतर और तीसरा नियमन: California में संस्थान लाइसेंस का असली प्रावधान Health & Safety Code की धारा 1254 है (निरीक्षण, लाइसेंस जारी करना और basic services की स्वीकृति), जबकि धारा 1255 स्वयं लाइसेंस नहीं है — वह general acute care hospital को basic services से परे special services देने हेतु आवश्यक स्वीकृति है; धारा 1255 को लाइसेंस प्रावधान कहना आम ग़लती है। साथ ही, संस्थान के भीतर कार्यस्थल सुरक्षा (व्यावसायिक संपर्क, नुकीली वस्तुओं से चोट, हिंसा-रोकथाम) CDPH का नहीं, Cal/OSHA का क्षेत्र है — यह संस्थान लाइसेंस और संघीय भागीदारी के समानांतर चलने वाला तीसरा राज्य-स्तरीय नियमन है और अस्पताल की compliance किताब में इसका अलग स्तंभ होना चाहिए।
