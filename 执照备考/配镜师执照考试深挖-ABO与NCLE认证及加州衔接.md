@@ -74,3 +74,23 @@ California không cấp «giấy phép lắp kính» mà cấp đăng ký. Khung
 
 *This article is a personal study note, not medical advice. / Este artículo es una nota de estudio personal, no constituye asesoría médica.*
 *이 글은 개인 학습 노트이며 의료 자문이 아닙니다. (초역·待校) / Bài viết này là ghi chú học tập cá nhân, không cấu thành tư vấn y tế. (bản dịch sơ bộ·待校) / यह लेख व्यक्तिगत अध्ययन नोट है और चिकित्सा सलाह नहीं है। (प्रारंभिक अनुवाद·待校)*
+
+## 补译增量 · 한국어 / Tiếng Việt / हिन्दी（细节对齐，2026-11-11）
+
+### 한국어 (초역 · 初译待校)
+
+보충 1 — 시험 준비의 규율 두 가지(본문 둘째 절에서 옮김): 첫째, 계산과 측정 문제는 손에 익어야 합니다. 동공 거리(PD), 렌즈 중심 이동(decentration), 프리즘 효과의 기본 환산은 생각하지 않고 풀 수 있을 때까지 연습하는 것이 요령입니다. 둘째, 위험 신호를 만나면 먼저 전원을 떠올립니다. 시력이 갑자기 떨어지거나 눈이 아프거나 빛을 불편해하는 증상이 있으면, 안경사는 안경을 조정하며 끝내려 하지 말고 손을 멈추고 처방한 사람이나 안과로 보내야 합니다.
+
+보충 2 — 캘리포니아 등록 세 종류의 구분(본문 셋째 절에서 옮김): 등록 배급 안경사(RDO)는 안경원 같은 영업 주체 차원의 등록이고, 안경 렌즈 배급 등록(SLD)은 처방에 따라 안경을 만들고 맞춰 건네는 개인의 등록이며, 콘택트렌즈 배급 등록(CLD)은 처방에 따라 콘택트렌즈를 맞추는 개인의 등록으로, SLD와 따로 신청하고 따로 유지합니다. ABO와 NCLE 인증은 캘리포니아 등록의 법적 대체물이 아니지만 고용주가 능력을 읽는 신호로 널리 쓰이므로, 실무 경로는 보통 먼저 ABO(또는 NCLE) 인증을 따고 고용 형태에 맞춰 주 등록을 보태는 순서입니다.
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+
+Bổ sung 1 — hai kỷ luật ôn thi (chuyển từ tiết hai của bài chính): một là các câu tính toán và đo đạc phải luyện đến mức quen tay — khoảng cách đồng tử (PD), độ lệch tâm của tròng (decentration) và các quy đổi cơ bản về hiệu ứng lăng kính phải làm được mà không cần nghĩ; hai là gặp dấu hiệu đỏ thì nghĩ đến chuyển tuyến trước — khi người đeo kính có thị lực giảm đột ngột, đau mắt hoặc sợ ánh sáng, người thợ kính phải dừng tay và chuyển về người kê đơn hoặc bác sĩ nhãn khoa, chứ không cố chỉnh gọng cho xong.
+
+Bổ sung 2 — phân biệt ba loại đăng ký ở California (chuyển từ tiết ba của bài chính): đăng ký kinh doanh kính (RDO) là đăng ký ở cấp chủ thể kinh doanh như cửa hàng kính; đăng ký phân phối tròng kính (SLD) là đăng ký cá nhân để chế tạo, lắp và giao kính theo đơn; đăng ký phân phối kính áp tròng (CLD) là đăng ký cá nhân để phân phối kính áp tròng theo đơn, nộp và duy trì tách riêng với SLD. Chứng chỉ ABO và NCLE không phải là vật thay thế pháp lý cho đăng ký California, nhưng là tín hiệu năng lực mà nhà tuyển dụng thường coi trọng, nên lộ trình thực tế thường là lấy chứng chỉ ABO (hoặc NCLE) trước rồi bổ sung đăng ký bang theo loại hình nơi làm việc.
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+
+पूरक 1 — परीक्षा-तैयारी के दो अनुशासन (मुख्य पाठ के दूसरे खंड से): पहला, गणना और माप के प्रश्न हाथ के अभ्यास से आने चाहिए — पुतली-दूरी (PD), लेंस का केंद्र-विस्थापन (decentration) और प्रिज़्म प्रभाव के मूल रूपांतरण बिना सोचे हल हो जाने चाहिए। दूसरा, लाल-झंडा लक्षण दिखे तो पहले रेफ़रल सोचें: दृष्टि अचानक गिरना, आँख में दर्द या प्रकाश से तकलीफ़ हो तो चश्मा बनाने वाला फ़्रेम समायोजित करके काम न निपटाए, बल्कि हाथ रोके और प्रिस्क्राइबर या नेत्र-चिकित्सक के पास भेजे।
+
+पूरक 2 — California के तीन पंजीकरणों का अंतर (मुख्य पाठ के तीसरे खंड से): पंजीकृत वितरण ऑप्टिशियन (RDO) व्यवसाय-इकाई स्तर का पंजीकरण है, जैसे चश्मे की दुकान का; चश्मा-लेंस वितरक पंजीकरण (SLD) उस व्यक्ति का पंजीकरण है जो प्रिस्क्रिप्शन के अनुसार चश्मा बनाता, फ़िट करता और सौंपता है; और कॉन्टैक्ट-लेंस वितरक पंजीकरण (CLD) प्रिस्क्रिप्शन के अनुसार कॉन्टैक्ट लेंस देने वाले व्यक्ति का पंजीकरण है, जो SLD से अलग दाख़िल और अलग बनाए रखा जाता है। ABO और NCLE प्रमाणन California पंजीकरण का कानूनी विकल्प नहीं हैं, किंतु नियोक्ता इन्हें क्षमता का संकेत व्यापक रूप से मानते हैं, इसलिए व्यावहारिक रास्ता प्रायः पहले ABO (या NCLE) प्रमाणन लेना और फिर नियोक्ता के प्रकार के अनुसार राज्य पंजीकरण जोड़ना होता है।
