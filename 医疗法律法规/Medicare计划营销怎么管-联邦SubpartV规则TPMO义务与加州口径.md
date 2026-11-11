@@ -141,3 +141,18 @@ California अलग से, तीन परतों में। पहली
 来源：42 C.F.R. §§ 422.2260（communications、marketing 与 TPMO 定义）、422.2262（材料审查）、422.2264（受益人联系、教育活动与 SOA，含 (c)(3)(iii)(A) 的 SOA 十二个月有效期）、422.2267(e)(41)（TPMO 标准免责声明句式）、422.2274（代理人、经纪人与 TPMO 义务，含 (b)(3) 的 SOA 义务与 (g) 的录音义务）、422.504（记录留存）及 Part 423 对应条文；CMS 合同年 2027 最终规则（91 Fed. Reg. 17384，2026 年 4 月 6 日公布：删除 SOA 四十八小时等待期与同场十二小时间隔、免责声明时点改为讨论福利之前、录音留存改为六年）；CMS《Medicare Communications and Marketing Guidelines》当期版；California Insurance Code 第 10192 条一带与 California Department of Insurance 的 Medigap 与代理执照指引、California Department of Aging 的 HICAP 说明。条文细节以 eCFR 现行文本为准，旧培训材料与本篇冲突时以现行文本为准。
 
 *声明：个人学习笔记，不构成法律、税务或医疗建议。*
+
+
+## 补译增量（2026-11-11 07:55轮：韩/越/印三语补细节增量至与中文主文对齐，正文原有段落未改动；全文不涉及药物剂量）
+
+### 中文（增量锚点）
+增量一（定性争议与卖家自保）：实务中大量争议出在定性上——把实质是营销的材料包装成一般沟通，一旦被 CMS 或计划方合规部门按 marketing 重新定性，送审与内容两组违规会一起找上来；卖家自保的第一动作，是任何对外材料先问一句：这算不算 marketing。增量二（版本陷阱的边界句）：联邦文本只是底线，计划方与上级营销组织在合同里把标准定得更严并不违规，卖家实际要对的是自己合同里的那一套；一切以 eCFR 现行文本与当期 MCMG 为准。
+
+### 한국어 (초역 · 初译待校)
+증보 1(성격 규정을 둘러싼 다툼과 판매자의 자기 보호): 실무에서 많은 다툼은 성격 규정에서 나옵니다. 실질은 마케팅인 자료를 일반 소통으로 포장했다가 CMS나 계획 측 준법 부서가 marketing으로 다시 규정하면 제출 심사와 내용 두 갈래 위반이 함께 따라옵니다. 판매자가 스스로를 지키는 첫 동작은 바깥으로 나가는 모든 자료마다 이것이 marketing에 해당하는지 먼저 묻는 것입니다. 증보 2(버전 함정의 경계 문장): 연방 문서는 하한선일 뿐이며, 계획 측과 상위 마케팅 조직이 계약에서 기준을 더 엄격하게 정해도 위반이 아닙니다. 판매자가 실제로 맞춰야 하는 것은 자기 계약 안에 있는 그 기준이며, 모든 판단은 현행 eCFR 문서와 해당 시기의 MCMG를 기준으로 합니다.
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+Bổ sung 1 (tranh chấp định tính và tự bảo vệ của người bán): trong thực tiễn, rất nhiều tranh chấp nảy sinh ở khâu định tính — gói tài liệu thực chất là tiếp thị thành giao tiếp thông thường, một khi bị CMS hoặc bộ phận tuân thủ của chương trình định tính lại thành marketing, thì cả hai nhóm vi phạm về nộp duyệt và về nội dung sẽ cùng ập đến; hành động tự bảo vệ đầu tiên của người bán là với bất kỳ tài liệu đối ngoại nào cũng hỏi trước một câu: việc này có tính là marketing không. Bổ sung 2 (câu ranh giới của bẫy phiên bản): văn bản liên bang chỉ là mức sàn, chương trình và tổ chức tiếp thị cấp trên đặt tiêu chuẩn nghiêm hơn trong hợp đồng không phải là vi phạm, và thứ người bán thực tế phải tuân theo là bộ tiêu chuẩn trong hợp đồng của chính mình; mọi phán đoán đều lấy văn bản eCFR hiện hành và MCMG của kỳ hiện tại làm chuẩn.
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+वृद्धि 1 (प्रकृति-निर्धारण का विवाद और विक्रेता की आत्म-सुरक्षा): व्यवहार में बहुत से विवाद प्रकृति-निर्धारण पर ही उठते हैं — जो सामग्री वास्तव में विपणन है उसे सामान्य संचार के रूप में पेश किया जाए और CMS या योजना के अनुपालन विभाग उसे फिर से marketing ठहरा दें, तो प्रस्तुति और सामग्री दोनों समूहों के उल्लंघन एक साथ सामने आते हैं; विक्रेता की आत्म-सुरक्षा का पहला कदम यह है कि हर बाहरी सामग्री पर पहले यह प्रश्न पूछे: क्या यह marketing है। वृद्धि 2 (संस्करण-जाल की सीमा-वाक्य): संघीय पाठ केवल न्यूनतम रेखा है; योजना पक्ष और ऊपर की विपणन संस्था अनुबंध में मानक अधिक कठोर रखें तो यह उल्लंघन नहीं है, और विक्रेता को वास्तव में अपने ही अनुबंध के मानकों का पालन करना होता है; हर निर्णय वर्तमान eCFR पाठ और उस अवधि के MCMG के अनुसार होता है।
