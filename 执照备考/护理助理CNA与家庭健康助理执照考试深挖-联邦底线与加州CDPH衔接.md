@@ -115,3 +115,16 @@ Prepare en cuatro líneas. Cifras: las 75 horas federales con 16 clínicas, las 
 
 *This article is a personal study note, not medical advice. / Este artículo es una nota de estudio personal, no constituye asesoría médica.*
 *이 글은 개인 학습 노트이며 의료 자문이 아닙니다. (초역·待校) / Bài viết này là ghi chú học tập cá nhân, không cấu thành tư vấn y tế. (bản dịch sơ bộ·待校) / यह लेख व्यक्तिगत अध्ययन नोट है और चिकित्सा सलाह नहीं है। (प्रारंभिक अनुवाद·待校)*
+
+---
+
+## 补译增量（2026-11-10 15:55 轮）
+
+### 한국어 (초역 · 初译待校)
+두 가지 세부 사항을 보충합니다. 첫째, 징계 쪽의 연방 고용 문입니다. 학대·방임·거주자 재산 횡령이 확정된 기록이 등록부에 있는 사람은 연방 법에 따라 시설이 고용할 수 없으므로, 등록부 표기는 본인 인증만의 문제가 아니라 모든 시설의 채용 문을 닫는 효과까지 갖습니다. 둘째, 상호 인정 전입의 마지막 판단은 CDPH의 몫입니다. 다른 주 등록부에서 유효하고 양호한 상태인 것만으로 끝나지 않고, 시험 면제 여부는 CDPH가 심사해 정하므로 전입자는 그 결정을 기다려야 합니다. (초역 · 初译待校)
+
+### Tiếng Việt (bản dịch, 初译待校)
+Bổ sung hai chi tiết. Thứ nhất, cửa tuyển dụng liên bang ở phía kỷ luật: người có ghi nhận đã được xác thực về lạm dụng, bỏ bê hoặc chiếm đoạt tài sản của người nội trú trong sổ đăng ký thì theo luật liên bang, các cơ sở không được thuê, nên một ghi chú trong sổ không chỉ là chuyện chứng chỉ của chính người đó mà còn đóng lại cửa tuyển dụng ở mọi cơ sở. Thứ hai, phán quyết cuối cùng của việc chuyển vào qua con đường công nhận lẫn nhau thuộc về CDPH: đang hoạt động và có trạng thái tốt trong sổ của bang cũ chưa phải là tất cả, việc có được miễn thi hay không do CDPH xét và quyết định, và người chuyển vào phải chờ quyết định đó. (bản dịch, 初译待校)
+
+### हिन्दी (अनुवाद, 初译待校)
+दो विवरण पूरक किए जाते हैं। पहला, अनुशासन पक्ष का संघीय रोज़गार द्वार: जिसके विरुद्ध पंजीकरण में दुरुपयोग, उपेक्षा या निवासी संपत्ति के दुरुपयोग का प्रमाणित निष्कर्ष दर्ज हो, उसे संघीय कानून के अंतर्गत संस्थाएँ नियुक्त नहीं कर सकतीं, इसलिए पंजीकरण की टिप्पणी केवल उस व्यक्ति के अपने प्रमाणपत्र का मामला नहीं है, वह हर संस्था का रोज़गार द्वार भी बंद करती है। दूसरा, पारस्परिक मान्यता से स्थानांतरण का अंतिम निर्णय CDPH का है: पुराने राज्य के पंजीकरण में सक्रिय व अच्छी स्थिति में होना ही पर्याप्त नहीं है, परीक्षा से छूट मिलेगी या नहीं यह CDPH समीक्षा करके तय करता है, और स्थानांतरित होने वाले को उसी निर्णय की प्रतीक्षा करनी होती है। (अनुवाद, 初译待校)
