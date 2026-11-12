@@ -148,3 +148,18 @@ Español: Apuntes personales de estudio; no constituyen asesoría médica.
 한국어 (초역): 개인 학습 노트이며 의료 자문이 아닙니다.
 Tiếng Việt (bản dịch sơ bộ): Ghi chú học tập cá nhân; không phải tư vấn y tế.
 हिन्दी (प्रारंभिक अनुवाद): व्यक्तिगत अध्ययन नोट; चिकित्सा सलाह नहीं।
+
+## 补译增量（2026-11-12 04:55 轮）
+
+### 한국어 (초역, 初译待校)
+
+보충 두 가지. 첫째, 오래된 웹 소개는 전문 석사 문턱을 자주 틀리게 적습니다. 학사 경로가 닫혔다는 말만 믿지 말고, 지원 전에 그해의 BOC와 CAATE 문서로 응시 자격을 다시 확인하십시오. 둘째, 임상 실습은 자격 있는 지도자의 감독 아래 실제 운동 및 의료 현장에서 수행하는 실습이며, 참관도 아니고 헬스장 인턴십도 아닙니다.
+
+### Tiếng Việt (bản dịch sơ bộ, 初译待校)
+
+Bổ sung hai điểm. Thứ nhất, các bài giới thiệu cũ trên mạng thường viết sai ngưỡng thạc sĩ chuyên nghiệp này; đừng chỉ tin câu nói rằng lộ trình cử nhân đã đóng, mà hãy đối chiếu lại điều kiện dự thi với tài liệu BOC và CAATE của năm hiện tại trước khi nộp hồ sơ. Thứ hai, thực hành lâm sàng là phần thực hành được thực hiện dưới sự giám sát của người hướng dẫn đạt chuẩn, tại các bối cảnh thể thao và y tế thực tế; đó không phải ngồi quan sát, cũng không phải thực tập tại phòng gym.
+
+### हिन्दी (प्रारंभिक अनुवाद, 初译待校)
+
+दो पूरक बिंदु। पहला, पुराने वेब परिचय व्यावसायिक स्नातकोत्तर की इस सीमा को अक्सर ग़लत लिखते हैं; केवल यह मानकर न चलें कि स्नातक मार्ग बंद हो गया है, आवेदन से पहले उस वर्ष के BOC व CAATE दस्तावेज़ों से पात्रता फिर से जाँचें। दूसरा, नैदानिक अभ्यास योग्य पर्यवेक्षक की देखरेख में वास्तविक खेल व चिकित्सा परिवेशों में किया जाने वाला अभ्यास है; यह न तो केवल बैठकर देखना है, न ही जिम की इंटर्नशिप।
+
