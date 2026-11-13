@@ -1,0 +1,89 @@
+# NBCOT 违规行为与成绩处理深挖：考生守则、执行程序与加州衔接
+
+这篇讲什么：
+- 执照备考子轮转走到「其他」站。职业治疗线的 OTR 本体篇、COTA 助理篇与骨科技师 OTC 篇都已成篇，讲的都是考什么、怎么报；唯独「考场内外的诚信账怎么算、成绩与认证会被怎么处理」没有本体专篇——本篇专拆这一格，与 USMLE／NCLEX／NAPLEX／PANCE／INBDE／NPTE／NREMT 七站的违规姊妹篇同格。
+- 选题经 ls/grep 实查：「违规」在职业治疗师篇、职业治疗助理篇正文零命中，文件名全仓零命中，无本体专篇，故成篇。
+- 法源主体是 NBCOT 的《考生／持证人行为守则》（Candidate/Certificant Code of Conduct）与《行为守则执行程序》（Procedures for the Enforcement of the NBCOT Code of Conduct），执行机构为资格与合规审查委员会（QCRC）。加州报考资格与州执照局要求在第六节单独注明。全篇不写任何药物剂量与频次。
+
+## 中文主文
+
+### 一、先定性：这本账管的是认证诚信，不是分数高低
+
+没考过是能力账，NBCOT 的复考通道管；违规是诚信账，本篇管，两本账不要混。执行程序先把管辖圈画清，四类人逐项数清：第一，现行持有 OTR 或 COTA 认证的人；第二，已经申请认证的人——也就是说，第一次报名考试那一刻起就进了管辖；第三，申请过 OTED（职业治疗师资格认定）的人；第四，申请过 Early Determination Review（早期资格审查）的人。另有一句补丁：认证已过期的人，在其申请逾期续期或恢复认证时回到管辖内。所以「我还没拿到证，不归它管」和「我的证已经过期，它管不着」两种想法都站不住。
+
+### 二、什么算违规：第一原则、考试保密与配合调查
+
+行为守则的第一原则是总开关：对 NBCOT 提供的信息必须准确真实，范围包括考试与认证申请、续期材料、纪律程序中被要求提供的信息，以及涉及考试安全与保密考试内容披露的事项。落到考试场景，最要紧的三条：一是考试内容保密——不得披露、传播或索要保密的考试材料内容，凭记忆向外复述题目同样落在这一格；二是申请与调查陈述必须真实，资格材料造假与考试作弊在 NBCOT 眼里是同一本账；三是配合调查本身就是守则义务——执行程序明文，对执行程序任何环节不作回应，本身即构成对第一原则的违反，可以单独成为制裁理由，不需要先证明原投诉成立。考场这一层由考试实施方的考场规则执行（本仓 OTR 篇口径为 Pearson VUE 考场），考场违规可致当场终止与成绩不予处理；考生手册另设考试投诉通道，投诉调查未解决之前，相关成绩扣留不发，先把「成绩为什么迟迟不出来」与「被认定违规」分开看。
+
+### 三、制裁菜单六档：从留档谴责到永久撤销
+
+执行程序第 C 节把制裁列成六档，逐项数清。第一档，无资格（Ineligibility）：禁止成为 NBCOT 持证人，可以是定期，也可以是无限期——对尚未拿证的申请人，这是最重的一档，等于关上整条职业入口。第二档，谴责留档（Reprimand）：正式的不认可表示，记入持证人档案，但不公开宣布。第三档，公开谴责（Censure）：同样是正式的不认可表示，但要公开宣布。第二、三档只差一个「公开」，分量完全不同。第四档，察看（Probation）：认证继续有效，但附条件——例如接受监督、补教育、接受辅导，完成条件才算过关。第五档，暂停（Suspension）：在一段期间内失去认证，期满后可能还要重新申请恢复。第六档，撤销（Revocation）：永久失去认证。公开口径要记牢：除谴责留档外，其余五档都会公开宣布，并会在被询问时披露——也就是说，雇主与州局问起来，NBCOT 会如实答。六档里只有一档不公开（6 减 1 等于 5 档公开，本地复算两遍一致）。
+
+### 四、程序时间线：两次 30 天与不回应的自动后果
+
+程序从投诉启动：任何来源送达 NBCOT 的违规信息都算投诉，不限于实名举报。工作人员先评估：证据不支持指控的，不开档，并通知投诉人；案件也可以先停下来，等法院、监管机构或其他纪律程序先出结果。证据支持且决定审查的，被投诉人会收到书面通知（附投诉简述），自通知发出之日起 30 天内书面回应；有正当理由并提出请求的，可再延长最多 30 天——30 加 30 等于 60 天，是回应的封顶窗口（本地复算两遍一致）。调查完成后，工作人员或撤销案件（证据不足、情节轻微或其他正当理由），或告知因其他机关已作适当处理而不再追究，或书面提出拟议制裁；拟议制裁同样给 30 天：签字接受，或书面请求听证，也可申请延长最多 30 天。这里有两颗地雷。一颗是沉默的效力：对拟议制裁协议信在 30 天内不回应的，拟议的条件与条款立即生效——不签字不等于不接受，沉默等于默认。另一颗是不回应调查问询的自动后果：认证自动暂停，最长可达 3 年，暂停期间不得对公众自称 OTR 或 COTA、不得在姓名后使用该名衔；暂停期满仍无回应的，认证自动撤销。自愿交回（voluntary surrender）是另一条路：书面交回认证，日后想恢复，必须同时满足四件——书面申请、满足现行考试资格要求（含学业与实习）、重新参加并通过全国认证考试、履行原制裁协议等未了事项。
+
+### 五、听证与上诉：QCRC 听证、董事会三人上诉组
+
+不接受拟议制裁的，可以书面请求在 QCRC 听证组前听证，并写明请求理由、可附支持材料。听证走电话会议形式，被投诉人可以由律师或自己选定的任何人代理，费用自理；听证材料汇编（hearing book）至少在听证日前 15 天送达被投诉人，被投诉人想补充的材料最迟在听证日前 30 天交齐。听证后 30 天内，工作人员书面通知听证组的决定，决定原则上立即生效。最后一道是上诉：收到 QCRC 决定通知后 30 天内，书面向上诉——上诉状寄董事会主席（经总裁／首席执行官转交），须签名并写明上诉依据；董事会主席在收到后 30 天内组成 3 人上诉组，参加过听证的 QCRC 成员不得进入上诉组。上诉组四种出口：维持原制裁、否决原制裁、发回工作人员再调查处理（保留再次上诉权）、修改制裁但不得比原制裁更重。上诉组的决定是终局决定。把整条线数一遍：回应 30 天、拟议制裁答复 30 天、听证后通知 30 天、上诉期限 30 天——四个 30 天各管一段，错过哪一段，权利就在哪一段关门（本地复算：30 乘 4 等于 120，只是分段计数，不是一条总时限）。
+
+### 六、加州单独注明：CBOT 的执照账与 NBCOT 的认证账分开
+
+加州报考资格与州执照局要求单独注明如下（州执照局＝加州职业治疗委员会 CBOT，主管法源为《商业与职业法典》第 2570 条起的《职业治疗执业法》）：
+- 通过 NBCOT 认证考试是加州发照的全国考试前提（见本仓 OTR 篇与 COTA 篇）。因此 NBCOT 的无资格或撤销会直接动摇加州执照的根基：没有有效的全国认证成绩与资格，CBOT 一侧的申请与续照都失去支点。
+- 但两本账互不代办：NBCOT 只能处分自己的认证，吊销或拒绝加州执照是 CBOT 依《职业治疗执业法》第 2570.28 条一带走自己的纪律程序；反过来，CBOT 的处理也不自动平息 NBCOT 的审查，执行程序只说工作人员可以把「其他机关已作适当处理」作为不再追究的理由之一，不是必须。
+- NBCOT 制裁除谴责留档外均公开并应询披露，CBOT 与雇主背景审查都可能查到；在加州申请材料里对 NBCOT 纪律记录不如实申报，会再叠一层诚信问题，与守则第一原则同源。
+- 通用红线与姊妹篇同源：《商业与职业法典》第 123 条把颠覆执照考试的行为（如代考、买卖试题）定为轻罪——NBCOT 考试是加州发照所要求的考试，考场作弊在加州不只是行业纪律问题。
+
+来源口径：NBCOT《Procedures for the Enforcement of the NBCOT Code of Conduct》（管辖四类人、第 C 节制裁六档、除谴责留档外公开宣布与应询披露、第 D 节程序——投诉不限来源、30 天回应加最多 30 天延长、拟议制裁 30 天接受或请求听证、不回应协议信 30 天后拟议条款生效、不回应调查问询自动暂停最长 3 年并可自动撤销、听证书提前 15 天送达与听证后 30 天内通知决定、30 天内向董事会主席上诉与 3 人上诉组四种出口、自愿交回后恢复四条件）；NBCOT《Certification Examination Handbook》行为守则第一原则与考试投诉口径；California Business and Professions Code 第 2570 条起、第 2570.28 条一带与第 123 条。具体期限与程序以申请当期 NBCOT 与 CBOT 官方原文为准。
+
+声明：个人学习笔记，不构成法律或医疗建议；全文不涉及药物剂量。
+
+---
+
+## English
+
+This article covers the one occupational-therapy topic this repository had not treated on its own: how NBCOT handles exam misconduct and what can happen to a score or a credential. Failing the exam is a competence account handled by the retake channel; misconduct is an integrity account handled under NBCOT's Candidate/Certificant Code of Conduct and its Procedures for the Enforcement of the NBCOT Code of Conduct, administered through the Qualifications and Compliance Review Committee (QCRC). Jurisdiction reaches four groups, counted: current OTR and COTA certificants; anyone who has applied for certification — jurisdiction starts at the first exam application, not at certification; OTED applicants; and Early Determination Review applicants. Expired certificants return to jurisdiction when they seek late renewal or reinstatement.
+
+The Code's first principle is the master switch: all information given to NBCOT must be accurate and truthful, covering exam and certification applications, renewal materials, information requested in a disciplinary matter, and matters involving test security and disclosure of confidential exam material. Exam content is confidential — disclosing, spreading, or soliciting confidential exam material, including reconstructing items from memory, falls in this box, and application fraud and exam cheating sit in the same account. Cooperating with an investigation is itself a Code duty: the enforcement procedures state that failure to respond to any aspect of the procedures is itself a violation of Principle 1 and sufficient grounds for sanction, without any need to prove the original complaint first. Test-center rules are enforced by the testing vendor (Pearson VUE, per this repo's OTR article); an exam complaint channel exists in the candidate handbook, and scores tied to an unresolved complaint investigation are held until it is resolved — a delayed score is not the same thing as a misconduct finding.
+
+Section C of the procedures lists six sanctions, counted: (1) Ineligibility for certification — barred from becoming certified, for a set duration or indefinitely, the heaviest outcome for a not-yet-certified applicant; (2) Reprimand — a formal expression of disapproval kept in the file but not publicly announced; (3) Censure — the same formal disapproval, but publicly announced; (4) Probation — certification continues subject to conditions such as monitoring, education, supervision, or counseling; (5) Suspension — loss of certification for a period, after which reinstatement may have to be applied for; (6) Revocation — permanent loss of certification. Every sanction except reprimand is publicly announced and disclosed in response to inquiries, so six minus one equals five of the six are public (recomputed twice locally).
+
+The clock has four separate 30-day segments, and they are not interchangeable. A complaint can come from any source. Staff evaluate it: unsupported allegations are closed without a file and the complainant is notified, and action may be stayed pending a court or regulatory outcome. If review proceeds, the subject is notified in writing and has 30 days to respond, extendable by up to 30 more days for sufficient justification — 30 plus 30 equals a 60-day ceiling (recomputed twice). Staff then dismiss, defer to another authority's appropriate action, or propose a sanction in writing, with another 30 days to accept it or request a hearing in writing. Two traps matter. Silence on a proposed sanction agreement letter for 30 days makes the proposed terms take effect immediately — not signing is not the same as not accepting. And failure to respond to investigative inquiries triggers automatic suspension for up to three years, during which the OTR or COTA credential may not be used; if there is still no response within the suspension period, certification is automatically revoked. Voluntary surrender is a separate path: surrender in writing, and reinstatement later requires a written request, meeting current eligibility requirements including academic and fieldwork requirements, retaking and passing the national certification examination, and complying with the sanction agreement and outstanding requests.
+
+Hearings are held by telephone before a QCRC hearing panel; the subject may be represented by legal counsel or any person of their choosing at their own expense, the hearing book reaches the subject at least 15 days before the hearing, and the panel's decision is notified in writing within 30 days after the hearing. Appeal lies within 30 days after notification, in a signed writing to the Chairperson of the Board of Directors, which forms a three-person appeals panel excluding any QCRC member who sat at the hearing. The panel may affirm, deny, refer the case back for further investigation with full appeal rights preserved, or modify the sanction — but not to anything more adverse. Its decision is final.
+
+California, stated separately (licensing agency: the California Board of Occupational Therapy, CBOT, under the Occupational Therapy Practice Act, Business and Professions Code section 2570 et seq.): passing the NBCOT certification examination is the national-exam prerequisite for California licensure, so an NBCOT ineligibility or revocation undermines the license itself, but the two accounts are not interchangeable — NBCOT can only sanction its own certification, while denial or revocation of a California license is CBOT's own disciplinary process under section 2570.28 and its neighbors, and a CBOT outcome does not automatically end an NBCOT review. All NBCOT sanctions except reprimand are public and disclosed on inquiry, so employers and CBOT can find them, and concealing an NBCOT disciplinary record on a California application adds a second honesty problem. Business and Professions Code section 123 makes subverting a licensing examination a misdemeanor in California, the same general line as the sister articles in this repo.
+
+Sources: NBCOT, Procedures for the Enforcement of the NBCOT Code of Conduct (jurisdiction, Section C six sanctions, public announcement, Section D timelines and outcomes); NBCOT Certification Examination Handbook (Code of Conduct Principle 1, exam complaint handling); California Business and Professions Code sections 2570 et seq., 2570.28 area, and 123. Verify current text with NBCOT and CBOT when it matters.
+
+Disclaimer: personal study notes, not legal or medical advice; this article contains no medication dosing information.
+
+---
+
+## Español (traducción inicial · 初译待校)
+
+Este artículo trata el tema de terapia ocupacional que este repositorio no había desarrollado por separado: cómo maneja NBCOT la mala conducta en el examen y qué puede pasar con una puntuación o una credencial. No aprobar es una cuenta de competencia que se resuelve por la vía de repetición; la mala conducta es una cuenta de integridad bajo el Código de Conducta para Candidatos/Certificados de NBCOT y sus Procedimientos de Aplicación, administrados por el Comité de Revisión de Calificaciones y Cumplimiento (QCRC). La jurisdicción alcanza cuatro grupos contados: certificados OTR y COTA vigentes; toda persona que haya solicitado la certificación —la jurisdicción empieza con la primera solicitud de examen, no con la certificación—; solicitantes de OTED; y solicitantes de Revisión de Determinación Temprana. Los certificados vencidos vuelven a la jurisdicción cuando piden renovación tardía o reincorporación.
+
+El primer principio del Código es la llave maestra: toda la información entregada a NBCOT debe ser exacta y veraz, incluidos los materiales de examen y certificación, la renovación, la información pedida en un asunto disciplinario y los asuntos de seguridad del examen y divulgación de material confidencial. El contenido del examen es confidencial: divulgar, difundir o solicitar material confidencial, incluida la reconstrucción de preguntas de memoria, cae en esta casilla, y el fraude en la solicitud y la trampa en el examen comparten la misma cuenta. Cooperar con una investigación es en sí un deber del Código: no responder a cualquier aspecto de los procedimientos es por sí mismo una violación del Principio 1 y motivo suficiente de sanción, sin necesidad de probar antes la denuncia original. Las reglas del centro las ejecuta el proveedor del examen (Pearson VUE, según el artículo OTR de este repositorio); el manual del candidato prevé un canal de quejas sobre el examen, y las puntuaciones ligadas a una investigación no resuelta se retienen hasta que se resuelva: una puntuación demorada no equivale a una declaración de mala conducta.
+
+La sección C de los procedimientos enumera seis sanciones contadas: (1) inelegibilidad para la certificación —prohibición de certificarse, por un período o indefinidamente, el resultado más grave para quien aún no se ha certificado—; (2) reprimenda (Reprimand): desaprobación formal que queda en el expediente pero no se anuncia públicamente; (3) censura (Censure): la misma desaprobación formal, pero anunciada públicamente; (4) período de prueba (Probation): la certificación continúa sujeta a condiciones como supervisión, educación o consejería; (5) suspensión: pérdida de la certificación por un período, tras el cual puede haber que solicitar la reincorporación; (6) revocación: pérdida permanente. Toda sanción excepto la reprimenda se anuncia públicamente y se revela ante consultas, así que seis menos uno igual a cinco de las seis son públicas (recalculado dos veces en local).
+
+El reloj tiene cuatro segmentos separados de 30 días, no intercambiables. Una denuncia puede venir de cualquier fuente. El personal la evalúa: las alegaciones sin apoyo se cierran sin expediente avisando al denunciante, y la actuación puede suspenderse a la espera de un resultado judicial o regulatorio. Si la revisión sigue, el interesado recibe notificación escrita y tiene 30 días para responder, ampliables hasta 30 más con justificación suficiente: 30 más 30 igual a un techo de 60 días (recalculado dos veces). Después el personal desestima, se remite a la actuación apropiada de otra autoridad o propone una sanción por escrito, con otros 30 días para aceptarla o pedir audiencia por escrito. Dos trampas importan. Guardar silencio 30 días ante la carta de acuerdo de sanción propuesta hace que los términos propuestos entren en vigor de inmediato: no firmar no es lo mismo que no aceptar. Y no responder a las averiguaciones de la investigación provoca suspensión automática de hasta tres años, durante los cuales no puede usarse la credencial OTR o COTA; si sigue sin haber respuesta dentro del período de suspensión, la certificación se revoca automáticamente. La entrega voluntaria es otra vía: se entrega por escrito, y la reincorporación posterior exige solicitud escrita, cumplir los requisitos de elegibilidad vigentes incluidos los académicos y de práctica de campo, volver a presentar y aprobar el examen nacional de certificación, y cumplir el acuerdo de sanción y los pedidos pendientes.
+
+Las audiencias son telefónicas ante un panel de audiencia del QCRC; el interesado puede ser representado por un abogado o por cualquier persona que elija, a su costa; el libro de audiencia llega al interesado al menos 15 días antes, y la decisión se notifica por escrito dentro de los 30 días posteriores a la audiencia. La apelación cabe dentro de los 30 días siguientes a la notificación, por escrito firmado dirigido al presidente de la Junta Directiva, que forma un panel de apelación de tres personas sin ningún miembro del QCRC que haya participado en la audiencia. El panel puede confirmar, denegar, devolver el caso para más investigación conservando plenos derechos de apelación, o modificar la sanción, pero nunca a algo más adverso. Su decisión es final.
+
+California, por separado (agencia de licencias: California Board of Occupational Therapy, CBOT, bajo la Ley de Práctica de Terapia Ocupacional, Business and Professions Code sección 2570 y siguientes): aprobar el examen de certificación de NBCOT es el prerrequisito de examen nacional para la licencia de California, así que una inelegibilidad o revocación de NBCOT socava la propia licencia, pero las dos cuentas no son intercambiables: NBCOT solo puede sancionar su propia certificación, mientras que denegar o revocar una licencia de California es el proceso disciplinario propio de CBOT bajo la sección 2570.28 y sus vecinas, y un resultado de CBOT no cierra automáticamente una revisión de NBCOT. Todas las sanciones de NBCOT excepto la reprimenda son públicas y se revelan ante consultas. La sección 123 del mismo código convierte en delito menor subvertir un examen de licencia en California, la misma línea general que los artículos hermanos de este repositorio.
+
+Fuentes: NBCOT, Procedures for the Enforcement of the NBCOT Code of Conduct; NBCOT Certification Examination Handbook; California Business and Professions Code secciones 2570 y siguientes, entorno de la 2570.28, y 123. Verifique el texto vigente en NBCOT y CBOT cuando importe.
+
+Nota: apuntes personales de estudio, no consejo legal ni médico; este texto no contiene información de dosificación de medicamentos. (Traducción inicial pendiente de revisión · 初译待校)
+
+---
+
+## 한국어 (초역 · 初译待校)
+
+이 글은 본 저장소가 아직 단독으로 다루지 않은 작업치료 주제, NBCOT가 시험 부정행위를 어떻게 처리하고 점수와 자격에 무슨 일이 생길 수 있는지를 다룹니다. 시험에 떨어지는 것은 재시험 경로가 다루는 능력의 장부이고, 부정행위는 NBCOT의 후보자·자격자 행동강령과 그 집행 절차가 다루는 정직성의 장부로, 자격·준수 심사위원회(QCRC)가 집행합니다. 관할은 네 부류로 셉니다. 현행 OTR·COTA 자격자, 자격을 신청한 모든 사람 — 관할은 자격 취득 시점이 아니라 첫 시험 신청 시점에 시작됩니다 —, OTED 신청자, 조기 결정 심사(Early Determination Review) 신청자입니다. 만료된 자격자는 연체 갱신이나 자격 회복을 신청할 때 관할로 돌아옵니다.
+
+강령의 첫 번째 원칙이 총스위치입니다. NBCOT에 제공하는 모든 정보는 정확하고 진실해야 하며, 시험·자격 신청, 갱신 자료, 징계 사안에서 요청받은 정보, 시험 보안과 기밀 시험 자료의 공개에 관한 사항까지 포함합니다. 시험 내용은 기밀입니다. 기밀 자료를 공개·확산·요청하는 행위, 기억으로 문항을 재구성하는 것까지 이 칸에 들어가고, 신청 사기
+...[truncated 8188 chars]
