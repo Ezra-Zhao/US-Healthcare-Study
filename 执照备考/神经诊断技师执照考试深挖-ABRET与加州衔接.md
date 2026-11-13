@@ -85,3 +85,25 @@ El aterrizaje en California cabe en tres frases. Primera: California no tiene ni
 *Statement: This note is a personal study note in Chinese, English, Spanish, Korean, Vietnamese, and Hindi. It is not medical or professional advice.*
 
 *六语对照：中文主文，English 次之，Español·한국어·Tiếng Việt·हिन्दी 为初译待校。*
+
+
+---
+
+## 补记（2026-11-12 23:55 轮补译增量：韩／越／印三语各补 2 项细节）
+
+中文说明：本篇经三重核为从未补译（git log 仅创建提交、README 原条目无补译注记、文内无增量标记），并逐节核读确认下列 2 项细节中文主文已有、韩／越／印三语同缺，现补齐至对齐。增量只取中文主文已有事实，不新增事实、不写任何药物剂量与频次。一、四条检查线共同底座中的感染控制有具体构成：电极糊与皮肤处理、单人用品消毒流程。二、第四张证 CLTM 的时间锚：2010 年代后随癫痫监测单元（EMU）扩张而重要性上升。
+
+### 한국어 (초역, 初译待校)
+
+1. 네 검사 라인의 공통 토대인 감염 관리에는 구체적인 구성이 있습니다. 전극 풀과 피부 처리, 한 사람용 물품의 소독 절차가 그것입니다.
+2. 네 번째 자격 CLTM은 2010년대 이후 간질 모니터링 유닛(EMU)의 확장과 함께 중요성이 커졌습니다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+1. Kiểm soát nhiễm khuẩn, một phần của nền móng chung cho cả bốn tuyến kiểm tra, có cấu thành cụ thể: xử lý keo điện cực và da, cùng quy trình khử khuẩn đồ dùng cho từng người.
+2. Chứng chỉ thứ tư, CLTM, ngày càng quan trọng từ sau những năm 2010, theo đà mở rộng của các đơn vị theo dõi động kinh (EMU).
+
+### हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+1. चारों परीक्षण-रेखाओं की साझा नींव का हिस्सा, संक्रमण नियंत्रण, की विशिष्ट संरचना है: इलेक्ट्रोड पेस्ट और त्वचा की तैयारी, तथा एकल-रोगी सामग्री की विसंक्रमण प्रक्रिया.
+2. चौथा प्रमाणपत्र, CLTM, 2010 के दशक के बाद मिर्गी निगरानी इकाइयों (EMU) के विस्तार के साथ महत्त्व में बढ़ा है.
