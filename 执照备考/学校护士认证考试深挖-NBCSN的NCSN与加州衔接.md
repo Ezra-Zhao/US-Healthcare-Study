@@ -229,3 +229,25 @@ NCSN आजीवन नहीं है। रखरखाव पुनःप�
 - कैलिफ़ोर्निया में रोज़गार CTC के School Nurse Services Credential (RN लाइसेंस + स्नातक उपाधि + अनुमोदित स्कूल-नर्स कार्यक्रम) से चलता है, NCSN से अलग योजना और अभिलेख के साथ।
 
 *टिप्पणी: केवल व्यक्तिगत अध्ययन नोट; चिकित्सा सलाह नहीं, लाइसेंस पर राय नहीं। स्रोत: National Board for Certification of School Nurses (NBCSN), प्रमाणन मार्गदर्शन और वर्तमान Candidate Handbook; Commission on Teacher Credentialing (CTC), School Nurse Services Credential मार्गदर्शन; California Board of Registered Nursing (BRN); Nursing Practice Act, Bus. & Prof. Code § 2700 आदि। आवश्यकताएँ आवेदन के समय लागू आधिकारिक प्रकाशनों के अनुसार होंगी। इस लेख में दवा का कोई विवरण नहीं है। (प्रारंभिक अनुवाद, समीक्षा लंबित।)*
+
+---
+
+## 补译增量（2026-11-13 03:55 轮）
+
+### 한국어 (초역 · 初译待校)
+
+보충 하나. 학사 학위 요건은 이 인증을 학위 문턱이 없는 인증들과 가르는 선입니다. 이를테면 이 저장소의 소아간호 인증(CPN) 같은 인증은 학위를 문턱으로 세우지 않지만, NCSN은 학사선을 명시적으로 세웁니다.
+
+보충 둘. CTC 자격에는 preliminary와 clear 같은 단계와 후속 요건이 붙습니다. 신청 전에 CTC 공식 사이트와 프로그램을 운영하는 대학에서 단계별 요건을 하나하나 대조하고, 다른 주의 경험으로 캘리포니아의 단계를 추정하지 마십시오.
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+
+Bổ sung một. Yêu cầu bằng cử nhân là đường ranh tách chứng nhận này khỏi các chứng nhận không đặt ngưỡng học vị — ví dụ chứng nhận điều dưỡng nhi khoa (CPN) trong kho này không lấy bằng cấp làm cửa ngõ, còn NCSN thì đặt rõ vạch cử nhân.
+
+Bổ sung hai. Chứng nhận của CTC còn có các tầng như preliminary và clear cùng các yêu cầu tiếp nối; trước khi nộp hồ sơ hãy đối chiếu từng hạng mục trên trang chính thức của CTC và trường tổ chức chương trình, và đừng suy đoán các tầng của California từ kinh nghiệm ở bang khác.
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+
+पूरक एक। स्नातक उपाधि की शर्त ही इस प्रमाणन को उन प्रमाणनों से अलग करती है जिनमें डिग्री की कोई सीमा नहीं है — उदाहरण के लिए इस भंडार का बाल-नर्सिंग प्रमाणन (CPN) डिग्री को द्वार नहीं बनाता, जबकि NCSN स्पष्ट रूप से स्नातक रेखा खींचता है।
+
+पूरक दो। CTC प्रमाणपत्र में preliminary और clear जैसे स्तर और आगे की आवश्यकताएँ जुड़ी हैं; आवेदन से पहले CTC की आधिकारिक साइट और कार्यक्रम चलाने वाले संस्थान से स्तर-दर-स्तर हर 항목 जाँचें, और किसी अन्य राज्य के अनुभव से California के स्तरों का अनुमान न लगाएँ।
