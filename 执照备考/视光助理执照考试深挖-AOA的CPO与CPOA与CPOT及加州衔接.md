@@ -178,3 +178,17 @@ Paraoptometric कर्मी वह नैदानिक सहायता �
 *Statement: This note is a personal study note in Chinese, English, Spanish, Korean, Vietnamese, and Hindi. It is not medical or professional advice.*
 
 *六语对照：中文主文，English 次之，Español·한국어·Tiếng Việt·हिन्दी 为初译待校。*
+
+## 补译增量（2026-11-13 13:55 轮 · 初译待校）
+
+### 한국어 (초역 · 初译待校)
+
+(2026-11-13 보충) 두 가지 세부 사항. 첫째, 자격 심사에서 가장 흔한 걸림돌입니다. 경력을 누가 증명하는지, 그리고 교육 프로그램이 CPC 인정 명단에 올라 있는지가 자격 심사 단계에서 가장 자주 문제가 되는 지점입니다. 둘째, 시험 준비의 요령입니다. 수험 안내서의 내용 영역 목록을 따라 자신의 약한 부분부터 메우십시오. 접수 업무만 해 본 사람은 사전 검사와 광학 두 영역을 따로 보강해야 합니다. 그다음 공식 학습 자료로 판단 연습을 하는 방식이, 처음부터 모의 문제 풀이에 들어가는 것보다 안정적입니다.
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+
+(2026-11-13 bổ sung) Hai chi tiết. Thứ nhất, điểm nghẽn thường gặp nhất ở khâu xét điều kiện: kinh nghiệm do ai chứng nhận, và chương trình đào tạo có nằm trong danh sách được CPC công nhận hay không, là hai chỗ hay vướng nhất trong giai đoạn xét hồ sơ. Thứ hai, cách ôn thi: hãy đi theo danh mục lĩnh vực nội dung trong sổ tay để bù trước những phần mình yếu — người chỉ từng làm lễ tân cần bù riêng hai khối kiểm tra sơ bộ và quang học — rồi dùng tài liệu học chính thức để luyện phán đoán; cách này vững hơn việc lao vào làm đề mô phỏng ngay từ đầu.
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+
+(2026-11-13 पूरक) दो विवरण। पहला, पात्रता समीक्षा की सबसे आम अड़चन: अनुभव को कौन प्रमाणित करता है, और प्रशिक्षण कार्यक्रम CPC की अनुमोदित सूची में है या नहीं — यही दो बिंदु पात्रता समीक्षा के चरण में सबसे अधिक अटकते हैं। दूसरा, परीक्षा की तैयारी का तरीका: पुस्तिका की विषय-क्षेत्र सूची के साथ अपनी कमज़ोर कड़ियों को पहले भरें — जिसने केवल स्वागत-डेस्क का काम किया हो, उसे पूर्व-परीक्षण और प्रकाशिकी, ये दो खंड अलग से तैयार करने चाहिए — और फिर आधिकारिक अध्ययन सामग्री से निर्णय का अभ्यास करें; यह क्रम सीधे मॉक प्रश्नों से शुरू करने की तुलना में अधिक स्थिर है।
