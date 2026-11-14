@@ -238,3 +238,18 @@ Rơi xuống người bình thường, thứ tự hành động rất rõ ràng.
 *Tài liệu này là ghi chú học tập cá nhân, không phải tư vấn y tế hay pháp lý.*
 
 *यह दस्तावेज़ व्यक्तिगत अध्ययन नोट है और चिकित्सा या कानूनी सलाह नहीं है।*
+
+---
+## 补译增量（2026-11-14 00:55 轮）
+
+### 한국어 (초역, 원어민 감수 대기)
+
+보충 세부 두 가지. 첫째, 발동 범위: 의무는 의사 개인이 아니라 병원에 있고, Medicare에 참여하며 전용 응급실(dedicated emergency department)을 둔 병원에 적용되므로 환자가 Medicare 가입자인지, 보험이 있는지, 돈을 낼 수 있는지는 따지지 않습니다. '응급실에 왔다'는 말은 42 C.F.R. 제489.24조 (b)항에 따라 응급실 자체보다 넓어서 병원 부지와 본관 주변 250야드 안의 병원 재산까지 포함하며, 이 법은 돈을 못 내는 응급 환자를 거절하거나 떠넘기던 환자 덤핑(patient dumping)을 겨냥해 만들어졌습니다. 둘째, 세 가지 의무의 조문 위치: 의료 선별 검사는 42 U.S.C. 제1395dd조 (a)항에 근거하고 자격 있는 의료인이 수행해야 하며 앞단 분류(triage)와 같지 않습니다. 안정화는 (b)항으로, 진통 중인 임산부는 태아와 태반이 모두 나왔을 때 안정된 것으로 봅니다. 전원 제한은 (c)항, 그리고 전문 능력이 있는 병원이 적합한 전원을 받아야 하는 반대 방향 의무는 (g)항에 있습니다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Hai chi tiết bổ sung. Thứ nhất, phạm vi kích hoạt: nghĩa vụ đặt trên bệnh viện chứ không trên cá nhân bác sĩ, và áp dụng cho bệnh viện tham gia Medicare có khoa cấp cứu chuyên biệt (dedicated emergency department), nên việc bệnh nhân có Medicare hay không, có bảo hiểm hay không, có khả năng trả tiền hay không đều không liên quan. Khái niệm «đến khoa cấp cứu» theo 42 C.F.R. 489.24(b) rộng hơn khoa cấp cứu theo nghĩa đen: nó gồm khuôn viên bệnh viện và tài sản bệnh viện trong vòng 250 yard quanh tòa nhà chính; đạo luật này ra đời nhằm vào hành vi «đổ bệnh nhân» (patient dumping) — từ chối hoặc đẩy đi bệnh nhân cấp cứu vì không trả được tiền. Thứ hai, vị trí điều luật của ba nghĩa vụ: khám sàng lọc y tế (MSE) căn cứ tại 42 U.S.C. 1395dd(a) và phải do người có chuyên môn y tế đủ tư cách thực hiện, không đồng nhất với phân loại ưu tiên (triage) ở quầy; ổn định căn cứ tại khoản (b), mà theo đó sản phụ đang chuyển dạ chỉ được coi là ổn định khi cả thai nhi và nhau thai đã sổ ra; giới hạn chuyển viện ở khoản (c), và nghĩa vụ ngược chiều của bệnh viện có năng lực chuyên biệt phải tiếp nhận chuyển viện phù hợp nằm ở khoản (g).
+
+### हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+दो पूरक विवरण। पहला, प्रवर्तन-क्षेत्र: दायित्व चिकित्सक व्यक्ति पर नहीं, अस्पताल पर है, और यह उन अस्पतालों पर लागू होता है जो Medicare में भाग लेते हैं और जिनके पास समर्पित आपात विभाग (dedicated emergency department) है, इसलिए रोगी के पास Medicare है या नहीं, बीमा है या नहीं, भुगतान क्षमता है या नहीं — इनसे कोई संबंध नहीं। «आपात विभाग में आया» की परिभाषा 42 C.F.R. धारा 489.24(b) के अनुसार शब्दशः विभाग से व्यापक है: इसमें अस्पताल परिसर और मुख्य भवन के चारों ओर 250 गज (yards) के भीतर की अस्पताल संपत्ति आती है; यह कानून उस प्रथा को निशाना बनाकर बना था जिसे patient dumping कहा जाता है — भुगतान न कर सकने वाले आपात रोगियों को ठुकराना या हटा देना। दूसरा, तीनों दायित्वों के विधायी स्थान: medical screening examination का आधार 42 U.S.C. धारा 1395dd(a) है और यह योग्य चिकित्सा व्यक्ति द्वारा किया जाना चाहिए, अग्र-पंक्ति triage से भिन्न है; स्थिर करना (stabilizing) (b) के अंतर्गत है, जिसके अनुसार प्रसव-पीड़ा वाली गर्भवती तब स्थिर मानी जाती है जब भ्रूण और अपरा दोनों बाहर आ जाएँ; स्थानांतरण-सीमा (c) में है, और विशेष क्षमता वाले अस्पताल का उपयुक्त स्थानांतरण स्वीकार करने का विपरीत दायित्व (g) में है।
