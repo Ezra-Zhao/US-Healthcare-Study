@@ -136,3 +136,17 @@ California की आवश्यकताएँ अलग से दर्ज �
 本仓库为个人学习笔记，不构成医疗建议（This repository contains personal study notes only and does not constitute medical advice）。具体考试申请与便利安排请以 NREMT、加州 EMSA 与目标县 LEMSA 的官方口径为准；出现急症症状请立即拨打 911。
 
 *Notas personales de estudio; no constituye asesoría médica. Para solicitudes de examen y adaptaciones, consulte los criterios oficiales del NREMT, la EMSA de California y la LEMSA de su condado; ante síntomas de emergencia llame al 911.*
+## 补译增量（2026-11-14 01:55 轮）
+
+### 한국어 (초역 · 初译待校)
+
+보충 세부 두 가지. 첫째, 시간표 계산: 요청은 희망 시험일보다 최소 45일 전에 등록기관에 닿아야 하며, 2026년 12월 27일 시험을 예로 들면 마감은 2026년 11월 12일이고(11월 12일 더하기 45일은 12월 27일), 서류가 갖춰지지 않으면 심사에 30일 이상 걸릴 수 있어 45에서 30을 빼면 약 보름, 즉 약 15일의 여유만 수험생 몫으로 남습니다. 둘째, 순서의 철칙 두 가지: 편의 심사 결과가 나오기 전에는 시험 응시료를 내지 않는 것(체크리스트 2단계), 승인 편지를 손에 넣기 전에는 시험 예약을 하지 않는 것(체크리스트 8단계)이며, 결과는 다음 단계 안내가 적힌 편지를 붙인 이메일로 통지됩니다.
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+
+Hai chi tiết bổ sung. Thứ nhất, phép tính lịch: yêu cầu phải tới cơ quan đăng ký ít nhất 45 ngày trước ngày thi mong muốn; lấy kỳ thi ngày 27 tháng 12 năm 2026 làm ví dụ, hạn chót là ngày 12 tháng 11 năm 2026 (ngày 12 tháng 11 cộng 45 ngày bằng ngày 27 tháng 12), và khi hồ sơ chưa đủ, việc xét duyệt có thể mất 30 ngày hoặc hơn, nên 45 trừ 30 chỉ còn khoảng 15 ngày đệm thuộc về thí sinh, tức chừng hai tuần. Thứ hai, hai quy tắc sắt về thứ tự: không nộp lệ phí thi trước khi có kết quả xét duyệt điều chỉnh hợp lý (bước 2 của danh mục kiểm tra), và không đặt lịch thi trước khi nhận được thư phê duyệt (bước 8 của danh mục kiểm tra); kết quả được thông báo bằng thư điện tử kèm lá thư ghi rõ bước tiếp theo phải làm gì.
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+
+दो पूरक विवरण। पहला, समय-सारणी का हिसाब: अनुरोध वांछित परीक्षा-तिथि से कम से कम 45 दिन पहले पंजीकरण संस्था तक पहुँचना चाहिए; 27 दिसंबर 2026 की परीक्षा का उदाहरण लें तो अंतिम तिथि 12 नवंबर 2026 है (12 नवंबर और 45 दिन बराबर 27 दिसंबर), और दस्तावेज़ अधूरे रहने पर समीक्षा में 30 दिन या अधिक लग सकते हैं, इसलिए 45 में से 30 घटाने पर परीक्षार्थी के हिस्से में केवल लगभग 15 दिन, यानी करीब दो सप्ताह, का अंतर बचता है। दूसरा, क्रम के दो कठोर नियम: सुविधा-समीक्षा का परिणाम आने से पहले परीक्षा शुल्क न देना (जाँच-सूची चरण 2), और अनुमोदन-पत्र हाथ में आए बिना परीक्षा की बुकिंग न करना (जाँच-सूची चरण 8); परिणाम अगले कदम बताने वाले पत्र सहित ईमेल से सूचित किया जाता है।
+
