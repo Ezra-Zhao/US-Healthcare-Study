@@ -137,3 +137,25 @@ Kiểm tra toàn kho cho thấy CHIP chỉ được nhắc thoáng qua trong cá
 ---
 
 *个人学习笔记，不构成法律、税务或医疗建议。本文为儿童健康保险制度学习笔记；联邦口径以 CMS 与 42 C.F.R. Part 457 现行文本为准，各州资格线、福利与保费以本州当期公布为准，加州口径以 DHCS 当期公布为准。后四语（西／韩／越／印）为初译待校。*
+
+
+---
+
+## 补译增量（2026-11-14 11:55 轮 · 初译待校）
+
+> 本节为存量补译增量：韩／越／印三语各补 2 项中文主文已有、原译文同缺的细节，纯增量、不删原段、只取中文主文已有事实、不新增数字。
+
+### 한국어 (초역 · 初译待校)
+
+1. 상한 배정의 끝은 자동 추가가 아니다. CHIP의 연방 자금은 CMS가 회계연도마다 정하는 상한 배정이며, 주는 자기 매칭을 내야 연방 몫을 받을 수 있고, 배정이 다 쓰이면 자동으로 추가되지 않는다. 그래서 주는 자격선을 설계할 때 덮을 인원수와 배정 한도를 함께 계산해야 한다.
+2. 캘리포니아에서 연방 CHIP 문서를 읽는 법. 연방 문서의 「독립 계획」이라는 말을 캘리포니아에 그대로 대입하면 문을 잘못 찾는다. 캘리포니아에서는 그것을 「Medi-Cal 안의 CHIP 확장」으로 번역해 읽어야 하며, 가정은 하나의 신청 창구로 들어가 Medi-Cal이나 Covered California 보조 계획으로 나뉜다.
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+
+1. Phân bổ có trần hết là không tự động thêm. Tiền liên bang cho CHIP là phân bổ hằng năm có trần do CMS ấn định từng năm tài khóa; bang phải bỏ phần đối ứng của mình mới rút được phần liên bang, và khi phân bổ đã dùng hết thì không tự động được bổ sung thêm. Vì vậy khi thiết kế mức điều kiện, bang phải tính cùng lúc số trẻ được bao phủ và trần phân bổ.
+2. Cách đọc tài liệu CHIP liên bang cho California. Đừng áp nguyên cụm «chương trình tách riêng» trong tài liệu liên bang vào California, nếu không sẽ tìm sai cửa. Tại California phải dịch nó thành «phần mở rộng CHIP bên trong Medi-Cal» mới đúng, và gia đình đi qua một cửa nộp đơn duy nhất rồi được phân luồng sang Medi-Cal hoặc chương trình trợ cấp của Covered California.
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+
+1. सीमा वाली आवंटन राशि ख़त्म होने पर अपने आप नहीं बढ़ती। CHIP का संघीय धन CMS द्वारा हर वित्तीय वर्ष तय की गई सीमा वाली वार्षिक आवंटन राशि है; राज्य को अपना मिलान लगाकर ही संघीय हिस्सा मिलता है, और आवंटन ख़त्म हो जाए तो वह अपने आप नहीं बढ़ता। इसलिए पात्रता-रेखा बनाते समय राज्य को कवर होने वाले बच्चों की संख्या और आवंटन की छत, दोनों का हिसाब साथ रखना होता है।
+2. कैलिफ़ोर्निया के लिए संघीय CHIP दस्तावेज़ पढ़ने की विधि। संघीय दस्तावेज़ों के «अलग कार्यक्रम» शब्द को कैलिफ़ोर्निया पर ज्यों का त्यों लागू करने से ग़लत द्वार मिलेगा। कैलिफ़ोर्निया में उसे «Medi-Cal के भीतर CHIP विस्तार» के रूप में पढ़ना चाहिए, और परिवार एक ही आवेदन द्वार से जाकर Medi-Cal या Covered California की सब्सिडी वाली योजना की ओर वर्गीकृत होते हैं।
