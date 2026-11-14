@@ -106,3 +106,14 @@ Giải quyết được xét bằng sinh hóa, không bằng cảm giác: theo �
 *본 증례는 가상의 교육용 증례입니다. 개인 학습 노트이며 의료 자문이 아닙니다. 의심 증상이 나타나면 즉시 진료를 받거나 911에 전화하십시오. (초역·待校)*
 *Ca bệnh này là ca hư cấu dùng cho giảng dạy. Ghi chú học tập cá nhân, không phải tư vấn y tế. Nếu xuất hiện triệu chứng nghi ngờ, hãy đi khám ngay hoặc gọi 911. (bản dịch sơ bộ·待校)*
 *यह मामला एक काल्पनिक शिक्षण मामला है। व्यक्तिगत अध्ययन नोट; चिकित्सा सलाह नहीं है। संदिग्ध लक्षण दिखें तो तुरंत चिकित्सा सहायता लें या 911 पर कॉल करें। (प्रारंभिक अनुवाद·待校)*
+
+## 补译增量（2026-11-14 07:55 轮追加：韩／越／印三语补齐中文主文细节，正文原有段落未改动）
+
+### 한국어 보충 (초역 · 初译待校)
+퇴원 체크리스트의 복귀 적신호는 한국어 본문에서 항목 나열이 빠져 있어 보충합니다. 적신호는 다섯 가지입니다. 멈추지 않는 구토, 복통, 깊고 빠른 호흡, 혈중 케톤 3.0 mmol/L 이상, 지속적으로 높은 혈당입니다. 이 중 하나라도 나타나면 적신호로 적어 둔 대로 즉시 진료를 받아야 합니다. 교육적 마무리도 보충합니다. DKA의 처리 사슬은 세 고리로 이루어집니다. 정성은 D-K-A 세 가지 기준으로, 처치는 수액-칼륨-인슐린의 순서로, 마무리는 생화학적 해결 기준과 병가일 규칙으로 하며, 어느 한 고리라도 빠지면 재발하기 쉽습니다.
+
+### Bổ sung Tiếng Việt (bản dịch sơ bộ · 初译待校)
+Bổ sung phần liệt kê dấu hiệu đỏ để quay lại khám mà bản tiếng Việt còn thiếu trong danh sách xuất viện. Năm dấu hiệu đỏ là: nôn không ngừng, đau bụng, thở sâu và nhanh, ceton máu từ 3,0 mmol/L trở lên, và glucose máu cao kéo dài; hễ xuất hiện một dấu hiệu trong số đó thì phải đi khám ngay theo đúng danh sách đã ghi. Bổ sung thêm câu kết giảng dạy: chuỗi xử trí DKA gồm ba mắt xích — định tính dựa trên ba tiêu chí D-K-A, xử trí theo thứ tự dịch truyền, kali rồi insulin, và khép lại bằng tiêu chuẩn giải quyết sinh hóa cùng quy tắc ngày ốm; thiếu một mắt xích là dễ tái phát.
+
+### हिन्दी पूरक (प्रारंभिक अनुवाद · 初译待校)
+छुट्टी सूची के लौटने के red flags की गिनती हिन्दी पाठ में छूटी थी, वह पूरक की जाती है। पाँच red flags हैं: न रुकने वाली उल्टी, पेट दर्द, गहरी तेज़ साँस, रक्त कीटोन 3.0 mmol/L या अधिक, और लगातार ऊँचा glucose; इनमें से कोई एक भी दिखे तो सूची में लिखे अनुसार तुरंत देखभाल लेनी चाहिए। शिक्षण समापन भी पूरक है: DKA की उपचार-शृंखला के तीन कड़ियाँ हैं — निर्धारण D-K-A तीन मानदंडों से, उपचार तरल-पोटैशियम-इंसुलिन के क्रम से, और समापन जैव-रासायनिक समाधान मानदंड व sick-day नियमों से; एक भी कड़ी छूटे तो पुनरावृत्ति आसान हो जाती है।
