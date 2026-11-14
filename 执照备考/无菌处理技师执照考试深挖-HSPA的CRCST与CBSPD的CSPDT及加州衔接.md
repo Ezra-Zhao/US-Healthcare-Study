@@ -114,3 +114,25 @@ California được ghi riêng: California không có giấy phép cấp bang ch
 个人学习笔记，不构成医疗建议。报考资格、题量、费用与州法口径以 HSPA、CBSPD 当期公告与目标州现行法文本为准。
 
 *Personal study notes only; not medical advice.*
+
+---
+
+## 补译增量（2026-11-14 12:55 轮）
+
+> 本节为存量补译增量：经逐节核读，本篇正文韩／越／印三语已基本对齐，真实缺口在文末来源与说明、免责声明两节——两节只有中文与英文简版，韩／越／印三语无对应文本。本轮韩／越／印三语各补 2 项细节增量，只取中文主文已有事实，不新增事实、不写剂量，纯增量追加。
+
+### 한국어 (초역, 初译待校)
+
+1. 출처 목록 보충: 본 글의 근거는 HSPA(Healthcare Sterile Processing Association, myhspa.org)의 CRCST 자격(실습 400시간과 임시 인증 경로), 시험 구조와 갱신 정책 및 같은 기관의 입법 추적 페이지(각 주의 강제 인증법), CBSPD(Certification Board for Sterile Processing and Distribution, cbspd.net)의 CSPDT Candidate Bulletin(네 가지 자격 경로, 시험 구조와 척도 합격선, 재인증 주기), ANSI/AAMI ST79(증기 멸균과 무균 보증 종합 지침), CDC의 의료기관 소독·멸균 지침, AORN 수술 전후 실무 지침과 기구 제조사의 사용 설명(IFU), 뉴욕 공중보건법 제2824조(중앙서비스 기사 인증 요건)이며, 캘리포니아의 기관 인허가 층은 CDPH 병원 인허가 틀이고 무균처리 기사의 개인 주 자격증은 없습니다. (초역, 교정 대기)
+2. 고지 전문 보충: 본 글은 개인 학습 노트이며 의료 조언이 아닙니다. 응시 자격, 문항 수, 응시료와 주법 기준은 HSPA와 CBSPD의 현행 공고 및 목표 주의 현행 법문을 따릅니다. (초역, 교정 대기)
+
+### Tiếng Việt (bản dịch sơ bộ, 初译待校)
+
+1. Bổ sung danh mục nguồn: căn cứ của bài này là HSPA (Healthcare Sterile Processing Association, myhspa.org) về điều kiện CRCST (400 giờ thực hành và lối chứng chỉ tạm thời), cấu trúc kỳ thi và chính sách gia hạn, cùng trang theo dõi lập pháp của cùng tổ chức (luật chứng chỉ bắt buộc của các bang); CBSPD (Certification Board for Sterile Processing and Distribution, cbspd.net) với Candidate Bulletin của CSPDT (bốn lối điều kiện, cấu trúc kỳ thi và điểm cắt theo thang, chu kỳ tái chứng nhận); ANSI/AAMI ST79 (hướng dẫn tổng hợp về tiệt trùng hơi nước và bảo đảm vô trùng); hướng dẫn khử khuẩn và tiệt trùng trong cơ sở y tế của CDC; hướng dẫn thực hành chu phẫu của AORN và hướng dẫn sử dụng của nhà sản xuất thiết bị (IFU); mục 2824 của Luật Y tế Công cộng New York (yêu cầu chứng chỉ kỹ thuật viên dịch vụ trung tâm); và ở California, tầng cấp phép cơ sở là khung cấp phép bệnh viện của CDPH, không có chứng chỉ cá nhân cấp bang cho kỹ thuật viên xử lý vô trùng. (Bản dịch sơ bộ, chờ hiệu đính)
+2. Bổ sung tuyên bố đầy đủ: bài này là ghi chú học tập cá nhân, không phải lời khuyên y khoa. Điều kiện dự thi, số câu hỏi, lệ phí và quy định luật bang theo thông báo hiện hành của HSPA, CBSPD và văn bản luật hiện hành của bang đích. (Bản dịch sơ bộ, chờ hiệu đính)
+
+### हिन्दी (प्रारंभिक अनुवाद, 初译待校)
+
+1. स्रोत सूची पूरक: इस लेख के आधार हैं — HSPA (Healthcare Sterile Processing Association, myhspa.org) से CRCST पात्रता (400 घंटे का व्यावहारिक अभ्यास और अनंतिम प्रमाणन मार्ग), परीक्षा संरचना व नवीनीकरण नीति और उसी संस्था का विधायी ट्रैकर पृष्ठ (राज्यों के अनिवार्य प्रमाणन कानून); CBSPD (Certification Board for Sterile Processing and Distribution, cbspd.net) का CSPDT Candidate Bulletin (चार पात्रता मार्ग, परीक्षा संरचना व स्केल उत्तीर्ण रेखा, पुनः प्रमाणन चक्र); ANSI/AAMI ST79 (भाप जीवाणुनाशन व स्टेराइल आश्वासन की व्यापक मार्गदर्शिका); CDC का स्वास्थ्य-सुविधाओं में कीटाणुशोधन व जीवाणुनाशन दिशानिर्देश; AORN की परिशल्य अभ्यास दिशानिर्देश और निर्माता के उपयोग-निर्देश (IFU); New York Public Health Law की धारा 2824 (central service तकनीशियन प्रमाणन आवश्यकताएँ); और कैलिफ़ोर्निया में सुविधा-लाइसेंसिंग स्तर CDPH का अस्पताल लाइसेंसिंग ढाँचा है, sterile processing तकनीशियन के लिए कोई व्यक्तिगत राज्य प्रमाणपत्र नहीं है. (प्रारंभिक अनुवाद, समीक्षा लंबित)
+2. पूर्ण अस्वीकरण पूरक: यह लेख व्यक्तिगत अध्ययन नोट है, चिकित्सीय सलाह नहीं. पात्रता, प्रश्नों की संख्या, शुल्क और राज्य-कानून के मानक HSPA, CBSPD की वर्तमान घोषणाओं और गंतव्य राज्य के वर्तमान कानून के अनुसार होंगे. (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
