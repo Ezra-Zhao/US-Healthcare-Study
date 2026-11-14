@@ -56,3 +56,18 @@ Bổ sung: người dùng insulin thường được nhắc tới mức khoảng
 *Bài viết này là ghi chép học tập cá nhân, không phải tư vấn y tế. Với trường hợp cụ thể, hãy hỏi bác sĩ hoặc dược sĩ có giấy phép. (bản dịch sơ bộ·待校)*
 
 *यह लेख व्यक्तिगत अध्ययन नोट है, चिकित्सा सलाह नहीं। विशिष्ट मामले के लिए लाइसेंसधारी चिकित्सक या फार्मासिस्ट से परामर्श करें। (प्रारंभिक अनुवाद·待校)*
+
+
+## 补译增量（2026-11-13 15:55 轮）
+
+### 한국어 (초역, 初译待校)
+
+보충 세부사항 두 가지. 첫째, 상업보험의 약국 경로와 사전 승인입니다. 많은 상업 플랜은 CGM을 DME 급여가 아니라 약국 급여(pharmacy benefit) 아래 두어 본인부담 구조가 다르고 사전 승인(prior authorization)이 필요한 경우가 많습니다. 승인 자료의 핵심은 보통 인슐린 사용 기록, 저혈당 사건 기록, 또는 A1C 미달성 기록이며, 거절 사유로 가장 흔한 것은 인슐린 사용 증거가 서류에 빠진 경우입니다. 이때는 진료 기록과 처방을 보완해 이의신청(appeal)으로 다시 제출하는 것이 표준 경로입니다. 둘째, 안전선입니다. CGM 수치가 증상과 맞지 않을 때(특히 빠른 상승·하강 구간과 저혈당 알람이 울릴 때)는 손가락 채혈로 다시 확인한 뒤 대처합니다. FDA 설명서 기준으로 고용량 비타민 C나 아세트아미노펜 같은 일부 약물은 기종에 따라 수치에 간섭할 수 있으니 설명서의 간섭 목록을 확인하세요. 센서 부착 부위는 번갈아 사용하고, 피부 감염 징후가 보이면 진료를 받습니다. 의식이 흐려지는 중증 저혈당은 응급 상황이므로 재측정을 기다리지 말고 911에 전화합니다.
+
+### Tiếng Việt (bản dịch, 初译待校)
+
+Hai chi tiết bổ sung. Thứ nhất, kênh nhà thuốc của bảo hiểm thương mại và phê duyệt trước. Nhiều chương trình thương mại đặt CGM dưới quyền lợi nhà thuốc (pharmacy benefit) chứ không phải quyền lợi DME, nên cấu trúc đồng chi trả khác và thường cần phê duyệt trước (prior authorization). Hồ sơ phê duyệt thường xoay quanh ba loại bằng chứng: ghi chép sử dụng insulin, ghi chép các đợt hạ đường huyết, hoặc ghi chép A1C chưa đạt mục tiêu; lý do bị từ chối phổ biến nhất là hồ sơ thiếu bằng chứng dùng insulin. Khi đó, bổ sung bệnh án và đơn thuốc rồi nộp khiếu nại (appeal) là lộ trình chuẩn. Thứ hai, tuyến an toàn. Khi số đọc CGM không khớp với triệu chứng — nhất là lúc đường huyết lên xuống nhanh và khi báo động hạ đường huyết — hãy kiểm tra lại bằng máu đầu ngón tay trước khi xử trí. Theo hướng dẫn của FDA, một số thuốc như vitamin C liều cao hoặc acetaminophen có thể gây nhiễu số đọc tùy theo model máy, cần xem danh mục gây nhiễu trong tờ hướng dẫn. Hãy luân phiên vị trí dán cảm biến và đi khám khi có dấu hiệu nhiễm trùng da. Hạ đường huyết nặng tới mức lơ mơ, mất tỉnh táo là tình huống cấp cứu: gọi 911 ngay, đừng chờ đo lại.
+
+### हिन्दी (प्रारंभिक अनुवाद, 初译待校)
+
+दो पूरक विवरण। पहला, वाणिज्यिक बीमा का फ़ार्मेसी मार्ग और पूर्व-प्राधिकरण। कई वाणिज्यिक योजनाएँ CGM को DME लाभ के बजाय फ़ार्मेसी लाभ (pharmacy benefit) के अंतर्गत रखती हैं, जिससे सह-भुगतान संरचना अलग होती है और अक्सर पूर्व-प्राधिकरण (prior authorization) चाहिए होता है। अनुमोदन सामग्री का केंद्र आमतौर पर तीन प्रमाण होते हैं: इंसुलिन उपयोग का अभिलेख, निम्न-रक्तशर्करा घटनाओं का अभिलेख, या A1C लक्ष्य-अप्राप्ति का अभिलेख; अस्वीकृति का सबसे आम कारण फ़ाइल में इंसुलिन-प्रमाण की कमी है। तब चिकित्सा अभिलेख व पर्चा पूरा करके अपील (appeal) पुनः दाखिल करना मानक मार्ग है। दूसरा, सुरक्षा रेखा। जब CGM पाठ्यांक लक्षणों से मेल न खाए — विशेषकर तीव्र चढ़ाव-उतार और निम्न-रक्तशर्करा अलार्म के समय — तो उँगली-रक्त से पुनः जाँच करके ही कार्रवाई करें। FDA निर्देशों के अनुसार उच्च-मात्रा विटामिन C या एसिटामिनोफ़ेन जैसी कुछ दवाएँ मॉडल के अनुसार पाठ्यांक में हस्तक्षेप कर सकती हैं; निर्देश-पुस्तिका की हस्तक्षेप-सूची देखें। सेंसर लगाने का स्थान बदलते रहें और त्वचा-संक्रमण के लक्षण दिखें तो चिकित्सा लें। चेतना धुंधली करने वाली गंभीर निम्न-रक्तशर्करा आपात स्थिति है: पुनः माप की प्रतीक्षा न करके 911 पर कॉल करें।
