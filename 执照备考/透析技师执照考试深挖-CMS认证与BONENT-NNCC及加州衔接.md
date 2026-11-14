@@ -109,3 +109,17 @@ Este artículo es solo una nota personal de estudio y no constituye asesoría m�
 Bài này chỉ là ghi chép học tập cá nhân, không cấu thành tư vấn y tế hay nghề nghiệp. Các chứng nhận được công nhận, điều kiện dự thi và quy tắc gia hạn theo hướng dẫn chính thức hiện hành của CMS, CDPH, BONENT và NNCC; hãy tham vấn bộ phận đào tạo và tuân thủ của cơ sở mình cho trường hợp cụ thể. (Bản dịch sơ bộ, chờ hiệu đính.)
 
 यह लेख केवल व्यक्तिगत अध्ययन नोट है और चिकित्सा या करियर परामर्श नहीं है। मान्यता प्राप्त प्रमाणन, पात्रता और नवीनीकरण नियम CMS, CDPH, BONENT और NNCC के वर्तमान आधिकारिक मार्गदर्शन के अनुसार हैं; विशिष्ट मामले के लिए अपने केंद्र की शिक्षा व अनुपालन टीम से परामर्श करें। (प्रारंभिक अनुवाद, समीक्षा लंबित।)
+
+## 补译增量（2026-11-14 08:55 轮追加：韩／越／印三语补齐中文主文细节，正文原有段落未改动）
+
+### 한국어 보충 (초역 · 初译待校)
+
+연방 18개월 기한의 결과 사슬을 한국어로 보충합니다. 환자 돌봄 투석기사는 채용일로부터 18개월 안에 주 인증 프로그램이나 전국 상용 인증 프로그램 중 하나로 인증을 받아야 하며, 기한 안에 인증을 받지 못하면 더 이상 독립적으로 직접 투석 돌봄을 제공할 수 없고, Medicare 실사에서 결함은 개인이 아니라 시설에 부과됩니다. 합병증 대응의 세 단계도 보충합니다. 투석 중 저혈압, 경련, 공기색전증이 의심될 때 기사의 일은 스스로 진단하고 치료하는 것이 아니라, 인지하고, 규정에 따른 초기 조치를 취하고, 즉시 보고하는 것이며, 한 주에서 익힌 세부 습관, 예를 들어 항응고 관련 동작의 관행은 다른 주로 그대로 가져갈 수 없습니다.
+
+### Bổ sung Tiếng Việt (bản dịch sơ bộ · 初译待校)
+
+Bổ sung bằng tiếng Việt chuỗi hệ quả của thời hạn liên bang 18 tháng: kỹ thuật viên chăm sóc bệnh nhân lọc máu phải được chứng nhận, theo một chương trình chứng nhận của bang hoặc một chương trình chứng nhận quốc gia có sẵn trên thị trường, trong vòng 18 tháng kể từ ngày được tuyển dụng; nếu lỡ thời hạn này thì không còn được độc lập cung cấp chăm sóc lọc máu trực tiếp, và khiếm khuyết trong đợt khảo sát của Medicare được ghi cho cơ sở chứ không chỉ cho cá nhân. Bổ sung thêm ba bước ứng phó biến chứng: khi xảy ra tụt huyết áp trong lúc lọc, chuột rút, hay nghi thuyên tắc khí, việc của kỹ thuật viên là nhận biết, thực hiện các bước đầu theo quy trình và báo cáo leo thang ngay lập tức, chứ không phải tự chẩn đoán và điều trị; và thói quen chi tiết của một bang, chẳng hạn thông lệ về các thao tác liên quan đến chống đông, không mang theo sang bang khác được.
+
+### हिन्दी पूरक (प्रारंभिक अनुवाद · 初译待校)
+
+संघीय 18-महीने की समय-सीमा की परिणाम-शृंखला हिन्दी में पूरक की जाती है: मरीज़-देखभाल डायलिसिस तकनीशियन को नियुक्ति की तारीख से 18 महीनों के भीतर राज्य प्रमाणन कार्यक्रम या राष्ट्रीय स्तर पर उपलब्ध व्यावसायिक प्रमाणन कार्यक्रम के तहत प्रमाणित होना होगा; यह सीमा चूकने पर वह फिर स्वतंत्र रूप से प्रत्यक्ष डायलिसिस देखभाल नहीं दे सकता, और Medicare निरीक्षण में कमी व्यक्ति पर नहीं, केंद्र पर लगती है। जटिलता-प्रतिक्रिया के तीन कदम भी पूरक हैं: डायलिसिस के दौरान निम्न रक्तचाप, ऐंठन या वायु-एम्बोलिज़्म के संदेह पर तकनीशियन का काम स्वयं निदान व उपचार नहीं है — पहचानना, प्रोटोकॉल के पहले कदम उठाना और तुरंत ऊपर सूचना देना है; और एक राज्य की विस्तृत आदतें, जैसे anticoagulation से जुड़े कार्यों की प्रथा, दूसरे राज्य में साथ नहीं ले जाई जा सकतीं।
