@@ -175,3 +175,26 @@ Ghi chú luân chuyển: đây là bài về hành vi sai quy định của tr�
 ---
 
 *个人学习笔记，不构成医疗建议。本文为执照考试制度学习笔记；违规行为与成绩处理口径以 FSBPT 当期考生手册与法域决定为准，加州条文以《商业与职业法典》现行原文为准。后四语（西／韩／越／印）为初译待校。*
+
+---
+
+## 补译增量（2026-11-15 07:55 轮）
+
+### 한국어 (초역, 원어민 감수 대기)
+
+보충 세부 1 — 보류된 성적의 공개 조건: 보류된 응시자가 부정확한 정보를 제공한 경우에도 FSBPT는 성적을 공개하지 않습니다. 신속하고 정확한 응답이 성적을 빨리 공개받기 위한 핵심이며, 시험 뒤 60일의 조사 협조 창이 지나면 성적이 취소될 수 있습니다.
+
+보충 세부 2 — 캘리포니아 기관의 소속: 면허 기관인 Physical Therapy Board of California(PTBC)는 캘리포니아 소비자업무부(Department of Consumer Affairs) 체계 안에 있습니다. 성적의 공개와 취소는 FSBPT만이 정하고, PTBC는 성적을 받아 주법에 따라 면허를 정하는 쪽입니다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Chi tiết bổ sung 1 — điều kiện công bố điểm bị giữ: nếu thí sinh bị giữ điểm cung cấp thông tin không chính xác, FSBPT cũng không công bố điểm. Phản hồi kịp thời và chính xác là chìa khóa để điểm được công bố sớm, và nếu cửa sổ phối hợp điều tra 60 ngày sau kỳ thi trôi qua, điểm có thể bị hủy.
+
+Chi tiết bổ sung 2 — vị trí của cơ quan California: cơ quan cấp phép, Hội đồng Vật lý Trị liệu California (PTBC), nằm trong hệ thống Sở Các vấn đề Người tiêu dùng California (Department of Consumer Affairs). Chỉ FSBPT quyết định công bố hay hủy điểm; PTBC nhận điểm và quyết định cấp phép theo luật bang.
+
+### हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+पूरक विवरण 1 — रोके गए अंक की रिहाई की शर्त: यदि रोका गया अभ्यर्थी ग़लत जानकारी देता है, तो भी FSBPT अंक जारी नहीं करता। समय पर और सही उत्तर ही अंक जल्दी जारी कराने की कुंजी है, और परीक्षा के बाद 60 दिनों की जाँच-सहयोग खिड़की बीत जाने पर अंक रद्द हो सकता है।
+
+पूरक विवरण 2 — California संस्था का स्थान: लाइसेंस संस्था, Physical Therapy Board of California (PTBC), California Department of Consumer Affairs की व्यवस्था के भीतर आती है। अंक जारी या रद्द करना केवल FSBPT तय करता है; PTBC अंक प्राप्त करता है और राज्य-कानून के तहत लाइसेंस तय करता है।
+

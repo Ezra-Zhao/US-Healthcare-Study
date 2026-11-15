@@ -59,3 +59,26 @@ Ca bệnh giảng dạy hư cấu. Nam 38 tuổi đến khoa cấp cứu vì s�
 ## 免责声明（六语）
 
 中文：个人学习笔记，不构成医疗建议；虚构教学病例，不对应任何真实患者。｜ English: Personal study notes, not medical advice; fictional teaching case. ｜ Español (初译待校): Notas personales de estudio, no constituyen consejo médico; caso ficticio. ｜ 한국어 (初译待校): 개인 학습 노트이며 의학적 조언이 아닙니다. 가상의 교육용 증례입니다. ｜ Tiếng Việt (初译待校): Ghi chú học tập cá nhân, không phải tư vấn y tế; ca bệnh hư cấu. ｜ हिन्दी (初译待校): व्यक्तिगत अध्ययन नोट, चिकित्सीय सलाह नहीं है; काल्पनिक शिक्षण मामला है।
+
+---
+
+## 补译增量（2026-11-15 07:55 轮）
+
+### 한국어 (초역, 원어민 감수 대기)
+
+보충 세부 1 — 역학: 이 증후군은 남성과 동남아시아 인구에서 더 흔히 보이며, 동남아시아 지역의 원인 불명 야간 급사라는 전통적 증례군이 이 증후군과 크게 겹칩니다. 수면 중 급사에 대한 가족력을 묻는 이유가 여기에 있습니다.
+
+보충 세부 2 — 순서와 검사의 자리: 먼저 가역적 유발 요인을 처리하십시오. 열을 내리고, 전해질을 바로잡고, 파형이나 부정맥을 유발할 수 있는 약물 범주를 중단한 뒤에야 전문의 틀 안에서 장기 계획을 논의합니다. 위험 층화에서 전기생리학 검사가 차지하는 자리는 논쟁 중이며, 전문의가 당시 지침에 따라 사례마다 정하는 것이지 필수 항목으로 적어 두는 검사가 아닙니다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Chi tiết bổ sung 1 — dịch tễ học: hội chứng này gặp nhiều hơn ở nam giới và ở các quần thể Đông Nam Á, và cụm ca truyền thống về đột tử ban đêm không rõ nguyên nhân ở Đông Nam Á chồng lấp nhiều với nó; đó là lý do phải hỏi tiền sử gia đình về đột tử trong lúc ngủ.
+
+Chi tiết bổ sung 2 — thứ tự và vị trí của thăm dò: trước hết hãy xử lý các yếu tố khêu gợi có thể đảo ngược — hạ sốt, điều chỉnh điện giải và ngừng các nhóm thuốc có thể khêu gợi dạng sóng hay loạn nhịp — rồi mới bàn kế hoạch dài hạn trong khung chuyên khoa. Vị trí của thăm dò điện sinh lý trong phân tầng nguy cơ còn đang tranh luận, do chuyên khoa quyết định theo từng ca dựa trên hướng dẫn hiện hành, chứ không phải một mục bắt buộc phải làm.
+
+### हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+पूरक विवरण 1 — महामारी-विज्ञान: यह सिंड्रोम पुरुषों और दक्षिण-पूर्व एशियाई आबादी में अधिक पाया जाता है, और दक्षिण-पूर्व एशिया का अस्पष्टीकृत रात्रि अचानक मृत्यु का पारंपरिक मामला-समूह इससे बहुत अधिक मिलता है; नींद में अचानक मृत्यु के पारिवारिक इतिहास के बारे में पूछने का यही कारण है।
+
+पूरक विवरण 2 — क्रम और जाँच का स्थान: पहले प्रतिवर्ती उकसावे संभालें — बुख़ार उतारें, इलेक्ट्रोलाइट ठीक करें और पैटर्न या अतालता उकसा सकने वाले औषध वर्ग बंद करें — उसके बाद ही विशेषज्ञ ढांचे में दीर्घकालिक योजना पर बात करें। जोखिम स्तरीकरण में विद्युत-शरीरक्रिया जाँच का स्थान विवादित है; यह विशेषज्ञ द्वारा वर्तमान दिशानिर्देश के अनुसार मामले-दर-मामले तय होता है, अनिवार्य मद के रूप में लिखा जाने वाला परीक्षण नहीं है।
+
