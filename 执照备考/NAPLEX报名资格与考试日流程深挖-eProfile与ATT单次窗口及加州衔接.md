@@ -157,3 +157,22 @@ Nguồn: Sổ tay Thí sinh NAPLEX hiện hành của NABP (phí hồ sơ và l�
 
 ### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
 स्रोत: NABP का वर्तमान NAPLEX Candidate Bulletin (आवेदन और परीक्षा शुल्क, eligibility पुष्टि का विभाजन और NABP-पुष्ट सूची, transcript-पहले नियम, एकल-उपयोग ATT, eligibility अवधि और ख़रीद सीमा) और NABP के सार्वजनिक परीक्षा पृष्ठ; Pearson VUE का NABP program पृष्ठ (ATT जारी करना, scheduling और rescheduling शर्तें); और California State Board of Pharmacy का सार्वजनिक pharmacist licensure आवेदन मार्गदर्शन। ये व्यक्तिगत अध्ययन नोट्स हैं — चिकित्सा, आवेदन या कानूनी सलाह नहीं। (प्रारंभिक अनुवाद · 初译待校)
+
+
+---
+
+## 补译增量（2026-11-15 08:55轮）
+
+本节补译篇首中文导语中韩、越、印三语同缺的两项细节，只译已有内容，不新增事实。
+
+### 한국어 (초역 · 初译待校)
+
+보충 1 (이 글의 위치): 이 글은 NAPLEX 등록 자격과 시험 당일 절차를 세분한 전문 글입니다. 본편이 등록 경로를 한 단락으로만 스치고 지나간 부분을, 이 글은 자격 확인, 시험 구매, ATT 기간, 예약과 일정 변경, 시험 당일 입장까지 단계별로 분명히 적어 보완합니다. 보충 2 (시효 주의): 금액과 기한은 바뀔 수 있으므로, 응시할 때는 그 시점의 현행 안내서를 기준으로 확인해야 합니다. (초역 · 初译待校)
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+
+Bổ sung 1 (vị trí của bài này): Đây là bài chuyên sâu tách riêng về tư cách đăng ký và quy trình ngày thi của NAPLEX. Phần mà bài chính chỉ lướt qua lộ trình đăng ký trong một đoạn, bài này bổ sung bằng cách ghi rõ từng bước: xác nhận tư cách, mua kỳ thi, cửa sổ ATT, đặt lịch và đổi lịch, và vào phòng thi ngày thi. Bổ sung 2 (lưu ý thời hiệu): Số tiền và thời hạn có thể thay đổi, nên khi dự thi hãy lấy sổ tay hiện hành tại thời điểm đó làm chuẩn. (bản dịch sơ bộ · 初译待校)
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+
+पूरक 1 (इस लेख की स्थिति): यह लेख NAPLEX पंजीकरण-पात्रता और परीक्षा-दिवस प्रक्रिया पर अलग विस्तृत लेख है. मुख्य लेख पंजीकरण मार्ग को केवल एक अनुच्छेद में छूता है; यह लेख उस हिस्से को पूरा करता है — पात्रता पुष्टि, परीक्षा ख़रीद, ATT अवधि, scheduling और rescheduling, और परीक्षा-दिवस प्रवेश, चरण-दर-चरण स्पष्ट करके. पूरक 2 (समय-सीमा चेतावनी): राशियाँ और समय-सीमाएँ बदल सकती हैं, इसलिए आवेदन के समय उस समय के वर्तमान bulletin को ही आधार मानें. (प्रारंभिक अनुवाद · 初译待校)
