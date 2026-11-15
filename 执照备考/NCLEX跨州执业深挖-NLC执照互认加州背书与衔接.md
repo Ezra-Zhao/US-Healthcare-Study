@@ -121,3 +121,19 @@ NCLEX उत्तीर्ण करना केवल परीक्षा �
 个人学习笔记，不构成法律、税务或医疗建议；病例或个案（如有）为虚构教学内容。本篇全文不涉及任何药物剂量；提及药物时只写类别。后四语（Español 除外按学习译稿处理，한국어、Tiếng Việt、हिन्दी）为初译待校，请以中文主文与英文版为准。
 
 *This article is a personal study note, not legal or medical advice. Korean, Vietnamese and Hindi versions are preliminary translations pending review.*
+
+## 补译增量（2026-11-15 00:55轮）
+
+本节为存量补译增量：从中文主文挑 2 项此前韩／越／印译文未覆盖的事实细节补译至三语，纯增量、只加不改原文。
+
+### 한국어 (초역 · 初译待校)
+
+보충 두 가지. 첫째, 다주 면허의 자격 조건은 발급 때만이 아니라 갱신 때에도 위원회가 확인합니다. 조건을 충족하지 못하면 단일 주 면허로만 처리되거나, 아예 면허가 나오지 않을 수 있습니다. 둘째, endorsement 경로에서 해외 교육 배경이 있는 신청자는 학력 평가와 교육과정 비교가 추가로 따릅니다. 성적표는 학교가 BRN으로 직접 보내야 하며, 신청자가 직접 보낸 사본은 공식 근거가 되지 않습니다. (초역, 원어민 감수 대기)
+
+### Tiếng Việt (dịch sơ bộ · 初译待校)
+
+Bổ sung hai điểm. Thứ nhất, các điều kiện tư cách của giấy phép đa bang được hội đồng kiểm tra không chỉ khi cấp phép mà cả khi gia hạn; người không đáp ứng điều kiện chỉ có thể được xử lý theo giấy phép đơn bang, hoặc thậm chí không được cấp phép. Thứ hai, trong lộ trình endorsement, người nộp đơn có nền tảng giáo dục ở nước ngoài còn phải qua đánh giá học vấn và đối chiếu chương trình học; bảng điểm phải do trường gửi thẳng tới BRN, và bản sao do chính người nộp đơn gửi không được coi là căn cứ chính thức. (Bản dịch sơ bộ, chờ hiệu đính.)
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+
+दो पूरक बिंदु। पहला, बहु-राज्य लाइसेंस की पात्रता शर्तों की जाँच बोर्ड केवल जारी करते समय नहीं, नवीनीकरण के समय भी करता है; शर्तें पूरी न हों तो व्यक्ति को केवल एकल-राज्य लाइसेंस के रूप में रखा जा सकता है, या लाइसेंस जारी ही नहीं किया जा सकता। दूसरा, endorsement मार्ग में विदेशी शिक्षा पृष्ठभूमि वाले आवेदकों के लिए शिक्षा मूल्यांकन और पाठ्यक्रम तुलना अतिरिक्त रूप से जुड़ती है; अंकतालिका विद्यालय द्वारा सीधे BRN को भेजी जानी चाहिए, और आवेदक द्वारा स्वयं भेजी गई प्रति आधिकारिक आधार नहीं मानी जाती। (प्रारंभिक अनुवाद, समीक्षा लंबित।)
