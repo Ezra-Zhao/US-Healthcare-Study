@@ -405,3 +405,18 @@ Cuối cùng để lại một danh sách kiểm tra, trước khi đăng ký h�
 *한국어·베트남어·힌디어 본문은 학습용 초역으로, 원어민 감수를 기다리고 있습니다.*
 *Bản tiếng Hàn, tiếng Việt và tiếng Hindi là bản dịch học tập, đang chờ người bản ngữ hiệu đính.*
 *कोरियाई, वियतनामी और हिंदी पाठ अध्ययन अनुवाद हैं; मूल-भाषी समीक्षा लंबित है।*
+
+
+## 补译增量（2026-11-14 21:55轮）
+
+### 한국어 (初译待校)
+
+보충 설명 1 (Step 1의 구조와 합격·불합격 전환일): Step 1은 하루 약 8시간, 7개 블록, 최대 280개의 객관식 문항으로 기초 의학을 평가한다. 2022년 1월 26일부터 성적은 삼자리 점수 없이 Pass/Fail로만 보고되며, 이 변화가 재학생의 학습 전략을 크게 바꾸었다. 보충 설명 2 (Step 3의 이틀 구조와 CCS, 응시 장소): Step 3는 이틀제이다. Day 1은 약 232문항, Day 2는 약 180문항에 컴퓨터 사례 시뮬레이션(CCS) 13개가 더해지며, 각 사례는 10분에서 25분 정도 걸리고 별도 연습이 필요하다. Step 3는 미국 내 Prometric 시험장에서만 응시할 수 있고 해외 시험장은 없다. 현행 최저 합격선은 Step 2 CK가 218, Step 3가 200이며, 접수 전에 usmle.org의 당기 공지를 확인해야 한다.
+
+### Tiếng Việt (初译待校)
+
+Chi tiết bổ sung 1 (cấu trúc Step 1 và ngày chuyển sang đạt/không đạt): Step 1 kéo dài khoảng 8 giờ trong một ngày, gồm 7 block và tối đa 280 câu trắc nghiệm về khoa học y học cơ sở. Từ ngày 26 tháng 1 năm 2022, kết quả chỉ được báo cáo dạng Pass/Fail, không còn điểm ba chữ số, và thay đổi này đã làm thay đổi lớn chiến lược học của sinh viên. Chi tiết bổ sung 2 (cấu trúc hai ngày của Step 3, CCS và địa điểm thi): Step 3 thi trong hai ngày; ngày 1 khoảng 232 câu, ngày 2 khoảng 180 câu cộng thêm 13 ca mô phỏng trên máy tính (CCS), mỗi ca mất 10 đến 25 phút và cần luyện riêng. Step 3 chỉ có thể thi tại các điểm Prometric trong lãnh thổ Hoa Kỳ, không có điểm thi ở nước ngoài. Điểm đạt tối thiểu hiện hành là 218 cho Step 2 CK và 200 cho Step 3; hãy kiểm tra thông báo hiện hành trên usmle.org trước khi đăng ký.
+
+### हिन्दी (初译待校)
+
+पूरक विवरण 1 (Step 1 की संरचना और पास/फ़ेल 전환 तिथि): Step 1 एक दिन में लगभग 8 घंटे, 7 ब्लॉकों और अधिकतम 280 बहुविकल्पीय प्रश्नों के साथ आधारभूत चिकित्सा विज्ञान का परीक्षण करता है। 26 जनवरी 2022 से परिणाम केवल Pass/Fail रूप में घोषित होते हैं, तीन अंकों का स्कोर नहीं मिलता, और इस बदलाव ने छात्रों की अध्ययन रणनीति काफी बदल दी। पूरक विवरण 2 (Step 3 की दो-दिवसीय संरचना, CCS और परीक्षा स्थान): Step 3 दो दिनों का होता है; पहले दिन लगभग 232 प्रश्न, दूसरे दिन लगभग 180 प्रश्न और साथ में 13 कंप्यूटर-आधारित केस सिमुलेशन (CCS) होते हैं, प्रत्येक केस 10 से 25 मिनट लेता है और अलग अभ्यास माँगता है। Step 3 केवल संयुक्त राज्य अमेरिका के भीतर Prometric केंद्रों पर दिया जा सकता है, विदेश में कोई केंद्र नहीं है। वर्तमान न्यूनतम उत्तीर्णांक Step 2 CK के लिए 218 और Step 3 के लिए 200 है; पंजीकरण से पहले usmle.org पर वर्तमान सूचना जाँचें।

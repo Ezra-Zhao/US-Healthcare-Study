@@ -347,3 +347,18 @@ This article is a personal study note, not medical advice. Spanish text is a stu
 *한국어·베트남어·힌디어 본문은 학습용 초역으로, 원어민 감수를 기다리고 있습니다.*
 *Bản tiếng Hàn, tiếng Việt và tiếng Hindi là bản dịch học tập, đang chờ người bản ngữ hiệu đính.*
 *कोरियाई, वियतनामी और हिंदी पाठ अध्ययन अनुवाद हैं; मूल-भाषी समीक्षा लंबित है।*
+
+
+## 补译增量（2026-11-14 21:55轮）
+
+### 한국어 (初译待校)
+
+보충 설명 1 (두 시험의 분업): NAPLEX는 약물치료, 조제, 투약 안전, 약학 계산을 묻는 전국 통일 임상·실무 시험이고, 약사 법규는 별도로 본다. 대부분 주는 NABP의 MPJE(다주 약사 법규 시험)를 쓰지만 캘리포니아는 MPJE를 쓰지 않고 자체 CPJE를 요구한다. NAPLEX만 합격해서는 어느 주에서도 면허를 받을 수 없다. 보충 설명 2 (해외 졸업자의 앞문): 해외 약학 졸업자는 먼저 외국약학졸업자시험위원회(FPGEC) 인증을 받아야 하며, 여기에는 FPGEE 시험과 영어 요건이 포함된다. 이 인증을 거친 뒤에야 NAPLEX 응시 자격을 신청할 수 있고, 캘리포니아 연계 절차도 이 순서를 따른다.
+
+### Tiếng Việt (初译待校)
+
+Chi tiết bổ sung 1 (phân công hai kỳ thi): NAPLEX là kỳ thi quốc gia thống nhất về năng lực lâm sàng và thực hành dược, gồm dược trị liệu, pha chế và cấp phát, an toàn dùng thuốc và tính toán dược học; luật dược được thi riêng. Hầu hết các bang dùng MPJE của NABP, nhưng California không dùng MPJE mà yêu cầu kỳ thi riêng CPJE. Chỉ đỗ NAPLEX thì không lấy được giấy phép ở bất kỳ bang nào. Chi tiết bổ sung 2 (cửa trước của sinh viên dược tốt nghiệp ở nước ngoài): sinh viên tốt nghiệp ngành dược ở nước ngoài trước hết phải được Ủy ban Khảo thí Sinh viên Dược Nước ngoài (FPGEC) chứng nhận, bao gồm kỳ thi FPGEE và yêu cầu tiếng Anh, rồi mới đủ điều kiện đăng ký NAPLEX; phần liên kết với California cũng theo thứ tự này.
+
+### हिन्दी (初译待校)
+
+पूरक विवरण 1 (दो परीक्षाओं का विभाजन): NAPLEX औषधि-चिकित्सा, मिश्रण व वितरण, दवा सुरक्षा और फार्मेसी गणना पर आधारित राष्ट्रीय एकीकृत नैदानिक व व्यवहार परीक्षा है, जबकि फार्मेसी कानून की परीक्षा अलग होती है। अधिकांश राज्य NABP की MPJE का उपयोग करते हैं, परंतु कैलिफोर्निया MPJE नहीं लेता और अपनी CPJE माँगता है। केवल NAPLEX उत्तीर्ण करने से किसी राज्य में लाइसेंस नहीं मिलता। पूरक विवरण 2 (विदेशी स्नातकों का अग्र द्वार): विदेशी फार्मेसी स्नातकों को पहले विदेशी फार्मेसी स्नातक परीक्षा समिति (FPGEC) का प्रमाणन लेना होता है, जिसमें FPGEE परीक्षा और अंग्रेज़ी आवश्यकताएँ शामिल हैं; उसके बाद ही वे NAPLEX के लिए आवेदन कर सकते हैं, और कैलिफोर्निया से जुड़ी प्रक्रिया भी इसी क्रम का पालन करती है।
