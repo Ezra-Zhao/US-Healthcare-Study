@@ -49,3 +49,21 @@ Medicaid संपत्ति वसूली (MERP) कैसे चलती 
 ## 免责声明（六语）
 
 中文：个人学习笔记，不构成医疗或法律建议。｜ English: Personal study notes, not medical or legal advice. ｜ Español (初译待校): Notas personales de estudio, no constituyen consejo médico ni legal. ｜ 한국어 (初译待校): 개인 학습 노트이며 의학적·법률적 조언이 아닙니다. ｜ Tiếng Việt (初译待校): Ghi chú học tập cá nhân, không phải tư vấn y tế hay pháp lý. ｜ हिन्दी (初译待校): व्यक्तिगत अध्ययन नोट, चिकित्सीय या कानूनी सलाह नहीं है।
+
+
+## 补译增量（2026-11-15 13:55轮）
+
+### 한국어 (초역 · 初译待校)
+
+- 곤궁 면제의 예시: §1396p(b)(3)의 곤궁 면제가 겨냥하는 전형적인 상황 중 하나는 그 재산이 가족 생계의 유일한 수입원인 경우이며, 이런 상황에서는 회수가 부당한 곤궁을 만들므로 면제 절차와 기준이 적용됩니다.
+- 캘리포니아에서 검인을 피하는 자산의 예시: 생전 신탁(living trust)이 보유한 자산이나 공동 소유권에 따라 자동으로 이전되는 자산은 검인(probate) 대상이 아니므로 캘리포니아 MERP의 회수 범위에 들지 않으며, 이는 확대된 재산 정의를 쓰는 많은 주와 가장 다른 점입니다. 신탁과 소유권 arrangements에 관한 결정은 변호사와 상의해야 합니다.
+
+### Tiếng Việt (dịch sơ bộ · 初译待校)
+
+- Ví dụ về miễn trừ khó khăn: một tình huống điển hình mà miễn trừ khó khăn theo §1396p(b)(3) hướng tới là khi di sản là nguồn thu nhập duy nhất nuôi sống gia đình, và việc thu hồi trong tình huống đó sẽ tạo ra khó khăn quá mức, nên thủ tục và tiêu chuẩn miễn trừ được áp dụng.
+- Ví dụ về tài sản tránh probate tại California: tài sản do quỹ tín thác sinh thời (living trust) nắm giữ, hay tài sản chuyển tự động theo đồng sở hữu, không thuộc diện probate nên nằm ngoài phạm vi thu hồi của MERP California — đây là điểm khác biệt lớn nhất so với nhiều bang dùng định nghĩa di sản mở rộng. Các quyết định về tín thác và sắp xếp quyền sở hữu nên được tư vấn với luật sư.
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+
+- कठिनाई छूट का उदाहरण: §1396p(b)(3) की कठिनाई छूट जिन प्रतिनिधि स्थितियों को लक्षित करती है उनमें से एक यह है कि वह संपत्ति परिवार की आजीविका का एकमात्र आय स्रोत हो, और ऐसी स्थिति में वसूली अनुचित कठिनाई पैदा करेगी, इसलिए छूट की प्रक्रिया और मानदंड लागू होते हैं।
+- California में प्रोबेट से बचने वाली संपत्ति के उदाहरण: जीवित न्यास (living trust) द्वारा धारित संपत्ति, या संयुक्त स्वामित्व के तहत स्वतः हस्तांतरित होने वाली संपत्ति, प्रोबेट के अधीन नहीं है और इसलिए California MERP की वसूली सीमा से बाहर है — यह कई राज्यों से सबसे बड़ा अंतर है जो संपत्ति की विस्तारित परिभाषा का उपयोग करते हैं। न्यास और स्वामित्व व्यवस्था संबंधी निर्णयों पर वकील से परामर्श करना चाहिए।
