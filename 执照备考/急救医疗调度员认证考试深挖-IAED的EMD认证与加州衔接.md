@@ -71,3 +71,25 @@ El despachador médico de emergencias (EMD) es el primer juicio clínico de la c
 - 한국어 (初译待校)：개인 학습 노트이며, 의학적 조언이 아닙니다.
 - Tiếng Việt (初译待校)：Ghi chép học tập cá nhân, không phải tư vấn y tế.
 - हिन्दी (初译待校)：व्यक्तिगत अध्ययन नोट्स हैं; यह चिकित्सा सलाह नहीं है।
+
+---
+
+## 补译增量（2026-11-15 17:55轮）
+
+### 한국어 (초역 · 初译待校)
+
+보충 1 — 결정 코드가 정하는 것에는 경광등과 사이렌도 들어간다: 결정 코드는 어떤 차를 보낼지뿐 아니라, 출동 차량이 경광등을 켜고 사이렌을 울리며 가야 하는지까지 정한다. OMEGA 쪽의 낮은 긴급도는 다른 서비스로 넘길 수 있는 경우가 많고, ECHO 쪽으로 갈수록 가장 빠르고 가장 높은 구성의 대응이 붙는다. 그래서 코드를 잘못 정하면 자원 배분만이 아니라 길 위에서의 긴급도까지 함께 틀어진다.
+
+보충 2 — 두 자격은 서로를 대신하지 못한다, 양방향으로: EMT 자격을 가졌다고 해서 MPDS 훈련을 받은 것은 아니므로, IAED 프로토콜을 쓰는 센터에서는 EMD 인증 없이 의료 전화를 독립적으로 받을 수 없다. 반대로 EMD 인증은 어떤 현장 처치 자격도 주지 않는다. 한 번의 호출 안에서 두 줄은 머리와 꼬리로 이어진다. 배차 쪽의 결정 코드가 현장 쪽에 누가, 얼마나 빨리 갈지를 정하고, 현장 쪽의 피드백은 배차 쪽의 품질 복기로 되돌아온다. (初译待校)
+
+### Tiếng Việt (dịch sơ bộ · 初译待校)
+
+Bổ sung 1 — Mã quyết định còn quyết định cả đèn và còi ưu tiên: mã quyết định (Determinant Code) không chỉ quyết định cử xe nào, mà còn quyết định xe có bật đèn và còi ưu tiên khi đi hay không. Phía OMEGA có mức khẩn thấp thường có thể chuyển sang dịch vụ khác, còn càng về phía ECHO thì đáp ứng càng nhanh và cấu hình càng cao. Vì vậy chọn sai mã không chỉ làm sai phân bổ nguồn lực mà còn làm sai mức khẩn trên đường đi.
+
+Bổ sung 2 — Hai chứng chỉ không thay thế nhau, theo cả hai chiều: có chứng chỉ EMT không có nghĩa là đã được huấn luyện MPDS, nên tại các trung tâm dùng giao thức IAED, người chưa có chứng nhận EMD không được độc lập tiếp nhận cuộc gọi y tế. Ngược lại, chứng nhận EMD không cấp bất kỳ tư cách xử trí tại hiện trường nào. Trong một cuộc gọi, hai tuyến nối đầu và cuối với nhau: mã quyết định của phía điều phối quyết định phía hiện trường ai đến và nhanh đến mức nào, còn phản hồi của phía hiện trường quay lại làm tư liệu rà soát chất lượng cho phía điều phối. (初译待校)
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+
+पूरक 1 — निर्धारक कोड रोशनी और सायरन भी तय करता है: निर्धारक कोड (Determinant Code) केवल यह नहीं तय करता कि कौन-सा वाहन भेजा जाए, बल्कि यह भी तय करता है कि वाहन रोशनी और सायरन चालू करके जाए या नहीं। OMEGA ओर की कम तात्कालिकता अक्सर अन्य सेवाओं को सौंपी जा सकती है, और ECHO की ओर बढ़ने पर सबसे तेज़ और सबसे उच्च-विन्यास प्रतिक्रिया जुड़ती है। इसलिए कोड ग़लत चुनने से केवल संसाधन-आवंटन ही नहीं, रास्ते की तात्कालिकता भी ग़लत हो जाती है।
+
+पूरक 2 — दो प्रमाणपत्र एक-दूसरे के विकल्प नहीं, दोनों दिशाओं में: EMT प्रमाणपत्र होने का अर्थ MPDS प्रशिक्षण लेना नहीं है, इसलिए IAED प्रोटोकॉल अपनाने वाले केंद्रों में EMD प्रमाणन के बिना चिकित्सीय कॉल स्वतंत्र रूप से नहीं ली जा सकती। इसके विपरीत, EMD प्रमाणन कोई स्थल-उपचार योग्यता नहीं देता। एक ही कॉल में दोनों रेखाएँ सिरा-दर-सिरा जुड़ती हैं: प्रेषण पक्ष का निर्धारक कोड तय करता है कि स्थल पक्ष से कौन और कितनी तेज़ी से आएगा, और स्थल पक्ष की प्रतिक्रिया प्रेषण पक्ष की गुणवत्ता-समीक्षा में लौटती है। (初译待校)
