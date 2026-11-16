@@ -67,3 +67,23 @@ Giấy phép sử dụng khẩn cấp (EUA) dựa trên điều 564 của Đạo
 ## 免责声明（六语）
 
 中文：个人学习笔记，不构成法律、税务或医疗建议。｜ English: Personal study notes, not legal, tax or medical advice. ｜ Español (初译待校): Notas personales de estudio, no constituyen consejo legal, fiscal ni médico. ｜ 한국어 (初译待校): 개인 학습 노트이며 법률·세무·의료 조언이 아닙니다. ｜ Tiếng Việt (初译待校): Ghi chú học tập cá nhân, không phải tư vấn pháp lý, thuế hay y tế. ｜ हिन्दी (初译待校): व्यक्तिगत अध्ययन नोट, कानूनी, कर या चिकित्सीय सलाह नहीं है।
+
+## 补译增量（2026-11-15 15:55轮）
+
+### 한국어 (초역 · 初译待校)
+
+보충 1 — 90일 시계와 네 가지 선언 근거: 공중보건서비스법 § 319(42 U.S.C. § 247d)에 따른 공중보건 비상사태 인정은 한 번에 최장 90일이며, 90 ÷ 30 ≈ 3개월입니다. 기간이 끝나면 장관이 갱신해야 이어지고, 비상은 한 번 선포로 영구히 유효하지 않습니다. EUA를 여는 § 564(b)의 선언 근거는 네 가지로 셀 수 있습니다. 국토안보부 장관의 국내 비상 또는 중대한 잠재적 국내 위협 인정, 국방부 장관의 군사 비상 인정, HHS 장관의 § 319 공중보건 비상 인정, 그리고 국토안보부 장관의 § 319F-2(42 U.S.C. § 247d-6b)에 따른 중대한 위협(material threat) 인정입니다. 네 가지 모두 구체적인 제품과 구체적인 허가보다 먼저 오며, FDA의 이후 모든 EUA는 그 범위 안에 들어가야 합니다.
+
+보충 2 — PREP 법과의 분업 한 줄: EUA는 «쓸 수 있는가»에 답하고, PREP 법(42 U.S.C. § 247d-6d와 § 247d-6e)은 «쓰다가 문제가 생기면 누가 책임지고 누가 보상하는가»에 답합니다. HHS 장관이 별도의 PREP 법 선언을 내면, 적용 대상자는 적용 대책의 투여·사용에 대해 원칙적으로 불법행위 책임 면제를 받고, 피해 보상은 대책 상해 보상 프로그램(CICP)이 맡습니다. 두 선언은 흔히 같은 시기에 나오지만 법적 성격, 발급 근거, 실효 시점이 서로 다르므로 서로를 대신할 수 없습니다. (초역, 원어민 감수 대기 · 初译待校)
+
+### Tiếng Việt (dịch sơ bộ · 初译待校)
+
+Bổ sung 1 — Đồng hồ 90 ngày và bốn căn cứ tuyên bố: một lần xác định tình trạng khẩn cấp về y tế công cộng theo § 319 của Đạo luật Dịch vụ Y tế Công cộng (42 U.S.C. § 247d) kéo dài tối đa 90 ngày, tức 90 ÷ 30 ≈ 3 tháng; hết hạn, Bộ trưởng phải gia hạn thì mới tiếp tục, tình trạng khẩn cấp không phải tuyên bố một lần là có hiệu lực vĩnh viễn. Các căn cứ tuyên bố tại § 564(b) mở đường cho EUA đếm được bốn: xác định của Bộ trưởng An ninh Nội địa về tình trạng khẩn cấp trong nước hoặc mối đe dọa nội địa tiềm tàng nghiêm trọng; xác định của Bộ trưởng Quốc phòng về tình trạng khẩn cấp quân sự; xác định của Bộ trưởng HHS về tình trạng khẩn cấp y tế công cộng theo § 319; và xác định «mối đe dọa trọng yếu» (material threat) của Bộ trưởng An ninh Nội địa theo § 319F-2 (42 U.S.C. § 247d-6b). Cả bốn đều đi trước từng sản phẩm và từng giấy phép cụ thể, và mọi EUA sau đó của FDA đều phải nằm trong phạm vi đó.
+
+Bổ sung 2 — Một câu về sự phân công với Đạo luật PREP: EUA trả lời câu hỏi «có được dùng hay không», còn Đạo luật PREP (42 U.S.C. § 247d-6d và § 247d-6e) trả lời «nếu dùng mà xảy ra chuyện thì ai chịu trách nhiệm, ai bồi thường». Sau khi Bộ trưởng HHS ban hành một tuyên bố PREP riêng, những người thuộc diện bao phủ về nguyên tắc được miễn trách nhiệm dân sự đối với việc sử dụng các biện pháp đối phó thuộc diện bao phủ, và bồi thường cho người bị hại đi qua Chương trình Bồi thường Thương tật do Biện pháp Đối phó (CICP). Hai tuyên bố thường xuất hiện cùng thời kỳ, nhưng tính chất pháp lý, căn cứ ban hành và thời điểm hết hiệu lực của chúng khác nhau, nên không thể thay thế cho nhau. (Bản dịch sơ bộ, chờ hiệu đính · 初译待校)
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+
+पूरक 1 — 90 दिन की घड़ी और घोषणा के चार आधार: लोक स्वास्थ्य सेवा अधिनियम की § 319 (42 U.S.C. § 247d) के तहत लोक स्वास्थ्य आपात का एक बार का निर्धारण अधिकतम 90 दिन चलता है, अर्थात 90 ÷ 30 ≈ 3 महीने; अवधि समाप्त होने पर मंत्री को उसे नवीनीकृत करना पड़ता है, आपात एक बार घोषित करके स्थायी रूप से प्रभावी नहीं रहता। EUA खोलने वाली § 564(b) की घोषणा के आधार गिनकर चार हैं: गृह सुरक्षा मंत्री का घरेलू आपात या गंभीर संभावित घरेलू ख़तरे का निर्धारण, रक्षा मंत्री का सैन्य आपात निर्धारण, HHS मंत्री का § 319 लोक स्वास्थ्य आपात निर्धारण, और गृह सुरक्षा मंत्री का § 319F-2 (42 U.S.C. § 247d-6b) के तहत «महत्वपूर्ण ख़तरा» (material threat) निर्धारण। चारों किसी विशिष्ट उत्पाद और विशिष्ट प्राधिकरण से पहले आते हैं, और FDA का हर बाद का EUA उसी दायरे में होना चाहिए।
+
+पूरक 2 — PREP अधिनियम के साथ काम का बँटवारा एक वाक्य में: EUA «क्या उपयोग हो सकता है» का उत्तर देता है, और PREP अधिनियम (42 U.S.C. § 247d-6d और § 247d-6e) «उपयोग से समस्या हो तो कौन ज़िम्मेदार है और कौन मुआवज़ा देगा» का उत्तर देता है। HHS मंत्री के अलग PREP घोषणा जारी करने के बाद, आच्छादित व्यक्ति आच्छादित उपायों के प्रयोग और उपयोग पर सिद्धांततः अपकृत्य दायित्व से मुक्ति पाते हैं, और पीड़ितों का मुआवज़ा Countermeasures Injury Compensation Program (CICP) से चलता है। दोनों घोषणाएँ अक्सर एक ही समय आती हैं, पर उनकी कानूनी प्रकृति, जारी करने का आधार और समाप्ति का समय अलग-अलग है, इसलिए वे एक-दूसरे का स्थान नहीं ले सकतीं। (प्रारंभिक अनुवाद, समीक्षा लंबित · 初译待校)
