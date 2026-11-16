@@ -47,3 +47,17 @@ Ca bệnh giảng dạy hư cấu. Bệnh nhân 46 tuổi, hen suyễn 8 năm, v
 ## 免责声明（六语）
 
 中文：个人学习笔记，不构成医疗建议；虚构教学病例，不对应任何真实患者。｜ English: Personal study notes, not medical advice; fictional teaching case. ｜ Español (初译待校): Notas personales de estudio, no constituyen consejo médico; caso ficticio. ｜ 한국어 (初译待校): 개인 학습 노트이며 의학적 조언이 아닙니다. 가상의 교육용 증례입니다. ｜ Tiếng Việt (初译待校): Ghi chú học tập cá nhân, không phải tư vấn y tế; ca bệnh hư cấu. ｜ हिन्दी (初译待校): व्यक्तिगत अध्ययन नोट, चिकित्सीय सलाह नहीं है; काल्पनिक शिक्षण मामला है।
+
+## 补译增量（2026-11-16 03:55 轮）
+
+### 한국어 (초역 · 初译待校)
+
+보충 1 — 완화 뒤의 유지와 감량: 완화에 들어가면 유지 범주로 옮겨 서서히 줄여 나가며, 목표는 혈관염과 호산구 염증을 누르면서 장기 호르몬 부담을 낮추는 것입니다. 호산구 경로를 겨냥한 생물학제 범주는 재발형이나 호르몬 의존형 환자에서 자리를 가지며, 역시 전문의가 정합니다. 보충 2 — 새로 생긴 발처짐 같은 국소 신경 결손이 외래에 나타나면 일반 재진 대기열에 넣지 않고 응급 경로로 처리합니다.
+
+### Tiếng Việt (dịch sơ bộ · 初译待校)
+
+Bổ sung 1 — Duy trì và giảm dần sau khi đạt lui bệnh: chuyển sang nhóm duy trì và giảm liều từng bước, mục tiêu là giữ viêm mạch và viêm ái toan trong tầm kiểm soát đồng thời hạ gánh nặng hormone dài hạn; nhóm sinh học nhắm vào con đường ái toan có vị trí ở bệnh nhân tái phát hoặc lệ thuộc hormone, và cũng do chuyên khoa quyết định. Bổ sung 2 — Một thiếu hụt thần kinh khu trú mới xuất hiện, như bàn chân rũ, khi gặp ở phòng khám ngoại trú thì xử lý theo đường cấp cứu, không xếp vào hàng chờ tái khám thường.
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+
+पूरक 1 — उपशमन के बाद रखरखाव व क्रमिक कमी: उपशमन आते ही रखरखाव श्रेणी पर आते हैं और धीरे-धीरे घटाते हैं; लक्ष्य वाहिकाशोथ व इओसिनोफ़िल सूजन को दबाए रखते हुए दीर्घकालिक हार्मोन बोझ घटाना है। इओसिनोफ़िल मार्ग को लक्षित जैविक श्रेणी को पुनरावृत्ति वाले या हार्मोन-निर्भर रोगियों में स्थान मिलता है, और उसका निर्णय भी विशेषज्ञ करता है। पूरक 2 — नया प्रकट फुट ड्रॉप जैसा स्थानीय तंत्रिका घाटा बाह्य-रोगी में सामान्य पुनः-जाँच कतार में नहीं रखा जाता, आपात मार्ग से संभाला जाता है।
