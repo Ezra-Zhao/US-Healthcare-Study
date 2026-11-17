@@ -68,3 +68,11 @@ Two federal routes let a patient with a life-threatening condition try an invest
 ---
 
 *声明：本文为个人学习笔记，不构成医疗建议，也不构成法律建议。*
+
+## 补译增量（2026-11-17 11:55轮）
+
+한국어 보충 (초역, 원어민 감수 대기): 시간 순서를 분명히 해 둡니다. 캘리포니아주 시도권법(AB 1668)이 2016년에 먼저 나왔고 연방법은 2018년에야 시행됐으며, 방향은 같습니다. 실무에서는 연방 시도권, 주 시도권, 확대 접근의 세 경로를 나란히 평가하는 경우가 많고, 실제로 어느 경로를 탈지를 정하는 변수는 제약사의 공급 정책, 약물의 개발 단계, 환자가 심사 시간을 기다릴 수 있는지입니다. 조문은 통로를 줄 뿐 약을 반드시 받을 수 있다고 보장하지 않습니다.
+
+Bổ sung tiếng Việt (bản dịch sơ bộ, chờ hiệu đính): Cần nói rõ thứ tự thời gian: luật quyền được thử của bang California (AB 1668) ra đời trước vào năm 2016, luật liên bang chỉ có hiệu lực vào năm 2018, và hướng đi của hai luật là giống nhau. Trong thực tế, ba con đường — quyền được thử liên bang, quyền được thử cấp bang và tiếp cận mở rộng — thường được đánh giá song song, và các biến số thực tế quyết định đi đường nào là chính sách cung cấp của hãng dược, giai đoạn phát triển của thuốc và việc bệnh nhân có chờ nổi thời gian xét duyệt hay không. Văn bản luật chỉ mở ra con đường, chứ không bảo đảm chắc chắn nhận được thuốc.
+
+पूरक हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित): समय-क्रम स्पष्ट करना चाहिए: California का राज्य प्रयास-अधिकार कानून (AB 1668) 2016 में पहले आया, संघीय कानून 2018 में ही प्रभावी हुआ, और दोनों की दिशा एक ही है। व्यवहार में तीनों मार्गों — संघीय प्रयास-अधिकार, राज्य प्रयास-अधिकार और विस्तारित पहुँच — का मूल्यांकन अक्सर साथ-साथ किया जाता है, और वास्तव में कौन-सा मार्ग चुना जाएगा यह इन व्यावहारिक चरों पर निर्भर करता है: कंपनी की आपूर्ति नीति, दवा के विकास का चरण, और रोगी समीक्षा के समय की प्रतीक्षा कर सकता है या नहीं। विधि-पाठ केवल मार्ग देता है, दवा मिलने की गारंटी नहीं देता।
