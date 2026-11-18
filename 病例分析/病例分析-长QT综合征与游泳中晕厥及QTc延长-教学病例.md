@@ -63,3 +63,19 @@ Ca bệnh giảng dạy hư cấu. Nam sinh 16 tuổi mất ý thức trong hồ
 ## 免责声明（六语）
 
 中文：个人学习笔记，不构成医疗建议；虚构教学病例，不对应任何真实患者。｜ English: Personal study notes, not medical advice; fictional teaching case. ｜ Español (初译待校): Notas personales de estudio, no constituyen consejo médico; caso ficticio. ｜ 한국어 (初译待校): 개인 학습 노트이며 의학적 조언이 아닙니다. 가상의 교육용 증례입니다. ｜ Tiếng Việt (初译待校): Ghi chú học tập cá nhân, không phải tư vấn y tế; ca bệnh hư cấu. ｜ हिन्दी (初译待校): व्यक्तिगत अध्ययन नोट, चिकित्सीय सलाह नहीं है; काल्पनिक शिक्षण मामला है।
+
+## 补译增量（2026-11-18 04:55 轮）
+
+> 本节为存量补译增量：只补译中文主文已有、韩／越／印三语旧译未展开的两项细节，不新增事实、不改原文。
+
+### 한국어 (初译待校)
+
+보충 두 가지입니다. 첫째, 추적 관찰에서 챙기는 세 가지입니다. 심전도 QTc의 시간에 따른 변화와 새 약이 들어간 뒤의 재확인, 유발 일지(매번 불편할 때의 시간, 활동, 유발 요인을 적는 것), 그리고 가계 선별 검사의 완료 여부(친족이 검사를 받았는지, 결과가 정리되어 보관됐는지)입니다. 둘째, 교육의 마무리 한마디입니다. 이 질환에는 「저절로 좋아지기를 기다리는」 여지가 없고, 청소년기가 바로 사건이 많이 생기는 구간이므로 추적 관찰이 끊겨서는 안 됩니다. (초역, 원어민 감수 대기 · 初译待校)
+
+### Tiếng Việt (初译待校)
+
+Bổ sung hai chi tiết. Thứ nhất, ba việc phải theo dõi khi tái khám: sự thay đổi của QTc trên điện tâm đồ theo thời gian và việc kiểm tra lại sau khi thêm thuốc mới; nhật ký yếu tố khởi phát (ghi thời gian, hoạt động và yếu tố gợi ý của mỗi lần khó chịu); và mức hoàn thành của tầm soát gia đình (thân nhân đã được kiểm tra chưa, kết quả đã được lưu hồ sơ chưa). Thứ hai, một câu kết của phần giáo dục: bệnh này không có chỗ cho việc 「chờ nó tự khỏi」, và tuổi thiếu niên chính là giai đoạn các biến cố xảy ra nhiều, nên việc theo dõi không được đứt quãng. (Bản dịch sơ bộ, chờ hiệu đính · 初译待校)
+
+### हिन्दी (初译待校)
+
+दो पूरक विवरण। पहला, अनुवर्ती देखभाल में देखी जाने वाली तीन बातें: समय के साथ ECG के QTc का बदलाव और कोई नई दवा शुरू होने के बाद की पुनः जाँच; उत्प्रेरक डायरी (हर असुविधा का समय, गतिविधि और उत्प्रेरक लिखना); और पारिवारिक जाँच की पूर्णता (रिश्तेदारों की जाँच हुई या नहीं, परिणाम अभिलेख में रखे गए या नहीं)। दूसरा, शिक्षा का समापन वाक्य: इस रोग के नाम में «अपने आप ठीक होने की प्रतीक्षा» नहीं है, और किशोरावस्था ही वह दौर है जब घटनाएँ सबसे अधिक होती हैं, इसलिए अनुवर्ती देखभाल टूटनी नहीं चाहिए। (प्रारंभिक अनुवाद, समीक्षा लंबित · 初译待校)
