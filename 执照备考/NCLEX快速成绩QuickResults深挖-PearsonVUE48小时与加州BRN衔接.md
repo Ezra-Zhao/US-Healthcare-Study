@@ -64,3 +64,20 @@ Quick Results NCLEX परिणाम का एक वैकल्पिक, �
 *개인 학습 노트이며 의료·응시 자문이 아닙니다. NCSBN, Pearson VUE와 캘리포니아 등록간호위원회의 공식 공지를 따르십시오. (초역, 원어민 감수 대기)*
 *Ghi chú học tập cá nhân, không cấu thành tư vấn y tế hay hồ sơ dự thi. Hãy theo thông báo chính thức của NCSBN, Pearson VUE và Hội đồng Điều dưỡng Đăng ký California. (bản dịch sơ bộ, chờ hiệu đính)*
 *यह व्यक्तिगत अध्ययन नोट है और चिकित्सा या आवेदन सलाह नहीं है। NCSBN, Pearson VUE और California Board of Registered Nursing की आधिकारिक घोषणाओं का पालन करें। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)*
+
+
+## 补译增量（2026-11-18 06:55 轮）
+
+> 本节为存量补译增量：只补译中文主文已有、韩／越／印三语旧译未展开的两项细节，不新增事实、不改原文。
+
+### 한국어 (初译待校)
+
+보충 두 가지입니다. 첫째, 불합격 뒤의 재시험 시간표입니다. 공식 불합격이 확정되면 다음 시험까지의 최소 간격은 45일이고 1년에 최대 8회까지만 응시할 수 있으며, 위원회에 다시 신청하고 다시 등록해야 합니다. Quick Results로 결과를 일찍 알면 공식 서한이 오기 전에 보충 학습 계획의 출발점을 앞당길 수 있는 것이 이 7.95달러의 가장 실질적인 쓰임새이고, 감정이 가장 가라앉지 않은 당일에 다음 등록비를 내지 않는 편이 좋습니다. 둘째, 결과가 안 보일 때 먼저 계정을 확인하십시오. 시험을 신청할 때 쓴 바로 그 Pearson VUE 계정으로 로그인해야 하며, 계정을 잘못 만들거나 사용자 이름을 헷갈리는 것이 '결과가 없다'의 가장 흔한 원인으로 성적과는 무관합니다. 페이지에 결과가 아직 조회할 수 없다고 나오면 카드가 청구되지 않으니 반나절에서 하루쯤 뒤에 다시 확인하십시오. (초역, 원어민 감수 대기 · 初译待校)
+
+### Tiếng Việt (初译待校)
+
+Bổ sung hai chi tiết. Thứ nhất, lịch thời gian thi lại sau khi trượt: khi kết quả chính thức xác nhận trượt, khoảng cách tối thiểu tới kỳ thi tiếp theo là 45 ngày, mỗi năm thi tối đa 8 lần, và phải nộp hồ sơ lại cho hội đồng rồi đăng ký lại; biết kết quả sớm nhờ Quick Results sẽ dời điểm bắt đầu của kế hoạch ôn bổ sung lên trước khi thư chính thức tới, đó là công dụng thực tế nhất của 7,95 đô la đối với người thi lại, và đừng nộp phí đăng ký đợt sau ngay trong ngày tâm trạng tệ nhất. Thứ hai, khi không thấy kết quả hãy kiểm tra tài khoản trước: phải đăng nhập bằng đúng tài khoản Pearson VUE đã dùng khi đăng ký thi, việc tạo nhầm tài khoản hoặc nhớ lẫn tên đăng nhập là nguyên nhân phổ biến nhất của tình trạng «không thấy kết quả» và không liên quan gì tới điểm số; nếu trang báo kết quả chưa sẵn sàng thì thẻ không bị trừ tiền, hãy quay lại kiểm tra sau nửa ngày đến một ngày. (Bản dịch sơ bộ, chờ hiệu đính · 初译待校)
+
+### हिन्दी (初译待校)
+
+दो पूरक विवरण। पहला, असफलता के बाद की पुनःपरीक्षा समय-सारणी: आधिकारिक असफलता की पुष्टि होने पर अगली परीक्षा तक न्यूनतम अंतराल 45 दिन है, वर्ष में अधिकतम 8 प्रयास होते हैं, और बोर्ड को फिर से आवेदन करके फिर से पंजीकरण करना पड़ता है। Quick Results से परिणाम जल्दी जानने से आधिकारिक पत्र आने से पहले ही पुनःतैयारी योजना की शुरुआत आगे खिसक जाती है — पुनःपरीक्षा देने वालों के लिए 7.95 डॉलर का यही सबसे व्यावहारिक उपयोग है — और सबसे खराब मनोदशा वाले दिन ही अगली पंजीकरण फ़ीस न भरें। दूसरा, परिणाम न दिखे तो पहले खाता जाँचें: उसी Pearson VUE खाते से लॉग इन करें जिससे परीक्षा के लिए पंजीकरण किया था; ग़लत खाता बना लेना या उपयोगकर्ता नाम भूल जाना 'परिणाम नहीं मिला' का सबसे आम कारण है और इसका अंकों से कोई संबंध नहीं है। यदि पृष्ठ कहे कि परिणाम अभी उपलब्ध नहीं है तो कार्ड चार्ज नहीं होगा; आधे दिन से एक दिन बाद फिर जाँचें। (प्रारंभिक अनुवाद, समीक्षा लंबित · 初译待校)
