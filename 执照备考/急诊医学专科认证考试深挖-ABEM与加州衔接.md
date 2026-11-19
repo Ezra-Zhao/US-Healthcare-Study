@@ -72,3 +72,28 @@ American Board of Emergency Medicine (ABEM), जो American Board of Medical Sp
 *개인 학습 노트이며 의료·응시 자문이 아닙니다. ABEM과 캘리포니아 의학위원회의 공식 공지를 따르십시오. (초역, 원어민 감수 대기)*
 *Ghi chú học tập cá nhân, không cấu thành tư vấn y tế hay hồ sơ dự thi. Hãy theo thông báo chính thức của ABEM và Hội đồng Y California. (bản dịch sơ bộ, chờ hiệu đính)*
 *यह व्यक्तिगत अध्ययन नोट है और चिकित्सा या आवेदन सलाह नहीं है। ABEM और Medical Board of California की आधिकारिक घोषणाओं का पालन करें। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)*
+
+---
+
+## 补译增量（2026-11-18 21:55 轮）
+
+本节为存量补译：以下韩／越／印三语各补 2 项中文主文已有、此前三语同缺的细节——其一，加州就业线上的并列认证（急诊聘任普遍要求或强烈偏好 ABEM 认证，骨科医师背景者另有 AOBEM 一轨同样在被认之列）；其二，认证状态的公开核验与信息线一致（患者与机构可经 ABMS 与 ABEM 的官方查询确认医师认证状态；认证状态、执照状态、纪律记录三处口径要一致，任何一处过期或对不上，先更新再签约）。纯增量，只加不删，不新增事实，不写药物剂量。
+
+### 한국어 (初译待校)
+
+캘리포니아 취업 라인에는 병렬 인증이 하나 더 있습니다. 응급실 채용은 흔히 ABEM 인증을 요구하거나 강하게 선호하는데, 정골의학 의사 배경의 지원자에게는 AOBEM 인증도 인정되는 선택지로 함께 거론됩니다. (初译待校)
+
+인증 상태는 공개적으로 확인할 수 있습니다. 환자와 기관은 ABMS와 ABEM의 공식 조회로 의사의 인증 상태를 확인할 수 있고, 캘리포니아의 정보 라인에서는 인증 상태, 면허 상태, 징계 기록 세 곳의 내용이 서로 일치해야 하며, 어느 하나라도 만료됐거나 어긋나면 계약 전에 먼저 갱신하는 것이 순서입니다. (初译待校)
+
+### Tiếng Việt (初译待校)
+
+Ở tuyến việc làm California còn một chứng nhận song song: tuyển dụng khoa cấp cứu thường yêu cầu hoặc rất ưu tiên chứng nhận ABEM, và với người có nền tảng bác sĩ xương khớp còn có tuyến AOBEM cũng nằm trong diện được công nhận. (初译待校)
+
+Trạng thái chứng nhận có thể tra cứu công khai: người bệnh và cơ sở có thể xác nhận trạng thái chứng nhận của bác sĩ qua tra cứu chính thức của ABMS và ABEM; ở tuyến thông tin California, trạng thái chứng nhận, trạng thái giấy phép và hồ sơ kỷ luật ở ba nơi phải khớp nhau, nơi nào hết hạn hoặc không khớp thì cập nhật trước rồi mới ký hợp đồng. (初译待校)
+
+### हिन्दी (初译待校)
+
+California की रोज़गार पंक्ति में एक समानांतर प्रमाणन भी है: आपातकालीन विभाग की नियुक्तियाँ आमतौर पर ABEM प्रमाणन माँगती हैं या उसे मज़बूती से पसंद करती हैं, और ऑस्टियोपैथिक पृष्ठभूमि वालों के लिए AOBEM मार्ग भी मान्यता प्राप्त विकल्पों में रहता है। (初译待校)
+
+प्रमाणन स्थिति सार्वजनिक रूप से सत्यापित की जा सकती है: रोगी और संस्थाएँ ABMS और ABEM की आधिकारिक खोज से चिकित्सक की प्रमाणन स्थिति की पुष्टि कर सकते हैं; California की सूचना पंक्ति में प्रमाणन स्थिति, लाइसेंस स्थिति और अनुशासन अभिलेख — तीनों स्थानों के विवरण एक जैसे होने चाहिए, और कोई एक समाप्त या बेमेल हो तो अनुबंध से पहले उसे अद्यतन करना होता है। (初译待校)
+
