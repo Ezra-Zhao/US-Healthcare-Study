@@ -86,3 +86,26 @@ Về cơ bản không có lối tắt quanh trình tự vào nghề: hầu hết
 *व्यक्तिगत अध्ययन नोट; चिकित्सा सलाह नहीं। लाइसेंस आवेदन और कार्य-क्षेत्र के लिए NREMT, California EMSA और अपने काउंटी LEMSA के आधिकारिक मानदंड देखें; आपात लक्षणों में 911 पर कॉल करें।*
 
 *六语对照：中文主文，English 次之，Español 为学习译稿，한국어·Tiếng Việt·हिन्दी 为初译待校。*
+
+
+## 补译增量（2026-11-19 09:55 轮）
+
+> 本节把中文主文开头已经写明、而韩/越/印三语此前未译出的两项细节补齐，内容只来自中文主文，不新增事实。
+
+### 한국어 보충 (초역, 初译待校)
+
+- EMS 자격은 네 단계로 나뉜다. EMR(Emergency Medical Responder), EMT(Emergency Medical Technician), AEMT(Advanced EMT), Paramedic이며, 한 단계 오를수록 할 수 있는 술기가 넓어진다.
+- EMT는 주로 기본 생명 유지(BLS)를 담당하고, Paramedic은 기관내 삽관, 정맥로 약물 투여, 심장 모니터링과 제세동을 포함하는 전문 생명 유지(ALS)를 수행한다.
+- 각 주는 교통부(DOT)의 전국 EMS 업무 범위 모델(National EMS Scope of Practice Model)을 토대로 주법으로 시행하므로, 같은 자격 이름이라도 주마다 업무 범위가 다르다.
+
+### Bổ sung Tiếng Việt (bản dịch sơ bộ, 初译待校)
+
+- Chứng chỉ EMS chia bốn cấp: EMR (Emergency Medical Responder), EMT (Emergency Medical Technician), AEMT (Advanced EMT) và Paramedic; mỗi cấp cao hơn có phạm vi kỹ thuật rộng hơn.
+- EMT chủ yếu phụ trách hồi sức cơ bản (BLS), còn Paramedic thực hiện hồi sức nâng cao (ALS) gồm đặt nội khí quản, truyền thuốc qua đường tĩnh mạch, theo dõi tim và khử rung tim.
+- Các bang dựa trên Mô hình Phạm vi Hành nghề EMS Quốc gia (National EMS Scope of Practice Model) của Bộ Giao thông (DOT) rồi ban hành luật bang để triển khai, nên cùng một tên chứng chỉ mà phạm vi hành nghề vẫn khác nhau theo từng bang.
+
+### हिन्दी पूरक (प्रारंभिक अनुवाद, 初译待校)
+
+- EMS प्रमाणन चार स्तरों में बँटा है: EMR (Emergency Medical Responder), EMT (Emergency Medical Technician), AEMT (Advanced EMT) और Paramedic; हर ऊँचा स्तर व्यापक तकनीकी दायरा देता है।
+- EMT मुख्यतः बुनियादी जीवन समर्थन (BLS) संभालता है, जबकि Paramedic उन्नत जीवन समर्थन (ALS) करता है, जिसमें श्वासनली में नली डालना, नस से दवा देना, हृदय की निगरानी और डिफ़िब्रिलेशन शामिल हैं।
+- राज्य परिवहन विभाग (DOT) के National EMS Scope of Practice Model को आधार बनाकर अपने कानून से लागू करते हैं, इसलिए एक ही प्रमाणन नाम का कार्य-दायरा राज्य के अनुसार भिन्न होता है।
