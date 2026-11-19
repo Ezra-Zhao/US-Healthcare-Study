@@ -47,3 +47,23 @@ La Ley de Seguridad del Paciente y Mejora de la Calidad de 2005 (PSQIA), en 42 U
 ---
 
 *声明：本文为个人学习笔记，不构成法律、税务或医疗建议。*
+
+---
+
+## 补译增量（2026-11-19 05:55轮）
+
+### 한국어 (초역, 교정 대기)
+
+1. PSO 인증 요건의 세부: AHRQ가 PSO를 인증할 때는 신청자의 사명이 환자 안전과 의료 질 개선을 최우선으로 하는지, 인력이 상응하는 자격을 갖췄는지, 제공자와의 이해충돌을 피하는 장치가 있는지를 보며, 인증 뒤에도 정기적인 재심사와 명부 제외(제명) 절차가 따라붙습니다.
+2. 국가 차원의 집계와 비식별 전제: 여러 기관에서 모인 환자 안전 데이터는 국가 차원의 네트워크와 데이터베이스로 들어가 추세 분석에 쓰일 수 있는데, 그 전체 과정은 비식별화를 전제로 합니다. 식별 가능한 형태로 기관 밖으로 나가는 것은 이 틀의 설계에 없습니다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+1. Chi tiết yêu cầu chứng nhận PSO: khi AHRQ chứng nhận một PSO, cơ quan này xét xem sứ mệnh của tổ chức xin chứng nhận có đặt an toàn bệnh nhân và cải thiện chất lượng y tế lên hàng đầu hay không, nhân sự có đủ năng lực tương ứng hay không, và có cơ chế tránh xung đột lợi ích với các nhà cung cấp hay không; sau chứng nhận còn có rà soát định kỳ và thủ tục loại khỏi danh sách.
+2. Tổng hợp cấp quốc gia với tiền đề khử định danh: dữ liệu an toàn bệnh nhân thu thập từ nhiều cơ sở có thể đi vào mạng lưới và cơ sở dữ liệu cấp quốc gia để phân tích xu hướng, và toàn bộ quá trình đó đặt tiền đề là khử định danh. Việc đưa ra ngoài cơ sở dưới dạng còn nhận diện được không nằm trong thiết kế của khung này.
+
+### हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+1. PSO प्रमाणन आवश्यकताओं का विवरण: जब AHRQ किसी PSO को प्रमाणित करता है, तो वह देखता है कि आवेदक का मिशन रोगी सुरक्षा और चिकित्सा गुणवत्ता सुधार को सर्वोच्च प्राथमिकता देता है या नहीं, उसके कर्मियों के पास संगत योग्यताएँ हैं या नहीं, और प्रदाताओं के साथ हितों के टकराव से बचने की व्यवस्था है या नहीं; प्रमाणन के बाद आवधिक पुनःसमीक्षा और सूची से हटाने (निष्कासन) की प्रक्रिया भी जुड़ी रहती है।
+2. राष्ट्रीय स्तर का संकलन और गैर-पहचान की पूर्वशर्त: कई संस्थानों से इकट्ठा रोगी सुरक्षा डेटा राष्ट्रीय स्तर के नेटवर्क और डेटाबेस में जाकर प्रवृत्ति विश्लेषण में उपयोग हो सकता है, और वह पूरी प्रक्रिया गैर-पहचान (de-identification) की पूर्वशर्त पर चलती है। पहचान योग्य रूप में संस्थान से बाहर जाना इस ढाँचे की रूपरेखा में नहीं है।
+
