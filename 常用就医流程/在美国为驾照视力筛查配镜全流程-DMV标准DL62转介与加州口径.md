@@ -57,3 +57,17 @@ Ghi chú này trình bày lộ trình kính mắt phía sau việc sàng lọc t
 来源：California Department of Motor Vehicles（DMV）驾照续期页与视力筛查说明（20/40 与 20/70 筛查标准、DL 62 转介、70 岁起现场续期、审查前不发临时证口径）；California Code of Regulations 第 13 篇第 20.03 条（Vision Screening）；California Vehicle Code 第 12818 条（复查）。费用算例为本文示意、非报价；制作周期为行业常见区间，以门店当期承诺为准。
 
 声明：个人学习笔记，不构成医疗建议，也不构成法律建议。六语对照：中文主文，English 次之，Español、한국어、Tiếng Việt、हिन्दी 为初译待校。
+
+
+---
+
+## 补译增量 · 한국어 / Tiếng Việt / हिन्दी（细节对齐，2026-11-19 18:55 轮）
+
+### 한국어 (초역, 初译待校)
+보충 세부 1: 검사는 시야 항목도 봅니다. 주변 시야에 뚜렷한 결손이 있으면 마찬가지로 평가를 위해 전원될 수 있으며, 이 글은 수치를 펼치지 않고 DMV 현장 검사와 DL 62 양식의 항목을 기준으로 삼습니다. 보충 세부 2: 검안 처방은 연방 안경 규칙에 따라 검사 후 환자에게 먼저 건네야 하며, 달라고 말할 필요가 없습니다. 주문하기 전에 이름, 두 눈의 도수, 처방 유효 기간을 대조하십시오. (초역, 初译待校)
+
+### Tiếng Việt (bản dịch sơ bộ, 初译待校)
+Chi tiết bổ sung 1: Việc sàng lọc còn xét mục thị trường: khiếm khuyết rõ rệt ở thị trường ngoại vi cũng có thể khiến người khám bị chuyển đi đánh giá; bài này không triển khai con số, mà lấy việc sàng lọc tại chỗ của DMV và các mục trên mẫu DL 62 làm chuẩn. Chi tiết bổ sung 2: Theo quy tắc kính mắt liên bang, đơn kính phải được chủ động trao cho bệnh nhân sau khi khám, không cần phải mở miệng xin; trước khi đặt kính, hãy đối chiếu họ tên, độ của hai mắt và thời hạn hiệu lực của đơn. (Bản dịch sơ bộ, 初译待校)
+
+### हिन्दी (प्रारंभिक अनुवाद, 初译待校)
+पूरक विवरण 1: जाँच में दृष्टि-क्षेत्र का खाना भी देखा जाता है: परिधीय दृष्टि-क्षेत्र में स्पष्ट कमी होने पर भी मूल्यांकन के लिए भेजा जा सकता है; यह लेख संख्याएँ नहीं खोलता और DMV की स्थल-जाँच व DL 62 फ़ॉर्म के खानों को ही आधार मानता है। पूरक विवरण 2: संघीय चश्मा नियम के अनुसार नेत्र-परीक्षण का प्रिस्क्रिप्शन जाँच के बाद रोगी को स्वयं आगे बढ़कर दिया जाना चाहिए, माँगने की आवश्यकता नहीं; ऑर्डर देने से पहले नाम, दोनों आँखों की शक्तियाँ और प्रिस्क्रिप्शन की वैधता अवधि मिलान कर लें। (प्रारंभिक अनुवाद, 初译待校)
