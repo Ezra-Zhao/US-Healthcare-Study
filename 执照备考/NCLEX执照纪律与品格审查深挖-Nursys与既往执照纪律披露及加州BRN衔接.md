@@ -49,3 +49,18 @@ NCLEX उत्तीर्ण करना केवल नैदानिक �
 ---
 
 *声明：个人学习笔记，不构成法律或医疗建议。*
+
+
+## 补译增量（2026-11-19 23:55 轮）
+
+### 한국어 (초역 · 初译待校)
+
+보충 두 가지입니다. 첫째, 징계 절차의 사슬입니다. 캘리포니아 BRN의 징계 사건은 보통 민원, 고용주 보고, 경력 조회로 시작돼 조사로 이어지고, 법무장관실(Attorney General) 쪽이 정식 기소(accusation)를 제기한 뒤 행정 청문과 위원회 결정을 거쳐 진행됩니다. 신청인과 면허 소지자에게는 답변과 청문의 권리가 있고, 최종 공개 처분은 BRN 면허 조회와 Nursys에서 확인할 수 있습니다. 둘째, 면허를 받은 뒤의 자기 보고입니다. 소지 기간에 체포되거나 기소되면 많은 주와 고용주 정책이 기한 내 자기 보고를 요구하고, 지체와 은폐는 정직성 문제로 다뤄집니다. 징계 장부는 면허가 손에 들어왔다고 닫히지 않습니다. (초역 · 初译待校)
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+
+Bổ sung hai điểm. Thứ nhất là chuỗi thủ tục kỷ luật: vụ việc kỷ luật của BRN California thường bắt đầu từ khiếu nại, báo cáo của nhà tuyển dụng hoặc kiểm tra lý lịch, rồi qua điều tra, sau đó phía Văn phòng Tổng chưởng lý (Attorney General) đưa ra cáo buộc chính thức (accusation), tiếp nối là điều trần hành chính và quyết định của hội đồng; người nộp đơn và người có giấy phép có quyền phúc đáp và được điều trần, và hình thức kỷ luật công khai cuối cùng có thể tra cứu trong hệ thống tra cứu giấy phép của BRN và trên Nursys. Thứ hai là tự báo cáo sau khi đã có giấy phép: nếu bị bắt hoặc bị truy tố trong thời gian hành nghề, nhiều tiểu bang và chính sách của nhà tuyển dụng yêu cầu tự báo cáo trong thời hạn, và việc chậm trễ hay che giấu bị xử lý như vấn đề trung thực; sổ kỷ luật không đóng lại chỉ vì giấy phép đã nằm trong tay. (Bản dịch sơ bộ · 初译待校)
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+
+दो बातें जोड़ी जाती हैं। पहली, अनुशासन प्रक्रिया की शृंखला: California BRN के अनुशासन मामले सामान्यतः शिकायत, नियोक्ता की रिपोर्ट या पृष्ठभूमि जाँच से शुरू होकर जाँच तक जाते हैं, फिर Attorney General का कार्यालय औपचारिक आरोप (accusation) दायर करता है, जिसके बाद प्रशासनिक सुनवाई और बोर्ड का निर्णय होता है; आवेदक और लाइसेंसधारी को जवाब व सुनवाई का अधिकार है, और अंतिम सार्वजनिक अनुशासन BRN के लाइसेंस सत्यापन और Nursys में देखा जा सकता है। दूसरी, लाइसेंस मिलने के बाद स्व-रिपोर्ट: लाइसेंस अवधि में गिरफ़्तारी या अभियोजन होने पर कई राज्य और नियोक्ता नीतियाँ समय-सीमा के भीतर स्व-रिपोर्ट माँगती हैं, और देरी व छिपाव को ईमानदारी का प्रश्न माना जाता है; अनुशासन का खाता लाइसेंस हाथ में आ जाने से बंद नहीं होता। (प्रारंभिक अनुवाद · 初译待校)
