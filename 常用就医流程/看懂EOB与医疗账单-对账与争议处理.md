@@ -248,3 +248,25 @@ No Surprises Act, जो Consolidated Appropriations Act, 2021 के भाग 
 - 한국어 (초역, 원어민 감수 대기): 개인 학습 노트이며 의학적 자문이 아닙니다. 구체적인 사안은 의사 또는 자격 있는 의료 전문가와 상담하십시오.
 - Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính): Ghi chú học tập cá nhân, không phải tư vấn y tế. Vui lòng tham khảo bác sĩ hoặc chuyên gia y tế có chuyên môn cho vấn đề cụ thể.
 - हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित): व्यक्तिगत अध्ययन नोट; चिकित्सा सलाह नहीं। विशिष्ट मामलों के लिए चिकित्सक या योग्य स्वास्थ्य विशेषज्ञ से परामर्श करें।
+
+
+---
+
+## 补译增量（2026-11-20 11:55 轮）· 한국어 / Tiếng Việt / हिन्दी（细节对齐）
+
+以下三段只补译中文主文已有、此前三语版本未展开的细节，不新增事实。（初译待校）
+
+### 한국어 (초역)
+
+1. 대조 원칙: 청구서(bill)가 환자에게 요구하는 금액은 EOB에 적힌 환자 부담(patient responsibility)을 넘어서는 안 됩니다. 청구서가 먼저 오고 EOB가 아직 오지 않았다면 먼저 내지 마십시오. 보험 처리가 끝나지 않은 상태에서는 청구서 금액이 할인도 처리도 되지 않은 전액인 경우가 많습니다.
+2. 연방 무예상청구법(No Surprises Act)의 도구 하나: 보험이 없거나 자비로 내는 사람은 사전에 선의의 견적(Good Faith Estimate)을 받을 권리가 있고, 최종 청구액이 견적보다 400달러 이상 많으면 정식 분쟁 절차를 밟을 수 있습니다.
+
+### Tiếng Việt (bản dịch sơ bộ)
+
+1. Nguyên tắc đối chiếu: số tiền hóa đơn (bill) yêu cầu bệnh nhân trả không được vượt quá khoản trách nhiệm bệnh nhân (patient responsibility) ghi trên EOB. Nếu hóa đơn đến trước mà EOB chưa đến, đừng trả vội — bảo hiểm chưa xử lý xong, và số tiền trên hóa đơn thường vẫn là toàn bộ số chưa giảm giá, chưa xét duyệt.
+2. Một công cụ của Đạo luật Không Bất Ngờ (No Surprises Act) liên bang: người không có bảo hiểm hoặc tự trả có quyền nhận trước ước tính thiện chí (Good Faith Estimate), và nếu hóa đơn cuối cùng vượt ước tính từ 400 đô la trở lên thì có thể đi theo thủ tục tranh chấp chính thức.
+
+### हिन्दी (प्रारंभिक अनुवाद)
+
+1. मिलान का सिद्धांत: बिल (bill) जो राशि रोगी से माँगे, वह EOB पर लिखी रोगी-ज़िम्मेदारी (patient responsibility) से अधिक नहीं होनी चाहिए। यदि बिल पहले आ जाए और EOB अभी न आया हो, तो पहले भुगतान न करें — बीमा की प्रक्रिया पूरी नहीं हुई होती, और बिल की राशि अक्सर बिना छूट, बिना निपटान वाली पूरी राशि होती है।
+2. संघीय No Surprises Act का एक साधन: जिनके पास बीमा नहीं है या जो स्वयं भुगतान करते हैं, उन्हें पहले से सद्भावना अनुमान (Good Faith Estimate) पाने का अधिकार है, और यदि अंतिम बिल अनुमान से 400 डॉलर या अधिक बढ़ जाए, तो औपचारिक विवाद प्रक्रिया अपनाई जा सकती है।
