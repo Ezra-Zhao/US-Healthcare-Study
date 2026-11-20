@@ -43,3 +43,18 @@ Sáp nhập y tế vẫn phải qua cửa chống độc quyền. Bộ công c�
 *개인 학습 노트이며 법률·의료 자문이 아닙니다. (초역)*
 *Ghi chú học tập cá nhân, không phải tư vấn pháp lý hay y tế. (Bản dịch sơ bộ)*
 *व्यक्तिगत अध्ययन नोट, कानूनी या चिकित्सीय सलाह नहीं। (प्रारंभिक अनुवाद)*
+
+
+## 补译增量（2026-11-20 08:55 轮）
+
+### 한국어 (초역, 初译待校)
+
+보충 1: Phoebe Putney Health System v. FTC, 568 U.S. 216 (2013)에서 조지아주의 한 카운티 병원관리기구가 지역 유일의 경쟁 병원을 인수하며 주 행위 면제를 주장했지만, 대법원은 전원 일치로 기각했습니다. 면제의 첫 관문은 주가 경쟁을 반경쟁적 결과로 대체하겠다는 정책을 분명히 밝혔어야 한다는 것입니다. 보충 2: 실무에서는 조건부 동의가 동의 명령에 적혀 있을 때만 집행 가능한 약속이 됩니다. 합병 뒤 응급실이나 산과를 닫으려 하면, 먼저 당시의 동의 명령과 조건 목록을 펼쳐 확인해야 합니다.
+
+### Tiếng Việt (bản dịch sơ bộ, 初译待校)
+
+Bổ sung 1: Trong Phoebe Putney Health System v. FTC, 568 U.S. 216 (2013), một cơ quan quản lý bệnh viện cấp hạt ở Georgia mua lại bệnh viện cạnh tranh duy nhất trong vùng và viện dẫn miễn trừ hành vi nhà nước, nhưng Tòa án Tối cao bác bỏ với sự nhất trí hoàn toàn: cửa đầu tiên của miễn trừ là chính sách của bang phải bày tỏ rõ ràng ý định thay cạnh tranh bằng kết quả phản cạnh tranh. Bổ sung 2: Trong thực tế, chỉ những chấp thuận có điều kiện được ghi vào lệnh chấp thuận mới là cam kết có thể thực thi; nếu sau sáp nhập định đóng khoa cấp cứu hay sản khoa, trước hết phải mở lại lệnh chấp thuận và danh sách điều kiện năm đó.
+
+### हिन्दी (प्रारंभिक अनुवाद, 初译待校)
+
+पूरक 1: Phoebe Putney Health System v. FTC, 568 U.S. 216 (2013) में जॉर्जिया की एक काउंटी अस्पताल प्राधिकरण ने क्षेत्र के एकमात्र प्रतिस्पर्धी अस्पताल का अधिग्रहण करते हुए राज्य-कार्य छूट का दावा किया, परंतु सुप्रीम कोर्ट ने सर्वसम्मति से उसे खारिज कर दिया: छूट का पहला द्वार यह है कि राज्य की नीति ने प्रतिस्पर्धा को प्रतिस्पर्धा-विरोधी परिणाम से बदलने का इरादा स्पष्ट रूप से व्यक्त किया हो। पूरक 2: व्यवहार में, केवल वही सशर्त सहमतियाँ प्रवर्तनीय वादे बनती हैं जो सहमति आदेश में लिखी हों; विलय के बाद यदि आपातकालीन या प्रसूति विभाग बंद करने की बात आए, तो पहले उस वर्ष का सहमति आदेश और शर्तों की सूची खोलकर देखनी चाहिए।
