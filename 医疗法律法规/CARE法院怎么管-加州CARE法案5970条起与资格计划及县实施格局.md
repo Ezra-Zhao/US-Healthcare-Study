@@ -113,3 +113,12 @@ Việc triển khai trải ra theo từng giai đoạn. Đợt đầu gồm 7 qu
 - 来源口径：加州《福利与机构法典》第 5970 条至第 5987 条（CARE 法案，SB 1338，2022 年第 319 号成文法）关于程序定性、第 5972 条资格七件与排除线、第 5974 条一带请愿人、协议与法院命令计划及 12 个月期限与一次延长、第 5979 条一带未完成计划的后续推定；2025 年 SB 27 关于自 2026 年 1 月 1 日起把双相 I 型障碍伴精神病性特征纳入诊断门的扩围（引用时以加州立法信息网 leginfo.legislature.ca.gov 现行条文为准）；加州法院（California Courts）CARE 法院公开说明与司法会议表格 CARE-100；州医疗保健服务部（DHCS）CARE 法案实施口径（第一批 7 县 2023 年 10 月 1 日、洛杉矶县 2023 年 12 月 1 日、其余各县 2024 年 12 月 1 日前全州上线）。
 - 算例口径：资格要件逐项数得 7 件；计划与协议 12 加 12 等于 24 个月封顶；第一批 7 县与全州 58 县之差 58 减 7 等于 51 县；以上均本地复算两遍一致。
 - 本篇为个人学习笔记，不构成法律或医疗建议；全篇不写任何药物剂量与频次，真实个案请咨询律师与专业医疗人员。
+
+---
+
+## 补译增量（2026-11-19 21:55 轮）
+
+- 한국어 (초역, 初译待校): (1) SB 1338은 2022년 법률 제319장(Chapter 319, Statutes of 2022)으로 성립한 법이며, CARE법의 성문법상 위치가 바로 이 장이다. (2) 출처 대조 기준 묶음 — 조문을 인용할 때는 캘리포니아 입법 정보 사이트(leginfo.legislature.ca.gov)의 현행 본문을 기준으로 대조해야 하고, 실시 기준의 출처는 주 의료보건서비스부(DHCS)의 CARE법 실시 설명과 캘리포니아 법원(California Courts)의 공개 설명 및 사법회의 양식 CARE-100이다. (초역, 初译待校)
+- Tiếng Việt (bản dịch sơ bộ, 初译待校): (1) SB 1338 đã trở thành luật với tư cách Chương 319 của các đạo luật năm 2022 (Chapter 319, Statutes of 2022), và đó là vị trí thành văn của Đạo luật CARE. (2) Nhóm chuẩn đối chiếu nguồn — khi trích dẫn điều luật phải đối chiếu theo văn bản hiện hành trên trang thông tin lập pháp California (leginfo.legislature.ca.gov); nguồn của chuẩn triển khai là phần giải thích triển khai Đạo luật CARE của Sở Dịch vụ Chăm sóc Sức khỏe bang (DHCS) cùng phần giải thích công khai của Tòa án California (California Courts) và mẫu CARE-100 của Hội đồng Tư pháp. (Bản dịch sơ bộ, 初译待校)
+- हिन्दी (प्रारंभिक अनुवाद, 初译待校): (1) SB 1338 वर्ष 2022 के कानूनों के अध्याय 319 (Chapter 319, Statutes of 2022) के रूप में बना, और CARE Act की संहिताबद्ध स्थिति यही अध्याय है। (2) स्रोत-मिलान मानक समूह — धाराओं का उद्धरण देते समय California Legislative Information साइट (leginfo.legislature.ca.gov) के वर्तमान पाठ से मिलान करना चाहिए; क्रियान्वयन-मानक के स्रोत राज्य Department of Health Care Services (DHCS) की CARE Act क्रियान्वयन व्याख्या और California Courts की सार्वजनिक व्याख्या तथा Judicial Council Form CARE-100 हैं। (प्रारंभिक अनुवाद, 初译待校)
+
