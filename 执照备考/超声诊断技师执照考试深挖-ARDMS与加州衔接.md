@@ -122,3 +122,17 @@ Este artículo contiene notas personales de estudio y no constituye asesoría m�
 Bài viết này là ghi chú học tập cá nhân, không phải tư vấn y tế hay pháp lý. Với vấn đề cụ thể, hãy căn cứ vào văn bản chính thức hiện hành của cơ quan có thẩm quyền và tham khảo chuyên gia có giấy phép.
 
 यह लेख व्यक्तिगत अध्ययन नोट है और चिकित्सा या कानूनी सलाह नहीं है। विशिष्ट मामलों के लिए संबंधित एजेंसियों के वर्तमान आधिकारिक पाठों को आधार बनाएँ और लाइसेंसधारी विशेषज्ञ से परामर्श करें।
+
+## 补译增量（2026-11-20 22:55 轮）
+
+### 한국어 (초역, 교정 대기)
+- 네 개 주 면허의 수수료와 처리 기간은 각 주 기관의 당해 공고를 기준으로 합니다.
+- 시험 채점은 합격과 불합격만으로 나누는 방식이 아닌 척도 점수 방식 등 세부 사항이 당해 수험 안내를 따릅니다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+- Lệ phí và thời gian xử lý giấy phép ở bốn bang theo công bố hiện hành của cơ quan từng bang.
+- Việc chấm điểm kỳ thi theo thang điểm vượt ra ngoài cách chia đỗ và trượt đơn thuần, cùng các chi tiết khác, theo sổ tay thí sinh hiện hành.
+
+### हिन्दी (प्रारंभिक अनुवाद, समीक्षा प्रतीक्षित)
+- चार लाइसेंस-राज्यों के लाइसेंस का शुल्क और प्रक्रिया अवधि प्रत्येक राज्य की संस्था की वर्तमान घोषणा के अनुसार है।
+- परीक्षा का अंकन केवल उत्तीर्ण और अनुत्तीर्ण में बाँटने से आगे के स्केल प्रारूप जैसे विवरणों सहित वर्तमान परीक्षार्थी पुस्तिका के अनुसार है।
