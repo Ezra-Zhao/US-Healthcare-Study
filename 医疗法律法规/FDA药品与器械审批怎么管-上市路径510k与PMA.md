@@ -168,3 +168,26 @@ Este artículo contiene notas personales de estudio y no constituye asesoría le
 Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý hay y tế. Với sản phẩm cụ thể, hãy căn cứ vào quyết định hiện hành của FDA và văn bản quy định gốc; về thuốc hay thiết bị của chính bạn, hãy hỏi bác sĩ hoặc dược sĩ có giấy phép.
 
 यह लेख व्यक्तिगत अध्ययन नोट है और कानूनी या चिकित्सा सलाह नहीं है। किसी विशिष्ट उत्पाद के लिए FDA के वर्तमान निर्णयों और मूल विनियामक पाठ को आधार बनाएँ; अपनी दवाओं या उपकरणों के बारे में लाइसेंसधारी चिकित्सक या फ़ार्मासिस्ट से परामर्श करें।
+
+## 补译增量（2026-11-21 01:55 轮）
+
+本节为存量补译增量，纯增量只加不删。所补两项细节均仅见于本篇中文主文，经通读原文与关键词回查确认韩、越、印三语段同缺：其一为第 352 条错误标识包括缺少警示，其二为加州条号核正说明（提纲所写第 109600 条起经核不合现行编纂、正文按第 109875 条起写）。三语均标初译待校。
+
+### 한국어 (초역 · 初译待校)
+
+보충 세부 1 — § 352의 허위표시에는 경고 누락도 들어간다: 본문 첫 부분의 중국어 원문은 § 352가 정하는 허위표시(misbranded)를 거짓·오해성 표시만이 아니라 경고가 빠진 경우까지 포함해 적는다. 즉 라벨에 있어야 할 경고가 빠져 있어도 허위표시에 해당할 수 있다는 점이 중국어 원문에만 있는 세부이다. (학습용 초역으로, 원어민 교정이 필요합니다.)
+
+보충 세부 2 — 캘리포니아 조문 번호를 바로잡은 설명: 중국어 원문은 개요에 적혀 있던 §§ 109600 이하라는 출발 번호가 현행 편찬과 맞지 않음을 확인했고, 본문은 바로잡은 번호인 Health & Safety Code §§ 109875 이하에 따라 썼다고 적는다. Sherman법에 기대는 독자는 개요의 번호가 아니라 이 바로잡은 번호를 따라야 한다는 점이 중국어 원문과 참고 근거에만 있는 세부이다. (학습용 초역으로, 원어민 교정이 필요합니다.)
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+
+Chi tiết bổ sung 1 — ghi nhãn sai theo mục 352 bao gồm cả thiếu cảnh báo: phần tiếng Trung của mục đầu tiên ghi định nghĩa ghi nhãn sai (misbranded) theo § 352 không chỉ gồm nhãn giả dối, gây hiểu lầm, mà còn gồm cả trường hợp thiếu cảnh báo; tức nhãn thiếu cảnh báo bắt buộc cũng có thể cấu thành ghi nhãn sai, và điểm này chỉ có trong bản tiếng Trung. (Bản dịch học tập sơ bộ, chờ người bản ngữ hiệu đính.)
+
+Chi tiết bổ sung 2 — ghi chú đính chính số mục của California: bản tiếng Trung ghi rõ số bắt đầu §§ 109600 trở đi như trong đề cương đã được kiểm tra và không khớp với bản biên soạn hiện hành, nên thân bài viết theo số đã đính chính là Health & Safety Code §§ 109875 trở đi. Người đọc dựa vào Luật Sherman phải theo số đã đính chính này chứ không theo số trong đề cương, và điểm này chỉ có trong bản tiếng Trung cùng phần căn cứ tham khảo. (Bản dịch học tập sơ bộ, chờ người bản ngữ hiệu đính.)
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+
+पूरक विवरण 1 — धारा 352 का मिथ्या-चिह्नन चेतावनी की कमी को भी समेटता है: पहले खंड का चीनी मूल पाठ § 352 के मिथ्या-चिह्नन (misbranded) को केवल झूठे या भ्रामक लेबल तक सीमित नहीं रखता, उसमें चेतावनी की कमी भी गिनता है; अर्थात जिस लेबल में आवश्यक चेतावनी ही न हो वह भी मिथ्या-चिह्नन हो सकता है, और यह विवरण केवल चीनी मूल पाठ में है। (अध्ययन हेतु प्रारंभिक अनुवाद, मूलभाषी समीक्षा लंबित है।)
+
+पूरक विवरण 2 — California धारा संख्या के सुधार की टिप्पणी: चीनी मूल पाठ स्पष्ट करता है कि रूपरेखा में लिखा §§ 109600 आगे का आरंभ-संख्या जाँच पर वर्तमान संहिताकरण से मेल नहीं खाता, इसलिए मुख्य पाठ सुधारित संख्या Health & Safety Code §§ 109875 आगे के अनुसार लिखा गया है। Sherman Law पर निर्भर पाठक को रूपरेखा की संख्या नहीं, यही सुधारित संख्या अपनानी चाहिए, और यह विवरण केवल चीनी मूल पाठ और संदर्भ-आधार खंड में है। (अध्ययन हेतु प्रारंभिक अनुवाद, मूलभाषी समीक्षा लंबित है।)
+
