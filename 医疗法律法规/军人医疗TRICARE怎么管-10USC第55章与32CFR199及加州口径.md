@@ -47,3 +47,24 @@ TRICARE कोई वाणिज्यिक बीमाकर्ता नह
 *개인 학습 노트이며 법률·의료 자문이 아닙니다. (초역)*
 *Ghi chú học tập cá nhân, không phải tư vấn pháp lý hay y tế. (Bản dịch sơ bộ)*
 *व्यक्तिगत अध्ययन नोट, कानूनी या चिकित्सीय सलाह नहीं। (प्रारंभिक अनुवाद)*
+
+---
+
+## 补译增量（2026-11-21 12:55轮）
+
+> 本节为存量补译增量，纯增量只加不删：以下两项细节仅见于中文主文，经逐项回查确认韩／越／印三语段同缺，现各补一段译文。①药房福利三层分层：TRICARE 药房福利按军方药房、邮购药房与零售网络三层运行，不同层的费用分担与可得性不同，不是只有一个药房通道。②迁入加州先办登记转移：军人家庭因调动跨州迁入加州的，先办 DEERS 地址更新与计划登记转移，再谈网络内就医，顺序反了理赔与登记都会卡住。
+
+### 한국어 (초역 · 初译待校)
+
+1. 약국 급여의 세 층: TRICARE 약국 급여는 군 약국, 우편 주문 약국, 소매 네트워크의 세 층으로 운영되며, 층마다 비용 분담과 이용 가능성이 다르다. 약국 통로가 하나만 있는 것이 아니다.
+2. 캘리포니아로 전입할 때는 등록 이전이 먼저이다: 군인 가족이 전근으로 주를 옮겨 캘리포니아에 들어오면, 먼저 DEERS 주소 갱신과 플랜 등록 이전을 마친 뒤에야 네트워크 내 진료를 논한다. 순서가 뒤집히면 등록과 청구 모두 막힌다.
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+
+1. Ba tầng của phúc lợi nhà thuốc: phúc lợi nhà thuốc TRICARE vận hành theo ba tầng — nhà thuốc quân đội, nhà thuốc đặt qua thư và mạng lưới bán lẻ — với chia sẻ chi phí và khả năng tiếp cận khác nhau theo tầng; không chỉ có một kênh nhà thuốc duy nhất.
+2. Chuyển tới California thì chuyển đăng ký trước: gia đình quân nhân chuyển bang tới California vì điều động nên cập nhật địa chỉ DEERS và chuyển đăng ký chương trình trước, rồi mới bàn tới khám chữa trong mạng; làm ngược thứ tự thì cả ghi danh lẫn yêu cầu thanh toán đều tắc.
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+
+1. Pharmacy लाभ की तीन परतें: TRICARE pharmacy लाभ तीन परतों में चलता है — सैन्य pharmacy, mail-order pharmacy और retail network — जिनमें लागत-साझाकरण और उपलब्धता परत अनुसार भिन्न होती है; केवल एक ही pharmacy माध्यम नहीं है।
+2. California आने पर पहले पंजीकरण स्थानांतरण: स्थानांतरण के कारण राज्य बदलकर California आने वाले सैन्य परिवार को पहले DEERS में पता अद्यतन और plan पंजीकरण का स्थानांतरण करना चाहिए, उसके बाद ही network में देखभाल की बात हो; क्रम उलटने पर नामांकन और दावे दोनों अटकते हैं।
