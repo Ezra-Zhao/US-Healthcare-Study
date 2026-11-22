@@ -47,3 +47,23 @@ Cơ sở hỗ trợ sinh hoạt (assisted living) không có giấy phép liên 
 ---
 
 *个人学习笔记，不构成法律或医疗建议。联邦框架以《社会保障法》第 1819、1919 与 1915(c) 条及 42 C.F.R. Part 483 为据；加州框架以 Health and Safety Code § 1569 起的 RCFE 系列条文、加州社会服务部社区护理许可处（CDSS/CCLD）公开口径与《加州法规汇编》Title 22 第 6 部第 8 章为据，具体数字与个案资格以现行条文与主管机关口径为准。*
+
+
+---
+
+## 补译增量（2026-11-21 17:55 轮）
+
+### 한국어 (초역 · 初译待校)
+
+- 장기 요양 옴부즈맨 통로: 거주자 권리, 불만 제기, 장기 요양 옴부즈맨(Long-Term Care Ombudsman)의 개입 경로는 주법과 연방 《노인법》 틀 아래 따로 정해져 있으며, 가족이 시설을 고를 때 이 통로가 어떻게 되는지도 함께 확인해야 한다.
+- 약물 보관 규칙: RCFE에서 약물의 보관, 잠금, 기록, 폐기에는 모두 주 규칙이 있으며, 복약 보조가 자가 복용을 돕는 일에 그친다는 경계와 한 묶음으로 운용된다.
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+
+- Kênh Thanh tra Chăm sóc Dài hạn: quyền của cư dân, khiếu nại và kênh can thiệp của Thanh tra Chăm sóc Dài hạn (Long-Term Care Ombudsman) được quy định riêng trong luật bang và khung Đạo luật Người cao tuổi liên bang; gia đình khi chọn cơ sở nên hỏi rõ cả kênh này.
+- Quy tắc lưu giữ thuốc: tại RCFE, việc lưu giữ, khóa, ghi chép và hủy thuốc đều có quy tắc của bang, vận hành cùng một gói với ranh giới rằng hỗ trợ dùng thuốc chỉ dừng ở việc giúp cư dân tự dùng thuốc.
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+
+- दीर्घकालिक देखभाल लोकपाल मार्ग: निवासियों के अधिकार, शिकायतें और दीर्घकालिक देखभाल लोकपाल (Long-Term Care Ombudsman) के हस्तक्षेप का मार्ग राज्य विधि और संघीय वृद्धजन अधिनियम के ढाँचे में अलग से तय है; परिवार सुविधा चुनते समय इस मार्ग के बारे में भी पूछ ले।
+- दवा भंडारण नियम: RCFE में दवाओं के भंडारण, ताला लगाने, अभिलेख और निपटान — सब पर राज्य नियम हैं, और ये उसी सीमा के साथ चलते हैं कि दवा सहायता केवल निवासी के स्व-सेवन में मदद तक सीमित है।
