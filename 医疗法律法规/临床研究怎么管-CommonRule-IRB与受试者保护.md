@@ -179,3 +179,17 @@ Common Rule एकमात्र द्वार नहीं है। जब 
 - 한국어: 본 문서는 개인 학습 노트이며 의료·법률 자문이 아닙니다. 구체적인 연구계획은 소속 기관 IRB 사무실과 의료 컴플라이언스 변호사와 상담하십시오. 응급 시 911에 전화하십시오. (초역, 교정 대기)
 - Tiếng Việt: Tài liệu này là ghi chú học tập cá nhân, không phải tư vấn y tế hay pháp lý; với đề cương nghiên cứu cụ thể hãy tham khảo văn phòng IRB của cơ quan và luật sư tuân thủ y tế; khi khẩn cấp hãy gọi 911. (Bản dịch sơ bộ, chờ hiệu đính)
 - हिन्दी: यह दस्तावेज़ व्यक्तिगत अध्ययन नोट्स है और चिकित्सा या कानूनी सलाह नहीं है; किसी विशिष्ट शोध प्रोटोकॉल के लिए अपने संस्थान के IRB कार्यालय और स्वास्थ्य अनुपालन वकील से परामर्श करें; आपात स्थिति में 911 पर कॉल करें। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+## 补译增量（2026-11-22 13:55 轮）
+
+### 한국어（初译待校）
+
+Common Rule(45 C.F.R. Part 46)은 연방 지원을 받는 인간 대상 연구에 기관심사위원회(IRB) 심사와 고지 동의(informed consent)를 요구한다. 고지 동의의 핵심 요소에는 연구 목적, 위험과 이익, 자발적 참여와 언제든 철회할 수 있다는 점이 포함된다.
+
+### Tiếng Việt（初译待校）
+
+Common Rule (45 C.F.R. Part 46) yêu cầu nghiên cứu trên người được liên bang tài trợ phải qua xét duyệt của hội đồng đạo đức (IRB) và có đồng thuận sau khi được thông tin (informed consent). Các yếu tố cốt lõi của đồng thuận gồm mục đích nghiên cứu, rủi ro và lợi ích, tính tự nguyện và quyền rút lui bất cứ lúc nào.
+
+### हिन्दी（初译待校）
+
+Common Rule (45 C.F.R. Part 46) संघीय सहायता प्राप्त मानव-विषय अनुसंधान के लिए IRB समीक्षा और सूचित सहमति (informed consent) अनिवार्य करता है। सहमति के मुख्य तत्वों में अनुसंधान का उद्देश्य, जोखिम और लाभ, स्वैच्छिक भागीदारी और किसी भी समय हटने का अधिकार शामिल हैं।

@@ -84,3 +84,17 @@ Cuối cùng, bổ sung ba rìa dễ bị nhầm lẫn. Xét nghiệm do phòng 
 
 ### हिन्दी (प्रारंभिक अनुवाद·待校)
 अंत में, आसानी से गड़बड़ होने वाले तीन किनारे। Laboratory developed tests (LDT) वे जाँचें हैं जिन्हें प्रयोगशाला खुद डिज़ाइन करके केवल अपनी प्रयोगशाला में उपयोग करती है, और वे लंबे समय से FDA के enforcement discretion के तहत रही हैं; FDA ने 2024 में एक अंतिम नियम जारी किया था जो LDT को चरणबद्ध ढंग से चिकित्सा-उपकरण नियमन में लाता, लेकिन वह नियम 2025 में एक संघीय अदालत द्वारा रद्द कर दिया गया, इसलिए स्थिति लंबे समय से चले आ रहे enforcement discretion पर लौट आई है — किसी भी लेखन में इसे इसी स्थिर संस्करण में लिखें और 2024 के नियम को वर्तमान कानून न मानें। उपभोक्ता द्वारा सीधी खरीद (direct-to-consumer / direct-access testing) एक अलग रेखा है: California Business and Professions Code § 1246.5 व्यक्तियों को, अपने खर्च पर और बिना चिकित्सक के आदेश के, एक छोटी सूची की जाँचें clinical laboratory से मँगाने की अनुमति देता है, जबकि सूची से बाहर की चीज़ों के लिए अब भी चिकित्सक का आदेश चाहिए। राज्य स्तर संघीय स्तर से सख्त है: California की clinical laboratories को California Department of Public Health (CDPH) के Laboratory Field Services (LFS) अनुभाग से राज्य लाइसेंस और निरीक्षण मिलता है, जिसका आधार Business and Professions Code §§ 1200–1327 का California clinical laboratory कानून है, और एक ही प्रयोगशाला को अक्सर संघीय CLIA और California राज्य लाइसेंस दोनों को एक साथ पूरा करना होता है, जिसमें सख्त वाला समूह मान्य होता है। यदि कोई critical value या असामान्य परिणाम आए, तो उसे खुद समझकर सहते न रहें; समय पर चिकित्सा सहायता लें और चिकित्सक को अपने इतिहास के साथ उसका मूल्यांकन करने दें। (व्यक्तिगत अध्ययन नोट; चिकित्सा सलाह नहीं।)
+
+## 补译增量（2026-11-22 13:55 轮）
+
+### 한국어（初译待校）
+
+CLIA는 검사를 복잡도에 따라 면제(waived), 중간 복잡도, 고복잡도로 나누고, 검사실은 수행하는 복잡도에 맞는 인증서를 보유해야 한다. 고복잡도 검사는 인력 자격과 숙련도 시험(proficiency testing) 요건이 가장 엄격하다.
+
+### Tiếng Việt（初译待校）
+
+CLIA chia xét nghiệm theo độ phức tạp thành waived, độ phức tạp trung bình và cao, và phòng xét nghiệm phải có chứng chỉ phù hợp với mức độ phức tạp mà mình thực hiện. Xét nghiệm độ phức tạp cao có yêu cầu nghiêm ngặt nhất về trình độ nhân sự và kiểm tra thành thạo (proficiency testing).
+
+### हिन्दी（初译待校）
+
+CLIA परीक्षणों को जटिलता के अनुसार waived, मध्यम जटिलता और उच्च जटिलता में बांटता है, और प्रयोगशाला के पास अपने द्वारा किए जाने वाले स्तर के अनुरूप प्रमाणपत्र होना चाहिए। उच्च जटिलता परीक्षणों के लिए कर्मियों की योग्यता और proficiency testing की शर्तें सबसे कठोर हैं।
