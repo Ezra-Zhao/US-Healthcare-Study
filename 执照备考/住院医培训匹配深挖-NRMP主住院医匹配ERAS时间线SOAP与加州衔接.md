@@ -50,3 +50,25 @@ USMLE चरणों में सफलता पात्रता देत�
 
 *声明：本文为个人学习笔记，不构成医疗或职业建议。*
 *Disclaimer: Personal study notes only; not medical or career advice.*
+
+
+---
+
+## 补译增量（2026-11-22 17:55 轮）
+
+本节为存量补译增量：以下两组细节仅见于中文主文，韩／越／印三语段此前同缺，现各补 2 项，纯增量只加不删。
+
+### 한국어 (초역, 교정 대기)
+
+1. 쌍 매칭: 두 명의 지원자는 순위를 하나의 묶음 목록으로 묶어 함께 매칭되는 쌍 매칭(couples match)을 쓸 수 있으며, 이는 동반자 지원자를 위한 전용 통로입니다.
+2. 소통 금지선: 프로그램이 매칭 밖에서 몰래 약속을 요구하거나, 지원자가 프로그램에 순위 힌트를 주는 일은 모두 협약이 금지하는 소통에 들어갑니다. 순위 목록은 인증되는 순간 진짜 뜻대로 서명한 약속이지 협상 카드가 아니므로, 면접에서 「당신들이 제 첫 번째 선택입니다」 같은 말은 신중히 해야 합니다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+1. Ghép đôi (couples match): hai ứng viên có thể buộc danh sách xếp hạng của mình thành một danh sách kết hợp để được ghép cùng nhau, và đây là kênh riêng dành cho các ứng viên là bạn đời của nhau.
+2. Ranh giới đỏ về giao tiếp: chương trình lén đòi cam kết ngoài vòng ghép, hay ứng viên gợi ý thứ hạng cho chương trình, đều nằm trong vùng giao tiếp mà thỏa thuận cấm. Danh sách xếp hạng, một khi đã chứng nhận, là bản cam kết ký theo ý nguyện thật chứ không phải quân bài thương lượng, nên ở vòng phỏng vấn những câu như «các bạn là lựa chọn số một của tôi» phải cân nhắc trước khi nói.
+
+### हिन्दी (प्रारंभिक अनुवाद, समीक्षा आवश्यक)
+
+1. युगल मिलान (couples match): दो आवेदक अपनी वरीयता सूचियों को एक संयुक्त सूची में बाँधकर एक साथ मिलान करा सकते हैं, और यह साथी आवेदकों के लिए बना विशेष माध्यम है।
+2. संचार की लाल रेखा: कार्यक्रम का मिलान के बाहर चुपके से वचन माँगना, या आवेदक का कार्यक्रम को वरीयता का संकेत देना, दोनों ही समझौते द्वारा निषिद्ध संचार में आते हैं। वरीयता सूची, एक बार प्रमाणित हो जाने पर, सच्ची इच्छा से हस्ताक्षरित प्रतिबद्धता-पत्र है, सौदेबाज़ी का पत्ता नहीं, इसलिए साक्षात्कार में «आप ही मेरी पहली पसंद हैं» जैसी बातें सोचकर कहनी चाहिए।
