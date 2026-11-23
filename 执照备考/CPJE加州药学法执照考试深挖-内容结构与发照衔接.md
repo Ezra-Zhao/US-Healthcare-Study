@@ -109,3 +109,25 @@ Tại California, cửa này chỉ có một cơ quan chủ quản: Hội đồn
 ## 来源与声明
 
 来源：California State Board of Pharmacy（加州药房委员会）官网的 CPJE 考试说明、执照申请指引与续照规则；Business and Professions Code 第 4000 条起药事法（Pharmacy Law）与第 4200 条一带发照规定；加州法规汇编第 16 编（Title 16）药房委员会规章；Health and Safety Code 第 11000 条起加州统一受控物质法；National Association of Boards of Pharmacy（NABP）关于 NAPLEX 与 Electronic Licensure Transfer Program（eLTP）的项目说明。题量、费用、施考机构与成绩口径以各机构当期公布为准，本篇不写死数字。本篇与本仓 MPJE 专篇、NAPLEX 成绩转移专篇分工互指、不重复展开。个人学习笔记，不构成法律/税务/医疗建议；全篇不涉及任何药物剂量。
+
+
+---
+
+## 补译增量（2026-11-23 02:55 轮）
+
+本节为存量补译增量：以下两组细节见于中文主文（第三节备考顺序与第四节加州衔接），韩／越／印三语正文未独立成组译出，现各补一组，纯增量、只加不删；三语均标初译待校。
+
+### 한국어 (초역·待校)
+
+- 공부 순서의 실선: 먼저 연방 골격을 단단히 다진다(규제 물질 등급, 처방과 리필의 하한). 다음에 캘리포니아 약사법 원문과 제16편 규정을 정독한다. 마지막에 캘리포니아 버전의 상황 문제로 품질 보증 방향의 판단을 연습한다. 다른 주의 MPJE 자료를 주 교재로 삼으면 방향이 처음부터 어긋난다. (初译待校)
+- 갱신과 실습 약사의 분리 장부: 캘리포니아 약사 면허 갱신은 2년 주기에 보수교육 30시간이 필요하고 세부 사항은 위원회의 현행 규칙을 따르며, 실습 약사(intern pharmacist) 등록은 별도의 경로이므로 정식 면허 신청과 섞어 처리하면 안 된다. (初译待校)
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+- Tuyến ôn tập thực tế: trước hết nắm chắc khung liên bang (phân cấp chất được kiểm soát, ngưỡng kê đơn và cấp lại), tiếp đó đọc kỹ toàn văn luật dược California và các quy định Title 16, cuối cùng luyện phán đoán theo hướng bảo đảm chất lượng bằng bài tập tình huống phiên bản California; lấy tài liệu MPJE của bang khác làm giáo trình chính là sai hướng ngay từ đầu. (初译待校)
+- Sổ riêng về gia hạn và dược sĩ thực tập: gia hạn giấy phép dược sĩ California theo chu kỳ hai năm với ba mươi giờ đào tạo liên tục, chi tiết theo quy tắc hiện hành của Hội đồng, và đăng ký dược sĩ thực tập (intern pharmacist) là một kênh riêng, không được trộn với hồ sơ cấp phép chính thức. (初译待校)
+
+### हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+- तैयारी का व्यावहारिक क्रम: पहले संघीय ढाँचा पक्का करें (नियंत्रित पदार्थों का वर्गीकरण, पर्चे और पुनःपूर्ति की सीमाएँ), फिर कैलिफ़ोर्निया फार्मेसी कानून का मूल पाठ और Title 16 नियम ध्यान से पढ़ें, अंत में कैलिफ़ोर्निया संस्करण के परिदृश्य प्रश्नों से गुणवत्ता-आश्वासन निर्णय का अभ्यास करें; किसी अन्य राज्य की MPJE सामग्री को मुख्य पाठ्यपुस्तक बनाना शुरू से ही गलत दिशा है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+- नवीनीकरण और इंटर्न फ़ार्मासिस्ट का अलग खाता: कैलिफ़ोर्निया फ़ार्मासिस्ट नवीनीकरण दो-वर्षीय चक्र पर तीस घंटों की सतत शिक्षा के साथ होता है, विवरण बोर्ड के वर्तमान नियमों के अनुसार हैं, और इंटर्न फ़ार्मासिस्ट (intern pharmacist) का पंजीकरण एक अलग माध्यम है जिसे पूर्ण लाइसेंस आवेदन के साथ नहीं मिलाना चाहिए। (प्रारंभिक अनुवाद, समीक्षा लंबित)
