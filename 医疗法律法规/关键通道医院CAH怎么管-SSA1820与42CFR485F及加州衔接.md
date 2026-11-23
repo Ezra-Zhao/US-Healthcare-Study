@@ -65,3 +65,25 @@ Bệnh viện tiếp cận thiết yếu (Critical Access Hospital, CAH) không 
 ## 免责声明（六语）
 
 中文：个人学习笔记，不构成法律或医疗建议。｜ English: Personal study notes, not legal or medical advice. ｜ Español (初译待校): Notas personales de estudio, no constituye asesoría legal ni médica. ｜ 한국어 (初译待校): 개인 학습 노트이며, 법률이나 의료 조언이 아닙니다. ｜ Tiếng Việt (初译待校): Ghi chép học tập cá nhân, không phải tư vấn pháp lý hay y tế. ｜ हिन्दी (初译待校): व्यक्तिगत अध्ययन नोट्स हैं; यह कानूनी या चिकित्सा सलाह नहीं है।
+
+
+---
+
+## 补译增量（2026-11-22 18:55 轮）
+
+本节为存量补译增量：以下两项条号细节仅见于中文主文，韩／越／印三语段此前同缺（条号关键词回查三语段零命中为据），现按中文主文原意补齐，纯增量只加不删。
+
+### 한국어（初译待校）
+
+- 참여 조건의 조문 범위: 핵심通道医院(CAH)의 참여 조건은 42 C.F.R. Part 485 Subpart F에 있으며 §485.601에서 시작해 §485.647 부근까지 이어지고, 일반 병원의 42 C.F.R. Part 482와는 별도 체계이다.
+- CAH 응급 진료의 EMTALA 세부 근거: CAH의 응급 의무에 적용되는 EMTALA 세부 규정은 42 C.F.R. §489.24와 그 부록 해석 부근에 있으며, §485.618 부근의 24시간 응급 요건과 함께 읽어야 한다.
+
+### Tiếng Việt（初译待校）
+
+- Phạm vi điều khoản của điều kiện tham gia: điều kiện tham gia của bệnh viện tiếp cận thiết yếu (CAH) nằm tại 42 C.F.R. Part 485 Subpart F, bắt đầu từ §485.601 và kéo dài tới khoảng §485.647, tách riêng khỏi khung bệnh viện thông thường tại 42 C.F.R. Part 482.
+- Căn cứ chi tiết EMTALA cho cấp cứu tại CAH: quy định chi tiết EMTALA áp dụng cho nghĩa vụ cấp cứu của CAH nằm tại 42 C.F.R. §489.24 và phần diễn giải phụ lục liên quan, cần đọc cùng yêu cầu cấp cứu 24 giờ tại khoảng §485.618.
+
+### हिन्दी（初译待校）
+
+- भागीदारी शर्तों की धारा-शृंखला: क्रिटिकल एक्सेस अस्पताल (CAH) की भागीदारी शर्तें 42 C.F.R. Part 485 Subpart F में हैं, जो §485.601 से शुरू होकर लगभग §485.647 तक जाती हैं, और सामान्य अस्पतालों के 42 C.F.R. Part 482 से अलग व्यवस्था है।
+- CAH आपात देखभाल का EMTALA विवरण-आधार: CAH की आपात ज़िम्मेदारी पर लागू EMTALA विवरण 42 C.F.R. §489.24 और उससे जुड़ी परिशिष्ट व्याख्या के आसपास है, जिसे §485.618 के आसपास की 24 घंटे आपात आवश्यकता के साथ पढ़ना चाहिए।
