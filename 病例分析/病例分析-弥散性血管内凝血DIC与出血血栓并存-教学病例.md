@@ -152,3 +152,23 @@ Este artículo es una nota personal de estudio y no constituye asesoría médica
 Bài viết này là ghi chú học tập cá nhân và không phải tư vấn y tế. (bản dịch sơ bộ)
 
 यह लेख व्यक्तिगत अध्ययन नोट है और चिकित्सा सलाह नहीं है। (प्रारंभिक अनुवाद)
+
+
+## 补译增量（2026-11-23 04:55 轮）
+
+本节补译文末「来源与说明」中仅见于中文主文、韩／越／印三语同缺的两组细节，纯增量，不改原文。
+
+### 한국어 (초역·待校)
+
+- 출처 그룹 1: 국제혈전·지혈학회(ISTH)의 파종성 혈관내 응고(DIC) 틀 — DIC는 기저 질환에 이차적으로 생기는 증후군이며, 현성 DIC 점수는 혈소판 수, 섬유소 관련 표지자, 프로트롬빈 시간, 섬유소원 네 가지 지표로 구성되고, 맞는 기저 질환이 있을 때 종합해 읽어야 합니다. 이 글은 개념 층에서만 언급하며, 구체 점수와 경계값은 당기 틀과 전문과 판독을 따릅니다.
+- 출처 그룹 2: 패혈증 유발 응고병증(SIC) 개념 틀(ISTH 관련 과학 소그룹이 제안): 혈소판, 프로트롬빈 시간 관련 지표, 장기 기능 점수의 조합으로 패혈증의 더 이른 단계 응고병증을 포착하며, 현성 DIC 점수와 두 단계로 이어지는 관계에 있습니다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+- Nhóm nguồn 1: khung đông máu nội mạch lan tỏa (DIC) của Hội Huyết khối và Cầm máu Quốc tế (ISTH) — DIC là hội chứng thứ phát sau bệnh nền; điểm DIC rõ gồm bốn loại chỉ số: số lượng tiểu cầu, dấu ấn liên quan fibrin, thời gian prothrombin và fibrinogen, và phải đọc tổng hợp khi có bệnh nền phù hợp. Bài này chỉ nhắc ở tầng khái niệm; điểm số và ngưỡng cụ thể theo khung hiện hành và diễn giải của chuyên khoa.
+- Nhóm nguồn 2: khung khái niệm bệnh đông máu do nhiễm khuẩn huyết (SIC, do tiểu nhóm khoa học liên quan của ISTH đề xuất): dùng tổ hợp tiểu cầu, chỉ số liên quan thời gian prothrombin và điểm chức năng cơ quan để bắt bệnh đông máu ở giai đoạn sớm hơn trong nhiễm khuẩn huyết, tạo thành quan hệ tiếp nối hai bước với điểm DIC rõ.
+
+### हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+- स्रोत समूह 1: अंतरराष्ट्रीय थ्रॉम्बोसिस व हीमोस्टेसिस सोसायटी (ISTH) का प्रसारित अंतःवाहिनी स्कंदन (DIC) ढाँचा — DIC आधार रोग के बाद होने वाला सिंड्रोम है; प्रकट DIC स्कोर चार प्रकार के संकेतकों से बनता है: प्लेटलेट गणना, फ़ाइब्रिन-संबंधी चिह्नक, प्रोथ्रॉम्बिन समय और फ़ाइब्रिनोजन, और इसे उपयुक्त आधार रोग होने पर ही समग्र रूप से पढ़ा जाता है। यह लेख इसे केवल अवधारणा स्तर पर कहता है; विशिष्ट अंक व सीमाएँ वर्तमान ढाँचे व विशेषज्ञ व्याख्या के अनुसार होंगी।
+- स्रोत समूह 2: सेप्सिस-प्रेरित स्कंदन-विकृति (SIC) का अवधारणा ढाँचा (ISTH के संबंधित वैज्ञानिक उपसमूह द्वारा प्रस्तावित): प्लेटलेट, प्रोथ्रॉम्बिन समय से जुड़े संकेतकों और अंग-कार्य स्कोर के संयोजन से सेप्सिस में स्कंदन-विकृति के पहले चरण को पकड़ता है, और प्रकट DIC स्कोर के साथ दो-चरणीय क्रमिक संबंध रखता है।
