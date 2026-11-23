@@ -35,3 +35,24 @@ American Board of Colon and Rectal Surgery (ABCRS), thành viên ABMS, cấp ch�
 ### कोलन और रेक्टल सर्जरी बोर्ड प्रमाणन: ABCRS परीक्षाएँ, कैलिफ़ोर्निया नोट सहित
 
 American Board of Colon and Rectal Surgery (ABCRS), ABMS का सदस्य बोर्ड, कोलन, रेक्टम और गुदा की शल्य-विशेषता का प्रमाणन करता है। प्रमाणन स्वैच्छिक पेशेवर योग्यता है; राज्य लाइसेंस और अस्पताल privileging अलग खाते हैं। प्रशिक्षण आधार दो चरणों का है: ACGME-मान्यता प्राप्त general surgery residency, जो American Board of Surgery प्रमाणन से जुड़ी है, फिर ACGME-मान्यता प्राप्त colon and rectal surgery fellowship (आमतौर पर लगभग एक वर्ष), साथ में वर्तमान अप्रतिबंधित चिकित्सा लाइसेंस। परीक्षा क्रम निश्चित है: पहले लिखित Qualifying Examination, फिर केस-आधारित मौखिक Certifying Examination, जो शल्य निर्णय, जटिलता प्रबंधन और पेशेवर विवेक परखती है। दोनों पास करने पर प्रमाणन मिलता है, जिसे ABCRS continuous certification और longitudinal assessment से बनाए रखा जाता है। कैलिफ़ोर्निया में चिकित्सक लाइसेंस Medical Board of California द्वारा Medical Practice Act (Bus. & Prof. Code § 2000 आदि) के तहत दिया जाता है; राज्य की अलग colon-and-rectal surgery लाइसेंस नहीं है, और ABCRS प्रमाणन राज्य लाइसेंस नहीं, बल्कि नियुक्ति हेतु योग्यता प्रमाण है। स्रोत: ABCRS आधिकारिक सामग्री और ABMS सूची। यह व्यक्तिगत अध्ययन नोट है, चिकित्सा सलाह नहीं।
+
+---
+
+## 补译增量（2026-11-23 03:55 轮）
+
+> 本节为存量补译增量：中文主文中有两组细节此前未独立成组译入韩／越／印三语正文，现各补译如下，纯增量、原文未删改。三语均为初译待校。
+
+### 한국어（初译待校）
+
+- 수험 요점 한 묶음: 필기시험은 지식의 폭과 문항을 견디는 힘을 겨루고, 구술시험은 증례를 조직하는 힘을 겨룬다——먼저 진단과 병기를 말하고, 그다음 수술 경로와 대안을 말하며, 마지막으로 합병증 대비책과 추적을 말한다. 지속 인증과 주 면허 갱신은 서로 다른 장부이므로 섞어 읽지 않는다.
+- 캘리포니아 연계의 나머지 한 묶음: 정골의학 의사(DO)의 면허는 Osteopathic Medical Board of California가 발급한다. 대외적으로 전문 인증을 내세우는 일은 《사업 및 직업법전》 제651조 일대의 광고 기준을 따르므로, 인증을 가졌다는 표현은 그 기준 안에서만 쓸 수 있다.
+
+### Tiếng Việt（初译待校）
+
+- Nhóm điểm then chốt khi ôn thi: kỳ thi viết đua về độ bao phủ kiến thức và sức bền làm bài; kỳ thi vấn đáp đua về cách tổ chức ca bệnh — trước hết nói chẩn đoán và giai đoạn, tiếp theo nói đường phẫu thuật và phương án thay thế, cuối cùng nói phương án dự phòng biến chứng và theo dõi. Chứng chỉ liên tục và gia hạn giấy phép của bang là hai sổ riêng, không đọc lẫn vào nhau.
+- Nhóm còn lại của phần nối California: giấy phép của bác sĩ y học xương khớp (DO) do Hội đồng Y học Xương khớp California (Osteopathic Medical Board of California) cấp. Việc quảng bá chứng chỉ chuyên khoa ra bên ngoài tuân theo chuẩn quảng cáo quanh mục 651 của Bộ luật Kinh doanh và Nghề nghiệp, nên cách nói có chứng chỉ chỉ được dùng trong chuẩn đó.
+
+### हिन्दी（初译待校）
+
+- परीक्षा-तैयारी के मुख्य बिंदुओं का एक समूह: लिखित परीक्षा ज्ञान की व्यापकता और प्रश्न-सहनशक्ति की परीक्षा है; मौखिक परीक्षा मामले को संगठित करने की परीक्षा है — पहले निदान और चरण कहें, फिर शल्य मार्ग और विकल्प कहें, अंत में जटिलता-पूर्वयोजना और अनुवर्ती कहें। Continuous certification और राज्य लाइसेंस नवीनीकरण अलग-अलग खाते हैं, इन्हें मिलाकर न पढ़ें।
+- कैलिफ़ोर्निया-जुड़ाव का शेष समूह: osteopathic चिकित्सकों (DO) का लाइसेंस Osteopathic Medical Board of California देता है। विशेषज्ञ प्रमाणन का बाहरी प्रचार Business and Professions Code की धारा 651 के आसपास के विज्ञापन मानकों के अधीन है, इसलिए प्रमाणित होने का दावा उसी मानक के भीतर ही किया जा सकता है।
