@@ -113,3 +113,21 @@ Chẩn đoán phân biệt được tháo gỡ bằng cách hỏi đặc điểm
 来源：American Academy of Otolaryngology–Head and Neck Surgery Foundation（AAO-HNSF）《Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (Update)》，Otolaryngology–Head and Neck Surgery 2017;156(3_suppl):S1–S47（后半规管 BPPV 以 Dix-Hallpike 诱发潜伏性、扭转上跳性、可疲劳性眼震为诊断依据，Dix-Hallpike 阴性时以仰卧滚转试验评估水平半规管，耳石复位为一线处置，典型病例不常规行影像或前庭实验室检查，前庭抑制类药物不作主要治疗，复位后不常规行体位限制等口径）；老年跌倒风险与防跌倒教育按 CDC 老年人跌倒预防的一般口径。指南版本与个案判断以接诊医师与 AAO-HNS 当期文本为准。全篇不涉及药物剂量。
 
 声明：个人学习笔记，不构成法律/税务/医疗建议。本病例为虚构教学病例。
+
+---
+
+## 补译增量（2026-11-24 05:55轮）
+
+> 本节为存量补译：中文主文「来源与声明」节已有、韩／越／印三语同缺的 2 项事实，在此补齐三语（初译待校）；纯增量，不删原文，不新增数字。
+
+### 한국어 (초역 · 初译待校)
+- 출처 인용 묶음: 본 글의 근거는 미국 이비인후과·두경부외과학회 재단(AAO-HNSF)의 『임상진료지침: 양성 발작성 자세성 현훈(개정판)』이며, Otolaryngology–Head and Neck Surgery 2017;156(3_suppl):S1–S47에 실렸습니다.
+- CDC 낙상 예방 묶음: 고령자의 낙상 위험과 낙상 예방 교육은 미국 질병통제예방센터(CDC)의 고령자 낙상 예방 일반 지침에 따릅니다.
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+- Nhóm trích dẫn nguồn: căn cứ của bài là «Hướng dẫn thực hành lâm sàng: Chóng mặt kịch phát lành tính theo tư thế (bản cập nhật)» của Quỹ Học viện Tai Mũi Họng – Phẫu thuật Đầu và Cổ Hoa Kỳ (AAO-HNSF), đăng trên Otolaryngology–Head and Neck Surgery 2017;156(3_suppl):S1–S47.
+- Nhóm phòng ngừa té ngã của CDC: nguy cơ té ngã ở người cao tuổi và giáo dục phòng té ngã tuân theo khẩu hiệu chung về phòng ngừa té ngã cho người cao tuổi của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh Hoa Kỳ (CDC).
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+- स्रोत उद्धरण समूह: इस लेख का आधार अमेरिकन एकेडमी ऑफ़ ओटोलैरिंगोलॉजी–हेड एंड नेक सर्जरी फ़ाउंडेशन (AAO-HNSF) का «क्लिनिकल प्रैक्टिस गाइडलाइन: बिनाइन पैरोक्सिस्मल पोज़िशनल वर्टिगो (अपडेट)» है, जो Otolaryngology–Head and Neck Surgery 2017;156(3_suppl):S1–S47 में प्रकाशित हुआ।
+- CDC गिरने-से-बचाव समूह: बुज़ुर्गों में गिरने का जोखिम और गिरने से बचाव की शिक्षा अमेरिकी रोग नियंत्रण और रोकथाम केंद्र (CDC) के बुज़ुर्गों हेतु गिरने-से-बचाव के सामान्य दृष्टिकोण के अनुसार है।
