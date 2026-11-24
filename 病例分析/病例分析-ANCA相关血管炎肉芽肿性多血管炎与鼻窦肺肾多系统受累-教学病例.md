@@ -227,3 +227,14 @@ Xử trí chỉ nêu ở mức nhóm và nguyên tắc; kế hoạch cụ thể 
 - लाल झंडे पहले: alveolar रक्तस्राव और rapidly progressive nephritis समय के विरुद्ध दौड़ वाली जोड़ी हैं, और mononeuritis, आँख और वायुमार्ग भागीदारी फैलती गतिविधि का संकेत देते हैं; प्रबंधन श्रेणी स्तर पर रहता है — glucocorticoid श्रेणी तीव्र-चरण घटक के रूप में, immunosuppressive और biologic श्रेणियाँ rheumatology द्वारा गंभीरता के अनुसार दिशानिर्देश विकल्पों के बीच तौली जाती हैं, plasma exchange विशिष्ट स्थितियों के लिए आरक्षित, और immunosuppression से पहले संक्रमण जाँच और टीकाकरण समीक्षा।
 
 *यह मामला पूरी तरह काल्पनिक शिक्षण मामला है; नाम छद्म है और इसमें कोई वास्तविक रोगी जानकारी नहीं है। व्यक्तिगत अध्ययन नोट; चिकित्सा सलाह नहीं। स्रोत: granulomatosis with polyangiitis के लिए 2022 ACR/EULAR वर्गीकरण मानदंड; ANCA-संबद्ध vasculitis के प्रबंधन के लिए 2021 ACR / Vasculitis Foundation दिशानिर्देश; संबंधित EULAR सिफ़ारिशें। इस लेख में दवा की खुराक या आवृत्ति की कोई जानकारी नहीं है। व्यक्तिगत अध्ययन नोट; कानूनी, कर या चिकित्सा सलाह नहीं।*
+
+## 补译增量（2026-11-24 02:55轮：韩／越／印三语补齐中文主文细节，正文原有段落未改动）
+
+### 한국어 보충 (초역 · 初译待校)
+본 증례의 채점을 보충합니다. cANCA와 항PR3 항체 양성이 5점, 반복되는 혈성 비분비물과 비강 가피가 3점, 흉부 영상의 다발 결절과 공동이 2점, 부비동 영상의 염증과 실변이 1점, 신생검의 과면역성 사구체신염이 1점으로, 합계는 5＋3＋2＋1＋1＝12점이며 5점의 분류선을 크게 넘습니다. 감점 항목은 촉발되지 않았습니다. 항MPO는 음성이었고 호산구는 정상 범위였습니다. 위험 신호 두 묶음도 보충합니다. 객혈 증가와 호흡곤란은 폐포 출혈을, 소변량 감소와 크레아티닌의 빠른 상승은 급속 진행성 사구체신염을 시사하며 둘 다 응급 평가가 필요합니다. *가상의 교육용 증례이며 의료 자문이 아닙니다.*
+
+### Bổ sung Tiếng Việt (bản dịch sơ bộ · 初译待校)
+Bổ sung phần chấm điểm của ca này: cANCA và kháng thể kháng PR3 dương tính được 5 điểm; dịch mũi lẫn máu tái diễn và đóng vảy trong mũi 3 điểm; hình ảnh ngực có nhiều nốt phổi, một số có hang, 2 điểm; hình ảnh xoang có viêm và đặc lại 1 điểm; sinh thiết thận cho thấy viêm cầu thận pauci-immune 1 điểm — tổng cộng 5＋3＋2＋1＋1＝12 điểm, vượt xa ngưỡng phân loại 5 điểm. Không mục trừ điểm nào bị kích hoạt: kháng MPO âm tính và bạch cầu ái toan trong giới hạn bình thường. Bổ sung thêm hai nhóm cờ đỏ: ho ra máu tăng và khó thở gợi ý xuất huyết phế nang, còn lượng nước tiểu giảm và creatinin tăng nhanh gợi ý viêm cầu thận tiến triển nhanh — cả hai đều cần đánh giá khẩn cấp. *Ca bệnh giảng dạy hư cấu, không phải tư vấn y tế.*
+
+### हिन्दी पूरक (प्रारंभिक अनुवाद · 初译待校)
+इस प्रकरण का स्कोर पूरक है: cANCA व anti-PR3 प्रतिरक्षी सकारात्मकता 5 अंक; बार-बार रक्तयुक्त नाक स्राव व पपड़ी 3 अंक; छाती इमेजिंग में बहु गांठें व कुछ गुहाएँ 2 अंक; साइनस इमेजिंग में शोथ व समेकन 1 अंक; गुर्दा बायोप्सी में pauci-immune glomerulonephritis 1 अंक — कुल 5＋3＋2＋1＋1＝12 अंक, जो 5 अंक की वर्गीकरण-रेखा से काफी ऊपर है। कोई ऋणात्मक 항목 सक्रिय नहीं हुआ: anti-MPO नकारात्मक था और eosinophil सामान्य सीमा में थे। दो लाल-झंडा समूह भी पूरक हैं: बढ़ता रक्त-खाँसी व साँस फूलना alveolar रक्तस्राव का, और मूत्र-मात्रा घटना व creatinine का तेज़ बढ़ना rapidly progressive glomerulonephritis का संकेत है — दोनों को आपात मूल्यांकन चाहिए। *काल्पनिक शिक्षण-प्रकरण; चिकित्सा सलाह नहीं।*
