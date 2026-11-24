@@ -167,3 +167,24 @@ Este artículo es una nota personal de estudio y no constituye asesoría médica
 Bài viết này là ghi chép học tập cá nhân, không phải tư vấn y tế. Về yêu cầu dự thi và hành nghề cụ thể, hãy căn cứ văn bản chính thức của NBRC và RCB California. (bản dịch sơ bộ·待校)
 
 *六语对照：中文主文，English 次之，Español·한국어·Tiếng Việt·हिन्दी 为初译待校。*
+
+
+## 补译增量（2026-11-23 19:55 轮）
+
+以下两组细节见于中文主文，此前韩／越／印三语译文未覆盖，现补译如下（初译待校）。
+
+### 补译组一：同一场 TMC 定两落点——低线拿 CRT、高线才解锁 CSE
+
+한국어 (初译待校)：모든 응시자는 먼저 같은 TMC 시험을 봅니다. 점수가 낮은 기준선에 닿으면 CRT를 받고, 높은 기준선에 닿아야 CSE 응시 자격이 열리며, 두 단계를 모두 통과해야 RRT가 됩니다. CRT와 RRT는 병행 경로가 아니라 한 사다리의 두 착지점입니다. (初译待校)
+
+Tiếng Việt (初译待校)：Mọi thí sinh trước hết đều thi cùng một bài TMC: đạt ngưỡng thấp thì nhận CRT, đạt ngưỡng cao mới mở được quyền thi CSE, và đậu cả hai chặng mới lên RRT. CRT và RRT không phải hai lối song song mà là hai điểm dừng trên cùng một chiếc thang. (初译待校)
+
+हिन्दी (初译待校)：सभी अभ्यर्थी पहले एक ही TMC परीक्षा देते हैं: निचली कट-लाइन पर CRT मिलता है, ऊँची कट-लाइन पर ही CSE की पात्रता खुलती है, और दोनों चरण पास करने पर RRT बनता है। CRT और RRT दो समानांतर मार्ग नहीं, एक ही सीढ़ी के दो पड़ाव हैं। (初译待校)
+
+### 补译组二：认证维持 CMP 五年周期——缴年费加季度评估或继续教育
+
+한국어 (初译待校)：인증은 일회성으로 끝나지 않습니다. NBRC의 인증 유지 프로그램(CMP)은 5년 주기로 운영되며 연회비 납부와 분기 평가 또는 계속교육 학점 이수를 요구합니다. 주 면허 갱신은 주 규칙을 따로 따르므로, 전국 인증 장부와 주 면허 장부를 섞지 마십시오. (初译待校)
+
+Tiếng Việt (初译待校)：Chứng nhận không phải chuyện một lần: chương trình duy trì chứng nhận (CMP) của NBRC chạy theo chu kỳ năm năm, yêu cầu đóng phí hằng năm và hoàn thành đánh giá hằng quý hoặc giờ đào tạo liên tục. Gia hạn giấy phép tiểu bang đi theo quy tắc riêng của tiểu bang, nên đừng trộn sổ chứng nhận quốc gia với sổ giấy phép tiểu bang. (初译待校)
+
+हिन्दी (初译待校)：प्रमाणन एकबारगी नहीं है: NBRC का Credential Maintenance Program (CMP) पाँच-वर्षीय चक्र पर चलता है, जिसमें वार्षिक शुल्क और त्रैमासिक मूल्यांकन या सतत शिक्षा घंटे पूरे करने होते हैं। राज्य लाइसेंस नवीनीकरण राज्य के अपने नियमों से चलता है, इसलिए राष्ट्रीय प्रमाणन खाते और राज्य लाइसेंस खाते को मिलाएँ नहीं। (初译待校)

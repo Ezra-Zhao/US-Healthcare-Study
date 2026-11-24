@@ -182,3 +182,24 @@ Danh sách kiểm tra đăng ký và dự thi (đánh dấu từng mục rồi m
 - 한국어 (初译待校)：개인 학습 노트이며, 의학적 조언이 아닙니다.
 - Tiếng Việt (初译待校)：Ghi chép học tập cá nhân, không phải tư vấn y tế.
 - हिन्दी (初译待校)：व्यक्तिगत अध्ययन नोट्स हैं; यह चिकित्सा सलाह नहीं है।
+
+
+## 补译增量（2026-11-23 19:55 轮）
+
+以下两组细节见于中文主文，此前韩／越／印三语译文未覆盖，现补译如下（初译待校）。
+
+### 补译组一：两天不必连考，但顺序固定为先 Day 1 后 Day 2
+
+한국어 (初译待校)：Step 3는 이틀이지만 연속으로 볼 필요가 없습니다. 같은 자격 기간(eligibility period) 안에서 Day 1과 Day 2를 따로 예약할 수 있고, 순서는 반드시 Day 1 먼저, Day 2 나중이며, 사이에 며칠에서 몇 주까지 간격을 둘 수 있어 레지던트 근무 일정에 맞추기 쉽습니다. (初译待校)
+
+Tiếng Việt (初译待校)：Step 3 kéo dài hai ngày nhưng không cần thi liền nhau: trong cùng một kỳ đủ điều kiện (eligibility period), thí sinh có thể đặt lịch Day 1 và Day 2 riêng rẽ, thứ tự cố định là Day 1 trước, Day 2 sau, cách nhau vài ngày tới vài tuần, giúp bác sĩ nội trú dễ xếp lịch quanh ca trực. (初译待校)
+
+हिन्दी (初译待校)：Step 3 दो दिन की है पर दोनों दिन लगातार देना ज़रूरी नहीं: एक ही eligibility period में Day 1 और Day 2 अलग-अलग बुक किए जा सकते हैं, क्रम तय है — पहले Day 1, फिर Day 2 — और बीच में कुछ दिन से कुछ सप्ताह का अंतर रखा जा सकता है, जो रेज़िडेंटों को रोटेशन के साथ तालमेल में मदद करता है। (初译待校)
+
+### 补译组二：Day 2 的构成——约 180 道选择题加 13 个 CCS 病例模拟、全天约 9 小时
+
+한국어 (初译待校)：Day 2(Advanced Clinical Medicine)는 45분짜리 블록 6개에 나뉜 약 180개의 객관식 문항에 13개의 CCS 사례 시뮬레이션을 더해 하루 약 9시간입니다. 묻는 것은 지식이 아니라 연속 의사결정입니다. 환자가 이미 본인 손에 있을 때 다음 몇 시간, 며칠을 어떻게 관리하는가입니다. (初译待校)
+
+Tiếng Việt (初译待校)：Day 2 (Advanced Clinical Medicine) gồm khoảng 180 câu trắc nghiệm chia trong sáu block 45 phút, cộng thêm 13 ca mô phỏng CCS, tổng cộng khoảng chín giờ trong ngày. Điều được kiểm tra không phải kiến thức thuộc lòng mà là ra quyết định liên tục: bệnh nhân đã ở trong tay bạn, bạn quản lý vài giờ và vài ngày tiếp theo ra sao. (初译待校)
+
+हिन्दी (初译待校)：Day 2 (Advanced Clinical Medicine) में 45 मिनट के छह ब्लॉकों में लगभग 180 बहुविकल्पीय प्रश्न और 13 CCS केस सिमुलेशन होते हैं, कुल लगभग नौ घंटे। यहाँ जाँच याददाश्त की नहीं, निरंतर निर्णय-क्षमता की है: रोगी पहले से आपके पास है, अगले कुछ घंटों और दिनों का प्रबंधन आप कैसे करते हैं। (初译待校)
