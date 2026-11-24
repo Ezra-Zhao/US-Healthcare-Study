@@ -64,3 +64,20 @@ TP-C (Certified Tactical Paramedic) और TR-C (Certified Tactical Responder) I
 ---
 
 声明：本文为个人学习笔记，不构成医疗建议，也不构成法律意见。认证与执照要求以 IBSC、EMSA 与各县 EMS 机构现行官方规定为准。
+
+## 补译增量（2026-11-24 10:55轮）
+
+### 한국어 (초역 · 初译待校)
+
+- (보충 1 · 시험 범위) TECC 본체 외에 시험 범위에는 장시간 현장 돌봄(prolonged field care)의 사고방식도 포함된다. 전술 환경에서는 후송이 늦어질 수 있어, 짧은 처치 뒤 바로 옮긴다는 일반 구급의 리듬만으로는 부족하다.
+- (보충 2 · 유효 기간) IBSC 인증의 유효 기간은 4년이며, 계속 교육과 재인증 요건을 제때 채워야 한다. 만료일을 달력에 적어 두는 편이, 만료 뒤에야 동행 자격까지 함께 멈추는 것을 발견하는 것보다 훨씬 낫다.
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+
+- (Bổ sung 1 · phạm vi thi) Ngoài phần cốt lõi TECC, phạm vi thi còn bao gồm tư duy chăm sóc hiện trường kéo dài (prolonged field care): trong môi trường chiến thuật, việc sơ tán có thể bị chậm, nên nhịp cấp cứu thông thường — xử trí ngắn rồi chuyển ngay — là chưa đủ.
+- (Bổ sung 2 · thời hạn hiệu lực) Chứng chỉ IBSC có hiệu lực bốn năm và phải hoàn thành giáo dục thường xuyên cùng yêu cầu tái chứng nhận đúng hạn. Ghi ngày hết hạn vào lịch sẽ chủ động hơn nhiều so với việc chỉ phát hiện chứng chỉ đã hết hạn khi tư cách đi kèm đội cũng bị đình lại.
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+
+- (पूरक 1 · परीक्षा क्षेत्र) TECC के मूल भाग के अलावा परीक्षा क्षेत्र में prolonged field care (दीर्घकालीन क्षेत्र देखभाल) की सोच भी शामिल है: सामरिक परिवेश में निकासी में देर हो सकती है, इसलिए सामान्य आपातकालीन लय — छोटा उपचार और तुरंत स्थानांतरण — पर्याप्त नहीं होती।
+- (पूरक 2 · वैधता अवधि) IBSC प्रमाणन की वैधता चार वर्ष होती है और सतत शिक्षा व पुनःप्रमाणन आवश्यकताएँ समय पर पूरी करनी होती हैं। समाप्ति तिथि कैलेंडर में लिखना उस स्थिति से कहीं बेहतर है जब समाप्ति के बाद पता चले कि साथ जाने की योग्यता भी रुक गई है।
