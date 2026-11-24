@@ -243,3 +243,26 @@ Tiếng Việt: Kho lưu trữ này chỉ chứa ghi chú học tập cá nhân 
 हिन्दी: यह भंडार केवल व्यक्तिगत अध्ययन नोट रखता है और कानूनी या चिकित्सा सलाह नहीं है। परीक्षण विकल्पों, बीमा व्यवस्थाओं और स्वास्थ्य निर्णयों के लिए लाइसेंस प्राप्त चिकित्सक, genetic counselor, बीमा सलाहकार या वकील से परामर्श करें; आपातकाल में 911 पर कॉल करें। (अनुवाद, 初译待校)
 
 *六语对照：中文主文，English 次之，Español 为译稿，한국어·Tiếng Việt·हिन्दी 为初译待校。*
+
+
+## 补译增量（2026-11-23 15:55 轮）
+
+> 本节为存量补译：原文「来源与说明」一节只有中文，以下把其中两组仅见于中文主文的来源口径补入韩、越、印三语（初译待校），纯增量，不改原文。
+
+### 한국어 (초역·待校)
+
+출처 묶음 1 — FDA와 CLIA의 출처 기준. 본문은 《연방 식품·의약품·화장품법》의 의료기기 시판 심사 및 허가 틀, FDA가 직접 소비자 대상 검사에 관해 낸 공개 설명, 그리고 2017년 유전적 건강 위험 보고서의 첫 시판 허가에 관한 FDA 공식 발표에 기대어 있다. 본문은 허가 사실만 기록하고 구체적인 제품과 보고서 목록은 열거하지 않는다. 검사실 쪽 출처는 《임상검사실 개선 수정법》(CLIA)의 검사실 인증 및 등급 틀과 CMS의 검사실 감독 공개 자료이며, CLIA는 분석 품질과 검사실 운영을 규율할 뿐 임상적 유효성과 유용성을 평가하지 않는다는 경계가 출처 단계에서도 그대로 유지된다. (초역, 원어민 감수 대기)
+
+출처 묶음 2 — GINA와 캘리포니아법의 출처 기준. 《유전자정보 차별금지법》(GINA, 2008년)의 건강보험과 고용 두 부분의 보호 범위, 그리고 생명보험·장기요양보험·장해보험을 포괄하지 않는다는 경계는 법문 구조와 EEOC 및 HHS의 공개 설명을 기준으로 삼았다. 캘리포니아 《유전자정보 프라이버시법》(SB 41, 2021년)에 대해서는 DTC 회사를 겨냥한 명시적 동의, 투명한 고지, 데이터 삭제와 검체 파기 권리를 법 이름과 연도, 권리 내용의 일반 기준으로만 적고 구체적인 조 번호는 인용하지 않았다. 결과 해석의 일반 기준도 출처에 묶어 둔다. DTC 보고서는 진단이 아니며, 중대한 결과는 임상급 재검사와 유전 상담으로 확인해야 한다는 것이 FDA 소비자 안내와 임상유전학계의 일반적 합의에 따른 표방이다. (초역, 원어민 감수 대기)
+
+### Tiếng Việt (bản dịch sơ bộ·待校)
+
+Nhóm nguồn 1 — chuẩn nguồn của FDA và CLIA. Bài viết dựa trên khung xem xét và ủy quyền tiền thị trường cho thiết bị y tế của Đạo luật Liên bang về Thực phẩm, Thuốc và Mỹ phẩm, các giải thích công khai của FDA về xét nghiệm bán trực tiếp tới người tiêu dùng, và thông cáo chính thức của FDA về lần ủy quyền đầu tiên năm 2017 cho báo cáo nguy cơ sức khỏe di truyền được ra thị trường; bài chỉ ghi lại sự kiện ủy quyền, không liệt kê sản phẩm và danh mục báo cáo cụ thể. Nguồn phía phòng xét nghiệm là khung chứng nhận và phân cấp phòng xét nghiệm của CLIA cùng tài liệu công khai về giám sát phòng xét nghiệm của CMS, và ranh giới rằng CLIA quản chất lượng phân tích cùng vận hành phòng xét nghiệm chứ không đánh giá giá trị lâm sàng và tính hữu ích lâm sàng cũng được giữ nguyên ở tầng nguồn. (Bản dịch sơ bộ, chờ hiệu đính)
+
+Nhóm nguồn 2 — chuẩn nguồn của GINA và luật California. Phạm vi bảo vệ hai phần sức khỏe và việc làm của Đạo luật Không Phân biệt Đối xử về Thông tin Di truyền (GINA, 2008), cùng ranh giới rằng nó không bao phủ bảo hiểm nhân thọ, bảo hiểm chăm sóc dài hạn và bảo hiểm tàn tật, được lấy theo cấu trúc điều luật và các giải thích công khai của EEOC và HHS. Đối với Đạo luật Quyền riêng tư Thông tin Di truyền của California (SB 41, 2021), bài chỉ ghi tên luật, năm và nội dung các quyền ở mức chuẩn chung — đồng ý rõ ràng nhắm vào các công ty DTC, công bố minh bạch, quyền xóa dữ liệu và hủy mẫu — và không trích số điều cụ thể. Chuẩn chung về giải thích kết quả cũng được buộc vào nhóm nguồn này: một báo cáo DTC không phải chẩn đoán, và các kết quả quan trọng phải được xác nhận bằng xét nghiệm cấp lâm sàng cùng tư vấn di truyền, theo cách diễn đạt của các khuyến cáo người tiêu dùng của FDA và đồng thuận chung của giới di truyền lâm sàng. (Bản dịch sơ bộ, chờ hiệu đính)
+
+### हिन्दी (प्रारंभिक अनुवाद·待校)
+
+स्रोत समूह 1 — FDA और CLIA का स्रोत मानक। यह लेख Federal Food, Drug, and Cosmetic Act के चिकित्सा उपकरण premarket समीक्षा और प्राधिकरण ढाँचे, direct-to-consumer परीक्षण पर FDA की सार्वजनिक व्याख्याओं, और 2017 में genetic health risk reports के बाज़ार हेतु प्रथम प्राधिकरण पर FDA की आधिकारिक घोषणा पर आधारित है; यह लेख केवल प्राधिकरण तथ्य दर्ज करता है, विशिष्ट उत्पादों और report सूचियों को सूचीबद्ध नहीं करता। प्रयोगशाला पक्ष का स्रोत CLIA का प्रयोगशाला प्रमाणन और श्रेणीकरण ढाँचा तथा CMS की प्रयोगशाला पर्यवेक्षण सार्वजनिक सामग्री है, और यह सीमा कि CLIA विश्लेषण गुणवत्ता और प्रयोगशाला संचालन को नियंत्रित करता है, नैदानिक वैधता और उपयोगिता का मूल्यांकन नहीं करता, स्रोत स्तर पर भी वैसी ही बनी रहती है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+स्रोत समूह 2 — GINA और California कानून का स्रोत मानक। Genetic Information Nondiscrimination Act (GINA, 2008) के स्वास्थ्य बीमा और रोज़गार — दो भागों — का सुरक्षा दायरा, और यह सीमा कि यह जीवन बीमा, long-term care बीमा और disability बीमा को शामिल नहीं करता, कानून की संरचना तथा EEOC और HHS की सार्वजनिक व्याख्याओं के अनुसार लिया गया है। California के Genetic Information Privacy Act (SB 41, 2021) के लिए यह लेख केवल कानून का नाम, वर्ष और अधिकारों की सामग्री सामान्य मानक पर लिखता है — DTC कंपनियों को लक्षित स्पष्ट सहमति, पारदर्शी प्रकटीकरण, डेटा हटाने और नमूना नष्ट करने के अधिकार — और विशिष्ट धारा संख्याएँ उद्धृत नहीं करता। परिणाम व्याख्या का सामान्य मानक भी इसी स्रोत समूह से बँधा है: DTC report निदान नहीं है, और महत्वपूर्ण परिणामों की पुष्टि clinical-grade पुनः परीक्षण और genetic counseling से होनी चाहिए, जैसा FDA की उपभोक्ता सलाहों और नैदानिक आनुवंशिकी समुदाय की सामान्य सहमति में कहा गया है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
