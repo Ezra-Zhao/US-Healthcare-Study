@@ -1,0 +1,94 @@
+# 退伍军人医疗怎么管：VA 体系、MISSION 法案社区照护与加州规则
+
+> 板块与分工：医疗法律法规。本篇讲退伍军人事务部（Department of Veterans Affairs，VA）医疗体系的资格、登记与社区照护规则，不讲临床处置，不写任何药物剂量与治疗参数。联邦骨架以《美国法典》第 38 编（Title 38, U.S. Code）与 2018 年《使命法案》（VA MISSION Act of 2018, Pub. L. 115-182）及 38 C.F.R. 第 17.4040 条的社区照护可及性标准为准；加州部分单独注明，以加州退伍军人事务部（CalVet）与县退伍军人服务官的公开说明为据。具体资格以 VA 当次裁定为准。
+
+## 中文主文
+
+### 一、先定性：VA 医疗是独立的联邦体系，资格先于就医
+
+VA 医疗由退伍军人健康管理局（Veterans Health Administration，VHA）运营，是与 Medicare、Medicaid 和商业保险并行的独立联邦体系，不是保险卡到处通用的报销计划，而是以自有医院与诊所为主体、资格登记为入口的照护系统。入口规则在 38 U.S.C. 第 1705 条一带：退伍军人须先申请登记（enrollment），VA 按优先组（priority groups）排序管理，优先组综合服役相关残疾评级、收入与特殊资格（如紫心勋章、战俘经历等）分层；服役相关残疾评级越高，优先组越靠前、费用分担越低。两个常见误读先纠正：其一，有退伍身份不等于自动登记，登记要主动申请并经 VA 核定；其二，VA 医疗与军人医疗体系（国防部 TRICARE）是两套系统，现役与退役通道不同，不要混用。急诊有一条保命例外：紧急情况下先去最近的急诊处置，VA 对符合条件的紧急照护有其报销与通知规则，事后通知时限以 VA 现行规定为准，不因先算资格而延误就医。
+
+### 二、社区照护：MISSION 法案把外送通道写成法定资格
+
+2018 年《使命法案》重写了 VA 把患者送到社区（非 VA）机构看病的规则，现行主条文是 38 U.S.C. 第 1703 条。要点有三。第一，社区照护不是患者想去哪就去哪，而是先经 VA 判定符合资格、再由 VA 授权与排程，授权外的社区就诊可能不获支付。第二，资格情形包括 VA 提供不了所需服务、居住州或地区没有 VA 设施、以及达到可及性标准（access standards）等情形。第三，可及性标准写在 38 C.F.R. 第 17.4040 条：以平均驾车时间计，初级照护与心理健康为 30 分钟、专科照护为 60 分钟；以预约等待时间计，初级照护与心理健康为 20 天、专科为 28 天，达不到这些标准的，患者可选择社区照护（数字复算：专科驾车标准是初级的 2 倍，60 除以 30 等于 2；专科等待比初级多 8 天，28 减 20 等于 8）。此外，使命法案还把紧急照护（urgent care）福利纳入 VA 体系内符合条件的社区药房与诊所网络，但有网络内与事先确认的要求，细节以 VA 当期说明为准。
+
+### 三、加州衔接：联邦 VA 设施归联邦，CalVet 与县服务官管州层帮扶
+
+加州衔接看三层。第一层是设施：加州境内的 VA 医疗中心与门诊诊所仍属联邦 VHA 系统，登记、优先组与社区照护授权全走联邦 VA 规则，加州州法不改变联邦资格。第二层是州帮扶：加州退伍军人事务部（California Department of Veterans Affairs，CalVet）是州级机构，管的是州办退伍军人之家（Veterans Homes of California）、州层福利咨询与衔接，不发联邦 VA 医疗资格。第三层是县级入口：各县的县退伍军人服务官（County Veteran Service Officers，CVSO）免费协助退伍军人准备与递交 VA 福利与医疗登记申请，是加州退伍军人最常用的第一站；实务顺序是先找 CVSO 或直接向 VA 递交登记，拿到登记与优先组后，再谈 VA 内就诊或社区照护授权。把三层分清，就不会把州福利当成联邦医疗资格，也不会把社区诊所的账单误当成 VA 自动买单。
+
+个人学习笔记，不构成医疗建议。
+
+## English
+
+**Veterans health care: the VA system, MISSION Act community care, and California rules.** This is a health-law study note. It covers eligibility, enrollment, and community-care rules in the Department of Veterans Affairs (VA) system, with no clinical instructions and no drug doses or treatment parameters. The federal frame follows Title 38, U.S. Code, the VA MISSION Act of 2018 (Pub. L. 115-182), and the community-care access standards at 38 C.F.R. section 17.4040; the California layer follows CalVet and county veteran service officer guidance.
+
+### 1. A separate federal system; eligibility comes before care
+VA health care, run by the Veterans Health Administration (VHA), is a separate federal system parallel to Medicare, Medicaid, and commercial insurance: a care-delivery system built on its own hospitals and clinics, entered through enrollment, not a reimbursement card usable anywhere. Under 38 U.S.C. section 1705 and related provisions, veterans must apply for enrollment, and VA manages enrollees through priority groups that weigh service-connected disability ratings, income, and special statuses such as Purple Heart or former prisoner-of-war status; higher service-connected ratings generally mean higher priority and lower cost sharing. Two corrections: veteran status alone is not automatic enrollment - enrollment requires an application and a VA determination; and VA care is a different system from the Defense Department's TRICARE, so active-duty and veteran channels should not be mixed. In a true emergency, go to the nearest emergency care first; VA has reimbursement and notification rules for qualifying emergency care, and eligibility arithmetic must never delay emergency treatment.
+
+### 2. Community care under the MISSION Act
+The MISSION Act of 2018 rewrote VA's rules for sending patients to non-VA community providers, now centered at 38 U.S.C. section 1703. Three points matter. First, community care is not free choice of any outside clinic: VA must find the veteran eligible and authorize and schedule the care, and unauthorized community care may not be paid. Second, eligibility situations include VA not offering the needed service, no VA facility in the veteran's state or territory, and meeting the access standards. Third, the access standards at 38 C.F.R. section 17.4040 use average drive time - 30 minutes for primary and mental health care, 60 minutes for specialty care - and appointment wait time - 20 days for primary and mental health care, 28 days for specialty care; when VA cannot meet them, the veteran may choose community care (checks: the specialty drive standard is twice the primary one, 60 divided by 30 equals 2; the specialty wait is 8 days longer, 28 minus 20 equals 8). The MISSION Act also brought an urgent-care benefit through eligible community networks, with in-network and confirmation requirements per current VA guidance.
+
+### 3. The California connection
+Three layers. Facilities: VA medical centers and clinics in California belong to the federal VHA system; enrollment, priority groups, and community-care authorization all follow federal VA rules, and California law does not change federal eligibility. State help: the California Department of Veterans Affairs (CalVet) is a state agency running the Veterans Homes of California and state-level benefits counseling; it does not grant federal VA health eligibility. County entry point: County Veteran Service Officers (CVSOs) in each county help veterans prepare and file VA benefits and health-enrollment applications free of charge, and are the usual first stop in California. Practical order: enroll first (via a CVSO or directly with VA), then address VA care or community-care authorization.
+
+Personal study notes; not medical advice.
+
+## Español (初译待校)
+
+**Atención médica para veteranos: el sistema VA, la atención comunitaria de la Ley MISSION y las reglas de California.** Nota de estudio de derecho sanitario. Trata la elegibilidad, la inscripción y las reglas de atención comunitaria del sistema del Department of Veterans Affairs (VA), sin instrucciones clínicas ni dosis ni parámetros de tratamiento. El marco federal sigue el Título 38 del U.S. Code, la VA MISSION Act de 2018 (Pub. L. 115-182) y los estándares de acceso de 38 C.F.R. sección 17.4040; la capa de California sigue las orientaciones de CalVet y de los oficiales condales de servicio a veteranos.
+
+### 1. Un sistema federal separado; la elegibilidad va primero
+La atención del VA, operada por la Veterans Health Administration (VHA), es un sistema federal separado, paralelo a Medicare, Medicaid y los seguros comerciales: un sistema de prestación con hospitales y clínicas propios, al que se entra por inscripción, no una tarjeta de reembolso usable en cualquier sitio. Conforme a 38 U.S.C. sección 1705 y normas conexas, el veterano debe solicitar la inscripción y el VA ordena a los inscritos en grupos de prioridad según la calificación de discapacidad vinculada al servicio, los ingresos y estatus especiales como Purple Heart o ex prisionero de guerra; a mayor calificación vinculada al servicio, mayor prioridad y menor copago en general. Dos correcciones: ser veterano no inscribe automáticamente; y la atención del VA es un sistema distinto de TRICARE del Departamento de Defensa. En una emergencia verdadera, acuda primero a la urgencia más cercana; el VA tiene reglas de reembolso y notificación para atención de emergencia elegible, y el cálculo de elegibilidad nunca debe retrasar el tratamiento urgente.
+
+### 2. Atención comunitaria según la Ley MISSION
+La Ley MISSION de 2018 reescribió las reglas para derivar pacientes a proveedores comunitarios no VA, hoy centradas en 38 U.S.C. sección 1703. Tres puntos importan. Primero, la atención comunitaria no es libre elección de cualquier clínica externa: el VA debe declarar elegible al veterano y autorizar y programar la atención, y la atención comunitaria no autorizada puede no pagarse. Segundo, las situaciones de elegibilidad incluyen que el VA no ofrezca el servicio necesario, que no haya instalación del VA en el estado o territorio, y que se cumplan los estándares de acceso. Tercero, los estándares de 38 C.F.R. sección 17.4040 usan el tiempo medio de conducción - 30 minutos para atención primaria y salud mental, 60 para especialidad - y el tiempo de espera de cita - 20 días para primaria y salud mental, 28 para especialidad; cuando el VA no puede cumplirlos, el veterano puede elegir atención comunitaria (comprobación: el estándar de conducción de especialidad es el doble del de primaria, 60 dividido por 30 es 2; la espera de especialidad es 8 días mayor, 28 menos 20 es 8). La Ley MISSION también incorporó un beneficio de atención urgente mediante redes comunitarias elegibles, con requisitos de red y confirmación según la guía vigente del VA.
+
+### 3. La conexión con California
+Tres capas. Instalaciones: los centros médicos y clínicas del VA en California pertenecen al sistema federal VHA; la inscripción, los grupos de prioridad y la autorización comunitaria siguen las reglas federales, y la ley de California no cambia la elegibilidad federal. Ayuda estatal: el California Department of Veterans Affairs (CalVet) es una agencia estatal que gestiona los Veterans Homes of California y el asesoramiento estatal de beneficios; no concede la elegibilidad federal de salud del VA. Punto de entrada condal: los County Veteran Service Officers (CVSO) de cada condado ayudan gratuitamente a preparar y presentar solicitudes de beneficios e inscripción de salud del VA, y son la primera parada habitual en California. Orden práctico: inscribirse primero (vía un CVSO o directamente ante el VA) y después tratar la atención dentro del VA o la autorización comunitaria.
+
+Notas de estudio personales; no constituyen consejo médico. (初译待校)
+
+## 한국어 (初译待校)
+
+**재향군인 의료 정리: VA 체계, MISSION 법의 지역사회 진료, 캘리포니아 규칙.** 의료법 학습 노트입니다. 재향군인부(VA) 체계의 자격, 등록, 지역사회 진료 규칙만 다루며, 임상 지시나 약물 용량, 치료 수치는 쓰지 않습니다. 연방 틀은 미국법전 제38편, 2018년 VA MISSION 법(Pub. L. 115-182), 38 C.F.R. 제17.4040조의 지역사회 진료 접근 기준을 따르고, 캘리포니아 층은 CalVet와 카운티 재향군인 서비스관의 안내를 따릅니다.
+
+### 1. 별도의 연방 체계이며, 자격이 진료보다 먼저다
+재향군인 건강국(VHA)이 운영하는 VA 의료는 Medicare, Medicaid, 상업 보험과 병행하는 별도의 연방 체계로, 자체 병원과 진료소를 중심으로 하고 등록이 입구인 진료 시스템이며, 어디서나 통하는 상환 카드가 아닙니다. 38 U.S.C. 제1705조 등 관련 규정에 따라 재향군인은 등록을 신청해야 하고, VA는 복무 관련 장애 등급, 소득, Purple Heart나 전 포로 경력 같은 특수 자격을 종합한 우선순위 그룹(priority groups)으로 관리합니다. 복무 관련 장애 등급이 높을수록 우선순위가 높고 비용 분담이 낮아지는 것이 일반적입니다. 두 가지 오해를 바로잡습니다. 재향군인 신분만으로 자동 등록되지 않으며, VA 의료는 국방부의 TRICARE와 다른 체계입니다. 진짜 응급 상황에서는 가장 가까운 응급 진료를 먼저 받으십시오. VA에는 자격 있는 응급 진료에 대한 상환과 통지 규칙이 있고, 자격 계산이 응급 치료를 늦춰서는 안 됩니다.
+
+### 2. MISSION 법의 지역사회 진료
+2018년 MISSION 법은 VA가 환자를 비 VA 지역사회 기관으로 보내는 규칙을 다시 썼고, 현재 중심 조문은 38 U.S.C. 제1703조입니다. 요점은 셋입니다. 첫째, 지역사회 진료는 원하는 외부 진료소를 자유롭게 고르는 것이 아니라, VA가 자격을 판정하고 승인·예약해야 하며, 승인 없는 지역사회 진료는 지급되지 않을 수 있습니다. 둘째, 자격 상황에는 VA가 필요한 서비스를 제공하지 못하는 경우, 거주 주·지역에 VA 시설이 없는 경우, 접근 기준(access standards)에 해당하는 경우가 포함됩니다. 셋째, 38 C.F.R. 제17.4040조의 접근 기준은 평균 운전 시간으로 일차 진료와 정신건강은 30분, 전문 진료는 60분이고, 예약 대기 시간으로 일차 진료와 정신건강은 20일, 전문 진료는 28일이며, VA가 이를 충족하지 못하면 재향군인은 지역사회 진료를 선택할 수 있습니다(검산: 전문 운전 기준은 일차의 2배, 60 나누기 30은 2; 전문 대기는 일차보다 8일 김, 28 빼기 20은 8). MISSION 법은 또 자격 있는 지역사회 네트워크를 통한 긴급 진료(urgent care) 혜택을 VA 체계에 넣었으며, 네트워크 내 이용과 사전 확인 요건은 현행 VA 안내를 따릅니다.
+
+### 3. 캘리포니아 연결
+세 층으로 봅니다. 시설: 캘리포니아 안의 VA 의료센터와 진료소는 연방 VHA 체계에 속하고, 등록·우선순위 그룹·지역사회 진료 승인은 모두 연방 VA 규칙을 따르며, 캘리포니아 주법이 연방 자격을 바꾸지 않습니다. 주 층 지원: 캘리포니아 재향군인부(CalVet)는 주 기관으로, 주립 재향군인 홈(Veterans Homes of California)과 주 층 복지 상담을 맡으며, 연방 VA 의료 자격을 발급하지 않습니다. 카운티 입구: 각 카운티의 카운티 재향군인 서비스관(CVSO)은 VA 복지와 의료 등록 신청의 준비와 제출을 무료로 돕고, 캘리포니아 재향군인의 통상적인 첫 방문처입니다. 실무 순서는 먼저 CVSO를 통하거나 VA에 직접 등록하고, 등록과 우선순위 그룹이 정해진 뒤에야 VA 내 진료나 지역사회 진료 승인을 논하는 것입니다.
+
+개인 학습 노트이며 의료 자문이 아닙니다. (初译待校)
+
+## Tiếng Việt (初译待校)
+
+**Chăm sóc sức khỏe cựu chiến binh: hệ thống VA, chăm sóc cộng đồng theo Đạo luật MISSION và quy định California.** Ghi chép học tập về luật y tế. Chỉ bàn điều kiện, ghi danh và quy tắc chăm sóc cộng đồng trong hệ thống Bộ Cựu chiến binh (VA), không có hướng dẫn lâm sàng, không có liều thuốc hay thông số điều trị. Khung liên bang theo Title 38, U.S. Code, VA MISSION Act 2018 (Pub. L. 115-182) và tiêu chuẩn tiếp cận tại 38 C.F.R. mục 17.4040; lớp California theo hướng dẫn của CalVet và nhân viên dịch vụ cựu chiến binh cấp hạt.
+
+### 1. Một hệ thống liên bang riêng; điều kiện đi trước chăm sóc
+Chăm sóc của VA, do Veterans Health Administration (VHA) vận hành, là hệ thống liên bang riêng, song song với Medicare, Medicaid và bảo hiểm thương mại: một hệ thống cung cấp chăm sóc dựa trên bệnh viện và phòng khám của chính VA, vào bằng ghi danh, chứ không phải thẻ hoàn tiền dùng ở mọi nơi. Theo 38 U.S.C. mục 1705 và các quy định liên quan, cựu chiến binh phải nộp đơn ghi danh, và VA quản lý theo các nhóm ưu tiên (priority groups) cân nhắc mức độ khuyết tật liên quan đến phục vụ, thu nhập và các tình trạng đặc biệt như Purple Heart hay cựu tù binh; mức khuyết tật liên quan đến phục vụ càng cao thì ưu tiên càng cao và chia sẻ chi phí càng thấp nói chung. Hai điểm cần sửa: chỉ có thân phận cựu chiến binh không đồng nghĩa tự động ghi danh; và chăm sóc VA khác hệ thống TRICARE của Bộ Quốc phòng. Trong cấp cứu thật sự, hãy đến cơ sở cấp cứu gần nhất trước; VA có quy tắc hoàn trả và thông báo cho chăm sóc cấp cứu đủ điều kiện, và việc tính điều kiện không bao giờ được làm chậm điều trị cấp cứu.
+
+### 2. Chăm sóc cộng đồng theo Đạo luật MISSION
+Đạo luật MISSION 2018 viết lại quy tắc VA gửi bệnh nhân tới nhà cung cấp cộng đồng ngoài VA, nay tập trung tại 38 U.S.C. mục 1703. Ba điểm quan trọng. Thứ nhất, chăm sóc cộng đồng không phải tự do chọn bất kỳ phòng khám ngoài nào: VA phải xác định đủ điều kiện, cho phép và xếp lịch, và chăm sóc cộng đồng chưa được phép có thể không được thanh toán. Thứ hai, các tình huống đủ điều kiện gồm VA không cung cấp dịch vụ cần thiết, không có cơ sở VA trong bang hay vùng lãnh thổ, và đạt các tiêu chuẩn tiếp cận (access standards). Thứ ba, tiêu chuẩn tại 38 C.F.R. mục 17.4040 dùng thời gian lái xe trung bình - 30 phút cho chăm sóc ban đầu và sức khỏe tâm thần, 60 phút cho chuyên khoa - và thời gian chờ hẹn - 20 ngày cho ban đầu và sức khỏe tâm thần, 28 ngày cho chuyên khoa; khi VA không đáp ứng được, cựu chiến binh có thể chọn chăm sóc cộng đồng (kiểm tính: tiêu chuẩn lái xe chuyên khoa gấp đôi ban đầu, 60 chia 30 bằng 2; chờ chuyên khoa dài hơn 8 ngày, 28 trừ 20 bằng 8). Đạo luật MISSION cũng đưa phúc lợi chăm sóc khẩn cấp (urgent care) qua các mạng cộng đồng đủ điều kiện vào hệ thống VA, với yêu cầu trong mạng và xác nhận theo hướng dẫn VA hiện hành.
+
+### 3. Mối nối California
+Ba lớp. Cơ sở: các trung tâm y tế và phòng khám VA tại California thuộc hệ thống liên bang VHA; ghi danh, nhóm ưu tiên và cho phép chăm sóc cộng đồng đều theo quy tắc liên bang VA, và luật California không thay đổi điều kiện liên bang. Hỗ trợ của bang: California Department of Veterans Affairs (CalVet) là cơ quan bang điều hành các Veterans Homes of California và tư vấn phúc lợi cấp bang; nó không cấp điều kiện y tế liên bang của VA. Điểm vào cấp hạt: County Veteran Service Officers (CVSO) ở mỗi hạt giúp miễn phí việc chuẩn bị và nộp đơn phúc lợi và ghi danh y tế VA, và là điểm đến đầu tiên thường dùng tại California. Trình tự thực tế: ghi danh trước (qua CVSO hoặc trực tiếp với VA), rồi mới bàn chăm sóc trong VA hay cho phép chăm sóc cộng đồng.
+
+Ghi chép học tập cá nhân, không phải tư vấn y tế. (初译待校)
+
+## हिन्दी (初译待校)
+
+**भूतपूर्व सैनिक स्वास्थ्य देखभाल: VA प्रणाली, MISSION अधिनियम की सामुदायिक देखभाल और California नियम।** यह स्वास्थ्य-कानून अध्ययन नोट है। यह केवल Department of Veterans Affairs (VA) प्रणाली की पात्रता, नामांकन और सामुदायिक देखभाल नियम बताता है; कोई नैदानिक निर्देश, दवा की खुराक या उपचार पैरामीटर नहीं दिए गए हैं। संघीय ढाँचा Title 38, U.S. Code, VA MISSION Act 2018 (Pub. L. 115-182) और 38 C.F.R. धारा 17.4040 के पहुँच मानकों पर आधारित है; California परत CalVet और काउंटी वेटरन सेवा अधिकारियों के मार्गदर्शन पर आधारित है।
+
+### 1. एक अलग संघीय प्रणाली; देखभाल से पहले पात्रता
+Veterans Health Administration (VHA) द्वारा संचालित VA स्वास्थ्य देखभाल Medicare, Medicaid और वाणिज्यिक बीमा के समानांतर एक अलग संघीय प्रणाली है: अपने अस्पतालों और क्लीनिकों पर आधारित देखभाल प्रणाली, जिसमें प्रवेश नामांकन से होता है, यह हर जगह चलने वाला प्रतिपूर्ति कार्ड नहीं है। 38 U.S.C. धारा 1705 और संबंधित प्रावधानों के तहत भूतपूर्व सैनिक को नामांकन के लिए आवेदन करना होता है, और VA नामांकितों को प्राथमिकता समूहों (priority groups) में रखता है, जिनमें सेवा-संबंधी विकलांगता रेटिंग, आय और Purple Heart या पूर्व युद्धबंदी जैसी विशेष स्थितियाँ तौली जाती हैं; सेवा-संबंधी रेटिंग जितनी ऊँची, आमतौर पर प्राथमिकता उतनी ऊँची और लागत-साझेदारी उतनी कम। दो सुधार: केवल भूतपूर्व सैनिक होना स्वतः नामांकन नहीं है; और VA देखभाल रक्षा विभाग के TRICARE से अलग प्रणाली है। वास्तविक आपात स्थिति में पहले निकटतम आपात देखभाल लें; योग्य आपात देखभाल के लिए VA के प्रतिपूर्ति और सूचना नियम हैं, और पात्रता की गणना आपात उपचार में देरी नहीं करनी चाहिए।
+
+### 2. MISSION अधिनियम के तहत सामुदायिक देखभाल
+MISSION Act 2018 ने VA के गैर-VA सामुदायिक प्रदाताओं के पास रोगी भेजने के नियम फिर से लिखे, जो अब 38 U.S.C. धारा 1703 पर केंद्रित हैं। तीन बातें महत्वपूर्ण हैं। पहला, सामुदायिक देखभाल किसी भी बाहरी क्लीनिक की स्वतंत्र पसंद नहीं है: VA को पात्रता तय करनी होती है और देखभाल को अधिकृत व निर्धारित करना होता है, और अनधिकृत सामुदायिक देखभाल का भुगतान नहीं हो सकता। दूसरा, पात्रता स्थितियों में VA का आवश्यक सेवा न देना, सैनिक के राज्य या क्षेत्र में VA सुविधा न होना, और पहुँच मानकों (access standards) को पूरा करना शामिल है। तीसरा, 38 C.F.R. धारा 17.4040 के पहुँच मानक औसत ड्राइव समय - प्राथमिक और मानसिक स्वास्थ्य के लिए 30 मिनट, विशेषज्ञ के लिए 60 मिनट - और नियुक्ति प्रतीक्षा समय - प्राथमिक और मानसिक स्वास्थ्य के लिए 20 दिन, विशेषज्ञ के लिए 28 दिन - का उपयोग करते हैं; जब VA इन्हें पूरा न कर सके तो भूतपूर्व सैनिक सामुदायिक देखभाल चुन सकता है (जाँच: विशेषज्ञ ड्राइव मानक प्राथमिक का दोगुना है, 60 भाग 30 बराबर 2; विशेषज्ञ प्रतीक्षा 8 दिन अधिक है, 28 ऋण 20 बराबर 8)। MISSION Act ने योग्य सामुदायिक नेटवर्कों के माध्यम से urgent care लाभ भी VA प्रणाली में जोड़ा, जिसके नेटवर्क-भीतर और पुष्टि नियम वर्तमान VA मार्गदर्शन के अनुसार हैं।
+
+### 3. California का संबंध
+तीन परतें। सुविधाएँ: California के VA चिकित्सा केंद्र और क्लीनिक संघीय VHA प्रणाली के हैं; नामांकन, प्राथमिकता समूह और सामुदायिक देखभाल प्राधिकरण सभी संघीय VA नियमों के अनुसार होते हैं, और California कानून संघीय पात्रता नहीं बदलता। राज्य सहायता: California Department of Veterans Affairs (CalVet) एक राज्य एजेंसी है जो Veterans Homes of California और राज्य-स्तरीय लाभ परामर्श चलाती है; यह संघीय VA स्वास्थ्य पात्रता नहीं देती। काउंटी प्रवेश बिंदु: प्रत्येक काउंटी के County Veteran Service Officers (CVSO) VA लाभों और स्वास्थ्य नामांकन आवेदनों की तैयारी और दाखिले में मुफ्त मदद करते हैं, और California में यही सामान्य पहला पड़ाव है। व्यावहारिक क्रम: पहले नामांकन करें (CVSO के माध्यम से या सीधे VA से), फिर VA के भीतर देखभाल या सामुदायिक देखभाल प्राधिकरण की बात करें।
+
+व्यक्तिगत अध्ययन नोट है, चिकित्सा सलाह नहीं है। (初译待校)
