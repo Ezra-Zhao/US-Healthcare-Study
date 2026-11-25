@@ -50,3 +50,22 @@ Việc hiến giác mạc và mô mắt được quản lý theo ba lớp. Sự 
 ---
 
 *个人学习笔记，不构成法律或医疗建议。框架来源：FDA《联邦法规汇编》第 21 编 Part 1271（HCT/P 与供者资格）、《国家器官移植法》42 U.S.C. 第 274 条、加州《健康与安全法典》第 7150 条起的 UAGA 文本与 EBAA 眼库认证及医学标准的公开口径；条号以官方当期文本为准。*
+
+
+---
+
+## 补译增量（2026-11-25 07:55轮）
+
+### 한국어 (초역 · 初译待校)
+
+① 병원 일상 의뢰와 사망 후 시간창: 사망이 병원에서 발생하면 병원은 연방·주의 일상 의뢰 관행에 따라 잠재 기증자 정보를 장기조달기구와 안은행에 넘기는데, 안구 조직 채취에는 사망 후 시간창이 있어 소통과 의뢰가 늦어지면 조직이 그대로 사용 가능성을 잃는다. 이것이 안은행 절차에서 가장 현실적인 시간선이다. ② 캘리포니아에는 각막 전용 면허 제도가 따로 없고, 안은행의 조직기관 허가와 FDA 등록, EBAA 인증이 함께 실제 감독 구조를 이룬다.
+
+### Tiếng Việt (dịch sơ bộ · 初译待校)
+
+① Chuyển tuyến thường quy tại bệnh viện và cửa sổ thời gian sau tử vong: khi tử vong xảy ra tại bệnh viện, bệnh viện theo thông lệ chuyển tuyến liên bang và bang sẽ chuyển thông tin người hiến tiềm năng cho tổ chức thu nhận tạng và ngân hàng mắt; việc lấy mô mắt có cửa sổ thời gian sau tử vong, nên trao đổi và chuyển tuyến chậm trễ sẽ trực tiếp làm mô mất khả năng sử dụng — đây là đường thời gian thực tế nhất trong quy trình ngân hàng mắt. ② California không lập riêng một chế độ giấy phép chuyên cho giác mạc; giấy phép tổ chức mô của ngân hàng mắt cùng đăng ký FDA và chứng nhận EBAA hợp thành bức tranh giám sát thực tế.
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+
+① अस्पताल की नियमित referral प्रक्रिया और मृत्यु-पश्चात समय-खिड़की: मृत्यु अस्पताल में हो तो अस्पताल संघीय व राज्य की नियमित referral प्रथा के अनुसार संभावित दाता की जानकारी organ procurement organization और नेत्र-बैंक को भेजता है; नेत्र-ऊतक लेने की मृत्यु-पश्चात समय-खिड़की होती है, इसलिए संचार व referral में देरी से ऊतक सीधे उपयोग-योग्यता खो देता है — यह नेत्र-बैंक प्रक्रिया की सबसे व्यावहारिक समय-रेखा है। ② California में कॉर्निया के लिए अलग विशेष लाइसेंस व्यवस्था नहीं है; नेत्र-बैंक का tissue establishment लाइसेंस, FDA पंजीकरण और EBAA प्रमाणन मिलकर वास्तविक नियामक ढाँचा बनाते हैं।
+
+> 补译注记（2026-11-25 07:55轮）：韩／越／印三语各补 2 项细节增量至与中文主文对齐——①死亡发生在医院时按联邦与州常规转介口径把潜在供者信息转给器官获取组织与眼库、眼组织取材有死亡后时间窗、沟通与转介拖延会直接让组织失去可用性；②加州没有另设角膜专门执照制度，眼库的组织机构许可与 FDA 注册、EBAA 认证共同构成实际监管拼图。增量只取中文主文已有事实，不新增数字与法条；正文原有段落未改动。
