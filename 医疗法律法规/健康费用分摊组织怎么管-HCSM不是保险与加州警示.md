@@ -185,3 +185,20 @@ Tổ chức chia sẻ chi phí y tế (health care sharing ministry, HCSM) là m
 - 한국어: 이 글은 개인 학습 노트이며 의료 자문이 아니고, 법률이나 세무 자문도 아닙니다. 분담 조직 가입이나 보험 구조 변경 전에 해당 조직의 현행 지침과 주 규제 기관 및 IRS/FTB의 현행 기준을 따르고 면허 있는 전문가와 상의하십시오. 응급 상황에서는 911에 전화하십시오. (초역 · 初译待校)
 - Tiếng Việt: Bài viết này là ghi chép học tập cá nhân, không phải tư vấn y tế, cũng không phải tư vấn pháp lý hay thuế; trước khi tham gia bất kỳ tổ chức chia sẻ nào hoặc thay đổi cơ chế bảo hiểm, hãy căn cứ vào bản hướng dẫn hiện hành của tổ chức, quy định hiện hành của cơ quan quản lý bang và IRS/FTB, đồng thời tham vấn chuyên gia được cấp phép, và gọi 911 khi cấp cứu. (bản dịch sơ bộ · 初译待校)
 - हिन्दी: यह लेख व्यक्तिगत अध्ययन नोट है, चिकित्सा सलाह नहीं है, और न ही कानूनी या कर सलाह; किसी बँटवारा संगठन से जुड़ने या बीमा व्यवस्था बदलने से पहले संगठन की वर्तमान मार्गदर्शिका, राज्य नियामकों और IRS/FTB के वर्तमान मानदंडों पर निर्भर रहें और लाइसेंस प्राप्त पेशेवरों से परामर्श करें, और आपात स्थिति में 911 पर कॉल करें। (प्रारंभिक अनुवाद · 初译待校)
+
+
+## 补译增量（2026-11-24 22:55轮）
+
+本节只译中文主文已有事实两项，不新增数字与法条：其一，HCSM 在法律上不是保险，没有保证支付的义务，不在州保险监管的偿付能力体系之内，也没有任何州保证基金为它兜底；其二，加州保险部（CDI）的公开口径是警示而非认可，这类组织不是保险公司，不像保险公司那样受 CDI 监管，不保证支付任何医疗费用，且联邦税法上的成员豁免不自动等于加州州级最低必要覆盖要求下的豁免，须以州特许经营税委员会（FTB）的当期指引核对。
+
+### 한국어 (초역 · 初译待校)
+
+건강비용분담조직(HCSM)은 법적으로 보험이 아니며 지급을 보장할 의무가 없고, 주 보험 감독의 지급능력 체계 안에 있지 않으며, 어떤 주 보증기금도 이를 대신 책임지지 않습니다. 또 캘리포니아 보험국(CDI)의 공개 입장은 인정이 아니라 경고로, 이런 조직은 보험회사가 아니고 보험회사처럼 CDI의 감독을 받지 않으며 어떤 의료비의 지급도 보장하지 않습니다. 그리고 연방 세법상의 회원 면제가 캘리포니아 주 차원의 최소 필수 보장 요건 아래의 면제와 자동으로 같아지는 것은 아니므로, 주 프랜차이즈세무위원회(FTB)의 당시 지침으로 확인해야 합니다. (初译待校)
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+
+Tổ chức chia sẻ chi phí y tế (HCSM) về mặt pháp lý không phải là bảo hiểm: không có nghĩa vụ bảo đảm chi trả, không nằm trong hệ thống giám sát khả năng thanh toán của cơ quan quản lý bảo hiểm bang, và không có quỹ bảo đảm bang nào đứng ra gánh thay. Ngoài ra, lập trường công khai của Sở Bảo hiểm California (CDI) là cảnh báo chứ không phải công nhận: tổ chức loại này không phải công ty bảo hiểm, không chịu sự quản lý của CDI như công ty bảo hiểm, và không bảo đảm chi trả bất kỳ chi phí y tế nào; đồng thời, quyền miễn trừ thành viên trong luật thuế liên bang không tự động bằng với quyền miễn trừ theo yêu cầu bao phủ tối thiểu cấp bang của California, mà phải đối chiếu theo hướng dẫn hiện hành của Franchise Tax Board (FTB). (初译待校)
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+
+स्वास्थ्य लागत साझाकरण संगठन (HCSM) कानूनी रूप से बीमा नहीं है: इसकी भुगतान की गारंटी देने की कोई बाध्यता नहीं है, यह राज्य बीमा नियामक की शोधन-क्षमता व्यवस्था के भीतर नहीं है, और कोई राज्य गारंटी कोष इसके लिए जिम्मेदारी नहीं लेता। साथ ही, California Department of Insurance (CDI) का सार्वजनिक रुख मान्यता नहीं, चेतावनी है: इस प्रकार का संगठन बीमा कंपनी नहीं है, बीमा कंपनियों की तरह CDI द्वारा विनियमित नहीं है, और किसी चिकित्सा खर्च के भुगतान की गारंटी नहीं देता; और संघीय कर कानून की सदस्य छूट स्वतः California के राज्य-स्तरीय न्यूनतम आवश्यक कवरेज आवश्यकता के तहत छूट के बराबर नहीं होती, इसके लिए Franchise Tax Board (FTB) के वर्तमान मार्गदर्शन से जांच करनी होती है। (初译待校)
