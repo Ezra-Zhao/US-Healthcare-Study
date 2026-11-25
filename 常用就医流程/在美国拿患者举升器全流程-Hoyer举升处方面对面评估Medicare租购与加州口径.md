@@ -47,3 +47,23 @@ Thiết bị nâng bệnh nhân (patient lift, thường gọi là Hoyer lift) l
 ## 免责声明（六语）
 
 中文：个人学习笔记，不构成法律、税务或医疗建议。 / English: Study notes only; not legal, tax, or medical advice. / Español: Notas de estudio; no es asesoría legal, fiscal ni médica. (初译待校) / 한국어: 학습 노트이며 법률·세무·의료 조언이 아닙니다. (初译待校) / Tiếng Việt: Ghi chú học tập, không phải tư vấn pháp lý, thuế hay y tế. (初译待校) / हिन्दी: यह अध्ययन-टिप्पणी है, कानूनी सलाह नहीं। (初译待校)
+
+## 补译增量（2026-11-25 03:55轮）
+
+### 한국어 (초역, 원어민 감수 대기)
+
+첫 번째로 집에서 옮길 때는 두 번째 사람이 곁에 있는 것이 좋습니다. 조작자가 아직 익숙하지 않은 단계에서 환자 곁에 한 사람이 더 있으면, 슬링이 어긋나거나 환자 상태가 달라질 때 바로 대응할 수 있습니다. (初译待校)
+
+병 상태가 달라져 이동 방식이 바뀌어야 할 때는 스스로 판단해 방식을 바꾸지 말고, 치료팀으로 돌아가 다시 평가를 받으십시오. 이동 장애의 성격이 달라지면 리프트의 필요성, 슬링 선택, 임대와 구매의 결론까지 함께 달라질 수 있습니다. (初译待校)
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Ở lần di chuyển đầu tiên tại nhà, tốt nhất nên có thêm một người thứ hai bên cạnh. Khi người vận hành chưa quen tay, có thêm một người cạnh bệnh nhân sẽ giúp ứng phó ngay nếu đai bị lệch hoặc tình trạng bệnh nhân thay đổi. (初译待校)
+
+Khi tình trạng bệnh thay đổi khiến cách di chuyển phải thay đổi, đừng tự ý đổi cách làm; hãy quay lại nhóm điều trị để được đánh giá lại. Tính chất của trở ngại di chuyển thay đổi thì nhu cầu thiết bị nâng, lựa chọn đai, và cả kết luận thuê hay mua đều có thể thay đổi theo. (初译待校)
+
+### हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+घर पर पहले स्थानांतरण के समय दूसरा व्यक्ति साथ रहना बेहतर होता है। जब संचालक अभी अभ्यस्त न हुआ हो, तो रोगी के पास एक और व्यक्ति होने से स्लिंग खिसकने या रोगी की स्थिति बदलने पर तुरंत 대응 संभव होता है। (初译待校)
+
+जब रोग की स्थिति बदलने से स्थानांतरण का तरीका बदलना पड़े, तो स्वयं तरीका न बदलें; उपचार-दल के पास लौटकर पुनर्मूल्यांकन कराएँ। स्थानांतरण-बाधा का स्वरूप बदलने पर लिफ़्ट की आवश्यकता, स्लिंग का चुनाव और किराए बनाम खरीद का निष्कर्ष — सब साथ बदल सकते हैं। (初译待校)
