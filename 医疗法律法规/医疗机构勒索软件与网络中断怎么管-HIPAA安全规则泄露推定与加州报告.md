@@ -155,3 +155,20 @@ Nguồn: Quy tắc An ninh HIPAA tại 45 C.F.R. Phần 164, Tiểu phần C (c�
 
 ### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
 स्रोत: HIPAA Security Rule, 45 C.F.R. Part 164, Subpart C (धाराएँ 164.304, 164.308, 164.310, 164.312, 164.314, 164.316); Breach Notification Rule की धाराएँ 164.402, 164.404, 164.406 व 164.408; HHS की Fact Sheet: Ransomware and HIPAA (11 जुलाई 2016); Security Rule update का प्रस्ताव, 90 Fed. Reg. 898 (6 जनवरी 2025 — केवल प्रस्ताव, प्रभावी नहीं); OFAC के ransomware-संबंधित sanctions परामर्श और बहु-एजेंसी StopRansomware Guide; California Health and Safety Code की धारा 1280.15, CMIA (Civil Code धारा 56 से आगे) और Civil Code धारा 1798.82; और EMTALA, 42 U.S.C. § 1395dd। व्यक्तिगत अध्ययन नोट; कानूनी या चिकित्सा सलाह नहीं। इस लेख में कहीं भी किसी दवा की खुराक नहीं लिखी गई है। (प्रारंभिक अनुवाद · 初译待校)
+
+
+## 补译增量（2026-11-25 00:55轮）
+
+以下为中文主文已有事实的韩／越／印三语补译（初译待校），不新增事实。
+
+### 한국어 (초역, 교정 대기)
+
+① 유출 추정을 뒤집는 네 요소 평가: 랜섬웨어로 인한 암호화는 먼저 유출로 추정되며, 기관이 네 요소 위험 평가 — 보호 대상 건강정보의 성격과 범위, 무단 접근자, 정보가 실제로 취득 또는 열람되었는지, 위험이 완화되었는지 — 를 통해 유출이 아닐 확률이 높다는 점을 입증할 때에만 그 추정을 뒤집을 수 있습니다. ② 가용성 의무: HIPAA 보안 규칙은 전자 보호 건강정보의 기밀성, 무결성, 가용성을 함께 보호하므로, 시스템이 잠긴 기간 동안의 진료 지속 조치는 기술적 뒷정리가 아니라 규정 준수 의무의 일부입니다.
+
+### Tiếng Việt (bản dịch sơ bộ)
+
+① Đánh giá bốn yếu tố để lật lại giả định vi phạm: việc mã hóa do ransomware gây ra trước hết bị coi là vi phạm, và cơ quan chỉ lật lại được giả định đó khi chứng minh, qua đánh giá rủi ro bốn yếu tố — bản chất và phạm vi của thông tin sức khỏe được bảo vệ, người truy cập trái phép, thông tin có thực sự bị lấy hoặc xem hay không, và rủi ro đã được giảm nhẹ đến đâu — rằng khả năng không phải vi phạm là cao. ② Nghĩa vụ về tính sẵn sàng: Quy tắc Bảo mật HIPAA bảo vệ đồng thời tính bí mật, toàn vẹn và sẵn sàng của thông tin sức khỏe điện tử được bảo vệ, vì vậy các sắp xếp duy trì chăm sóc trong thời gian hệ thống bị khóa là một phần của nghĩa vụ tuân thủ, không phải việc dọn dẹp kỹ thuật.
+
+### हिन्दी (प्रारंभिक अनुवाद)
+
+① उल्लंघन अनुमान को पलटने का चार-कारक मूल्यांकन: रैंसमवेयर द्वारा किया गया एन्क्रिप्शन पहले उल्लंघन माना जाता है, और संस्था उस अनुमान को केवल तभी पलट सकती है जब चार-कारक जोखिम मूल्यांकन — संरक्षित स्वास्थ्य जानकारी की प्रकृति और दायरा, अनधिकृत व्यक्ति, जानकारी वास्तव में प्राप्त या देखी गई या नहीं, और जोखिम कितना कम हुआ — से यह सिद्ध हो कि उल्लंघन न होने की प्रबल संभावना है। ② उपलब्धता का दायित्व: HIPAA सुरक्षा नियम इलेक्ट्रॉनिक संरक्षित स्वास्थ्य जानकारी की गोपनीयता, अखंडता और उपलब्धता तीनों की रक्षा करता है, इसलिए प्रणाली बंद रहने के दौरान देखभाल जारी रखने की व्यवस्था तकनीकी सफ़ाई नहीं, अनुपालन दायित्व का भाग है।
