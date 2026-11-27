@@ -88,3 +88,23 @@ Cuối cùng, ba đường biên. Thứ nhất, thực phẩm bổ sung (supplem
 - 来源框架：FDA 非处方药标签与 Drug Facts 格式口径（21 CFR § 201.66 一带）与 FDA 的 OTC 专论改革公开说明（《CARES 法案》对 FDCA § 505G 的行政命令式专论框架）；柜台后销售的证件、登记与联邦购买上限按《Combat Methamphetamine Epidemic Act of 2005》公开口径；HSA/FSA 支付 OTC 无需处方按《CARES 法案》修订国内收入法典后的 IRS 公开口径；毒物控制热线 1-800-222-1222 为全美统一公开号码；膳食补充剂与药品的制度分界按 FDA 的 DSHEA 公开说明。
 - 算例（24 片装 9.60 美元、每片 0.40 美元；100 片装 30 美元、每片 0.30 美元；单价差 0.10 美元、相对小包装单价省 25%）已本地复算两遍一致；价格为教学示例、非实时行情。
 - 声明：个人学习笔记，不构成医疗建议。全文不涉及任何药物剂量与频次。
+
+
+## 补译增量（2026-11-27 08:55轮）
+
+> 本节为存量补译增量：只把上方中文主文里已有、值得再强调的细节，分别用韩语、越南语、印地语各补译两项，纯增量，不删改原文，不新增任何剂量、频次或治疗参数。选篇依据：本篇经 grep 实查尚无「补译增量」标记，且中文主文细节密度高（标签格式条文、毒物控制热线、单价算例、税优账户口径均可核查），适合做本轮补译样本。
+
+### 한국어 보충 (초역 · 初译待校)
+
+1. 라벨 형식의 법적 근거: OTC 상자의 Drug Facts는 FDA가 통일한 형식이며, 형식 요구는 21 CFR § 201.66 부근에 있습니다. 칸 순서는 전국 공통이라 한 번 익히면 어느 약국에서든 그대로 읽을 수 있고, 읽기 순서는 유효 성분과 경고란을 먼저 보는 것이 본문의 권고입니다.
+2. 긴급 상담 전화: 중독이나 잘못 삼킨 사고의 긴급 상담은 전미 독극물 관리 열선 1-800-222-1222로 걸고, 생명이 위태로운 증상이면 곧바로 911에 전화합니다. 이 번호들은 본문 넷째 절에 적힌 그대로이며, 미국 전역에서 통하는 공개 번호입니다. (초역 · 初译待校)
+
+### Bổ sung tiếng Việt (bản dịch sơ bộ · 初译待校)
+
+1. Ví dụ tính đơn giá trong thân bài: cùng một hoạt chất, cùng nhãn hiệu cửa hàng — gói 24 viên giá 9,60 đô la thì mỗi viên là 9,60 chia 24 bằng 0,40 đô la; gói 100 viên giá 30 đô la thì mỗi viên là 30 chia 100 bằng 0,30 đô la; chênh lệch mỗi viên là 0,10 đô la, tương đương tiết kiệm 25 phần trăm so với đơn giá gói nhỏ. Đây là giá minh họa cho việc dạy cách tính, không phải giá thị trường trực tiếp, và gói lớn chỉ tiết kiệm khi dùng hết trước ngày hết hạn.
+2. Tài khoản ưu đãi thuế: theo luật thuế liên bang hiện hành sau sửa đổi của đạo luật CARES, sản phẩm OTC có thể được thanh toán bằng tiền trong HSA và FSA mà không cần đơn thuốc; khi thanh toán hãy giữ lại hóa đơn để đối chiếu hoặc hoàn tiền sau. (bản dịch sơ bộ · 初译待校)
+
+### हिन्दी पूरक (प्रारंभिक अनुवाद · 初译待校)
+
+1. काउंटर के पीछे रखे उत्पादों का नियम: जिन उत्पादों में कुछ निश्चित decongestant घटक होते हैं, वे prescription के बिना मिलते हैं किंतु खुली शेल्फ़ पर नहीं रखे जाते; संघीय Combat Methamphetamine Epidemic Act के अंतर्गत खरीदते समय फ़ोटो पहचान-पत्र दिखाना, logbook में हस्ताक्षर करना पड़ता है और संघीय खरीद-सीमाएँ लागू होती हैं — ये विवरण मूल पाठ के पहले खंड में दिए गए हैं।
+2. Supplements दवा नहीं हैं: विटामिन व हर्बल जैसे dietary supplements DSHEA नामक अलग कानून के अंतर्गत चलते हैं, बाज़ार में आने से पहले FDA की प्रभावकारिता-स्वीकृति नहीं लेते, और उनकी लेबल-शैली Drug Facts से भिन्न होती है; इसलिए supplement वाली शेल्फ़ को दवा वाली शेल्फ़ समझकर न पढ़ें — यह सीमा मूल पाठ के चौथे खंड में दी गई है। (प्रारंभिक अनुवाद · 初译待校)
