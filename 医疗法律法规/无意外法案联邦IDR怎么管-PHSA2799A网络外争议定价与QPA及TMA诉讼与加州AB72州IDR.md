@@ -63,3 +63,16 @@ No Surprises Act के अंतर्गत संघीय स्वतंत
 ## 免责声明（六语）
 
 中文：个人学习笔记，不构成医疗建议。 / English: Study notes only; not medical advice. / Español: Notas de estudio; no es consejo médico. (初译待校) / 한국어: 학습 노트이며 의료 조언이 아닙니다. (初译待校) / Tiếng Việt: Ghi chú học tập, không phải tư vấn y tế. (初译待校) / हिन्दी: यह अध्ययन-टिप्पणी है, चिकित्सीय सलाह नहीं। (初译待校)
+
+## 补译增量（2026-11-26 18:55轮）
+
+> 本节为存量补译增量：纯增量只加不删、不新增数字法条剂量。韩／越／印三语各补中文主文已有而原译文摘要未展开的事实 2 组，译文段标初译待校。
+
+### 한국어 (初译待校)
+①기관 선택과 비용(원문 둘째 절): 인증된 IDR 기관은 양쪽이 함께 고르는 것이 원칙이며, 합의가 되지 않으면 HHS가 지정합니다. 그 뒤 양쪽이 최종 제안을 하나씩 기관에 제출하는데, 적격 지급액(QPA)과 법이 열거한 추가 요소에 대한 설명을 함께 붙입니다. 기관 비용 쪽은 패한 쪽이 부담하는 규칙을 따르며, 이 비용 규칙은 소송으로 바뀐 부분 중 하나라 금액은 CMS의 당시 공표를 기준으로 하고 본 글에서는 확정해 적지 않습니다. ②판단 순서와 두 갈래의 분리(원문 넷째 절): 판단 순서는 한 문장입니다. 먼저 플랜이 주 규제를 받는지 자가조달(self-funded)인지를 가리고, 그 다음에 궤도를 가립니다. 궤도를 잘못 골라 낸 신청은 그대로 되돌려보내집니다. 또 지상 구급차는 연방 IDR의 보호 목록에 들어 있지 않고, 무보험자와 자비 부담자의 견적과 분쟁은 선의 견적(good faith estimate)과 환자 분쟁 해결이라는 별도 갈래로 가므로, 이 글의 연방 IDR과 섞어 말하면 안 됩니다. (初译待校)
+
+### Tiếng Việt (初译待校)
+①Chọn tổ chức và chi phí (tiết hai của bản chính): tổ chức IDR được chứng nhận về nguyên tắc do hai bên cùng chọn; nếu không thống nhất được, HHS sẽ chỉ định. Sau đó mỗi bên nộp cho tổ chức một chào giá cuối cùng, kèm số tiền thanh toán đủ điều kiện (QPA) và phần giải thích về các yếu tố bổ sung mà luật liệt kê. Phía chi phí tổ chức đi theo quy tắc bên thua chịu, và quy tắc phí này là một trong những phần đã bị kiện tụng làm thay đổi, nên số tiền lấy theo công bố hiện hành của CMS và bài này không ghi cố định. ②Thứ tự phán đoán và tách hai đường (tiết bốn của bản chính): thứ tự chỉ có một câu — trước hết nhận diện chương trình là do bang quản lý hay tự tài trợ (self-funded), rồi mới nhận diện đường đi; đơn nộp nhầm đường sẽ bị trả lại trực tiếp. Ngoài ra, xe cứu thương mặt đất không nằm trong danh sách bảo vệ của IDR liên bang, còn ước tính và tranh chấp của người không bảo hiểm và người tự trả đi theo đường riêng là ước tính thiện chí (good faith estimate) và giải quyết tranh chấp của bệnh nhân, không được trộn với IDR liên bang trong bài này. (初译待校)
+
+### हिन्दी (初译待校)
+①संस्था का चयन और शुल्क (मूल पाठ का खंड दो): प्रमाणित IDR संस्था सिद्धांततः दोनों पक्ष मिलकर चुनते हैं; सहमति न बने तो HHS नियुक्त करता है। उसके बाद दोनों पक्ष संस्था को एक-एक अंतिम प्रस्ताव देते हैं, जिसके साथ अर्ह भुगतान राशि (QPA) और कानून में गिनाए गए अतिरिक्त कारकों का स्पष्टीकरण जुड़ा होता है। संस्था-शुल्क वाला पक्ष हारने वाले पक्ष के वहन करने के नियम से चलता है, और यह शुल्क-नियम मुकदमों से बदले गए भागों में से एक है, इसलिए राशि CMS की तत्कालीन घोषणा के अनुसार होगी और यहाँ निश्चित नहीं लिखी गई है। ②निर्णय का क्रम और दो राहों का अलगाव (मूल पाठ का खंड चार): क्रम केवल एक वाक्य है — पहले पहचानें कि योजना राज्य-नियंत्रित है या स्व-वित्तपोषित (self-funded), फिर राह पहचानें; गलत राह पर दिया गया आवेदन सीधे लौटा दिया जाता है। साथ ही, ज़मीनी एम्बुलेंस संघीय IDR की संरक्षण सूची में नहीं है, और बिना बीमा वालों व स्वयं भुगतान करने वालों का अनुमान व विवाद सद्भावना अनुमान (good faith estimate) और रोगी विवाद समाधान वाली अलग राह से जाता है, इसलिए इन्हें इस टिप्पणी के संघीय IDR के साथ न मिलाएँ। (初译待校)

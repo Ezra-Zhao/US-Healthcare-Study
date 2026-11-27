@@ -68,3 +68,16 @@ Neo chẩn đoán gồm hai lớp: tiêu chuẩn đồng thuận chuyên gia qu�
 ## 免责声明（六语）
 
 中文：个人学习笔记，不构成医疗建议。 / English: Study notes only; not medical advice. / Español: Notas de estudio; no es consejo médico. (初译待校) / 한국어: 학습 노트이며 의료 조언이 아닙니다. (初译待校) / Tiếng Việt: Ghi chú học tập, không phải tư vấn y tế. (初译待校) / हिन्दी: यह अध्ययन-टिप्पणी है, चिकित्सीय सलाह नहीं। (初译待校)
+
+## 补译增量（2026-11-26 18:55轮）
+
+> 本节为存量补译增量：纯增量只加不删、不新增数字法条剂量。韩／越／印三语各补中文主文已有而原译文摘要未展开的事实 2 组，译文段标初译待校。
+
+### 한국어 (初译待校)
+①복기 세 가지(원문 여섯째 절): 첫째, 도파민 길항제 계열 약물을 시작·증량·교체한 뒤 첫 2주 동안은 체온, 근긴장, 의식과 CK를 능동적 순찰 항목에 넣고, 전조 징후가 나타나면 네 가지 징후가 다 모이기를 기다리지 말고 먼저 중단하고 평가합니다. 둘째, 전체 복용 약 목록이 진료과를 넘어 보이게 해야 하며, 항구토제와 위장관 운동 촉진제 계열 안에 있는 도파민 길항제가 가장 쉽게 누락됩니다. 셋째, 퇴원 교육에서 이 병력을 분명히 알려야 합니다. 환자는 이후 어느 기관에서 진료를 받든 «항정신병약으로 NMS를 겪었다»고 스스로 보고해야 하고, 같은 계열 약물의 재개는 반드시 전문가가 결정합니다. ②두 가지 경계(원문 넷째·다섯째 절): 긴장증(catatonia)은 NMS와 그림이 겹치고 처치에도 겹치는 부분이 있어 정신과와 중환자 팀이 함께 판단하는 전문 영역입니다. 그리고 파킨슨병 환자가 장기 복용하던 도파민성 약물을 갑자기 중단해 유발된 경우에는 처치 방향이 반대입니다. 원인 약물을 끊는 것이 아니라, 그 계열 약물을 다시 복원할지를 전문가가 판단합니다. (初译待校)
+
+### Tiếng Việt (初译待校)
+①Ba điểm rút kinh nghiệm (tiết sáu của bản chính): thứ nhất, trong hai tuần đầu sau khi bắt đầu, tăng liều hoặc đổi thuốc thuộc nhóm đối kháng dopamine, hãy đưa thân nhiệt, trương lực cơ, ý thức và CK vào danh mục tuần tra chủ động; khi dấu hiệu tiền triệu xuất hiện, hãy ngừng thuốc và đánh giá trước, không chờ đủ bộ bốn dấu hiệu. Thứ hai, danh sách thuốc đầy đủ phải hiển thị xuyên khoa, và thuốc đối kháng dopamine nằm trong nhóm chống nôn và nhóm tăng nhu động dạ dày ruột là thứ dễ bị bỏ sót nhất. Thứ ba, giáo dục khi xuất viện phải nói rõ đoạn bệnh sử này: từ nay người bệnh đến khám ở bất kỳ cơ sở nào cũng phải chủ động báo «tôi từng bị NMS do thuốc chống loạn thần», và việc khởi động lại thuốc cùng nhóm phải do chuyên khoa quyết định. ②Hai ranh giới (tiết bốn và tiết năm của bản chính): trạng thái căng trương lực (catatonia) chồng lấp bệnh cảnh với NMS và có phần giao nhau trong xử trí, thuộc ô chuyên khoa do tâm thần và hồi sức cùng phán đoán; và nếu bệnh được kích hoạt bởi việc ngừng đột ngột thuốc dopaminergic dùng lâu dài ở người bệnh Parkinson, hướng xử trí sẽ ngược lại — không phải ngừng thuốc gây bệnh, mà là chuyên khoa phán đoán việc khôi phục lại nhóm thuốc đó. (初译待校)
+
+### हिन्दी (初译待校)
+①पुनरावलोकन के तीन बिंदु (मूल पाठ का खंड छह): पहला, dopamine-प्रतिपक्षी वर्ग की दवा शुरू करने, बढ़ाने या बदलने के बाद के पहले दो हफ़्तों में तापमान, पेशी-तनाव, चेतना और CK को सक्रिय निगरानी सूची में रखें; पूर्व-संकेत दिखते ही चारों चिह्नों के पूरा होने की प्रतीक्षा किए बिना पहले दवा रोककर मूल्यांकन करें। दूसरा, पूरी दवा-सूची सभी विभागों को दिखनी चाहिए, और मतलीरोधी व जठर-गतिशीलता वर्गों में छिपे dopamine-प्रतिपक्षी सबसे आसानी से छूट जाते हैं। तीसरा, छुट्टी-शिक्षा में यह इतिहास स्पष्ट बताएँ: रोगी आगे किसी भी संस्था में जाए तो स्वयं बताए कि «मुझे मनोविकाररोधी दवा से NMS हुआ था», और उसी वर्ग की दवा फिर शुरू करना विशेषज्ञ का ही निर्णय होगा। ②दो सीमाएँ (मूल पाठ के खंड चार व पाँच): catatonia की तस्वीर NMS से overlap करती है और प्रबंधन में भी साझा भाग है, यह मनोचिकित्सा व गहन-देखभाल टीम के संयुक्त निर्णय का विशेषज्ञ क्षेत्र है; और यदि Parkinson रोगी की लंबे समय से चल रही dopaminergic दवा के अचानक बंद होने से यह स्थिति उत्पन्न हुई हो, तो प्रबंधन की दिशा उल्टी होती है — कारणभूत वर्ग को बंद करना नहीं, बल्कि उस वर्ग की दवा बहाल करने का निर्णय विशेषज्ञ लेता है। (初译待校)
