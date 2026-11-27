@@ -155,3 +155,19 @@ Nguồn: Sổ tay Thí sinh NCLEX hiện hành của NCSBN (hỗ trợ chỉ khi
 
 ### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
 स्रोत: NCSBN का वर्तमान NCLEX Candidate Bulletin (accommodations केवल jurisdiction regulator के authorization से, approval के ATT पर दर्ज होने के बाद scheduling, extra-time के स्तर और Accommodations Coordinator मार्ग) और NCSBN का सार्वजनिक परीक्षा मार्गदर्शन; Pearson VUE की NCLEX candidate services और प्रकाशित comfort aid list; ADA का परीक्षाओं संबंधी सामान्य ढाँचा; और California Board of Registered Nursing का सार्वजनिक application guidance (accommodation review से processing लंबा हो सकता है; RN BRN के पास, PN BVNPT के पास)। Accommodations के प्रकार, दस्तावेज़ सूचियाँ और ATT windows jurisdiction के अनुसार अलग हैं और बदलते हैं; आवेदन के समय jurisdiction का वर्तमान पाठ ही मान्य है। ये व्यक्तिगत अध्ययन नोट्स हैं — चिकित्सा, आवेदन या कानूनी सलाह नहीं। (प्रारंभिक अनुवाद · 初译待校)
+
+---
+
+## 补译增量（2026-11-27 14:05 补跑轮 · 初译待校）
+
+### 한국어 (초역 · 初译待校)
+1. 시험 편의의 승인권은 응시자가 면허를 구하는 관할지의 간호 규제 기관에 있습니다. NCLEX를 개발하는 NCSBN은 개인의 편의를 승인하지 않고, 시험 대행사 Pearson VUE는 이미 승인된 배치만 집행할 뿐 새로 승인할 수 없습니다. 편의는 해당 기관의 인가가 있을 때만 제공되며, 승인 내용이 시험 인가(ATT)에 반영되어야 합니다.
+2. 법적 기준은 진단명이 아니라 기능 제한입니다. 미국 장애인법(ADA) 아래에서 진단이 있다는 사실만으로 자동 승인이 되지 않으며, 위원회는 제출 문서가 기능 제한과 요청한 배치를 서로 연결하는지를 봅니다. 편의는 합격 기준을 낮추지 않고 시간·시험실 같은 응시 조건만 바꿉니다. (초역·待校)
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+1. Quyền phê duyệt hỗ trợ thi thuộc về cơ quan quản lý điều dưỡng của pháp vực nơi thí sinh xin cấp phép. NCSBN — đơn vị phát triển NCLEX — không phê duyệt hỗ trợ cho cá nhân, và Pearson VUE, đơn vị tổ chức thi, chỉ thực thi những sắp xếp đã được duyệt chứ không thể duyệt mới. Hỗ trợ chỉ được cung cấp khi có ủy quyền của cơ quan đó và nội dung phê duyệt phải được thể hiện trong giấy ủy quyền dự thi (ATT).
+2. Chuẩn pháp lý là hạn chế chức năng chứ không phải tên chẩn đoán: theo Đạo luật Người khuyết tật Hoa Kỳ (ADA), chỉ có chẩn đoán không đồng nghĩa tự động được duyệt; hội đồng xét xem hồ sơ có nối được hạn chế chức năng với hỗ trợ được xin hay không. Hỗ trợ không hạ thấp tiêu chuẩn đạt, chỉ thay đổi điều kiện thi như thời gian và bố trí phòng. (bản dịch sơ bộ·待校)
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+1. परीक्षा accommodations की मंज़ूरी का अधिकार उस jurisdiction के nursing regulatory body के पास है जहाँ candidate licensure चाहता है। NCLEX विकसित करने वाला NCSBN किसी व्यक्ति की accommodations approve नहीं करता, और परीक्षा vendor Pearson VUE केवल पहले से approved व्यवस्थाएँ ही लागू करता है, नई मंज़ूरी नहीं दे सकता। Accommodations केवल उसी संस्था के authorization से मिलती हैं और मंज़ूरी की सामग्री परीक्षा-प्राधिकार (ATT) में दर्ज होनी चाहिए।
+2. कानूनी मानक diagnosis का नाम नहीं, functional limitation है: Americans with Disabilities Act (ADA) के तहत केवल diagnosis होने से approval अपने आप नहीं मिलता; board यह देखता है कि documentation limitation को माँगी गई व्यवस्था से जोड़ता है या नहीं। Accommodations passing standard नहीं घटातीं, केवल समय और कक्ष जैसी परीक्षा-शर्तें बदलती हैं। (प्रारंभिक अनुवाद·待校)
