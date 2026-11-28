@@ -204,3 +204,18 @@ California पर एक पंक्ति: California की वाणिज�
 *개인 학습 노트이며 의료 자문이 아닙니다. 배뇨 막힘, 심해지는 혈뇨, 뼈 통증이 있으면 바로 진료를 받으십시오. 응급 상황에서는 911에 전화하십시오. (初译待校)*
 *Ghi chú học tập cá nhân, không phải tư vấn y tế. Hãy đi khám kịp thời khi tắc đường tiểu, tiểu máu nặng hơn hoặc đau xương; trong trường hợp khẩn cấp, hãy gọi 911. (初译待校)*
 *व्यक्तिगत अध्ययन नोट; चिकित्सा सलाह नहीं है। मूत्र अवरोध, बढ़ते मूत्र-रक्त या हड्डी के दर्द पर समय पर देखभाल लें; आपातकाल में 911 पर कॉल करें। (初译待校)*
+
+
+## 补译增量（2026-11-27 15:55轮）
+
+### 한국어 (초译待校)
+- USPSTF 2018 권고: 55세부터 69세까지 PSA 선별은 C등급으로 개인과 의사의 공동 결정 사항이며, 70세 이상은 D등급으로 정기 선별을 권하지 않는다.
+- Medicare Part B는 50세 이상 남성에게 연 1회 PSA 선별을 보장한다. 다만 상업보험의 무본인부담 강제 대상은 USPSTF A·B등급 예방서비스이므로 C·D등급인 PSA는 계획과 주법을 확인해야 한다.
+
+### Tiếng Việt (初译待校)
+- Khuyến nghị USPSTF 2018: sàng lọc PSA ở tuổi 55–69 là mức C — quyết định chung giữa cá nhân và bác sĩ; từ 70 tuổi trở lên là mức D — không khuyến nghị sàng lọc thường quy.
+- Medicare Part B bao trả sàng lọc PSA mỗi năm một lần cho nam giới từ 50 tuổi. Tuy nhiên, diện bắt buộc không chia sẻ chi phí của bảo hiểm thương mại chỉ gồm dịch vụ dự phòng mức A hoặc B của USPSTF, nên PSA mức C/D phải kiểm tra theo chương trình và luật bang.
+
+### हिन्दी (初译待校)
+- USPSTF 2018 सिफ़ारिश: 55–69 आयु में PSA जांच ग्रेड C है — व्यक्ति और चिकित्सक का साझा निर्णय; 70 वर्ष से ऊपर ग्रेड D है — नियमित जांच अनुशंसित नहीं।
+- Medicare Part B 50 वर्ष से अधिक पुरुषों के लिए वर्ष में एक बार PSA जांच कवर करता है। परंतु वाणिज्यिक बीमा में बिना लागत-साझेदारी की अनिवार्यता केवल USPSTF ग्रेड A या B सेवाओं पर है, इसलिए ग्रेड C/D PSA हेतु योजना व राज्य कानून जांचें।
