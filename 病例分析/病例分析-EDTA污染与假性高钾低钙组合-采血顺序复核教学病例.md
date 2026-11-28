@@ -75,3 +75,19 @@ Bước bốn, ghi chép và phòng tái diễn: kết quả đầu tiên, sai, 
 *면책: 개인 학습 노트이며 의료 자문이 아닙니다. 본 글의 증례는 전적으로 허구의 교육용 증례입니다. (초역·初译待校)*
 *Tuyên bố miễn trừ: ghi chú học tập cá nhân, không phải tư vấn y tế. Ca bệnh trong bài này hoàn toàn hư cấu và chỉ dùng cho giảng dạy. (Bản dịch sơ bộ·初译待校)*
 *अस्वीकरण: व्यक्तिगत अध्ययन नोट, चिकित्सा सलाह नहीं। इस नोट का मामला पूरी तरह काल्पनिक है और केवल शिक्षण हेतु है। (प्रारंभिक अनुवाद·初译待校)*
+
+## 补译增量（2026-11-28 01:55轮）
+
+> 本节为存量补译增量：只补译中文主文已有、韩／越／印三语旧译未展开的两项细节，不新增事实、不新增数字、不改原文。
+
+### 한국어 (初译待校)
+
+보충 두 가지입니다. 첫째, 네 번째 단계인 기록과 재발 방지입니다. 첫 번째 가짜 결과는 조용히 지워서는 안 됩니다. 검사실의 정정 보고서 절차를 밟아, 무효 사유와 재채혈 결과를 함께 기록하고, 위급치 통보와 되읽기(read-back) 기록도 함께 정정해야 합니다. 이 사건은 검체 품질 피드백으로 들어가, «튜브 간 붓기»와 «채혈 순서 오류»라는 두 유발 요인을 개별로 종결하지 말고 채혈 교육과 현장 점검으로 되돌려 보내야 합니다. 둘째, 캘리포니아 연계입니다. 검사실 검사와 결과 정정은 연방 CLIA(42 C.F.R. Part 493) 체계의 규율을 받으며, 캘리포니아에서 채혈을 누가 할 수 있는지는 CDPH LFS의 채혈기사(CPT) 등급을 봅니다. 재채혈을 누가 수행하는지, 그 사람의 자격 범위 안에 있는지도 마찬가지로 주 규칙 안에 들어와야 합니다. (初译待校)
+
+### Tiếng Việt (初译待校)
+
+Bổ sung hai chi tiết. Thứ nhất, bước thứ tư — lưu vết và phòng tái diễn: kết quả giả đầu tiên không được lặng lẽ xóa bỏ; phải đi qua quy trình báo cáo sửa đổi của phòng xét nghiệm, ghi lại cùng nhau lý do hủy bỏ và kết quả xét nghiệm lại, đồng thời sửa đổi đồng bộ hồ sơ thông báo và đọc lại (read-back) giá trị nguy cấp. Sự việc đi vào phản hồi chất lượng mẫu bệnh phẩm, đẩy hai yếu tố khởi phát — «đổ máu giữa các ống» và «sai thứ tự lấy máu» — trở lại đào tạo lấy mẫu và giám sát tại chỗ, thay vì khép lại như một ca lẻ. Thứ hai, liên kết California: xét nghiệm và sửa đổi kết quả nằm dưới khung liên bang CLIA (42 C.F.R. Part 493), và ở California, ai được phép lấy máu được xác định theo các cấp kỹ thuật viên lấy máu (CPT) của CDPH LFS — việc lấy máu lại do ai thực hiện và có nằm trong phạm vi chứng chỉ của người đó hay không cũng phải đặt trong quy định của tiểu bang. (初译待校)
+
+### हिन्दी (初译待校)
+
+दो पूरक विवरण। पहला, चौथा चरण — अभिलेख और पुनरावृत्ति की रोकथाम: पहला, झूठा परिणाम चुपचाप मिटाया नहीं जाना चाहिए। उसे प्रयोगशाला की संशोधित-रिपोर्ट प्रक्रिया से गुज़रना होता है, जिसमें रद्द करने का कारण और पुनः जाँच का परिणाम एक साथ दर्ज होते हैं, और गंभीर-मान की सूचना तथा read-back अभिलेख भी साथ-साथ संशोधित होते हैं; यह घटना नमूना-गुणवत्ता प्रतिक्रिया में जाती है, जो दो कारकों — «ट्यूबों के बीच उड़ेलना» और «ग़लत संग्रह क्रम» — को संग्रह प्रशिक्षण और स्थलीय पर्यवेक्षण की ओर लौटाती है, इसे एकमात्र मामला मानकर बंद नहीं करती। दूसरा, California का संबंध: प्रयोगशाला परीक्षण और परिणाम संशोधन संघीय CLIA ढाँचे (42 C.F.R. Part 493) के अधीन हैं, और California में रक्त कौन निकाल सकता है यह CDPH LFS के phlebotomy technician (CPT) स्तरों से तय होता है — पुनः संग्रह कौन करता है और क्या वह उसके प्रमाणित दायरे में है, यह भी राज्य के नियमों के भीतर ही होना चाहिए। (初译待校)
