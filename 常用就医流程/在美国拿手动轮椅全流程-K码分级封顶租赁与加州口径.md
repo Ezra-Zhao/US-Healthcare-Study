@@ -90,3 +90,20 @@ En el lado federal, alquilar o comprar parte de una estructura dura: las sillas 
 ## 免责声明
 
 个人学习笔记，不构成医疗建议。设备选型与适配以临床团队与治疗师评估为准，覆盖与租金以计划和付款方当期书面政策为准。
+
+
+## 补译增量（2026-11-27 20:55轮）
+
+本节只补中文主文已有、韩／越／印三语此前未在增量节单列的事实 2 项，纯增量、不新增数字法条、不写剂量，原文不删改。
+
+### 한국어 (初译待校)
+
+증보 하나(무게 등급선). 수동 휠체어의 K 코드 등급에서 무게선이 분명합니다. DME MAC 휠체어 베이스 정책 입장에서 사용자 체중이 250파운드를 넘으면 K0006 중형 등급에, 300파운드를 넘으면 K0007 특중형 등급에 대응하며, 두 선은 50파운드 차이입니다. 주문 전에 공급업체가 쓸 K 코드를 적어 두는 이유가 여기에 있습니다. 증보 둘(K0005 초경량의 평가 문턱). K0005 초경량 등급은 가벼운 것이 갖고 싶다는 이유만으로는 열리지 않습니다. 지급자는 대개 물리치료사, 작업치료사 또는 관련 전문성을 갖춘 의사가 수행한 전문 착좌·이동 평가로 장기 전일 사용과 조절 필요성을 입증할 것을 요구합니다. (初译待校)
+
+### Tiếng Việt (初译待校)
+
+Bổ sung một (đường cân nặng phân hạng). Trong phân hạng mã K của xe lăn tay, đường cân nặng rất rõ: theo chính sách đế xe lăn của DME MAC, người dùng nặng hơn 250 pound ứng với hạng nặng K0006, hơn 300 pound ứng với hạng siêu nặng K0007, hai mốc cách nhau 50 pound; đó là lý do phải yêu cầu nhà cung cấp ghi rõ mã K dự định dùng trước khi đặt hàng. Bổ sung hai (ngưỡng đánh giá của K0005 siêu nhẹ). Hạng siêu nhẹ K0005 không mở ra chỉ vì muốn nhẹ hơn; bên chi trả thường yêu cầu một đánh giá chuyên biệt về tư thế ngồi và di chuyển, do nhà vật lý trị liệu, nhà hoạt động trị liệu hoặc bác sĩ có chuyên môn liên quan thực hiện, để chứng minh nhu cầu dùng toàn thời gian dài hạn và nhu cầu điều chỉnh. (初译待校)
+
+### हिन्दी (初译待校)
+
+पूरक एक (भार-श्रेणी रेखा)। Manual wheelchair के K code स्तरों में भार-रेखा स्पष्ट है: DME MAC wheelchair base नीति के अनुसार 250 pound से अधिक भार K0006 heavy duty स्तर से और 300 pound से अधिक भार K0007 extra heavy duty स्तर से जुड़ता है, दोनों रेखाओं में 50 pound का अंतर है; इसीलिए आदेश से पहले supplier से प्रस्तावित K code लिखवाना चाहिए। पूरक दो (K0005 ultralightweight का मूल्यांकन द्वार)। K0005 ultralightweight स्तर केवल हल्का चाहने से नहीं मिलता; भुगतानकर्ता सामान्यतः physical therapist, occupational therapist या संबंधित विशेषज्ञता वाले चिकित्सक द्वारा की गई specialty seating and mobility evaluation माँगता है, जिससे दीर्घकालिक पूर्ण-दिन उपयोग और adjustability की आवश्यकता सिद्ध हो। (初译待校)
